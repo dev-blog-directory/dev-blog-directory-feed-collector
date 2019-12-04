@@ -7714,3 +7714,331 @@
   alias: meihuainfo.com
   url: http://www.meihuainfo.com/
   feedUrl: http://www.meihuainfo.com/?feed=rss2
+-
+  alias: mherman.org
+  url: http://mherman.org/
+  feedUrl: https://mherman.org/feed.xml
+-
+  alias: michaelcrump.net
+  url: https://michaelcrump.net/
+  feedUrl: https://www.michaelcrump.net/feed.xml
+-
+  alias: meyerweb.com/eric/thoughts
+  url: https://meyerweb.com/eric/thoughts/
+  feedUrl: https://meyerweb.com/eric/thoughts/rss2/full
+-
+  alias: mike.biful.co
+  url: https://mike.biful.co/
+  feedUrl: https://mike.biful.co/rss.xml
+-
+  alias: metsky.com
+  url: http://www.metsky.com/
+  feedUrl: http://www.metsky.com/feed.php?atom
+-
+  alias: michalkomorowski.com
+  url: https://www.michalkomorowski.com/
+  feedUrl: https://www.michalkomorowski.com/feeds/posts/default
+-
+  alias: mikemikina.com
+  url: http://mikemikina.com/
+  feedUrl: https://mikemikina.com/feed.xml
+-
+  alias: micropyramid.com/blog
+  url: https://micropyramid.com/blog/
+  feedUrl: https://www.micropyramid.com/rss.xml
+-
+  alias: mikeash.com/pyblog
+  url: https://www.mikeash.com/pyblog/
+  feedUrl: http://www.mikeash.com/pyblog/rss.py
+-
+  alias: minborgsjavapot.blogspot.com
+  url: http://minborgsjavapot.blogspot.com/
+  feedUrl: http://minborgsjavapot.blogspot.com/feeds/posts/default
+-
+  alias: mindstick.com/DeveloperSection/Blog
+  url: https://www.mindstick.com/DeveloperSection/Blog
+  feedUrl: https://www.mindstick.com/DeveloperSection/RssFeed
+-
+  alias: mgrebenets.github.io
+  url: https://mgrebenets.github.io/
+  feedUrl: http://feeds.feedburner.com/
+-
+  alias: mindwind.me
+  url: http://mindwind.me/
+  feedUrl: http://mindwind.me/feed.xml
+-
+  alias: mingplusplus.com
+  url: http://mingplusplus.com/
+  feedUrl: https://mingplusplus.com/feed.xml
+-
+  alias: microblog.dave256apps.com
+  url: https://microblog.dave256apps.com/
+  feedUrl: https://microblog.dave256apps.com/feed.xml
+-
+  alias: midnightprogrammer.net
+  url: https://midnightprogrammer.net/
+  feedUrl: https://prashantkhandelwal.github.io/index.xml
+-
+  alias: miqu.me
+  url: https://miqu.me/
+  feedUrl: https://miqu.me/atom.xml
+-
+  alias: mirocupak.com
+  url: https://mirocupak.com/
+  feedUrl: https://mirocupak.com/feed.xml
+-
+  alias: mishadoff.com
+  url: http://mishadoff.com/
+  feedUrl: http://feeds.feedburner.com/mishadoff
+-
+  alias: michele.io
+  url: https://michele.io/
+  feedUrl: https://michele.io/index.xml
+-
+  alias: mixpanel.com/blog
+  url: https://mixpanel.com/blog/
+  feedUrl: https://mixpanel.com/?feed=rss
+-
+  alias: mjtsai.com/blog
+  url: https://mjtsai.com/blog
+  feedUrl: https://mjtsai.com/blog/feed/
+-
+  alias: minaandrawos.com
+  url: http://www.minaandrawos.com/
+  feedUrl: http://www.minaandrawos.com/feed/
+-
+  alias: miaoroom.com
+  url: https://www.miaoroom.com/
+  feedUrl: https://www.miaoroom.com/feed
+-
+  alias: mikestreety.co.uk/blog
+  url: https://www.mikestreety.co.uk/blog
+  feedUrl: https://www.mikestreety.co.uk/rss
+-
+  alias: mindhacks.cn
+  url: http://mindhacks.cn/
+  feedUrl: http://mindhacks.cn/feed/
+-
+  alias: milapneupane.com.np
+  url: https://milapneupane.com.np/
+  feedUrl: https://milapneupane.com.np/feed/
+-
+  alias: mmuaa.com
+  url: https://www.mmuaa.com/
+  feedUrl: https://www.mmuaa.com/sitemap.xml
+-
+  alias: mirroravatar.iteye.com
+  url: http://mirroravatar.iteye.com/
+  feedUrl: https://www.iteye.com/rss
+-
+  alias: minimalmonkey.com
+  url: http://minimalmonkey.com/
+  feedUrl: http://minimalmonkey.com/feed/
+-
+  alias: minyifei.cn
+  url: http://www.minyifei.cn/
+  feedUrl: http://www.minyifei.cn/feed
+-
+  alias: mobygeek.com/dark-web.html
+  url: https://mobygeek.com/dark-web.html
+  feedUrl: https://mobygeek.com/rss/home.rss
+-
+  alias: moelove.info
+  url: http://moelove.info/
+  feedUrl: https://moelove.info/index.xml
+-
+  alias: mokacoding.com
+  url: http://www.mokacoding.com/
+  feedUrl: http://www.mokacoding.com/feed.xml
+-
+  alias: mobiforge.com
+  url: https://mobiforge.com/
+  feedUrl: https://mobiforge.com/feed
+-
+  alias: moe.best/cross.html
+  url: https://moe.best/cross.html
+  feedUrl: https://moe.best/feed/
+-
+  alias: mobiledevmemo.com
+  url: https://mobiledevmemo.com/
+  feedUrl: https://mobiledevmemo.com/wp-includes/wlwmanifest.xml
+-
+  alias: mobidevtalk.com
+  url: https://mobidevtalk.com/
+  feedUrl: https://mobidevtalk.com/feed/
+-
+  alias: mkblog.cn
+  url: https://mkblog.cn/
+  feedUrl: https://mkblog.cn/feed/
+-
+  alias: mobileinvader.com
+  url: https://mobileinvader.com/
+  feedUrl: https://mobileinvader.com/feed/
+-
+  alias: morningswiftui.com
+  url: https://www.morningswiftui.com/
+  feedUrl: https://www.morningswiftui.com/blog?format=rss
+-
+  alias: mortoray.com
+  url: http://mortoray.com/
+  feedUrl: https://mortoray.com/feed/
+-
+  alias: mouxuejie.com
+  url: http://mouxuejie.com/
+  feedUrl: http://mouxuejie.com/atom.xml
+-
+  alias: mpwang.github.io
+  url: http://mpwang.github.io/
+  feedUrl: http://mpwang.github.io/atom.xml
+-
+  alias: mrale.ph
+  url: http://mrale.ph/
+  feedUrl: https://mrale.ph/atom.xml
+-
+  alias: mobileui.cn
+  url: http://www.mobileui.cn/
+  feedUrl: http://www.mobileui.cn/feed
+-
+  alias: monkeysayhi.github.io
+  url: https://monkeysayhi.github.io/
+  feedUrl: https://monkeysayhi.github.io/atom.xml
+-
+  alias: morepypy.blogspot.co.id
+  url: https://morepypy.blogspot.co.id/
+  feedUrl: https://morepypy.blogspot.com/feeds/posts/default
+-
+  alias: montanafloss.co/blog
+  url: https://www.montanafloss.co/blog/?category=Technical
+  feedUrl: http://www.montanafloss.co/blog?format=rss
+-
+  alias: mrdear.cn
+  url: https://mrdear.cn/
+  feedUrl: https://mrdear.cn/atom.xml
+-
+  alias: mongoing.com
+  url: http://www.mongoing.com/
+  feedUrl: http://www.mongoing.com/feed
+-
+  alias: molotang.com
+  url: http://www.molotang.com/
+  feedUrl: http://www.molotang.com/feed
+-
+  alias: multithreaded.stitchfix.com/blog
+  url: http://multithreaded.stitchfix.com/blog/
+  feedUrl: https://multithreaded.stitchfix.com/feed.xml
+-
+  alias: mufeng.me
+  url: http://mufeng.me/
+  feedUrl: https://mufeng.me/feed
+-
+  alias: mxb.at
+  url: https://mxb.at/
+  feedUrl: https://mxb.dev/feed.xml
+-
+  alias: msbu-tech.github.io
+  url: https://msbu-tech.github.io/
+  feedUrl: https://msbu-tech.github.io/weekly/feed.xml
+-
+  alias: muguang.me
+  url: https://muguang.me/
+  feedUrl: https://muguang.me/feed
+-
+  alias: mrpeak.cn
+  url: http://mrpeak.cn/
+  feedUrl: http://mrpeak.cn/feed.xml
+-
+  alias: multicolourpixel.com
+  url: https://multicolourpixel.com/
+  feedUrl: https://multicolourpixel.com/index.xml
+-
+  alias: my.oschina.net/Kenyon
+  url: http://my.oschina.net/Kenyon
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: mxd.tencent.com
+  url: http://mxd.tencent.com/
+  feedUrl: http://mxd.tencent.com/?feed=rss
+-
+  alias: my.oschina.net/JackSparrow
+  url: http://my.oschina.net/JackSparrow
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/chai2010
+  url: http://my.oschina.net/chai2010
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/997155658
+  url: http://my.oschina.net/997155658
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/chenleijava
+  url: http://my.oschina.net/chenleijava
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: muuzii.com
+  url: http://www.muuzii.com/
+  feedUrl: https://www.muuzii.com/feed/
+-
+  alias: murze.be
+  url: https://murze.be/
+  feedUrl: https://freek.dev/feed
+-
+  alias: my.oschina.net/goldenshaw
+  url: http://my.oschina.net/goldenshaw
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/droidwolf
+  url: http://my.oschina.net/droidwolf
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/colorleaf
+  url: http://my.oschina.net/colorleaf
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/javayou
+  url: https://my.oschina.net/javayou
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/hailongqiu
+  url: http://my.oschina.net/hailongqiu
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/enyo
+  url: http://my.oschina.net/enyo
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/gschen
+  url: http://my.oschina.net/gschen
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/gudaoxuri
+  url: http://my.oschina.net/gudaoxuri
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/kelvinxupt
+  url: http://my.oschina.net/kelvinxupt
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/crooner
+  url: http://my.oschina.net/crooner
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/linker
+  url: http://my.oschina.net/linker
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/leejun2005
+  url: http://my.oschina.net/leejun2005
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/kymjs
+  url: http://my.oschina.net/kymjs
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/lenglingx
+  url: http://my.oschina.net/lenglingx
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/lifj
+  url: http://my.oschina.net/lifj
+  feedUrl: https://www.oschina.net/project/rss

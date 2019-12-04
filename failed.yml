@@ -1487,3 +1487,75 @@
   date: Wed Dec 04 2019 09:11:40 GMT+0000 (Coordinated Universal Time)
   url: https://mentalfaculty.github.io/LLVS
   reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:19 GMT+0000 (Coordinated Universal Time)
+  url: http://www.microhu.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:19 GMT+0000 (Coordinated Universal Time)
+  url: http://www.michaelgallego.fr/articles/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:13:22 GMT+0000 (Coordinated Universal Time)
+  url: http://www.mikespook.com/
+  reason: HTTPError: Response code 403 (Forbidden)
+-
+  date: Wed Dec 04 2019 09:13:24 GMT+0000 (Coordinated Universal Time)
+  url: https://minghe.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:26 GMT+0000 (Coordinated Universal Time)
+  url: https://mixmax.com/blog/tag/engineering
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:13:26 GMT+0000 (Coordinated Universal Time)
+  url: https://mixmax.com/eng/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:13:36 GMT+0000 (Coordinated Universal Time)
+  url: http://mnstory.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:38 GMT+0000 (Coordinated Universal Time)
+  url: http://www.mjix.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:39 GMT+0000 (Coordinated Universal Time)
+  url: https://mobikefe.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:43 GMT+0000 (Coordinated Universal Time)
+  url: http://www.moonshineclouds.com/category/cloud-computing/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:45 GMT+0000 (Coordinated Universal Time)
+  url: https://mohsen.dev/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:47 GMT+0000 (Coordinated Universal Time)
+  url: http://mrben.co.uk/category/python/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:52 GMT+0000 (Coordinated Universal Time)
+  url: http://mtoou.info/index.html
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:13:54 GMT+0000 (Coordinated Universal Time)
+  url: http://morfans.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:56 GMT+0000 (Coordinated Universal Time)
+  url: https://mxstbr.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:57 GMT+0000 (Coordinated Universal Time)
+  url: https://mxstbr.com/thoughts/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:13:58 GMT+0000 (Coordinated Universal Time)
+  url: https://www.mousereeve.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:18:31 GMT+0000 (Coordinated Universal Time)
+  url: https://www.mocakemagic.com/
+  reason: RequestError: connect ETIMEDOUT 112.74.47.96:443
