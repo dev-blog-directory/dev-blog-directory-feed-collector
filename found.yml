@@ -6282,3 +6282,343 @@
   alias: kev.inburke.com
   url: https://kev.inburke.com/
   feedUrl: https://kevin.burke.dev/feed/
+-
+  alias: kevinljackson.blogspot.com
+  url: http://kevinljackson.blogspot.com/
+  feedUrl: http://kevinljackson.blogspot.com/feeds/posts/default
+-
+  alias: khaledgarbaya.net
+  url: https://khaledgarbaya.net/
+  feedUrl: https://khaledgarbaya.net/rss.xml
+-
+  alias: khanlou.com
+  url: http://khanlou.com/
+  feedUrl: http://khanlou.com/feed
+-
+  alias: khotyn.github.com
+  url: http://khotyn.github.com/
+  feedUrl: https://blog.khotyn.com/atom.xml
+-
+  alias: kevinberridge.com
+  url: https://www.kevinberridge.com/
+  feedUrl: https://www.kevinberridge.com/feed.rss
+-
+  alias: kimi.im
+  url: http://kimi.im/
+  feedUrl: http://kimi.im/atom.xml
+-
+  alias: kevinjalbert.com
+  url: https://kevinjalbert.com/
+  feedUrl: https://kevinjalbert.com/feed.xml
+-
+  alias: kitefaster.com/categories/ios-development
+  url: https://kitefaster.com/categories/ios-development/
+  feedUrl: https://kitefaster.com/categories/ios-development/index.xml
+-
+  alias: kirupa.com
+  url: https://kirupa.com/
+  feedUrl: https://www.kirupa.com/modular/kirupa.xml
+-
+  alias: kizu.ru
+  url: https://www.kizu.ru/
+  feedUrl: https://feeds.feedburner.com/kizuruen
+-
+  alias: kickstarter.com/backing-and-hacking
+  url: https://www.kickstarter.com/backing-and-hacking
+  feedUrl: https://kickstarter.engineering/feed
+-
+  alias: kinvolk.io/blog
+  url: https://kinvolk.io/blog/
+  feedUrl: https://kinvolk.io/blog/index.xml
+-
+  alias: klion26.com
+  url: http://www.klion26.com/
+  feedUrl: http://www.klion26.com/atom.xml
+-
+  alias: kldavenport.com
+  url: http://kldavenport.com/
+  feedUrl: http://kldavenport.com/index.xml
+-
+  alias: kleinfreund.de
+  url: https://kleinfreund.de/
+  feedUrl: https://kleinfreund.de/feed.xml
+-
+  alias: kongfangyu.com
+  url: http://kongfangyu.com/
+  feedUrl: http://kongfangyu.com/atom.xml
+-
+  alias: kn007.net
+  url: https://kn007.net/
+  feedUrl: https://kn007.net/feed/
+-
+  alias: korhner.github.io
+  url: http://korhner.github.io/
+  feedUrl: http://korhner.github.io/feed.xml
+-
+  alias: krakendev.io
+  url: https://krakendev.io/
+  feedUrl: https://krakendev.io/blog?format=rss
+-
+  alias: kolosek.com/blog
+  url: https://kolosek.com/blog/
+  feedUrl: https://kolosek.com/rss/
+-
+  alias: kgrz.io
+  url: https://kgrz.io/
+  feedUrl: https://kgrz.io/feed.xml
+-
+  alias: khawerkhaliq.com
+  url: https://khawerkhaliq.com/
+  feedUrl: https://khawerkhaliq.com/feed/
+-
+  alias: kittenyang.com
+  url: http://kittenyang.com/
+  feedUrl: http://kittenyang.com/rss/
+-
+  alias: koromiko1104.wordpress.com
+  url: https://koromiko1104.wordpress.com/
+  feedUrl: https://koromiko1104.wordpress.com/feed/
+-
+  alias: ksnowlv.github.io
+  url: http://ksnowlv.github.io/
+  feedUrl: http://ksnowlv.github.io/atom.xml
+-
+  alias: killdb.com
+  url: http://www.killdb.com/
+  feedUrl: http://www.killdb.com/feed/
+-
+  alias: krausefx.com
+  url: https://krausefx.com/
+  feedUrl: https://krausefx.com/feed.xml
+-
+  alias: kubicode.me
+  url: http://kubicode.me/
+  feedUrl: http://kubicode.me/atom.xml
+-
+  alias: krebsonsecurity.com
+  url: https://krebsonsecurity.com/
+  feedUrl: https://krebsonsecurity.com/feed/
+-
+  alias: kidakaka.com
+  url: https://kidakaka.com/
+  feedUrl: https://kidakaka.com/feed/
+-
+  alias: kvlly.com
+  url: https://kvlly.com/
+  feedUrl: https://kvlly.com/sitemap.xml
+-
+  alias: kristaps.me
+  url: https://kristaps.me/
+  feedUrl: https://kristaps.me/feed.xml
+-
+  alias: knpcode.com
+  url: https://knpcode.com/
+  feedUrl: https://knpcode.com/feed/
+-
+  alias: kyleshevlin.com
+  url: https://kyleshevlin.com/
+  feedUrl: https://kyleshevlin.com/rss.xml
+-
+  alias: kylebashour.com
+  url: https://kylebashour.com/
+  feedUrl: https://kylebashour.com/feed.xml
+-
+  alias: lab.getbase.com/category/engineering
+  url: https://lab.getbase.com/category/engineering/
+  feedUrl: https://lab.getbase.com/feed/
+-
+  alias: labs.spotify.com
+  url: https://labs.spotify.com/
+  feedUrl: https://labs.spotify.com/feed/
+-
+  alias: l1cafe.blog
+  url: https://l1cafe.blog/
+  feedUrl: https://l1cafe.blog/atom.xml
+-
+  alias: lackingrhoticity.blogspot.de
+  url: http://lackingrhoticity.blogspot.de/
+  feedUrl: http://lackingrhoticity.blogspot.com/feeds/posts/default
+-
+  alias: laceyhenschel.com/blog
+  url: https://www.laceyhenschel.com/blog/
+  feedUrl: http://feeds.feedburner.com/LaceyWilliamsHenschel
+-
+  alias: kymjs.com
+  url: https://kymjs.com/
+  feedUrl: https://www.kymjs.com/feed.xml
+-
+  alias: lai.yuweining.cn/about.html
+  url: https://lai.yuweining.cn/about.html
+  feedUrl: https://hao.su/feed/about.html
+-
+  alias: kotlinexpertise.com
+  url: https://kotlinexpertise.com/
+  feedUrl: https://kotlinexpertise.com/feed/
+-
+  alias: lanlingzi.cn
+  url: http://lanlingzi.cn/
+  feedUrl: http://lanlingzi.cn/index.xml
+-
+  alias: kxtry.com
+  url: http://www.kxtry.com/
+  feedUrl: http://www.kxtry.com/feed
+-
+  alias: lambda-the-ultimate.org
+  url: http://lambda-the-ultimate.org/
+  feedUrl: http://lambda-the-ultimate.org/rss.xml
+-
+  alias: lapcatsoftware.com/articles
+  url: http://lapcatsoftware.com/articles/index.html
+  feedUrl: http://lapcatsoftware.com/articles/atom.xml
+-
+  alias: kylesethgray.com
+  url: https://kylesethgray.com/
+  feedUrl: https://kylesethgray.com/rss/
+-
+  alias: kristina.io
+  url: https://kristina.io/
+  feedUrl: https://kristina.io/feed/
+-
+  alias: lampblog.net
+  url: http://www.lampblog.net/
+  feedUrl: http://www.lampblog.net/feed/
+-
+  alias: laike9m.com/blog/rss
+  url: https://laike9m.com/blog/rss
+  feedUrl: https://laike9m.com/blog/rss/
+-
+  alias: laravel-news.com/blog
+  url: https://laravel-news.com/blog/
+  feedUrl: https://feed.laravel-news.com/
+-
+  alias: laurakalbag.com
+  url: https://laurakalbag.com/
+  feedUrl: https://laurakalbag.com/index.xml
+-
+  alias: lambda.grofers.com
+  url: https://lambda.grofers.com/
+  feedUrl: https://lambda.grofers.com/feed
+-
+  alias: latacora.singles
+  url: https://latacora.singles/
+  feedUrl: https://latacora.micro.blog/feed.xml
+-
+  alias: laoshiren.net
+  url: http://laoshiren.net/
+  feedUrl: https://laoshiren.net/feed
+-
+  alias: latenightswift.com
+  url: https://www.latenightswift.com/
+  feedUrl: https://www.latenightswift.com/feed.xml
+-
+  alias: leancodingnow.com
+  url: http://leancodingnow.com/
+  feedUrl: http://leancodingnow.com/rss/
+-
+  alias: lea.verou.me
+  url: http://lea.verou.me/
+  feedUrl: http://lea.verou.me/feed/
+-
+  alias: learnbatta.com/blog
+  url: https://learnbatta.com/blog/
+  feedUrl: https://learnbatta.com/rss-latest-articles-feed/
+-
+  alias: laod.cn
+  url: https://laod.cn/
+  feedUrl: https://laod.cn/feed/
+-
+  alias: learnappmaking.com
+  url: https://learnappmaking.com/
+  feedUrl: https://learnappmaking.com/learnappmaking-com-play-with-code/feed/
+-
+  alias: lanindex.com
+  url: http://www.lanindex.com/
+  feedUrl: https://www.lanindex.com/feed/
+-
+  alias: laruence.com
+  url: http://www.laruence.com/
+  feedUrl: http://www.laruence.com/feed
+-
+  alias: leaver.me
+  url: http://leaver.me/
+  feedUrl: https://leizhiyuan.github.io/index.xml
+-
+  alias: larryli.cn
+  url: https://larryli.cn/
+  feedUrl: https://larryli.cn/feed
+-
+  alias: lebo.io
+  url: http://lebo.io/
+  feedUrl: http://lebo.io/atom.xml
+-
+  alias: ldsun.com
+  url: http://www.ldsun.com/
+  feedUrl: http://www.ldsun.com/rss/
+-
+  alias: leeyee.github.io
+  url: http://leeyee.github.io/
+  feedUrl: http://iyiguo.net/feed.xml
+-
+  alias: lengstorf.com/blog
+  url: https://lengstorf.com/blog
+  feedUrl: https://lengstorf.com/sitemap.xml
+-
+  alias: leavesongs.com
+  url: http://www.leavesongs.com/
+  feedUrl: https://www.leavesongs.com/feed/
+-
+  alias: leonerds-code.blogspot.com
+  url: http://leonerds-code.blogspot.com/
+  feedUrl: http://leonerds-code.blogspot.com/feeds/posts/default
+-
+  alias: letstalkaboutjava.blogspot.com
+  url: http://letstalkaboutjava.blogspot.com/
+  feedUrl: http://letstalkaboutjava.blogspot.com/feeds/posts/default
+-
+  alias: leovan.me
+  url: http://leovan.me/
+  feedUrl: https://leovan.me/index.xml
+-
+  alias: lengxx.com
+  url: http://lengxx.com/
+  feedUrl: https://lengxx.com/feed/
+-
+  alias: lg.io
+  url: https://lg.io/
+  feedUrl: https://lg.io/feed.xml
+-
+  alias: leybreeze.com/blog
+  url: http://leybreeze.com/blog
+  feedUrl: http://leybreeze.com/blog/?feed=rss2
+-
+  alias: liam0205.me
+  url: http://liam0205.me/
+  feedUrl: https://liam.page/atom.xml
+-
+  alias: learniosdevblog.com
+  url: https://learniosdevblog.com/
+  feedUrl: https://learniosdevblog.com/feed/
+-
+  alias: learngeek.co/blog
+  url: https://www.learngeek.co/blog/
+  feedUrl: https://www.learngeek.co/feed/
+-
+  alias: leeon.me
+  url: http://www.leeon.me/
+  feedUrl: http://www.leeon.me/feed
+-
+  alias: li.yin.zhen.blog.163.com
+  url: http://li.yin.zhen.blog.163.com/
+  feedUrl: http://li.yin.zhen.blog.163.com/rss/
+-
+  alias: lewismakesapps.com
+  url: http://lewismakesapps.com/
+  feedUrl: https://lewismakesapps.com/feed/
+-
+  alias: lezhizhe.net
+  url: http://www.lezhizhe.net/
+  feedUrl: https://www.lezhizhe.net/feed/
+-
+  alias: liangs.me
+  url: http://liangs.me/
+  feedUrl: http://liangs.me/feed/
