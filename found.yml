@@ -9366,3 +9366,343 @@
   alias: riafan.com
   url: http://www.riafan.com/
   feedUrl: http://riafan.com/feed/
+-
+  alias: runforever.github.io
+  url: http://runforever.github.io/
+  feedUrl: http://runforever.github.io/atom.xml
+-
+  alias: runtastic.com/blog/en/category/tech
+  url: https://www.runtastic.com/blog/en/category/tech/
+  feedUrl: https://www.runtastic.com/blog/en/feed/
+-
+  alias: rshackleton.co.uk
+  url: https://rshackleton.co.uk/
+  feedUrl: https://rshackleton.co.uk/sitemap.xml
+-
+  alias: ruslanspivak.com
+  url: https://ruslanspivak.com/
+  feedUrl: https://ruslanspivak.com/feeds/all.atom.xml
+-
+  alias: rtl-css.net
+  url: https://rtl-css.net/
+  feedUrl: https://rtl-css.net/rss.xml
+-
+  alias: rosehosting.com/blog
+  url: https://www.rosehosting.com/blog/
+  feedUrl: https://www.rosehosting.com/blog/feed/
+-
+  alias: rwapp.co.uk
+  url: https://rwapp.co.uk/
+  feedUrl: https://rwapp.co.uk/atom.xml
+-
+  alias: rx-marin.com
+  url: http://rx-marin.com/
+  feedUrl: http://rx-marin.com/index.xml
+-
+  alias: ryanipete.com/blog
+  url: http://ryanipete.com/blog/
+  feedUrl: http://ryanipete.com/blog/feed.xml
+-
+  alias: russbishop.net
+  url: http://www.russbishop.net/
+  feedUrl: http://www.russbishop.net/feed
+-
+  alias: samanthajohn.com
+  url: https://samanthajohn.com/
+  feedUrl: https://samanthajohn.com/feed.xml
+-
+  alias: ruiper.es
+  url: https://ruiper.es/
+  feedUrl: https://ruiper.es/rss/
+-
+  alias: samwize.com
+  url: https://samwize.com/
+  feedUrl: https://samwize.com/feed.xml
+-
+  alias: samsaffron.com
+  url: https://samsaffron.com/
+  feedUrl: http://samsaffron.com/posts.rss
+-
+  alias: runtastic.com/blog/en/tag/ios
+  url: https://www.runtastic.com/blog/en/tag/ios/
+  feedUrl: https://www.runtastic.com/blog/en/feed/
+-
+  alias: sarahjanescraftblog.com
+  url: http://www.sarahjanescraftblog.com/
+  feedUrl: http://www.sarahjanescraftblog.com/feeds/posts/default
+-
+  alias: sarasoueidan.com
+  url: https://www.sarasoueidan.com/
+  feedUrl: https://www.sarasoueidan.com/blog/index.xml
+-
+  alias: roundwallsoftware.com
+  url: https://roundwallsoftware.com/
+  feedUrl: https://roundwallsoftware.com/rss/
+-
+  alias: sargeraswang.com
+  url: http://sargeraswang.com/
+  feedUrl: https://sargeraswang.com/atom.xml
+-
+  alias: sarunw.com
+  url: https://sarunw.com/
+  feedUrl: https://sarunw.com/feed.xml
+-
+  alias: satanwoo.github.io
+  url: http://satanwoo.github.io/
+  feedUrl: http://satanwoo.github.io/atom.xml
+-
+  alias: rudyhuyn.com/blog
+  url: http://www.rudyhuyn.com/blog/
+  feedUrl: https://www.rudyhuyn.com/blog/feed/
+-
+  alias: rosswintle.uk
+  url: https://rosswintle.uk/
+  feedUrl: https://rosswintle.uk/feed/
+-
+  alias: sayspy.blogspot.co.id
+  url: http://sayspy.blogspot.co.id/
+  feedUrl: http://sayspy.blogspot.com/feeds/posts/default
+-
+  alias: schiavo.me
+  url: https://schiavo.me/
+  feedUrl: https://schiavo.me/feed.xml
+-
+  alias: sandeepdass003.wordpress.com
+  url: https://sandeepdass003.wordpress.com/
+  feedUrl: https://sandeepdass003.wordpress.com/feed/
+-
+  alias: rongmayisheng.com
+  url: http://rongmayisheng.com/
+  feedUrl: https://rongmayisheng.com/?feed=rss2
+-
+  alias: samirchen.com
+  url: http://www.samirchen.com/
+  feedUrl: http://www.samirchen.com/atom.xml
+-
+  alias: scotch.io
+  url: https://scotch.io/
+  feedUrl: https://scotch.io/feed
+-
+  alias: scotch.io/collections
+  url: https://scotch.io/collections
+  feedUrl: https://scotch.io/feed
+-
+  alias: schibsted.pl/blog
+  url: http://www.schibsted.pl/blog/
+  feedUrl: http://www.schibsted.pl/?feed=rss
+-
+  alias: sakib.ninja
+  url: https://www.sakib.ninja/
+  feedUrl: http://sakib.ninja/rss/
+-
+  alias: scottohara.me
+  url: https://www.scottohara.me/
+  feedUrl: https://www.scottohara.me/feed.xml
+-
+  alias: scotthelme.co.uk
+  url: https://scotthelme.co.uk/
+  feedUrl: https://scotthelme.co.uk/rss/
+-
+  alias: scottberrevoets.com
+  url: https://scottberrevoets.com/
+  feedUrl: https://scottberrevoets.com/feeds/all.atom.xml
+-
+  alias: scottberkun.com/blog
+  url: http://scottberkun.com/blog/
+  feedUrl: https://scottberkun.com/feed/
+-
+  alias: sealedabstract.com
+  url: http://sealedabstract.com/
+  feedUrl: https://sealedabstract.com/feed/rss/index.html
+-
+  alias: seabornlee.cn
+  url: http://www.seabornlee.cn/
+  feedUrl: http://www.seabornlee.cn/feed/
+-
+  alias: sebastianraschka.com/blog
+  url: https://sebastianraschka.com/blog/
+  feedUrl: https://sebastianraschka.com/rss_feed.xml
+-
+  alias: secretsofthedark.com
+  url: https://secretsofthedark.com/
+  feedUrl: https://secretsofthedark.com/feed/
+-
+  alias: scorpios.home.blog
+  url: https://scorpios.home.blog/
+  feedUrl: https://scorpios.home.blog/feed/
+-
+  alias: sedimental.org/tagged/python
+  url: http://sedimental.org/tagged/python/
+  feedUrl: http://sedimental.org/atom.xml
+-
+  alias: sartorialgeek.com
+  url: http://sartorialgeek.com/
+  feedUrl: http://sartorialgeek.com/feed/
+-
+  alias: schiy.com
+  url: http://schiy.com/
+  feedUrl: https://schiy.com/home/feed
+-
+  alias: segment.com/blog/categories/engineering
+  url: https://segment.com/blog/categories/engineering/
+  feedUrl: https://segment.com/blog/atom.xml
+-
+  alias: semaphoreci.com/blog/tags/engineering.html
+  url: http://semaphoreci.com/blog/tags/engineering.html
+  feedUrl: https://semaphoreci.com/feed
+-
+  alias: security.googleblog.com
+  url: https://security.googleblog.com/
+  feedUrl: https://security.googleblog.com/feeds/posts/default
+-
+  alias: semaphoreci.com/community
+  url: https://semaphoreci.com/community
+  feedUrl: https://semaphoreci.com/feed
+-
+  alias: segmentfault.com/blog/camile
+  url: https://segmentfault.com/blog/camile
+  feedUrl: https://segmentfault.com/feeds/questions
+-
+  alias: seniorzhai.github.io
+  url: http://seniorzhai.github.io/
+  feedUrl: https://seniorzhai.github.io/atom.xml
+-
+  alias: segmentfault.com/u/dalong_591b8e7e6ab46
+  url: https://segmentfault.com/u/dalong_591b8e7e6ab46
+  feedUrl: https://segmentfault.com/feeds/questions
+-
+  alias: sdet.us/category/golang
+  url: https://sdet.us/category/golang/
+  feedUrl: https://sdet.us/feed/
+-
+  alias: self-learning-java-tutorial.blogspot.com
+  url: https://self-learning-java-tutorial.blogspot.com/
+  feedUrl: https://self-learning-java-tutorial.blogspot.com/feeds/posts/default
+-
+  alias: sergeyzhuk.me
+  url: http://sergeyzhuk.me/
+  feedUrl: http://sergeyzhuk.me/feed.xml
+-
+  alias: sergiodxa.com
+  url: https://sergiodxa.com/
+  feedUrl: https://sergiodxa.com/atom.xml
+-
+  alias: securityintelligence.com/tag/dark-web
+  url: https://securityintelligence.com/tag/dark-web/
+  feedUrl: https://securityintelligence.com/feed/
+-
+  alias: serholiu.com
+  url: http://serholiu.com/
+  feedUrl: https://serholiu.com/blog/feed.xml
+-
+  alias: serverless.com/blog
+  url: https://serverless.com/blog/
+  feedUrl: https://serverless.com/blog/feed.xml
+-
+  alias: ruanyifeng.com/blog
+  url: http://www.ruanyifeng.com/blog/
+  feedUrl: http://feeds.feedburner.com/ruanyifeng
+-
+  alias: sezina.github.com
+  url: http://sezina.github.com/
+  feedUrl: https://www.sezina.io/atom.xml
+-
+  alias: sh3ll.me
+  url: http://sh3ll.me/
+  feedUrl: http://sh3ll.me/feed
+-
+  alias: sflaqiu.github.io
+  url: http://sflaqiu.github.io/
+  feedUrl: http://sflaqiu.github.io /feed.xml 
+-
+  alias: selinuxplus.com
+  url: http://www.selinuxplus.com/
+  feedUrl: http://www.selinuxplus.com/?feed=rss2
+-
+  alias: shansing.com
+  url: https://shansing.com/
+  feedUrl: https://shansing.com/feed/
+-
+  alias: semiengineering.com
+  url: http://semiengineering.com/
+  feedUrl: https://semiengineering.com/feed/
+-
+  alias: shapeof.com
+  url: http://shapeof.com/
+  feedUrl: https://shapeof.com/rss.xml
+-
+  alias: seogeek.io/blog
+  url: https://seogeek.io/blog/
+  feedUrl: https://seogeek.io/feed/
+-
+  alias: sendya.me
+  url: https://sendya.me/
+  feedUrl: https://sendya.me/rss/
+-
+  alias: seocop.xyz
+  url: https://www.seocop.xyz/
+  feedUrl: https://www.seocop.xyz/feeds/posts/default
+-
+  alias: serverguy.com/blog
+  url: https://serverguy.com/blog/
+  feedUrl: https://serverguy.com/feed/
+-
+  alias: seozac.com
+  url: http://www.seozac.com/
+  feedUrl: https://www.seozac.com/feed/
+-
+  alias: shaynez.com
+  url: http://www.shaynez.com/
+  feedUrl: http://www.shaynez.com/feed
+-
+  alias: sharethis.com/category/engineering
+  url: https://www.sharethis.com/category/engineering/
+  feedUrl: https://s18955.pcdn.co/wp-includes/wlwmanifest.xml
+-
+  alias: shenyanchao.cn
+  url: http://www.shenyanchao.cn/
+  feedUrl: http://www.shenyanchao.cn/atom.xml
+-
+  alias: shelwee.com
+  url: http://www.shelwee.com/
+  feedUrl: https://www.shelwee.com/feed
+-
+  alias: shadowkong.com
+  url: http://shadowkong.com/
+  feedUrl: https://shadowkong.com/feed
+-
+  alias: shaozhuqing.com
+  url: http://shaozhuqing.com/
+  feedUrl: http://shaozhuqing.com/?feed=rss2
+-
+  alias: shuyz.com
+  url: http://www.shuyz.com/
+  feedUrl: https://www.shuyz.com/atom.xml
+-
+  alias: shzhangji.com
+  url: http://shzhangji.com/
+  feedUrl: http://shzhangji.com/atom.xml
+-
+  alias: shivangsingh.in
+  url: https://www.shivangsingh.in/
+  feedUrl: https://www.shivangsingh.in/feeds/posts/default
+-
+  alias: shejidaren.com
+  url: http://www.shejidaren.com/
+  feedUrl: http://www.shejidaren.com/feed
+-
+  alias: shixian.net
+  url: http://shixian.net/
+  feedUrl: http://shixian.net/feed/
+-
+  alias: shuangjiuhengyi.com
+  url: http://www.shuangjiuhengyi.com/
+  feedUrl: https://www.shuangjiuhengyi.com/feed/
+-
+  alias: shuizilong.com/house
+  url: http://www.shuizilong.com/house/
+  feedUrl: http://www.shuizilong.com/house/feed/
+-
+  alias: sicpers.info
+  url: http://www.sicpers.info/
+  feedUrl: https://www.sicpers.info/feed/

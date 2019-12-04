@@ -1836,3 +1836,63 @@
   date: Wed Dec 04 2019 09:37:26 GMT+0000 (Coordinated Universal Time)
   url: http://ratwu.com/
   reason: RequestError: connect ETIMEDOUT 103.230.219.138:80
+-
+  date: Wed Dec 04 2019 09:38:24 GMT+0000 (Coordinated Universal Time)
+  url: http://roosephu.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:38:30 GMT+0000 (Coordinated Universal Time)
+  url: https://sarahdrasnerdesign.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:38:34 GMT+0000 (Coordinated Universal Time)
+  url: http://saulmm.github.io/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:38:35 GMT+0000 (Coordinated Universal Time)
+  url: http://sartorialscience.myntrablogs.com/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:38:44 GMT+0000 (Coordinated Universal Time)
+  url: https://savvyapps.com/blog
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:38:50 GMT+0000 (Coordinated Universal Time)
+  url: http://sentsin.com/old.html
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:39:04 GMT+0000 (Coordinated Universal Time)
+  url: https://www.shennongmin.org/
+  reason: RequestError: certificate has expired
+-
+  date: Wed Dec 04 2019 09:39:06 GMT+0000 (Coordinated Universal Time)
+  url: http://shandian.biz/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:39:07 GMT+0000 (Coordinated Universal Time)
+  url: https://www.shodipoayomide.com/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:39:10 GMT+0000 (Coordinated Universal Time)
+  url: https://shortdiv.com/
+  reason: RequestError: connect ECONNREFUSED 162.243.38.49:443
+-
+  date: Wed Dec 04 2019 09:39:11 GMT+0000 (Coordinated Universal Time)
+  url: https://sidebar.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:39:13 GMT+0000 (Coordinated Universal Time)
+  url: https://sid.studio/blog
+  reason: RequestError: getaddrinfo ENOTFOUND sid.studio
+-
+  date: Wed Dec 04 2019 09:40:05 GMT+0000 (Coordinated Universal Time)
+  url: https://www.sataware.com/blogs/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 09:40:33 GMT+0000 (Coordinated Universal Time)
+  url: http://shashikantjagtap.net/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 09:40:37 GMT+0000 (Coordinated Universal Time)
+  url: http://shiyanjun.cn/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
