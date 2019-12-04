@@ -997,3 +997,100 @@
   date: Wed Dec 04 2019 08:47:00 GMT+0000 (Coordinated Universal Time)
   url: https://www.geekfence.com/
   reason: RequestError: connect ETIMEDOUT 195.229.192.186:443
+-
+  date: Wed Dec 04 2019 08:47:56 GMT+0000 (Coordinated Universal Time)
+  url: http://guojing.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:47:56 GMT+0000 (Coordinated Universal Time)
+  url: http://greengnn.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:47:57 GMT+0000 (Coordinated Universal Time)
+  url: https://guuu.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:48:02 GMT+0000 (Coordinated Universal Time)
+  url: https://hackernoon.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:48:08 GMT+0000 (Coordinated Universal Time)
+  url: http://www.hao.uisdc.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:48:14 GMT+0000 (Coordinated Universal Time)
+  url: https://hendry.iki.fi/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:48:21 GMT+0000 (Coordinated Universal Time)
+  url: https://hesh.am/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:48:32 GMT+0000 (Coordinated Universal Time)
+  url: http://hightman.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:48:32 GMT+0000 (Coordinated Universal Time)
+  url: http://higrid.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:49:29 GMT+0000 (Coordinated Universal Time)
+  url: http://www.h4ck.org.cn/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:49:59 GMT+0000 (Coordinated Universal Time)
+  url: http://www.hindata.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:49:59 GMT+0000 (Coordinated Universal Time)
+  url: http://www.hiheng.com/blog
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:50:00 GMT+0000 (Coordinated Universal Time)
+  url: http://www.hmouse.tk/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:50:00 GMT+0000 (Coordinated Universal Time)
+  url: https://www.hiteshi.com/blog/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:50:02 GMT+0000 (Coordinated Universal Time)
+  url: http://holko.pl/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:50:02 GMT+0000 (Coordinated Universal Time)
+  url: http://www.hollischuang.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:50:05 GMT+0000 (Coordinated Universal Time)
+  url: https://holtwick.de/blog/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:50:06 GMT+0000 (Coordinated Universal Time)
+  url: http://hongjiang.info/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:50:08 GMT+0000 (Coordinated Universal Time)
+  url: http://honzadvorsky.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:50:14 GMT+0000 (Coordinated Universal Time)
+  url: https://howtodoinjava.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:50:15 GMT+0000 (Coordinated Universal Time)
+  url: http://www.html5tricks.com/
+  reason: RequestError: write EPROTO 140656853165888:error:1425F102:SSL routines:ssl_choose_client_version:unsupported protocol:../deps/openssl/openssl/ssl/statem/statem_lib.c:1929:
+
+-
+  date: Wed Dec 04 2019 08:50:16 GMT+0000 (Coordinated Universal Time)
+  url: https://hubblehq.com/blog
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:50:17 GMT+0000 (Coordinated Universal Time)
+  url: http://how2android.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:50:19 GMT+0000 (Coordinated Universal Time)
+  url: http://www.html5dw.com/
+  reason: Feed URL not found

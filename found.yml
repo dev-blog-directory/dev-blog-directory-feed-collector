@@ -5002,3 +5002,307 @@
   alias: granitegeek.concordmonitor.com
   url: https://granitegeek.concordmonitor.com/
   feedUrl: https://granitegeek.concordmonitor.com/feed/
+-
+  alias: gythialy.github.io
+  url: http://gythialy.github.io/
+  feedUrl: https://feeds.feedburner.com/gythialy
+-
+  alias: gregjohns.com
+  url: http://www.gregjohns.com/
+  feedUrl: http://www.gregjohns.com/John_L._Moore.cfm?fp=uxx53pEAcCoWdc0o3E80m7jdYZFQjQB5WNiFzzNZexuG%2BANTTGSJ3TSgSRB1BdeNpArdW%2FiNLCglQ%2FZYzUhAPpAu4nhu8P%2FFtWDs%2BKBQwE2B6ojZRLj7CCbPxvZ4R%2FNICGjTUsdWma7PJPECyHwVzQ%2BKu4bzMZh9K%2BOqxDCtXwMRGZkNd%2FAzcVxZaKuZyvS70ZU7MrBpkVy9YOYxyQIjJA%3D%3D&yep=lOqF9xj3RsVWCtrm3z%2Fpo84Tj1m9Wk5W%2FzrCDfnbKbNZ9Cd82o0ZVr4qkoMAZFVRrXYi14%2F2iayCLyH1ywP%2Bhpz9FSEWc8PLpJdQeSJ3%2FZajQ5O3ZnbKz1K8Aog9ANpM%2BBAZgODb6hOgxEyaTsx1xBZAai%2FnKPt2OLbWf2n%2FEWsfx8fhZIFkW%2Fsz3rp61oEfPQI8ARYIl50wCwQZUs2Sv31tQ0%2Bo525wiFoC9rsLB6mb8lgH0C7vOE17MKT2JsiwomrD90co9A4Z4zg9MGGfYsp%2BEjdyOmx4kOxbRr%2BUTz0D8DdgUoQsBDxIft9WimDX4OLglSwHRudl%2BwhnrKz3L7uQ56KW3XmgCWn8Fi6vLbWoQ6%2BHSpNLhXi69xyKhnSmD1xt5NDUrEiU8hJyxDkcqKReyWFW6%2BWrBFAGyaNyY9YQ20Qf65HNJpzukOIpBBvExR8QBIXd88K5NYfOgMIk%2FBUmj6ChrjbBx%2B8Dg7OM584Dv%2FMt3HB51ErirmNAAr9o2O03iIxOmOhnLF%2FJTYM1gPtNW9MubK0T%2BUTjKmT42gEBqyEx6FpTWfiLilMNKSw59NypeTDhQQO3ESuJms2tcQ%3D%3D&gtnp=0&gtpp=0&maxads=0&kld=1061&yprpnd=GfThdTjF%2Blkz%2BecJ4nE7uUWMiieF5jyVuhmX8UtFFOA%3D&prvtof=Qtfah0PuAkvWCgQQs%2Fg0y8CwPF6Oy%2FRPL8bibePlkx0%3D&feed=rss&gtnp=0&gtpp=0&kt=320&&kbc=71918&ki=106192558&ktd=2199023452416&kld=1061&kp=1
+-
+  alias: hack.close.io
+  url: https://hack.close.io/
+  feedUrl: https://engineering.close.com/feed.xml
+-
+  alias: hackaday.com
+  url: http://hackaday.com/
+  feedUrl: https://hackaday.com/feed/
+-
+  alias: greatdk.com
+  url: https://greatdk.com/
+  feedUrl: https://greatdk.com/feed
+-
+  alias: gtdlife.com
+  url: http://www.gtdlife.com/
+  feedUrl: http://www.gtdlife.com/feed/
+-
+  alias: grokkingandroid.com
+  url: https://www.grokkingandroid.com/
+  feedUrl: https://www.grokkingandroid.com/feed/
+-
+  alias: hackingwithswift.com/articles
+  url: https://www.hackingwithswift.com/articles
+  feedUrl: https://www.hackingwithswift.com/articles/rss
+-
+  alias: graycelltech.com/blog
+  url: https://www.graycelltech.com/blog/
+  feedUrl: https://www.graycelltech.com/?feed=rss
+-
+  alias: gtiapps.com
+  url: https://gtiapps.com/
+  feedUrl: https://gtiapps.com/?feed=rss2
+-
+  alias: greenteajug.cn
+  url: http://greenteajug.cn/
+  feedUrl: http://greenteajug.cn/feed/
+-
+  alias: hadoopweekly.com
+  url: https://hadoopweekly.com/
+  feedUrl: https://dataengweekly.substack.com/feed/
+-
+  alias: hacks.mozilla.org
+  url: https://hacks.mozilla.org/
+  feedUrl: https://hacks.mozilla.org/feed/
+-
+  alias: halida.github.com
+  url: http://halida.github.com/
+  feedUrl: http://blog.linjunhalida.com/atom.xml
+-
+  alias: hannesdorfmann.com
+  url: http://hannesdorfmann.com/
+  feedUrl: http://hannesdorfmann.com/feed.xml
+-
+  alias: hans.gerwitz.com
+  url: https://hans.gerwitz.com/
+  feedUrl: https://hans.gerwitz.com/feeds/microblog.rss
+-
+  alias: haiyun.me
+  url: https://www.haiyun.me/
+  feedUrl: https://www.haiyun.me/feed/
+-
+  alias: hanselman.com/blog
+  url: https://www.hanselman.com/blog/
+  feedUrl: https://www.hanselman.com/blog/foaf.rdf
+-
+  alias: grittyengineer.com/blog
+  url: http://grittyengineer.com/blog/
+  feedUrl: https://grittyengineer.com/feed/
+-
+  alias: hackerfactor.com/blog
+  url: https://hackerfactor.com/blog/
+  feedUrl: https://hackerfactor.com/blog/index.php?/feeds/index.rss2
+-
+  alias: hackhp.com
+  url: http://www.hackhp.com/
+  feedUrl: https://www.hackhp.com/sitemap.xml
+-
+  alias: h5jun.com
+  url: https://www.h5jun.com/
+  feedUrl: https://www.h5jun.com/rss.html
+-
+  alias: halfrost.com
+  url: http://www.halfrost.com/
+  feedUrl: http://halfrost.com/rss/
+-
+  alias: hashnode.com
+  url: https://hashnode.com/
+  feedUrl: https://hashnode.com/feed/rss/
+-
+  alias: hashrocket.com/blog
+  url: https://hashrocket.com/blog
+  feedUrl: https://hashrocket.com/blog.rss
+-
+  alias: havee.me
+  url: http://havee.me/
+  feedUrl: https://havee.me/rss.xml
+-
+  alias: haorooms.com
+  url: http://www.haorooms.com/
+  feedUrl: http://www.haorooms.com/feed
+-
+  alias: hazirguo.github.io
+  url: http://hazirguo.github.io/
+  feedUrl: http://hazirguo.github.io/atom.xml
+-
+  alias: halmueller.wordpress.com
+  url: https://halmueller.wordpress.com/
+  feedUrl: https://halmueller.wordpress.com/feed/
+-
+  alias: haptik.ai/tech
+  url: https://haptik.ai/tech/
+  feedUrl: https://haptik.ai/tech/feed/
+-
+  alias: hboon.com
+  url: http://hboon.com/
+  feedUrl: http://hboon.com/feed
+-
+  alias: haydenjames.io
+  url: https://haydenjames.io/
+  feedUrl: https://haydenjames.io/?feed=rss
+-
+  alias: healeycodes.com
+  url: https://healeycodes.com/
+  feedUrl: https://healeycodes.com/feed.xml
+-
+  alias: hashnode.blog
+  url: https://hashnode.blog/
+  feedUrl: https://hashnode.blog/feed
+-
+  alias: haoxiang.org
+  url: http://haoxiang.org/
+  feedUrl: http://haoxiang.org/feed/
+-
+  alias: helloacm.com
+  url: https://helloacm.com/
+  feedUrl: https://helloacm.com/feed/
+-
+  alias: helpimnotageek.blogspot.com
+  url: http://helpimnotageek.blogspot.com/
+  feedUrl: http://helpimnotageek.blogspot.com/feeds/posts/default
+-
+  alias: henrikwarne.com
+  url: https://henrikwarne.com/
+  feedUrl: https://henrikwarne.com/feed/
+-
+  alias: henryzoo.com
+  url: http://henryzoo.com/
+  feedUrl: https://www.henryzoo.com/rss.xml
+-
+  alias: herman.asia
+  url: http://herman.asia/
+  feedUrl: https://hermanschaaf.com/index.xml
+-
+  alias: haomwei.com
+  url: http://haomwei.com/
+  feedUrl: https://www.haomwei.com/atom.xml
+-
+  alias: herbsutter.com
+  url: http://herbsutter.com/
+  feedUrl: https://herbsutter.com/feed/
+-
+  alias: helloit.info
+  url: http://www.helloit.info/
+  feedUrl: http://www.helloit.info/rss.xml
+-
+  alias: hassantariqblog.wordpress.com
+  url: https://hassantariqblog.wordpress.com/
+  feedUrl: https://hassantariqblog.wordpress.com/feed/
+-
+  alias: helpdeskgeek.com
+  url: https://helpdeskgeek.com/
+  feedUrl: https://helpdeskgeek.com/feed/
+-
+  alias: hellojava.info
+  url: http://hellojava.info/
+  feedUrl: http://hellojava.info/?feed=rss2
+-
+  alias: happyprogrammingguide.com
+  url: https://www.happyprogrammingguide.com/
+  feedUrl: https://www.happyprogrammingguide.com/feed/
+-
+  alias: hfl.github.io
+  url: http://hfl.github.io/
+  feedUrl: http://huangfeilong.cn/feed.xml
+-
+  alias: hessian.cn
+  url: http://hessian.cn/
+  feedUrl: https://hessian.cn/feed
+-
+  alias: hessian.me
+  url: http://hessian.me/
+  feedUrl: https://hessian.cn/feed
+-
+  alias: hiadmin.org
+  url: http://www.hiadmin.org/
+  feedUrl: http://www.hiadmin.org/sitemap.xml
+-
+  alias: heap.engineering
+  url: https://heap.engineering/
+  feedUrl: https://heap.io/feed
+-
+  alias: hiddedevries.nl
+  url: https://hiddedevries.nl/
+  feedUrl: https://hiddedevries.nl/rss/full/
+-
+  alias: highcaffeinecontent.com
+  url: https://www.highcaffeinecontent.com/
+  feedUrl: https://www.highcaffeinecontent.com/blog/rss.xml
+-
+  alias: hgoldfish.com
+  url: http://hgoldfish.com/
+  feedUrl: https://hgoldfish.com/blogs/rss/articles.xml
+-
+  alias: highscalability.com
+  url: http://highscalability.com/
+  feedUrl: http://feeds.feedburner.com/HighScalability
+-
+  alias: hifreud.com
+  url: http://www.hifreud.com/
+  feedUrl: https://www.hifreud.com/feed.xml
+-
+  alias: heshizi.com
+  url: https://heshizi.com/
+  feedUrl: https://heshizi.com/feed
+-
+  alias: heshuai.net
+  url: http://www.heshuai.net/
+  feedUrl: http://www.heshuai.net/feed
+-
+  alias: heylinux.com
+  url: http://heylinux.com/
+  feedUrl: http://heylinux.com/feed
+-
+  alias: hexwhale.com/blog
+  url: https://www.hexwhale.com/blog/
+  feedUrl: https://www.hexwhale.com/feed/
+-
+  alias: hi.ktsee.com
+  url: http://hi.ktsee.com/
+  feedUrl: http://hi.ktsee.com/feed/
+-
+  alias: hoolev.github.io
+  url: http://hoolev.github.io/
+  feedUrl: http://hoolev.github.io/atom.xml
+-
+  alias: hostinger.com/blog/engineering
+  url: https://www.hostinger.com/blog/engineering/
+  feedUrl: https://www.hostinger.com/blog/feed/
+-
+  alias: hosting.com/cloud-computing-blog
+  url: https://www.hosting.com/cloud-computing-blog/
+  feedUrl: https://www.hosting.com/feed/
+-
+  alias: houssein.me
+  url: https://houssein.me/
+  feedUrl: https://houssein.me/feed.xml
+-
+  alias: hookrace.net
+  url: https://hookrace.net/
+  feedUrl: https://hookrace.net/blog/feed/
+-
+  alias: houfukude.tk
+  url: http://www.houfukude.tk/
+  feedUrl: http://www.houfukude.tk/feed
+-
+  alias: huang-x-h.github.io
+  url: http://huang-x-h.github.io/
+  feedUrl: http://huang-x-h.github.io/feed.xml
+-
+  alias: huangbowen.net
+  url: http://www.huangbowen.net/
+  feedUrl: http://www.huangbowen.net/atom.xml
+-
+  alias: howtogeek.com
+  url: https://www.howtogeek.com/
+  feedUrl: https://feeds.howtogeek.com/HowToGeek
+-
+  alias: hswolff.com
+  url: https://hswolff.com/
+  feedUrl: https://hswolff.com/rss.xml
+-
+  alias: hudongdong.com
+  url: http://www.hudongdong.com/
+  feedUrl: http://blog.hudongdong.com/feed/
+-
+  alias: huilog.com
+  url: http://www.huilog.com/
+  feedUrl: http://www.huilog.com/?feed=rss2
+-
+  alias: huibschoots.nl/wordpress
+  url: http://www.huibschoots.nl/wordpress
+  feedUrl: http://www.huibschoots.nl/wordpress/?feed=rss2
+-
+  alias: hui.lu
+  url: http://hui.lu/
+  feedUrl: https://hui.lu/rss/
