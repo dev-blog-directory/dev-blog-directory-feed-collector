@@ -6622,3 +6622,343 @@
   alias: liangs.me
   url: http://liangs.me/
   feedUrl: http://liangs.me/feed/
+-
+  alias: lifepluslinux.blogspot.in
+  url: http://lifepluslinux.blogspot.in/
+  feedUrl: http://lifepluslinux.blogspot.com/feeds/posts/default
+-
+  alias: liangshan.me
+  url: http://liangshan.me/
+  feedUrl: https://liangshan.blog/atom.xml
+-
+  alias: lightskystreet.com
+  url: http://www.lightskystreet.com/
+  feedUrl: http://www.lightskystreet.com/atom.xml
+-
+  alias: liaohuqiu.net
+  url: http://liaohuqiu.net/
+  feedUrl: http://liaohuqiu.net/about/feed
+-
+  alias: licstar.net
+  url: http://licstar.net/
+  feedUrl: http://licstar.net/feed
+-
+  alias: lightcss.com
+  url: http://lightcss.com/
+  feedUrl: http://lightcss.com/feed/
+-
+  alias: lidetao.com
+  url: http://www.lidetao.com/
+  feedUrl: http://www.lidetao.com/feed
+-
+  alias: lifestack.cn
+  url: http://lifestack.cn/
+  feedUrl: http://lifestack.cn/feed
+-
+  alias: liliputing.com
+  url: https://liliputing.com/
+  feedUrl: https://liliputing.com/feed
+-
+  alias: linbinghe.com
+  url: http://linbinghe.com/
+  feedUrl: http://linbinghe.com/atom.xml
+-
+  alias: lijiejie.com
+  url: http://www.lijiejie.com/
+  feedUrl: http://www.lijiejie.com/feed/
+-
+  alias: lincolnge.github.io
+  url: http://lincolnge.github.io/
+  feedUrl: http://lincolnge.github.io/atom.xml
+-
+  alias: lingxiankong.github.io
+  url: http://lingxiankong.github.io/
+  feedUrl: https://lingxiankong.github.io/pages/rss.xml
+-
+  alias: linkedme.in
+  url: http://www.linkedme.in/
+  feedUrl: http://www.linkedme.in/atom.xml
+-
+  alias: lightless.me
+  url: https://lightless.me/
+  feedUrl: https://lightless.me/feed/
+-
+  alias: linusp.github.io
+  url: http://linusp.github.io/
+  feedUrl: http://www.zmonster.me/atom.xml
+-
+  alias: limh.me
+  url: http://limh.me/
+  feedUrl: https://lmih.cn/rss.php
+-
+  alias: lihaitao.cn
+  url: http://lihaitao.cn/
+  feedUrl: http://lihaitao.cn/?feed=rss2
+-
+  alias: lindayi.me
+  url: http://lindayi.me/
+  feedUrl: https://lindayi.me/feed/
+-
+  alias: linlexus.com
+  url: http://linlexus.com/
+  feedUrl: http://linlexus.com/rss/
+-
+  alias: lilydjwg.is-programmer.com
+  url: http://lilydjwg.is-programmer.com/
+  feedUrl: https://blog.lilydjwg.me/posts.rss
+-
+  alias: limboy.me
+  url: http://limboy.me/
+  feedUrl: http://feeds.feedburner.com/lzyy
+-
+  alias: liruqi.info
+  url: http://liruqi.info/
+  feedUrl: https://liruqi.info/rss
+-
+  alias: lijingquan.net
+  url: http://www.lijingquan.net/
+  feedUrl: https://www.lijingquan.net/feed/
+-
+  alias: linuxzen.com
+  url: http://www.linuxzen.com/
+  feedUrl: https://www.linuxzen.com/feeds/all.atom.xml
+-
+  alias: linux.cn
+  url: https://linux.cn/
+  feedUrl: https://linux.cn/rss.xml
+-
+  alias: lisux.me/lishuai
+  url: http://lisux.me/lishuai
+  feedUrl: http://lisux.me/lishuai/?feed=rss2
+-
+  alias: litten.github.io
+  url: http://litten.github.io/
+  feedUrl: http://litten.me/atom.xml
+-
+  alias: linan87.cn
+  url: http://www.linan87.cn/
+  feedUrl: http://www.linan87.cn/feed/
+-
+  alias: linuxtoy.org
+  url: https://linuxtoy.org/
+  feedUrl: https://linuxtoy.org/feeds/all.atom.xml
+-
+  alias: littlebitesofcocoa.com
+  url: https://littlebitesofcocoa.com/
+  feedUrl: https://littlebitesofcocoa.com/rss
+-
+  alias: liujiacai.net
+  url: http://liujiacai.net/
+  feedUrl: https://liujiacai.net/atom.xml
+-
+  alias: liucheng.name
+  url: http://liucheng.name/
+  feedUrl: https://liucheng.name/feed/
+-
+  alias: linuxperf.com
+  url: http://linuxperf.com/
+  feedUrl: http://linuxperf.com/?feed=rss2
+-
+  alias: linxlabs.com/category/golang
+  url: https://www.linxlabs.com/category/golang/
+  feedUrl: https://www.linxlabs.com/feed/
+-
+  alias: littlekendra.com
+  url: https://littlekendra.com/
+  feedUrl: https://littlekendra.com/feed/
+-
+  alias: liuboping.com
+  url: https://www.liuboping.com/
+  feedUrl: https://www.liuboping.com/feed/rss/
+-
+  alias: liuxing.info
+  url: http://liuxing.info/
+  feedUrl: http://liuxing.info/atom.xml
+-
+  alias: linuxstory.org
+  url: http://www.linuxstory.org/
+  feedUrl: https://10.linuxstory.net/feed/
+-
+  alias: liuchuo.net
+  url: https://www.liuchuo.net/
+  feedUrl: https://www.liuchuo.net/feed
+-
+  alias: liuyandong.com
+  url: https://liuyandong.com/
+  feedUrl: https://liuyandong.com/atom.xml
+-
+  alias: liurongxing.com
+  url: https://www.liurongxing.com/
+  feedUrl: https://www.liurongxing.com/feed
+-
+  alias: liyangliang.me
+  url: http://liyangliang.me/
+  feedUrl: http://liyangliang.me/index.xml
+-
+  alias: litefeel.com
+  url: http://www.litefeel.com/
+  feedUrl: https://www.litefeel.com/feed/
+-
+  alias: loic.land
+  url: https://loic.land/
+  feedUrl: https://loic.land/feed.xml
+-
+  alias: loige.co
+  url: https://loige.co/
+  feedUrl: https://loige.co/rss.xml
+-
+  alias: liveoverflow.com/blog
+  url: https://liveoverflow.com/blog/index.html
+  feedUrl: https://liveoverflow.com/rss/
+-
+  alias: liveramp.com/engineering
+  url: https://liveramp.com/engineering/
+  feedUrl: https://liveramp.com/feed/
+-
+  alias: liuhaihua.cn
+  url: http://www.liuhaihua.cn/
+  feedUrl: http://www.liuhaihua.cn/wp-includes/wlwmanifest.xml
+-
+  alias: longluo.github.io
+  url: http://longluo.github.io/
+  feedUrl: http://www.longluo.me/atom.xml
+-
+  alias: loomob.com
+  url: https://loomob.com/
+  feedUrl: https://loomob.com/feed
+-
+  alias: lordcodes.com/ios
+  url: https://www.lordcodes.com/ios/
+  feedUrl: https://www.lordcodes.com/feeds/main.xml
+-
+  alias: longchaoqun.com
+  url: http://www.longchaoqun.com/
+  feedUrl: http://www.longchaoqun.com/feed/
+-
+  alias: logicalidea.co
+  url: https://logicalidea.co/
+  feedUrl: https://logicalidea.co/feed/
+-
+  alias: lorderikir.me/blog
+  url: https://lorderikir.me/blog
+  feedUrl: https://ericjiang.dev/rss.xml
+-
+  alias: liukaka.com
+  url: http://www.liukaka.com/
+  feedUrl: http://www.liukaka.com/feed/
+-
+  alias: love-python.blogspot.co.id
+  url: http://love-python.blogspot.co.id/
+  feedUrl: http://love-python.blogspot.com/feeds/posts/default
+-
+  alias: louislee92.com
+  url: http://louislee92.com/
+  feedUrl: http://louislee92.com/feed.xml
+-
+  alias: lok.me
+  url: http://lok.me/
+  feedUrl: http://lok.me/feed
+-
+  alias: logo123.net/blog
+  url: http://www.logo123.net/blog
+  feedUrl: https://blog.logo123.net/feed
+-
+  alias: longdw.com
+  url: http://www.longdw.com/
+  feedUrl: http://www.longdw.com/feed/
+-
+  alias: loxodrome.io
+  url: https://www.loxodrome.io/
+  feedUrl: https://www.loxodrome.io//index.xml
+-
+  alias: luchun.github.io
+  url: http://luchun.github.io/
+  feedUrl: http://luchun.github.io/feed.xml
+-
+  alias: lornajane.net
+  url: https://lornajane.net/
+  feedUrl: https://lornajane.net/feed
+-
+  alias: lucumr.pocoo.org
+  url: http://lucumr.pocoo.org/
+  feedUrl: http://lucumr.pocoo.org/feed.atom
+-
+  alias: lucumr.pocoo.org/tags/python
+  url: http://lucumr.pocoo.org/tags/python/
+  feedUrl: http://lucumr.pocoo.org/feed.atom
+-
+  alias: lucybain.com/blog
+  url: https://lucybain.com/blog/
+  feedUrl: https://lucybain.com/feed.xml
+-
+  alias: live-in.org
+  url: http://www.live-in.org/
+  feedUrl: http://www.live-in.org/feed
+-
+  alias: louishan.com
+  url: http://louishan.com/
+  feedUrl: http://louishan.com/feed
+-
+  alias: loyhome.com
+  url: http://www.loyhome.com/
+  feedUrl: http://www.loyhome.com/feed/
+-
+  alias: luetkemj.github.io
+  url: https://luetkemj.github.io/
+  feedUrl: https://luetkemj.github.io/feed.xml
+-
+  alias: lugir.com
+  url: http://lugir.com/
+  feedUrl: https://www.lugir.com/rss.xml
+-
+  alias: lukeplant.me.uk/blog/categories/python
+  url: http://lukeplant.me.uk/blog/categories/python/
+  feedUrl: https://lukeplant.me.uk/blog/categories/python/atom/index.xml
+-
+  alias: lukew.com/ff
+  url: https://www.lukew.com/ff/
+  feedUrl: http://feeds.feedburner.com/FunctioningForm
+-
+  alias: luminsense.github.io
+  url: http://luminsense.github.io/
+  feedUrl: http://lumiwu.com/atom.xml
+-
+  alias: luanxiang.org/blog
+  url: http://www.luanxiang.org/blog/
+  feedUrl: http://www.luanxiang.org/?feed=atom
+-
+  alias: lrxin.com
+  url: http://www.lrxin.com/
+  feedUrl: http://www.lrxin.com/feed
+-
+  alias: lukecsmith.co.uk
+  url: https://www.lukecsmith.co.uk/
+  feedUrl: https://www.lukecsmith.co.uk/feed/
+-
+  alias: lucidsoftech.com/blog
+  url: https://www.lucidsoftech.com/blog
+  feedUrl: https://www.lucidsoftech.com/feed
+-
+  alias: m4513.blogspot.com
+  url: https://m4513.blogspot.com/
+  feedUrl: https://m4513.blogspot.com/feeds/posts/default
+-
+  alias: lvwenhan.com
+  url: http://lvwenhan.com/
+  feedUrl: https://lvwenhan.com/rss.php
+-
+  alias: luoxufeiyan.com
+  url: http://www.luoxufeiyan.com/
+  feedUrl: https://www.luoxufeiyan.com/feed/
+-
+  alias: ma.ttias.be/blog
+  url: https://ma.ttias.be/blog/
+  feedUrl: https://ma.ttias.be/blog/index.xml
+-
+  alias: lyric.im
+  url: http://lyric.im/
+  feedUrl: https://lyric.im/feed/rss2.xml
+-
+  alias: luolei.org
+  url: http://luolei.org/
+  feedUrl: https://luolei.org/feed/
