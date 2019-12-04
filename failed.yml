@@ -423,3 +423,71 @@
   date: Wed Dec 04 2019 08:18:27 GMT+0000 (Coordinated Universal Time)
   url: https://blog.wearewizards.io/
   reason: RequestError: connect ETIMEDOUT 52.16.92.204:443
+-
+  date: Wed Dec 04 2019 08:19:23 GMT+0000 (Coordinated Universal Time)
+  url: http://boke.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:19:23 GMT+0000 (Coordinated Universal Time)
+  url: http://www.bootdo.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:19:24 GMT+0000 (Coordinated Universal Time)
+  url: https://www.bricolage.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:19:24 GMT+0000 (Coordinated Universal Time)
+  url: http://bthdonohue.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:19:24 GMT+0000 (Coordinated Universal Time)
+  url: https://boyux.me/
+  reason: RequestError: getaddrinfo ENOTFOUND boyux.me
+-
+  date: Wed Dec 04 2019 08:19:31 GMT+0000 (Coordinated Universal Time)
+  url: https://www.c0smx.com/
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Wed Dec 04 2019 08:19:34 GMT+0000 (Coordinated Universal Time)
+  url: http://www.bungos.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:19:36 GMT+0000 (Coordinated Universal Time)
+  url: https://calap.co/blog
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:19:36 GMT+0000 (Coordinated Universal Time)
+  url: https://c1rew.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:19:47 GMT+0000 (Coordinated Universal Time)
+  url: http://www.cccbeta.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:19:50 GMT+0000 (Coordinated Universal Time)
+  url: https://cdevroe.com/
+  reason: RequestError: connect ECONNREFUSED 206.189.189.5:443
+-
+  date: Wed Dec 04 2019 08:19:51 GMT+0000 (Coordinated Universal Time)
+  url: http://changkun.us/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:19:55 GMT+0000 (Coordinated Universal Time)
+  url: http://www.cgmasters.net/category/free-tutorials/python/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:20:05 GMT+0000 (Coordinated Universal Time)
+  url: http://chrisarriola.me/
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 08:20:10 GMT+0000 (Coordinated Universal Time)
+  url: https://christianfei.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:20:53 GMT+0000 (Coordinated Universal Time)
+  url: https://borngeekblog.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:23:10 GMT+0000 (Coordinated Universal Time)
+  url: https://www.chen101.cn/
+  reason: RequestError: connect ETIMEDOUT 47.90.33.3:443

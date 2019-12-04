@@ -2374,3 +2374,335 @@
   alias: boffosocko.com
   url: https://boffosocko.com/
   feedUrl: https://boffosocko.com/feed/
+-
+  alias: bradfrost.com
+  url: http://bradfrost.com/
+  feedUrl: http://feeds.feedburner.com/brad-frosts-blog
+-
+  alias: brandonokert.com
+  url: http://brandonokert.com/
+  feedUrl: http://brandonokert.com/index.xml
+-
+  alias: born2data.com
+  url: http://www.born2data.com/
+  feedUrl: https://www.born2data.com/feed_atom.xml
+-
+  alias: brendangregg.com/blog
+  url: http://www.brendangregg.com/blog/
+  feedUrl: http://www.brendangregg.com/blog/rss.xml
+-
+  alias: brendaneich.com
+  url: https://brendaneich.com/
+  feedUrl: https://brendaneich.com/feed/
+-
+  alias: brooker.co.za/blog
+  url: https://brooker.co.za/blog/
+  feedUrl: http://brooker.co.za/blog/rss.xml
+-
+  alias: brightdigit.com/blog
+  url: https://brightdigit.com/blog/
+  feedUrl: https://brightdigit.com/feed/
+-
+  alias: bryce.co
+  url: https://bryce.co/
+  feedUrl: https://bryce.co/index.xml
+-
+  alias: box.com/blog/engineering
+  url: https://www.box.com/blog/engineering/
+  feedUrl: https://app.box.com/services/rss/
+-
+  alias: buildplease.com
+  url: https://buildplease.com/
+  feedUrl: https://buildplease.com/index.xml
+-
+  alias: bonto.ch
+  url: https://www.bonto.ch/
+  feedUrl: https://www.bonto.ch/atom.xml
+-
+  alias: buzzfeed.com/techblog
+  url: https://www.buzzfeed.com/techblog
+  feedUrl: https://tech.buzzfeed.com/feed
+-
+  alias: boxever.com/blog
+  url: http://www.boxever.com/blog/
+  feedUrl: https://www.boxever.com/page-sitemap.xml
+-
+  alias: build.affinity.co
+  url: https://build.affinity.co/
+  feedUrl: https://build.affinity.co/feed
+-
+  alias: buildingvts.com
+  url: https://buildingvts.com/
+  feedUrl: https://buildingvts.com/feed
+-
+  alias: bytes.babbel.com/en
+  url: https://bytes.babbel.com/en/
+  feedUrl: https://cms.babbel.news/feed/?post_type=english_edition
+-
+  alias: bram.us
+  url: https://bram.us/
+  feedUrl: https://www.bram.us/feed/
+-
+  alias: bytes.swiggy.com
+  url: https://bytes.swiggy.com/
+  feedUrl: https://bytes.swiggy.com/feed
+-
+  alias: brsoftech.com/blog
+  url: https://www.brsoftech.com/blog/
+  feedUrl: https://www.brsoftech.com/blog/feed/
+-
+  alias: bugfender.com/blog
+  url: https://bugfender.com/blog/
+  feedUrl: https://bugfender.com/feed/
+-
+  alias: brucelawson.co.uk
+  url: https://www.brucelawson.co.uk/
+  feedUrl: https://www.brucelawson.co.uk/feed/
+-
+  alias: byvoid.com
+  url: https://www.byvoid.com/
+  feedUrl: https://www.byvoid.com/feed
+-
+  alias: calayer.com
+  url: https://calayer.com/
+  feedUrl: https://calayer.com/feed.xml
+-
+  alias: bysocket.com
+  url: http://www.bysocket.com/
+  feedUrl: https://www.bysocket.com/feed
+-
+  alias: c-sharpcorner.com
+  url: http://www.c-sharpcorner.com/
+  feedUrl: http://c-sharpcorner.com/userregistration/logincheck.aspx?returnurl=/?feed=rss2
+-
+  alias: carlosbecker.com
+  url: https://carlosbecker.com/
+  feedUrl: https://carlosbecker.com/index.xml
+-
+  alias: caomaocao.com/feed
+  url: http://caomaocao.com/feed
+  feedUrl: http://caomaocao.com/feed
+-
+  alias: calvin1978.blogcn.com
+  url: http://calvin1978.blogcn.com/
+  feedUrl: http://calvin1978.blogcn.com/feed
+-
+  alias: carpeaqua.com
+  url: https://carpeaqua.com/
+  feedUrl: https://carpeaqua.com/rss/
+-
+  alias: catonmat.net
+  url: https://catonmat.net/
+  feedUrl: https://catonmat.net/feed
+-
+  alias: cate.blog/tag/ios
+  url: https://cate.blog/tag/ios/
+  feedUrl: https://cate.blog/feed/
+-
+  alias: catonmat.net/blog
+  url: http://www.catonmat.net/blog/
+  feedUrl: https://catonmat.net/feed
+-
+  alias: captricity.com/blog
+  url: https://captricity.com/blog/
+  feedUrl: https://vidado.ai/feed/
+-
+  alias: cattail.me
+  url: http://cattail.me/
+  feedUrl: http://cattail.me/feed.xml
+-
+  alias: cad.zju.edu.cn/home/vagblog
+  url: http://www.cad.zju.edu.cn/home/vagblog
+  feedUrl: http://www.cad.zju.edu.cn/home/vagblog/?feed=rss2
+-
+  alias: capgemini.github.io
+  url: https://capgemini.github.io/
+  feedUrl: https://capgemini.github.io/feed.xml
+-
+  alias: catswhocode.com/blog
+  url: https://catswhocode.com/blog/
+  feedUrl: https://catswhocode.com/feed/
+-
+  alias: catswhocode.com
+  url: https://catswhocode.com/
+  feedUrl: https://catswhocode.com/feed/
+-
+  alias: cachetian.com
+  url: http://www.cachetian.com/
+  feedUrl: https://www.cachetian.com/feed/
+-
+  alias: ccn.com/tag/dark-web
+  url: https://www.ccn.com/tag/dark-web/
+  feedUrl: https://www.ccn.com/?feed=rss
+-
+  alias: camnpr.com
+  url: http://camnpr.com/
+  feedUrl: http://camnpr.com/rss.xml
+-
+  alias: casatwy.com
+  url: https://casatwy.com/
+  feedUrl: https://casatwy.com/feeds/all.atom.xml
+-
+  alias: cenalulu.github.io
+  url: http://cenalulu.github.io/
+  feedUrl: http://cenalulu.github.io/atom.xml
+-
+  alias: ceylog.github.io
+  url: http://ceylog.github.io/
+  feedUrl: http://blog.wglgg.cn/atom.xml
+-
+  alias: ccvita.com
+  url: http://www.ccvita.com/
+  feedUrl: http://feed.ccvita.com
+-
+  alias: changelog.com/gotime
+  url: https://changelog.com/gotime
+  feedUrl: https://changelog.com/feed
+-
+  alias: ccpptutoriallands.blogspot.com
+  url: https://ccpptutoriallands.blogspot.com/
+  feedUrl: https://ccpptutoriallands.blogspot.com/feeds/posts/default
+-
+  alias: cbrdigital.com
+  url: http://www.cbrdigital.com/
+  feedUrl: http://feeds.feedburner.com/CloudBusinessReview
+-
+  alias: cfeapps.com
+  url: https://cfeapps.com/
+  feedUrl: https://cfeapps.com/feed/
+-
+  alias: charity.wtf
+  url: https://charity.wtf/
+  feedUrl: https://charity.wtf/feed/
+-
+  alias: cdc.tencent.com
+  url: http://cdc.tencent.com/
+  feedUrl: https://cdc.tencent.com/wp-includes/wlwmanifest.xml
+-
+  alias: charlesleifer.com/blog/tags/python
+  url: http://charlesleifer.com/blog/tags/python/
+  feedUrl: http://charlesleifer.com/blog/rss/
+-
+  alias: chasem.co/thoughts
+  url: https://chasem.co/thoughts/
+  feedUrl: https://chasem.co/feed.xml
+-
+  alias: cheng.guru/atom.xml
+  url: http://cheng.guru/atom.xml
+  feedUrl: http://cheng.guru/atom.xml
+-
+  alias: chengjianhua.github.io
+  url: http://chengjianhua.github.io/
+  feedUrl: http://chengjianhua.github.io/rss.xml
+-
+  alias: chengweiyang.cn
+  url: http://www.chengweiyang.cn/
+  feedUrl: http://www.chengweiyang.cn/feed.xml
+-
+  alias: charliemchapman.com
+  url: https://charliemchapman.com/
+  feedUrl: https://charliemchapman.com/rss.xml
+-
+  alias: charbelnemnom.com
+  url: https://charbelnemnom.com/
+  feedUrl: https://charbelnemnom.com/feed/
+-
+  alias: chenhuijing.com/blog
+  url: https://www.chenhuijing.com/blog/
+  feedUrl: https://www.chenhuijing.com/feed.xml
+-
+  alias: chaofan.io
+  url: http://chaofan.io/
+  feedUrl: https://blog.chaofan.io/feed
+-
+  alias: chaosky.me
+  url: http://chaosky.me/
+  feedUrl: http://chaosky.me/feed/
+-
+  alias: chensd.com
+  url: http://chensd.com/
+  feedUrl: http://chensd.com/atom.xml
+-
+  alias: chiamakaikeanyi.dev
+  url: https://chiamakaikeanyi.dev/
+  feedUrl: https://chiamakaikeanyi.dev/rss.xml
+-
+  alias: chenhuijing.com
+  url: https://www.chenhuijing.com/
+  feedUrl: https://www.chenhuijing.com/feed.xml
+-
+  alias: chetaru.com
+  url: https://chetaru.com/
+  feedUrl: https://chetaru.com/?feed=rss
+-
+  alias: chaozh.com
+  url: http://www.chaozh.com/
+  feedUrl: http://www.chaozh.com/feed/
+-
+  alias: chris.banes.me
+  url: https://chris.banes.me/
+  feedUrl: https://chris.banes.dev/atom.xml
+-
+  alias: chris.eidhof.nl
+  url: http://chris.eidhof.nl/
+  feedUrl: http://chris.eidhof.nl//index.xml
+-
+  alias: chenshake.com
+  url: http://www.chenshake.com/
+  feedUrl: http://www.chenshake.com/feed/
+-
+  alias: chrisruppel.com
+  url: https://chrisruppel.com/
+  feedUrl: https://chrisruppel.com/travel.xml
+-
+  alias: careergeekblog.com
+  url: https://www.careergeekblog.com/
+  feedUrl: https://www.careergeekblog.com/feed/
+-
+  alias: ccava.cc
+  url: https://www.ccava.cc/
+  feedUrl: https://ccava.cc/feed
+-
+  alias: chinadtrace.org
+  url: http://chinadtrace.org/
+  feedUrl: https://chinadtrace.org/feed/
+-
+  alias: christianheilmann.com
+  url: https://christianheilmann.com/
+  feedUrl: https://christianheilmann.com/feed/
+-
+  alias: christiantietze.de
+  url: https://christiantietze.de/
+  feedUrl: https://christiantietze.de/feed.atom
+-
+  alias: chenzhiguo.cn
+  url: http://chenzhiguo.cn/
+  feedUrl: http://chenzhiguo.cn/feed/
+-
+  alias: ciechanowski.me
+  url: http://ciechanowski.me/
+  feedUrl: https://ciechanow.ski/atom.xml
+-
+  alias: christopherbiscardi.com
+  url: https://www.christopherbiscardi.com/
+  feedUrl: https://www.christopherbiscardi.com/rss.xml
+-
+  alias: chinawebanalytics.cn
+  url: http://www.chinawebanalytics.cn/
+  feedUrl: http://www.chinawebanalytics.cn/feed/
+-
+  alias: chrisfenton.com
+  url: http://www.chrisfenton.com/
+  feedUrl: http://www.chrisfenton.com/feed/
+-
+  alias: chsakell.com
+  url: https://chsakell.com/
+  feedUrl: https://chsakell.com/feed/
+-
+  alias: chinagdg.org
+  url: http://chinagdg.org/
+  feedUrl: https://chinagdg.org/feed/
+-
+  alias: chriszou.com
+  url: http://chriszou.com/
+  feedUrl: http://chriszou.com/rss.xml
