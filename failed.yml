@@ -555,3 +555,67 @@
   date: Wed Dec 04 2019 08:27:33 GMT+0000 (Coordinated Universal Time)
   url: https://clusterhq.com/blog/
   reason: RequestError: connect ETIMEDOUT 217.70.184.38:443
+-
+  date: Wed Dec 04 2019 08:28:37 GMT+0000 (Coordinated Universal Time)
+  url: https://codetheweb.blog/
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 08:28:39 GMT+0000 (Coordinated Universal Time)
+  url: https://www.codesheep.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:28:42 GMT+0000 (Coordinated Universal Time)
+  url: https://coding.net/?from=rss
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:28:44 GMT+0000 (Coordinated Universal Time)
+  url: https://coderwall.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:28:44 GMT+0000 (Coordinated Universal Time)
+  url: http://codingxiaxw.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:28:48 GMT+0000 (Coordinated Universal Time)
+  url: http://colah.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:28:52 GMT+0000 (Coordinated Universal Time)
+  url: https://cognitive.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:28:55 GMT+0000 (Coordinated Universal Time)
+  url: https://www.colabug.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:28:57 GMT+0000 (Coordinated Universal Time)
+  url: https://convox.com/blog
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:29:02 GMT+0000 (Coordinated Universal Time)
+  url: https://www.continuum.io/blog/developer-blog
+  reason: HTTPError: Response code 522 (Origin Connection Time-out)
+-
+  date: Wed Dec 04 2019 08:29:06 GMT+0000 (Coordinated Universal Time)
+  url: https://coursetro.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:29:07 GMT+0000 (Coordinated Universal Time)
+  url: http://cpython-devguide.readthedocs.io/en/github/index.html
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:29:09 GMT+0000 (Coordinated Universal Time)
+  url: http://www.crimx.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:29:21 GMT+0000 (Coordinated Universal Time)
+  url: http://www.cssmagic.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:29:28 GMT+0000 (Coordinated Universal Time)
+  url: https://cutting.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:29:34 GMT+0000 (Coordinated Universal Time)
+  url: https://cuiqingcai.com/
+  reason: Feed URL not found

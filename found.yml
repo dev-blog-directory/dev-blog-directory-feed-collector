@@ -3042,3 +3042,339 @@
   alias: coderspoint.in
   url: https://www.coderspoint.in/
   feedUrl: https://www.coderspoint.in/feeds/posts/default
+-
+  alias: codewithstyle.info
+  url: https://codewithstyle.info/
+  feedUrl: https://codewithstyle.info/atom.xml
+-
+  alias: codeworkshop.net
+  url: http://codeworkshop.net/
+  feedUrl: http://codeworkshop.net/feed
+-
+  alias: coderyi.com
+  url: http://www.coderyi.com/
+  feedUrl: http://www.coderyi.com/feed.xml
+-
+  alias: codewithhugo.com
+  url: https://codewithhugo.com/
+  feedUrl: https://codewithhugo.com/index.xml
+-
+  alias: codesimple.info
+  url: http://www.codesimple.info/
+  feedUrl: https://www.codesimple.info/feeds/posts/default
+-
+  alias: codinghorror.com/blog
+  url: http://www.codinghorror.com/blog/
+  feedUrl: http://feeds.feedburner.com/codinghorror
+-
+  alias: codevoyagers.com
+  url: http://codevoyagers.com/
+  feedUrl: https://medium.com/feed/@SkyscannerEng
+-
+  alias: coding-vila.blogspot.com
+  url: https://coding-vila.blogspot.com/
+  feedUrl: https://coding-vila.blogspot.com/feeds/posts/default
+-
+  alias: codingalpha.com
+  url: https://www.codingalpha.com/
+  feedUrl: https://www.codingalpha.com/feed/
+-
+  alias: codevscolor.com/category/android
+  url: http://codevscolor.com/category/android/
+  feedUrl: https://www.codevscolor.com/feed/
+-
+  alias: codewall.co.uk
+  url: https://www.codewall.co.uk/
+  feedUrl: https://www.codewall.co.uk/feed/
+-
+  alias: codewithmike.com
+  url: https://www.codewithmike.com/
+  feedUrl: https://www.codewithmike.com/feed/
+-
+  alias: codon.com/articles
+  url: http://codon.com/articles
+  feedUrl: https://codon.com/feed.atom
+-
+  alias: codingdojo.com/blog
+  url: https://www.codingdojo.com/blog/
+  feedUrl: https://www.codingdojo.com/blog/feed
+-
+  alias: coletiv.com/blog
+  url: https://coletiv.com/blog/
+  feedUrl: https://coletiv.com/rss.xml
+-
+  alias: colindrake.me/post
+  url: https://colindrake.me/post/
+  feedUrl: https://colindrake.me/post/index.xml
+-
+  alias: collectiveidea.com/blog
+  url: https://collectiveidea.com/blog
+  feedUrl: https://collectiveidea.com/blog/feed/
+-
+  alias: codingexplorer.com
+  url: http://www.codingexplorer.com/
+  feedUrl: https://www.codingexplorer.com/feed/
+-
+  alias: colobu.com
+  url: http://colobu.com/
+  feedUrl: https://colobu.com/atom.xml
+-
+  alias: commonsware.com/blog
+  url: https://commonsware.com/blog/
+  feedUrl: https://commonsware.com/blog/feed.atom
+-
+  alias: collegeinfogeek.com
+  url: https://collegeinfogeek.com/
+  feedUrl: https://collegeinfogeek.com/wp-includes/wlwmanifest.xml
+-
+  alias: colachan.com/feed
+  url: http://colachan.com/feed
+  feedUrl: http://colachan.com/feed
+-
+  alias: computer.forensikblog.de/en
+  url: https://computer.forensikblog.de/en/
+  feedUrl: https://computer.forensikblog.de/en/atom.xml
+-
+  alias: computerworlduk.com/cloud-computing
+  url: https://www.computerworlduk.com/cloud-computing/
+  feedUrl: http://www.computerworld.com/uk/category/cloud-computing/index.rss
+-
+  alias: computer.org/cloud-computing
+  url: https://www.computer.org/cloud-computing/
+  feedUrl: https://www.computer.org/?feed=rss
+-
+  alias: cokebar.info
+  url: https://cokebar.info/
+  feedUrl: https://cokebar.info/feed
+-
+  alias: codingwithempathy.com
+  url: http://codingwithempathy.com/
+  feedUrl: https://codingwithempathy.com/feed/
+-
+  alias: colinrcummings.github.io/blog
+  url: https://colinrcummings.github.io/blog/
+  feedUrl: https://colinrcummings.github.io/blog/rss.xml
+-
+  alias: conradstoll.com
+  url: http://conradstoll.com/
+  feedUrl: http://conradstoll.com/blog?format=rss
+-
+  alias: confluent.io/blog
+  url: https://www.confluent.io/blog
+  feedUrl: https://www.confluent.io/rss.xml
+-
+  alias: contactcentergeek.com/blog
+  url: https://contactcentergeek.com/blog
+  feedUrl: https://contactcentergeek.com/blog?format=rss
+-
+  alias: contentful.com/blog
+  url: https://www.contentful.com/blog/
+  feedUrl: https://www.contentful.com/blog/feed.xml
+-
+  alias: controlgeek.net/blog
+  url: http://controlgeek.net/blog
+  feedUrl: http://controlgeek.net/blog?format=rss
+-
+  alias: codingthesmartway.com
+  url: https://codingthesmartway.com/
+  feedUrl: https://codingthesmartway.com/feed/
+-
+  alias: colorwhistle.com/blog
+  url: https://colorwhistle.com/blog/
+  feedUrl: https://colorwhistle.com/feed/
+-
+  alias: comparethecloud.net
+  url: https://www.comparethecloud.net/
+  feedUrl: https://www.comparethecloud.net/feed/
+-
+  alias: conductofcode.io
+  url: https://conductofcode.io/
+  feedUrl: https://conductofcode.io/feed.xml
+-
+  alias: concordsoftwareandexecutiveconsulting.com/wordpress/wordpress/blog
+  url: http://www.concordsoftwareandexecutiveconsulting.com/wordpress/wordpress/blog/
+  feedUrl: http://www.concordsoftwareandexecutiveconsulting.com/wordpress/wordpress/feed/
+-
+  alias: colinzhang.com
+  url: http://colinzhang.com/
+  feedUrl: https://colinzhang.com/feed/
+-
+  alias: cos.name
+  url: http://cos.name/
+  feedUrl: http://cos.name/feed/
+-
+  alias: corner.squareup.com
+  url: https://corner.squareup.com/
+  feedUrl: https://developer.squareup.com/blog/rss.xml
+-
+  alias: contagious.dev/blog/category/ios
+  url: https://contagious.dev/blog/category/ios/
+  feedUrl: https://contagious.dev/feed/
+-
+  alias: corey600.github.io
+  url: http://corey600.github.io/
+  feedUrl: http://corey600.github.io/atom.xml
+-
+  alias: cpl.li
+  url: https://cpl.li/
+  feedUrl: https://cpl.li/feed.xml
+-
+  alias: conxz.net
+  url: http://www.conxz.net/
+  feedUrl: http://conxz.net/atom.xml
+-
+  alias: cppfans.org
+  url: http://www.cppfans.org/
+  feedUrl: https://cppfans.org/index.xml
+-
+  alias: coolnull.com
+  url: http://coolnull.com/
+  feedUrl: http://coolnull.com/feed
+-
+  alias: crackedzone.com
+  url: http://www.crackedzone.com/
+  feedUrl: http://www.crackedzone.com/feed.xml
+-
+  alias: crawshaw.io
+  url: https://crawshaw.io/
+  feedUrl: https://crawshaw.io/atom.xml
+-
+  alias: creativedeletion.com
+  url: http://www.creativedeletion.com/
+  feedUrl: http://www.creativedeletion.com/feed.xml
+-
+  alias: crgeary.com
+  url: https://www.crgeary.com/
+  feedUrl: https://crgeary.com/index.xml
+-
+  alias: copri.me/feed
+  url: http://copri.me/feed
+  feedUrl: http://copri.me/feed
+-
+  alias: coolshell.cn
+  url: https://coolshell.cn/
+  feedUrl: https://coolshell.cn/feed
+-
+  alias: crunchybagel.com
+  url: https://crunchybagel.com/
+  feedUrl: https://crunchybagel.com/rss/
+-
+  alias: coolpythoncodes.com
+  url: http://coolpythoncodes.com/
+  feedUrl: http://coolpythoncodes.com/feed/
+-
+  alias: crypt.codemancers.com
+  url: https://crypt.codemancers.com/
+  feedUrl: https://crypt.codemancers.com/index.xml
+-
+  alias: cs-cjl.com
+  url: http://cs-cjl.com/
+  feedUrl: http://cs-cjl.com/rss.xml
+-
+  alias: cs.columbia.edu/~smb/blog/control
+  url: https://www.cs.columbia.edu/~smb/blog/control/
+  feedUrl: https://www.cs.columbia.edu/~smb/blog/control/blog.xml
+-
+  alias: crazyant.net
+  url: http://www.crazyant.net/
+  feedUrl: http://www.crazyant.net/feed
+-
+  alias: crowdfire.engineering
+  url: https://crowdfire.engineering/
+  feedUrl: https://crowdfire.engineering/feed
+-
+  alias: cppblog.com
+  url: http://www.cppblog.com/
+  feedUrl: http://www.cppblog.com/rss.aspx
+-
+  alias: cplusplus.me
+  url: http://www.cplusplus.me/
+  feedUrl: https://www.cplusplus.me/feed
+-
+  alias: cppblog.com/sunicdavy
+  url: http://www.cppblog.com/sunicdavy/
+  feedUrl: http://www.cppblog.com/sunicdavy/rss.aspx
+-
+  alias: csslayer.info/wordpress
+  url: https://www.csslayer.info/wordpress
+  feedUrl: https://www.csslayer.info/wordpress/feed/
+-
+  alias: cslog.cn
+  url: http://www.cslog.cn/
+  feedUrl: http://www.cslog.cn/feed/
+-
+  alias: crystal-lang.org
+  url: https://crystal-lang.org/
+  feedUrl: https://crystal-lang.org/feed.xml
+-
+  alias: csswizardry.com
+  url: https://csswizardry.com/
+  feedUrl: https://feeds.feedburner.com/csswizardry
+-
+  alias: css-tricks.com
+  url: https://css-tricks.com/
+  feedUrl: https://css-tricks.com/feed/
+-
+  alias: cppblog.com/vczh
+  url: http://www.cppblog.com/vczh
+  feedUrl: http://www.cppblog.com/vczh/rss.aspx
+-
+  alias: ctbsea.lofter.com
+  url: http://ctbsea.lofter.com/
+  feedUrl: https://ctbsea.lofter.com/rss
+-
+  alias: cssauthor.com
+  url: https://cssauthor.com/
+  feedUrl: https://cssauthor.com/feed/
+-
+  alias: cuikai-wh.com
+  url: http://cuikai-wh.com/
+  feedUrl: http://cuikai-wh.com/feed.asp
+-
+  alias: css-weekly.com
+  url: https://css-weekly.com/
+  feedUrl: https://feeds.feedburner.com/CSS-Weekly
+-
+  alias: cssbasics.com/blog
+  url: https://www.cssbasics.com/blog/
+  feedUrl: https://www.cssbasics.com/blog/feed/
+-
+  alias: cwind001.github.io
+  url: http://cwind001.github.io/
+  feedUrl: http://gocwind.com/atom.xml
+-
+  alias: cyanny.com
+  url: http://www.cyanny.com/
+  feedUrl: http://www.cyanny.com/atom.xml
+-
+  alias: cuitianyi.com
+  url: http://cuitianyi.com/
+  feedUrl: http://cuitianyi.com/feed/
+-
+  alias: cssreflex.com/blog
+  url: http://www.cssreflex.com/blog/
+  feedUrl: https://www.bestagencies.com/feed/
+-
+  alias: cybertalk.org/tag/dark-web
+  url: https://www.cybertalk.org/tag/dark-web/
+  feedUrl: https://www.cybertalk.org/feed
+-
+  alias: ctl.io/developers/blog
+  url: https://www.ctl.io/developers/blog
+  feedUrl: https://www.ctl.io/developers/blog/rss
+-
+  alias: cstriker1407.info/blog
+  url: http://cstriker1407.info/blog
+  feedUrl: http://cstriker1407.info/blog/feed/
+-
+  alias: cutecoder.org
+  url: https://cutecoder.org/
+  feedUrl: http://feeds.feedburner.com/cutecoder
+-
+  alias: cssor.com
+  url: http://cssor.com/
+  feedUrl: http://cssor.com/feed
+-
+  alias: contentmarketinggeek.com
+  url: http://contentmarketinggeek.com/
+  feedUrl: http://contentmarketinggeek.com/feed/
