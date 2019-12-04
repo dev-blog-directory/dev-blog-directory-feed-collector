@@ -1162,3 +1162,88 @@
   date: Wed Dec 04 2019 08:53:24 GMT+0000 (Coordinated Universal Time)
   url: http://www.importnew.com/
   reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:54:28 GMT+0000 (Coordinated Universal Time)
+  url: http://iosdevelopertips.com/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Wed Dec 04 2019 08:54:34 GMT+0000 (Coordinated Universal Time)
+  url: http://ironman.enlightenedperl.org/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 08:54:34 GMT+0000 (Coordinated Universal Time)
+  url: http://www.itbbu.com/
+  reason: RequestError: write EPROTO 139725799925568:error:1425F102:SSL routines:ssl_choose_client_version:unsupported protocol:../deps/openssl/openssl/ssl/statem/statem_lib.c:1929:
+
+-
+  date: Wed Dec 04 2019 08:54:36 GMT+0000 (Coordinated Universal Time)
+  url: http://www.itcodai.com/
+  reason: HTTPError: Response code 403 (Forbidden)
+-
+  date: Wed Dec 04 2019 08:54:37 GMT+0000 (Coordinated Universal Time)
+  url: http://isux.tencent.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:54:41 GMT+0000 (Coordinated Universal Time)
+  url: https://www.itfanr.cc/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:54:44 GMT+0000 (Coordinated Universal Time)
+  url: https://www.isharepc.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:54:44 GMT+0000 (Coordinated Universal Time)
+  url: http://www.itzhai.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:54:46 GMT+0000 (Coordinated Universal Time)
+  url: https://www.iwakoscott.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:54:48 GMT+0000 (Coordinated Universal Time)
+  url: http://ituibar.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:54:52 GMT+0000 (Coordinated Universal Time)
+  url: https://jakebaker.co.uk/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:54:54 GMT+0000 (Coordinated Universal Time)
+  url: https://jackchan1999.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:54:59 GMT+0000 (Coordinated Universal Time)
+  url: https://www.jasonzurita.com/blog/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: www.jasonzurita.com. is not in the cert's altnames: DNS:shortener.secureserver.net, DNS:www.shortener.secureserver.net
+-
+  date: Wed Dec 04 2019 08:55:00 GMT+0000 (Coordinated Universal Time)
+  url: https://jamesdouble.github.io/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:55:06 GMT+0000 (Coordinated Universal Time)
+  url: http://javaonfly.blogspot.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:55:08 GMT+0000 (Coordinated Universal Time)
+  url: https://javascriptplayground.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:55:12 GMT+0000 (Coordinated Universal Time)
+  url: https://javahungry.blogspot.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:55:19 GMT+0000 (Coordinated Universal Time)
+  url: http://jessenoller.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:55:21 GMT+0000 (Coordinated Universal Time)
+  url: http://www.jiacheo.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:56:00 GMT+0000 (Coordinated Universal Time)
+  url: https://iosdevelopernews.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:56:00 GMT+0000 (Coordinated Universal Time)
+  url: https://iosdeveloperblog.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
