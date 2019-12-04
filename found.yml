@@ -4678,3 +4678,327 @@
   alias: ftium4.com
   url: http://www.ftium4.com/
   feedUrl: http://www.ftium4.com/feed
+-
+  alias: furbo.org
+  url: https://furbo.org/
+  feedUrl: https://furbo.org/feed/
+-
+  alias: fullytyped.com
+  url: http://fullytyped.com/
+  feedUrl: http://fullytyped.com/index.xml
+-
+  alias: fuzzyblog.io/blog
+  url: http://www.fuzzyblog.io/blog/
+  feedUrl: http://fuzzyblog.io/blog/feed.xml
+-
+  alias: gaelfoppolo.com
+  url: https://gaelfoppolo.com/
+  feedUrl: https://gaelfoppolo.com/feed.xml
+-
+  alias: galois.com/blog
+  url: https://galois.com/blog/
+  feedUrl: https://galois.com/wp-includes/wlwmanifest.xml
+-
+  alias: gangmax.me
+  url: http://gangmax.me/
+  feedUrl: https://gangmax.me/atom.xml
+-
+  alias: fullstackgeek.blogspot.com
+  url: https://fullstackgeek.blogspot.com/
+  feedUrl: https://fullstackgeek.blogspot.com/feeds/posts/default
+-
+  alias: gaohaoyang.github.io
+  url: http://gaohaoyang.github.io/
+  feedUrl: https://gaohaoyang.github.io/feed.xml 
+-
+  alias: gank.io
+  url: http://gank.io/
+  feedUrl: http://gank.io/feed
+-
+  alias: gaomf.cn
+  url: https://gaomf.cn/
+  feedUrl: https://gaomf.cn/atom.xml
+-
+  alias: fuller.li
+  url: https://fuller.li/
+  feedUrl: https://fuller.li/posts/feed/latest.atom
+-
+  alias: fusion-reactor.com
+  url: https://www.fusion-reactor.com/
+  feedUrl: https://www.fusion-reactor.com/feed/
+-
+  alias: fusion-reactor.com/blog
+  url: https://www.fusion-reactor.com/blog/
+  feedUrl: https://www.fusion-reactor.com/feed/
+-
+  alias: fullstack.info
+  url: https://fullstack.info/
+  feedUrl: https://fullstack.info/feed/
+-
+  alias: g4designhouse.com/our-blog
+  url: https://www.g4designhouse.com/our-blog/
+  feedUrl: https://www.g4designhouse.com/feed/
+-
+  alias: gajotres.net
+  url: http://www.gajotres.net/
+  feedUrl: https://www.gajotres.net/feed/
+-
+  alias: geek100.com
+  url: http://geek100.com/
+  feedUrl: http://feeds2.feedburner.com/twetw/
+-
+  alias: futuretap.com/blog
+  url: https://www.futuretap.com/blog?tag=developer
+  feedUrl: https://www.futuretap.com/feed
+-
+  alias: geekfeminism.org/tag/python
+  url: https://geekfeminism.org/tag/python/
+  feedUrl: https://geekfeminismdotorg.wordpress.com/feed/
+-
+  alias: gdky005.com
+  url: http://gdky005.com/
+  feedUrl: http://gdky005.com/atom.xml
+-
+  alias: geekhash.blogspot.com
+  url: http://geekhash.blogspot.com/
+  feedUrl: http://geekhash.blogspot.com/feeds/posts/default
+-
+  alias: gaocheng.me
+  url: http://gaocheng.me/
+  feedUrl: https://gaocheng.me/feed
+-
+  alias: gauin.com
+  url: http://www.gauin.com/
+  feedUrl: http://www.gauin.com/feed
+-
+  alias: geek-is-stupid.github.io
+  url: https://geek-is-stupid.github.io/
+  feedUrl: https://geek-is-stupid.github.io/feed.xml
+-
+  alias: geekgirlcon.com/blog
+  url: https://geekgirlcon.com/blog/
+  feedUrl: https://geekgirlcon.com/wp-includes/wlwmanifest.xml
+-
+  alias: geekmamas.com
+  url: https://geekmamas.com/
+  feedUrl: https://geekmamas.com/feed/
+-
+  alias: geeks.jampp.com
+  url: https://geeks.jampp.com/
+  feedUrl: https://medium.com/feed/jampp-engineering
+-
+  alias: geekgalgo.com/home
+  url: https://www.geekgalgo.com/home
+  feedUrl: https://www.geekgalgo.com/home?format=rss
+-
+  alias: geeksforgeeks.org
+  url: http://www.geeksforgeeks.org/
+  feedUrl: https://www.geeksforgeeks.org/feed/
+-
+  alias: geekestateblog.com/blog
+  url: https://geekestateblog.com/blog/
+  feedUrl: https://geekestateblog.com/feed/
+-
+  alias: geekdad.com
+  url: https://geekdad.com/
+  feedUrl: https://geekdad.com/feed/
+-
+  alias: geeky-gadgets.com
+  url: https://www.geeky-gadgets.com/
+  feedUrl: https://www.geeky-gadgets.com/feed/
+-
+  alias: geeknews.net
+  url: http://www.geeknews.net/
+  feedUrl: http://www.geeknews.net/feed
+-
+  alias: geekinsider.com
+  url: https://www.geekinsider.com/
+  feedUrl: https://www.geekinsider.com/feed/
+-
+  alias: geeksontour.blogspot.com
+  url: https://geeksontour.blogspot.com/
+  feedUrl: https://geeksontour.blogspot.com/feeds/posts/default
+-
+  alias: geospatialpython.com
+  url: http://geospatialpython.com/
+  feedUrl: http://geospatialpython.com/feeds/posts/default
+-
+  alias: georgestefanis.com
+  url: https://georgestefanis.com/
+  feedUrl: https://www.georgestefanis.com/rss.xml
+-
+  alias: geekybobbin.com/category/blog
+  url: https://geekybobbin.com/category/blog/
+  feedUrl: https://geekybobbin.com/feed/
+-
+  alias: gejiawen.github.io
+  url: http://gejiawen.github.io/
+  feedUrl: http://blog.gejiawen.com/atom.xml
+-
+  alias: gerhut.me
+  url: http://gerhut.me/
+  feedUrl: https://gerhut.me/rss/
+-
+  alias: ghui.me
+  url: http://ghui.me/
+  feedUrl: https://ghui.me/atom.xml
+-
+  alias: geekuniversal.com
+  url: https://www.geekuniversal.com/
+  feedUrl: https://www.geekuniversal.com/feeds/posts/default
+-
+  alias: github.com/blog/category/engineering
+  url: https://github.com/blog/category/engineering
+  feedUrl: https://github.blog/feed/
+-
+  alias: github.com/crispgm/awesome-engineering-blogs/blob/master/README-cn.md
+  url: https://github.com/crispgm/awesome-engineering-blogs/blob/master/README-cn.md
+  feedUrl: https://github.com/crispgm/awesome-engineering-blogs/commits/master.atom
+-
+  alias: github.com/memleaks
+  url: https://github.com/memleaks
+  feedUrl: https://github.com/opensearch.xml
+-
+  alias: github.com/thzt
+  url: https://github.com/thzt/
+  feedUrl: https://github.com/opensearch.xml
+-
+  alias: github.com/wangxiaojing
+  url: https://github.com/wangxiaojing
+  feedUrl: https://github.com/opensearch.xml
+-
+  alias: gityuan.com
+  url: http://gityuan.com/
+  feedUrl: http://gityuan.com/feed.xml
+-
+  alias: gistia.com
+  url: https://www.gistia.com/
+  feedUrl: https://www.gistia.com/feed/
+-
+  alias: geekylifestyle.com
+  url: https://geekylifestyle.com/
+  feedUrl: https://geekylifestyle.com/feed
+-
+  alias: glebbahmutov.com/blog
+  url: https://glebbahmutov.com/blog/
+  feedUrl: https://glebbahmutov.com/blog/atom.xml
+-
+  alias: gingerbookgeek.wordpress.com
+  url: https://gingerbookgeek.wordpress.com/
+  feedUrl: https://gingerbookgeek.wordpress.com/feed/
+-
+  alias: girisagar46.github.io
+  url: https://girisagar46.github.io/
+  feedUrl: https://girisagar46.github.io/feeds/all.atom.xml
+-
+  alias: geewaza.com
+  url: http://www.geewaza.com/
+  feedUrl: http://www.geewaza.com/?feed=rss2
+-
+  alias: gizmodo.com/tag/android
+  url: https://gizmodo.com/tag/android
+  feedUrl: https://gizmodo.com/rss
+-
+  alias: glowingpython.blogspot.co.id
+  url: http://glowingpython.blogspot.co.id/
+  feedUrl: https://glowingpython.blogspot.com/feeds/posts/default
+-
+  alias: gmarik.info
+  url: http://www.gmarik.info/
+  feedUrl: https://www.gmarik.info/blog/index.xml
+-
+  alias: goel.io
+  url: https://goel.io/
+  feedUrl: http://goel.io/feed.xml
+-
+  alias: gocardless.com/blog/tagged/engineering
+  url: https://gocardless.com/blog/tagged/engineering/
+  feedUrl: https://gocardless.com/content-platform/rss/resources.xml
+-
+  alias: gokul.site
+  url: https://gokul.site/
+  feedUrl: https://gokul.site/rss.xml
+-
+  alias: golangbot.com
+  url: https://golangbot.com/
+  feedUrl: https://golangbot.com/rss/
+-
+  alias: githubengineering.com
+  url: https://githubengineering.com/
+  feedUrl: https://github.blog/engineering.atom
+-
+  alias: golangprograms.com/golang
+  url: https://www.golangprograms.com/golang
+  feedUrl: https://www.golangprograms.com/golang/rss/index/store_id/1/
+-
+  alias: gomakethings.com/articles
+  url: https://gomakethings.com/articles/
+  feedUrl: https://gomakethings.com/feed/index.xml
+-
+  alias: glasnt.com/blog
+  url: https://glasnt.com/blog/
+  feedUrl: https://glasnt.com/blog/feed.xml
+-
+  alias: glennstovall.com
+  url: https://glennstovall.com/
+  feedUrl: https://glennstovall.com/wp-includes/wlwmanifest.xml
+-
+  alias: gonwan.com
+  url: http://www.gonwan.com/
+  feedUrl: https://www.gonwan.com/feed/
+-
+  alias: geekonomics10000.com
+  url: https://www.geekonomics10000.com/
+  feedUrl: https://www.geekonomics10000.com/feed
+-
+  alias: gouthamanbalaraman.com
+  url: http://gouthamanbalaraman.com/
+  feedUrl: http://gouthamanbalaraman.com/feeds/all.atom.xml
+-
+  alias: googlegis.github.com
+  url: http://googlegis.github.com/
+  feedUrl: https://googlegis.github.io/atom.xml
+-
+  alias: gold.xitu.io
+  url: http://gold.xitu.io/
+  feedUrl: https://b-gold-cdn.xitu.io/conf/search.xml
+-
+  alias: goinggo.net
+  url: https://www.goinggo.net/
+  feedUrl: https://www.ardanlabs.com/blog/index.xml
+-
+  alias: grafana.com/blog
+  url: https://grafana.com/blog/
+  feedUrl: https://grafana.com/blog/index.xml
+-
+  alias: graphics-geek.blogspot.co.uk
+  url: http://graphics-geek.blogspot.co.uk/
+  feedUrl: http://graphics-geek.blogspot.com/feeds/posts/default
+-
+  alias: gracecode.com
+  url: http://www.gracecode.com/
+  feedUrl: https://www.gracecode.com/feed/
+-
+  alias: golangcode.com
+  url: https://golangcode.com/
+  feedUrl: https://golangcode.com/index.xml
+-
+  alias: golang.ch
+  url: https://golang.ch/
+  feedUrl: https://golang.ch/feed/
+-
+  alias: goodoldgeek.com/blogs
+  url: https://www.goodoldgeek.com/blogs/
+  feedUrl: https://www.goodoldgeek.com/feed/
+-
+  alias: gongzi.org
+  url: http://www.gongzi.org/
+  feedUrl: https://www.gongzi.org/feed
+-
+  alias: goxia.maytide.net/index.php
+  url: http://goxia.maytide.net/index.php
+  feedUrl: http://goxia.maytide.net/feed.php
+-
+  alias: granitegeek.concordmonitor.com
+  url: https://granitegeek.concordmonitor.com/
+  feedUrl: https://granitegeek.concordmonitor.com/feed/

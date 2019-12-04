@@ -921,3 +921,79 @@
   date: Wed Dec 04 2019 08:41:00 GMT+0000 (Coordinated Universal Time)
   url: https://everybodyshometowngeek.com/blog/
   reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:41:54 GMT+0000 (Coordinated Universal Time)
+  url: https://fulljoin.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:41:54 GMT+0000 (Coordinated Universal Time)
+  url: http://www.funboxpower.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:41:54 GMT+0000 (Coordinated Universal Time)
+  url: https://www.fullstackpython.com/blog.html
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:41:55 GMT+0000 (Coordinated Universal Time)
+  url: http://www.fuzhijie.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:41:57 GMT+0000 (Coordinated Universal Time)
+  url: https://www.future-processing.pl/technical-blog/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:42:05 GMT+0000 (Coordinated Universal Time)
+  url: https://gedd.ski/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:05 GMT+0000 (Coordinated Universal Time)
+  url: https://www.gblm.net/
+  reason: HTTPError: Response code 502 (Bad Gateway)
+-
+  date: Wed Dec 04 2019 08:42:07 GMT+0000 (Coordinated Universal Time)
+  url: https://gavinhenderson.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:08 GMT+0000 (Coordinated Universal Time)
+  url: http://www.geekboots.tech/
+  reason: RequestError: getaddrinfo ENOTFOUND www.geekboots.tech
+-
+  date: Wed Dec 04 2019 08:42:19 GMT+0000 (Coordinated Universal Time)
+  url: http://ggajos.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:19 GMT+0000 (Coordinated Universal Time)
+  url: https://www.genedock.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:20 GMT+0000 (Coordinated Universal Time)
+  url: https://gideonpyzer.dev/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:20 GMT+0000 (Coordinated Universal Time)
+  url: https://gideonpyzer.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:24 GMT+0000 (Coordinated Universal Time)
+  url: https://www.giftegwuenu.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:27 GMT+0000 (Coordinated Universal Time)
+  url: http://gofynd.io/blog
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:34 GMT+0000 (Coordinated Universal Time)
+  url: https://www.gloriacho.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:34 GMT+0000 (Coordinated Universal Time)
+  url: http://www.grackertalk.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:42:37 GMT+0000 (Coordinated Universal Time)
+  url: http://goz.hexacosa.net/
+  reason: HTTPError: Response code 502 (Bad Gateway)
+-
+  date: Wed Dec 04 2019 08:47:00 GMT+0000 (Coordinated Universal Time)
+  url: https://www.geekfence.com/
+  reason: RequestError: connect ETIMEDOUT 195.229.192.186:443
