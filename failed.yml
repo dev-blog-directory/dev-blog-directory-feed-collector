@@ -699,3 +699,61 @@
   date: Wed Dec 04 2019 08:32:38 GMT+0000 (Coordinated Universal Time)
   url: http://dailycode.daoapp.io/
   reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:33:46 GMT+0000 (Coordinated Universal Time)
+  url: https://developers.redhat.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:33:47 GMT+0000 (Coordinated Universal Time)
+  url: https://devs.mailchimp.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:33:55 GMT+0000 (Coordinated Universal Time)
+  url: http://www.dinghaijun.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:33:55 GMT+0000 (Coordinated Universal Time)
+  url: https://www.discovermeteor.com/blog
+  reason: RequestError: write EPROTO 140050861885248:error:14094438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 80
+
+-
+  date: Wed Dec 04 2019 08:34:04 GMT+0000 (Coordinated Universal Time)
+  url: http://docs.python-guide.org/en/latest/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:34:11 GMT+0000 (Coordinated Universal Time)
+  url: https://drobinin.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:34:13 GMT+0000 (Coordinated Universal Time)
+  url: http://www.dongcoder.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:34:16 GMT+0000 (Coordinated Universal Time)
+  url: http://www.dushiwei.cn/
+  reason: RequestError: write EPROTO 140050861885248:error:1425F102:SSL routines:ssl_choose_client_version:unsupported protocol:../deps/openssl/openssl/ssl/statem/statem_lib.c:1929:
+
+-
+  date: Wed Dec 04 2019 08:34:17 GMT+0000 (Coordinated Universal Time)
+  url: https://dzone.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:34:21 GMT+0000 (Coordinated Universal Time)
+  url: http://www.easyui.info/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:34:22 GMT+0000 (Coordinated Universal Time)
+  url: http://www.eharmony.com/engineering/
+  reason: HTTPError: Response code 410 (Gone)
+-
+  date: Wed Dec 04 2019 08:34:23 GMT+0000 (Coordinated Universal Time)
+  url: http://elegantcode.com/
+  reason: HTTPError: Response code 999 (Request denied)
+-
+  date: Wed Dec 04 2019 08:34:27 GMT+0000 (Coordinated Universal Time)
+  url: http://www.easycolor.cc/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:34:29 GMT+0000 (Coordinated Universal Time)
+  url: http://www.eastdesign.net/
+  reason: Feed URL not found
