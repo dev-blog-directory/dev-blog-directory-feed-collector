@@ -1002,3 +1002,355 @@
   alias: blog.apollographql.com
   url: https://blog.apollographql.com/
   feedUrl: https://blog.apollographql.com/feed
+-
+  alias: blog.apps.npr.org
+  url: http://blog.apps.npr.org/
+  feedUrl: https://blog.apps.npr.org/atom.xml
+-
+  alias: blog.benjamin-encz.de
+  url: http://blog.benjamin-encz.de/
+  feedUrl: http://blog.benjamin-encz.de/index.xml
+-
+  alias: blog.avenuecode.com
+  url: http://blog.avenuecode.com/
+  feedUrl: https://blog.avenuecode.com/rss.xml
+-
+  alias: blog.aurelia.io
+  url: http://blog.aurelia.io/
+  feedUrl: https://aurelia.io/blog/rss/index.xml
+-
+  alias: blog.bellebcooper.com
+  url: http://blog.bellebcooper.com/
+  feedUrl: http://blog.bellebcooper.com/feeds/all.atom.xml
+-
+  alias: blog.bihe0832.com
+  url: http://blog.bihe0832.com/
+  feedUrl: https://blog.bihe0832.com/pages/atom.xml
+-
+  alias: blog.arkency.com
+  url: http://blog.arkency.com/
+  feedUrl: https://blog.arkency.com/atom.xml
+-
+  alias: blog.branch.io
+  url: https://blog.branch.io/
+  feedUrl: https://blog.branch.io/feed/
+-
+  alias: blog.bramp.net
+  url: https://blog.bramp.net/
+  feedUrl: https://blog.bramp.net/index.xml
+-
+  alias: blog.atom.io
+  url: http://blog.atom.io/
+  feedUrl: https://blog.atom.io/feed.xml
+-
+  alias: blog.bobthedeveloper.io
+  url: https://blog.bobthedeveloper.io/
+  feedUrl: https://blog.bobthedeveloper.io/feed
+-
+  alias: blog.builtinperl.com
+  url: http://blog.builtinperl.com/
+  feedUrl: http://blog.builtinperl.com/feed
+-
+  alias: blog.bitsrc.io
+  url: https://blog.bitsrc.io/
+  feedUrl: https://blog.bitsrc.io/feed
+-
+  alias: blog.chaps.io
+  url: https://blog.chaps.io/
+  feedUrl: https://blog.chaps.io/feed.xml
+-
+  alias: blog.bywind.cn
+  url: https://blog.bywind.cn/
+  feedUrl: https://blog.bywind.cn/rss.xml
+-
+  alias: blog.canapio.com
+  url: http://blog.canapio.com/
+  feedUrl: https://blog.canapio.com/rss
+-
+  alias: blog.chef.io
+  url: https://blog.chef.io/
+  feedUrl: https://blog.chef.io/feed/
+-
+  alias: blog.blahgeek.com
+  url: http://blog.blahgeek.com/
+  feedUrl: https://blog.blahgeek.com/feeds/all.rss.xml
+-
+  alias: blog.cleancoder.com
+  url: http://blog.cleancoder.com/
+  feedUrl: http://blog.cleancoder.com/atom.xml
+-
+  alias: blog.claymcleod.io
+  url: http://blog.claymcleod.io/
+  feedUrl: http://blog.claymcleod.io/atom.xml
+-
+  alias: blog.cloudera.com
+  url: https://blog.cloudera.com/
+  feedUrl: https://blog.cloudera.com/wp-includes/wlwmanifest.xml
+-
+  alias: blog.asana.com/category/eng
+  url: https://blog.asana.com/category/eng/
+  feedUrl: https://blog.asana.com/feed/
+-
+  alias: blog.appfigures.com
+  url: https://blog.appfigures.com/
+  feedUrl: https://blog.appfigures.com/feed/
+-
+  alias: blog.blakeerickson.com
+  url: https://blog.blakeerickson.com/
+  feedUrl: https://blog.blakeerickson.com/feed.xml
+-
+  alias: blog.cloudflare.com
+  url: https://blog.cloudflare.com/
+  feedUrl: https://blog.cloudflare.com/rss/
+-
+  alias: blog.cnbluebox.com
+  url: http://blog.cnbluebox.com/
+  feedUrl: https://blog.cnbluebox.com/atom.xml
+-
+  alias: blog.cocoafrog.de
+  url: http://blog.cocoafrog.de/
+  feedUrl: http://blog.cocoafrog.de/feed.xml
+-
+  alias: blog.blundellapps.co.uk
+  url: https://blog.blundellapps.co.uk/
+  feedUrl: https://blog.blundellapps.co.uk/feed/
+-
+  alias: blog.codeminer42.com
+  url: https://blog.codeminer42.com/
+  feedUrl: https://blog.codeminer42.com/feed/
+-
+  alias: blog.c1gstudio.com
+  url: http://blog.c1gstudio.com/
+  feedUrl: http://blog.c1gstudio.com/feed
+-
+  alias: blog.christopherburg.com
+  url: https://blog.christopherburg.com/
+  feedUrl: https://blog.christopherburg.com/feed/
+-
+  alias: blog.coderzh.com
+  url: http://blog.coderzh.com/
+  feedUrl: https://blog.coderzh.com/feed.xml
+-
+  alias: blog.codefights.com
+  url: http://blog.codefights.com/
+  feedUrl: https://codesignal.com/feed/
+-
+  alias: blog.chengyunfeng.com
+  url: http://blog.chengyunfeng.com/
+  feedUrl: http://blog.chengyunfeng.com/?feed=rss2
+-
+  alias: blog.codeship.com
+  url: https://blog.codeship.com/
+  feedUrl: http://blog.codeship.com/feed/
+-
+  alias: blog.codeunion.io
+  url: http://blog.codeunion.io/
+  feedUrl: http://blog.codeunion.io/feed.xml
+-
+  alias: blog.codepen.io
+  url: https://blog.codepen.io/
+  feedUrl: https://blog.codepen.io/wp-includes/wlwmanifest.xml
+-
+  alias: blog.codepiano.com
+  url: http://blog.codepiano.com/
+  feedUrl: http://blog.codepiano.com/atom.xml
+-
+  alias: blog.codinglabs.org
+  url: http://blog.codinglabs.org/
+  feedUrl: http://blog.codinglabs.org/rss.xml
+-
+  alias: blog.codinghorror.com
+  url: https://blog.codinghorror.com/
+  feedUrl: http://feeds.feedburner.com/codinghorror
+-
+  alias: blog.chromev.com
+  url: http://blog.chromev.com/
+  feedUrl: http://blog.chromev.com/feed/
+-
+  alias: blog.codingnow.com
+  url: https://blog.codingnow.com/
+  feedUrl: https://blog.codingnow.com/atom.xml
+-
+  alias: blog.coursera.org
+  url: https://blog.coursera.org/
+  feedUrl: https://blog.coursera.org/feed/
+-
+  alias: blog.cryptographyengineering.com
+  url: https://blog.cryptographyengineering.com/
+  feedUrl: https://blog.cryptographyengineering.com/feed/
+-
+  alias: blog.cnwyhx.com
+  url: http://blog.cnwyhx.com/
+  feedUrl: http://blog.cnwyhx.com/feed/
+-
+  alias: blog.cnbang.net
+  url: http://blog.cnbang.net/
+  feedUrl: http://blog.cnbang.net/feed/
+-
+  alias: blog.codewithdan.com
+  url: https://blog.codewithdan.com/
+  feedUrl: https://blog.codewithdan.com/feed/
+-
+  alias: blog.crowdbooster.com
+  url: http://blog.crowdbooster.com/
+  feedUrl: http://blog.crowdbooster.com/feed/
+-
+  alias: blog.csdn.net/eclipsexys
+  url: https://blog.csdn.net/eclipsexys
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/AirMario
+  url: https://blog.csdn.net/AirMario
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/guolin_blog
+  url: https://blog.csdn.net/guolin_blog
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/innost
+  url: https://blog.csdn.net/innost
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/heiyeshuwu
+  url: http://blog.csdn.net/heiyeshuwu
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/javazejian
+  url: https://blog.csdn.net/javazejian
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.cnrainbird.com
+  url: http://blog.cnrainbird.com/
+  feedUrl: https://blog.cnrainbird.com/index.php/feed/
+-
+  alias: blog.csdn.net/luoshengyang
+  url: https://blog.csdn.net/luoshengyang
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/ryantang03
+  url: https://blog.csdn.net/ryantang03
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/m_buddy
+  url: https://blog.csdn.net/m_buddy
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/singwhatiwanna
+  url: https://blog.csdn.net/singwhatiwanna
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.cuzz.site
+  url: http://blog.cuzz.site/
+  feedUrl: http://blog.cuzz.site/atom.xml
+-
+  alias: blog.csdn.net/zhangerqing
+  url: https://blog.csdn.net/zhangerqing
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.csdn.net/lilu_leo
+  url: https://blog.csdn.net/lilu_leo
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.danlew.net
+  url: https://blog.danlew.net/
+  feedUrl: https://blog.danlew.net/rss/
+-
+  alias: blog.csdn.net/zinss26914
+  url: http://blog.csdn.net/zinss26914
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.databrewery.org
+  url: http://blog.databrewery.org/
+  feedUrl: http://blog.databrewery.org/feeds/all.atom.xml
+-
+  alias: blog.carbonfive.com
+  url: http://blog.carbonfive.com/
+  feedUrl: http://blog.carbonfive.com/?feed=rss
+-
+  alias: blog.csdn.net/sbsujjbcy
+  url: https://blog.csdn.net/sbsujjbcy
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.devtang.com
+  url: http://blog.devtang.com/
+  feedUrl: http://blog.devtang.com/atom.xml
+-
+  alias: blog.csdn.net/v_july_v
+  url: https://blog.csdn.net/v_july_v
+  feedUrl: https://blog.csdn.net/?feed=rss
+-
+  alias: blog.devzeng.com
+  url: http://blog.devzeng.com/
+  feedUrl: http://blog.devzeng.com/feed.xml
+-
+  alias: blog.donhamiltoniii.com
+  url: https://blog.donhamiltoniii.com/
+  feedUrl: https://blog.donhamiltoniii.com/rss.xml
+-
+  alias: blog.developer.bazaarvoice.com
+  url: https://blog.developer.bazaarvoice.com/
+  feedUrl: https://blog.developer.bazaarvoice.com/feed/
+-
+  alias: blog.cugu.eu
+  url: https://blog.cugu.eu/
+  feedUrl: https://blog.cugu.eu/index.xml
+-
+  alias: blog.dou.li
+  url: http://blog.dou.li/
+  feedUrl: http://blog.dou.li/feed/
+-
+  alias: blog.dreamtobe.cn
+  url: https://blog.dreamtobe.cn/
+  feedUrl: https://blog.dreamtobe.cn/atom.xml
+-
+  alias: blog.donghao.org
+  url: http://blog.donghao.org/
+  feedUrl: http://donghao.org/feed/
+-
+  alias: blog.docker.com
+  url: https://blog.docker.com/
+  feedUrl: https://www.docker.com/blog/feed/
+-
+  alias: blog.drewolson.org
+  url: https://blog.drewolson.org/
+  feedUrl: https://blog.drewolson.org/feed.xml
+-
+  alias: blog.eliperkins.me
+  url: https://blog.eliperkins.me/
+  feedUrl: https://blog.eliperkins.me/rss.xml
+-
+  alias: blog.doyoe.com
+  url: http://blog.doyoe.com/
+  feedUrl: http://blog.doyoe.com/atom.xml
+-
+  alias: blog.egorand.me
+  url: https://blog.egorand.me/
+  feedUrl: https://blog.egorand.me/rss/
+-
+  alias: blog.doordash.com/tagged/engineering
+  url: https://blog.doordash.com/tagged/engineering
+  feedUrl: https://medium.com/feed/doordash/tagged/engineering
+-
+  alias: blog.daocloud.io
+  url: http://blog.daocloud.io/
+  feedUrl: http://blog.daocloud.io/feed/
+-
+  alias: blog.discordapp.com
+  url: https://blog.discordapp.com/
+  feedUrl: https://blog.discordapp.com/feed
+-
+  alias: blog.evantahler.com
+  url: https://blog.evantahler.com/
+  feedUrl: https://blog.evantahler.com/feed
+-
+  alias: blog.didispace.com
+  url: http://blog.didispace.com/
+  feedUrl: http://blog.didispace.com/atom.xml
+-
+  alias: blog.eternalstorms.at
+  url: https://blog.eternalstorms.at/
+  feedUrl: https://blog.eternalstorms.at/feed/
+-
+  alias: blog.cxiangnet.cn
+  url: http://blog.cxiangnet.cn/
+  feedUrl: http://blog.cxiangnet.cn/feed/
