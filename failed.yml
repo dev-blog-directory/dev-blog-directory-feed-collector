@@ -1956,3 +1956,71 @@
   date: Wed Dec 04 2019 09:49:19 GMT+0000 (Coordinated Universal Time)
   url: http://stuartkhall.com/
   reason: RequestError: connect ETIMEDOUT 54.225.150.200:80
+-
+  date: Wed Dec 04 2019 09:50:21 GMT+0000 (Coordinated Universal Time)
+  url: https://www.sushiandrobots.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:50:22 GMT+0000 (Coordinated Universal Time)
+  url: https://susielu.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:50:39 GMT+0000 (Coordinated Universal Time)
+  url: https://swiftjournal.wordpress.com/
+  reason: HTTPError: Response code 410 (Gone)
+-
+  date: Wed Dec 04 2019 09:50:47 GMT+0000 (Coordinated Universal Time)
+  url: https://swiftweekly.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:50:56 GMT+0000 (Coordinated Universal Time)
+  url: http://sxywu.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:51:00 GMT+0000 (Coordinated Universal Time)
+  url: http://www.syntaxsuccess.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:51:01 GMT+0000 (Coordinated Universal Time)
+  url: http://www.syntaxdefinition.com/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:51:06 GMT+0000 (Coordinated Universal Time)
+  url: http://talkincloud.com/
+  reason: RequestError: getaddrinfo ENOTFOUND talkincloud.com
+-
+  date: Wed Dec 04 2019 09:51:09 GMT+0000 (Coordinated Universal Time)
+  url: http://talll.com/
+  reason: RequestError: getaddrinfo ENOTFOUND talll.com
+-
+  date: Wed Dec 04 2019 09:51:16 GMT+0000 (Coordinated Universal Time)
+  url: http://tech.gilt.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:51:17 GMT+0000 (Coordinated Universal Time)
+  url: https://tannerlinsley.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:51:20 GMT+0000 (Coordinated Universal Time)
+  url: http://swiftyjimmy.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 09:51:20 GMT+0000 (Coordinated Universal Time)
+  url: https://tech.just-eat.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:51:26 GMT+0000 (Coordinated Universal Time)
+  url: https://tech.scrunch.com/blog/
+  reason: RequestError: getaddrinfo ENOTFOUND tech.scrunch.com
+-
+  date: Wed Dec 04 2019 09:51:35 GMT+0000 (Coordinated Universal Time)
+  url: https://tech.zalando.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:51:35 GMT+0000 (Coordinated Universal Time)
+  url: http://tech.wonga.com/
+  reason: RequestError: getaddrinfo ENOTFOUND tech.wonga.com
+-
+  date: Wed Dec 04 2019 09:51:45 GMT+0000 (Coordinated Universal Time)
+  url: https://www.techbeamers.com/
+  reason: Feed URL not found

@@ -10046,3 +10046,335 @@
   alias: sunjw.us/blog
   url: http://www.sunjw.us/blog
   feedUrl: https://www.sunjw.us/blog/feed/
+-
+  alias: sunshinejr.com/tags/ios
+  url: http://sunshinejr.com/tags/ios/
+  feedUrl: https://sunshinejr.com/index.xml
+-
+  alias: sunxiang0918.github.io
+  url: http://sunxiang0918.github.io//
+  feedUrl: https://sunxiang0918.cn/atom.xml
+-
+  alias: superhj1987.github.io
+  url: http://superhj1987.github.io/
+  feedUrl: https://www.rowkey.me/atom.xml
+-
+  alias: superkotlin.com/blog
+  url: https://superkotlin.com/blog/
+  feedUrl: https://superkotlin.com/feed/
+-
+  alias: swift.org/blog
+  url: https://swift.org/blog/
+  feedUrl: https://swift.org/atom.xml
+-
+  alias: swiftandpainless.com
+  url: http://swiftandpainless.com/
+  feedUrl: http://swiftandpainless.com/feed.xml
+-
+  alias: swift.gg
+  url: http://swift.gg/
+  feedUrl: https://swift.gg/atom.xml
+-
+  alias: swiftandpizza.com
+  url: https://swiftandpizza.com/
+  feedUrl: https://swiftandpizza.com/feed/
+-
+  alias: swiftbysundell.com
+  url: https://www.swiftbysundell.com/
+  feedUrl: https://www.swiftbysundell.com/rss
+-
+  alias: sunnyu.com
+  url: http://www.sunnyu.com/
+  feedUrl: http://www.sunnyu.com/?feed=rss2
+-
+  alias: sunyansong.com
+  url: http://www.sunyansong.com/
+  feedUrl: https://www.sunyansong.com/feed
+-
+  alias: swiftggteam.github.io
+  url: http://swiftggteam.github.io/
+  feedUrl: https://pages.swift.gg/atom.xml
+-
+  alias: swiftier.co
+  url: https://swiftier.co/
+  feedUrl: https://swiftier.co/feed.xml
+-
+  alias: swiftdevjournal.com
+  url: https://swiftdevjournal.com/
+  feedUrl: https://www.swiftdevjournal.com/feed/
+-
+  alias: swiftindepth.com
+  url: https://swiftindepth.com/
+  feedUrl: https://swiftindepth.com/feed.xml
+-
+  alias: swiftjectivec.com
+  url: https://swiftjectivec.com/
+  feedUrl: https://swiftjectivec.com/feed.xml
+-
+  alias: swiftquickstart.blogspot.com
+  url: http://swiftquickstart.blogspot.com/
+  feedUrl: http://swiftquickstart.blogspot.com/feeds/posts/default
+-
+  alias: suyuening.com
+  url: http://suyuening.com/
+  feedUrl: http://suyuening.com/feed
+-
+  alias: swiftteacher.org
+  url: https://www.swiftteacher.org/
+  feedUrl: https://www.swiftteacher.org/swift-teacher?format=rss
+-
+  alias: swiftrocks.com
+  url: https://swiftrocks.com/
+  feedUrl: https://swiftrocks.com/rss.xml
+-
+  alias: swiftunboxed.com
+  url: https://swiftunboxed.com/
+  feedUrl: https://swiftunboxed.com/feed.xml
+-
+  alias: swiftdeveloperblog.com
+  url: http://swiftdeveloperblog.com/
+  feedUrl: http://swiftdeveloperblog.com/feed/
+-
+  alias: swizec.com/blog
+  url: https://swizec.com/blog/
+  feedUrl: https://swizec.com/blog/feed
+-
+  alias: swifting.io
+  url: https://swifting.io/
+  feedUrl: https://swifting.io/feed/
+-
+  alias: swiftbook.ru
+  url: https://swiftbook.ru/
+  feedUrl: https://swiftbook.ru/feed/
+-
+  alias: swwritings.com
+  url: http://www.swwritings.com/
+  feedUrl: https://www.swwritings.com/feed.xml
+-
+  alias: swiftui-lab.com
+  url: https://swiftui-lab.com/
+  feedUrl: https://swiftui-lab.com/feed/
+-
+  alias: sylvanassun.github.io/sylvanassun.github.io
+  url: http://sylvanassun.github.io/sylvanassun.github.io/
+  feedUrl: https://sylvanassun.github.io/atom.xml
+-
+  alias: swordair.com/blog
+  url: http://www.swordair.com/blog/
+  feedUrl: https://swordair.com/rss/
+-
+  alias: sxxkearth.github.io
+  url: https://sxxkearth.github.io/
+  feedUrl: https://sxxkearth.github.io/atom.xml
+-
+  alias: swordair.com
+  url: http://swordair.com/
+  feedUrl: https://swordair.com/rss/
+-
+  alias: systemoutofmemory.com/blogs/the-programmer-blog
+  url: https://systemoutofmemory.com/blogs/the-programmer-blog
+  feedUrl: https://systemoutofmemory.com/blogs/the-programmer-blog.atom
+-
+  alias: taipeigeek.blogspot.com
+  url: http://taipeigeek.blogspot.com/
+  feedUrl: http://taipeigeek.blogspot.com/feeds/posts/default
+-
+  alias: szulctomasz.com/programming-blog
+  url: http://szulctomasz.com/programming-blog/
+  feedUrl: http://szulctomasz.com/programming-blog/index.xml
+-
+  alias: talkerscode.com
+  url: http://talkerscode.com/
+  feedUrl: http://talkerscode.com/sitemap.xml
+-
+  alias: szeching.com
+  url: http://szeching.com/
+  feedUrl: https://szeching.com/rss/
+-
+  alias: talkpython.fm/episodes/all
+  url: https://talkpython.fm/episodes/all
+  feedUrl: https://talkpython.fm/episodes/rss
+-
+  alias: tanhp.com
+  url: http://tanhp.com/
+  feedUrl: http://tanhp.com/index.php/feed/
+-
+  alias: taniarascia.com
+  url: https://www.taniarascia.com/
+  feedUrl: https://www.taniarascia.com/rss.xml
+-
+  alias: tanin.dev/tags/ios
+  url: https://www.tanin.dev/tags/ios
+  feedUrl: https://tanin.dev/tags/ios/index.xml
+-
+  alias: talkingkotlin.com
+  url: https://talkingkotlin.com/
+  feedUrl: https://feeds.soundcloud.com/users/soundcloud:users:280353173/sounds.rss
+-
+  alias: syscloudpro.com/category/cloud
+  url: https://syscloudpro.com/category/cloud/
+  feedUrl: https://techwizard.cloud/feed/
+-
+  alias: taobaofed.org
+  url: http://taobaofed.org/
+  feedUrl: http://taobaofed.org/atom.xml
+-
+  alias: team.goodeggs.com
+  url: https://team.goodeggs.com/
+  feedUrl: https://team.goodeggs.com/feed
+-
+  alias: tech.adroll.com/blog
+  url: http://tech.adroll.com/blog/
+  feedUrl: http://tech.nextroll.com/feed.xml
+-
+  alias: tech.dianwoda.com/2016/11/10/formbiao-dan-de-jin-jie-xue-xi
+  url: http://tech.dianwoda.com/2016/11/10/formbiao-dan-de-jin-jie-xue-xi/
+  feedUrl: http://tech.dianwoda.com/rss/
+-
+  alias: target.github.io
+  url: https://target.github.io/
+  feedUrl: https://target.github.io/feed.xml
+-
+  alias: tcode2k16.github.io/blog
+  url: https://tcode2k16.github.io/blog/
+  feedUrl: https://tcode2k16.github.io/blog/index.xml
+-
+  alias: tech.findmypast.com
+  url: http://tech.findmypast.com/
+  feedUrl: https://tech.findmypast.com/feed.xml
+-
+  alias: tech.finn.no
+  url: http://tech.finn.no/
+  feedUrl: http://tech.finn.no/atom.xml
+-
+  alias: tech.gc.com
+  url: http://tech.gc.com/
+  feedUrl: http://tech.gc.com/atom.xml
+-
+  alias: tech.glowing.com/cn
+  url: http://tech.glowing.com/cn/
+  feedUrl: http://tech.glowing.com/cn/rss/
+-
+  alias: tech.grammarly.com/blog
+  url: https://tech.grammarly.com/blog/index.html
+  feedUrl: https://tech.grammarly.com/feed.xml
+-
+  alias: tech.homeaway.com
+  url: https://tech.homeaway.com/
+  feedUrl: https://medium.com/feed/homeaway-tech-blog
+-
+  alias: tech.hulu.com
+  url: https://tech.hulu.com/
+  feedUrl: https://medium.com/feed/hulu-tech-blog
+-
+  alias: tech.flipkart.com
+  url: https://tech.flipkart.com/
+  feedUrl: https://tech.flipkart.com/feed
+-
+  alias: tech.instacart.com
+  url: https://tech.instacart.com/
+  feedUrl: https://tech.instacart.com/feed
+-
+  alias: tech.gotinder.com
+  url: https://tech.gotinder.com/
+  feedUrl: https://medium.com/feed/tinder-engineering
+-
+  alias: tech.lendinghome.com
+  url: https://tech.lendinghome.com/
+  feedUrl: https://tech.lendinghome.com/feed
+-
+  alias: tech.opentable.co.uk
+  url: http://tech.opentable.co.uk/
+  feedUrl: http://tech.opentable.co.uk/atom.xml
+-
+  alias: tech.olx.com
+  url: https://tech.olx.com/
+  feedUrl: https://tech.olx.com/feed
+-
+  alias: tech.oyster.com
+  url: http://tech.oyster.com/
+  feedUrl: http://tech.oyster.com/atom.xml
+-
+  alias: tech.meituan.com
+  url: http://tech.meituan.com/
+  feedUrl: https://tech.meituan.com/feed/
+-
+  alias: tech.geoblink.com
+  url: https://tech.geoblink.com/
+  feedUrl: https://medium.com/feed/geoblinktech
+-
+  alias: tech.pic-collage.com
+  url: https://tech.pic-collage.com/
+  feedUrl: https://tech.pic-collage.com/feed
+-
+  alias: tech.jet.com
+  url: https://tech.jet.com/
+  feedUrl: https://medium.com/feed/jettech
+-
+  alias: tech.small-improvements.com
+  url: https://tech.small-improvements.com/
+  feedUrl: https://tech.small-improvements.com/?feed=rss
+-
+  alias: tech.stylight.com
+  url: https://tech.stylight.com/
+  feedUrl: https://tech.stylight.com/feed/
+-
+  alias: tech.ticketmaster.com
+  url: https://tech.ticketmaster.com/
+  feedUrl: https://tech.ticketmaster.com/feed/
+-
+  alias: tech.showmax.com
+  url: https://tech.showmax.com/
+  feedUrl: https://tech.showmax.com/feed.xml
+-
+  alias: tech.opentable.com
+  url: http://tech.opentable.com/
+  feedUrl: http://tech.opentable.com/feed/
+-
+  alias: tech.tjs.im
+  url: http://tech.tjs.im/
+  feedUrl: https://tech.tjs.im/atom.xml
+-
+  alias: tech.trello.com
+  url: https://tech.trello.com/
+  feedUrl: https://tech.trello.com/feed.xml
+-
+  alias: tech.trivago.com
+  url: http://tech.trivago.com/
+  feedUrl: https://tech.trivago.com/index.xml
+-
+  alias: tech.transferwise.com
+  url: http://tech.transferwise.com/
+  feedUrl: https://tech.transferwise.com/rss/
+-
+  alias: tech.wimdu.com
+  url: http://tech.wimdu.com/
+  feedUrl: http://tech.wimdu.com/wp-includes/wlwmanifest.xml
+-
+  alias: tech.secretescapes.com
+  url: http://tech.secretescapes.com/
+  feedUrl: http://tech.secretescapes.com/feed/
+-
+  alias: tech.zumba.com
+  url: http://tech.zumba.com/
+  feedUrl: http://feeds.feedburner.com/zumba_engineering
+-
+  alias: tech.youzan.com
+  url: http://tech.youzan.com/
+  feedUrl: https://tech.youzan.com/rss/
+-
+  alias: tech.xing.com
+  url: https://tech.xing.com/
+  feedUrl: https://tech.xing.com/feed
+-
+  alias: techatbloomberg.com/blog
+  url: https://www.techatbloomberg.com/blog/#2
+  feedUrl: https://www.techatbloomberg.com/blog/feed/
+-
+  alias: tech.taskrabbit.com
+  url: http://tech.taskrabbit.com/
+  feedUrl: http://tech.taskrabbit.com/feed.xml
+-
+  alias: techblog.appnexus.com
+  url: https://techblog.appnexus.com/
+  feedUrl: https://techblog.appnexus.com/feed
