@@ -2192,3 +2192,79 @@
   date: Wed Dec 04 2019 09:57:28 GMT+0000 (Coordinated Universal Time)
   url: https://uxcellence.com/
   reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:58:42 GMT+0000 (Coordinated Universal Time)
+  url: https://virusdefender.net/
+  reason: RequestError: connect ECONNREFUSED 140.143.224.171:443
+-
+  date: Wed Dec 04 2019 09:59:10 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wangxin.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:59:11 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wanghailin.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:59:15 GMT+0000 (Coordinated Universal Time)
+  url: https://web-techno.net/
+  reason: RequestError: certificate has expired
+-
+  date: Wed Dec 04 2019 09:59:29 GMT+0000 (Coordinated Universal Time)
+  url: https://www.webdesignernews.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:59:30 GMT+0000 (Coordinated Universal Time)
+  url: https://wecode.wepay.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:59:32 GMT+0000 (Coordinated Universal Time)
+  url: http://weekly.manong.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:59:33 GMT+0000 (Coordinated Universal Time)
+  url: https://www.wefearchange.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:59:38 GMT+0000 (Coordinated Universal Time)
+  url: http://weizhifeng.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:59:40 GMT+0000 (Coordinated Universal Time)
+  url: http://www.weicorner.cc/
+  reason: RequestError: getaddrinfo ENOTFOUND www.weicorner.cc
+-
+  date: Wed Dec 04 2019 09:59:40 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wheattime.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:59:42 GMT+0000 (Coordinated Universal Time)
+  url: https://www.webdevelopmentpark.com/blog/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:59:46 GMT+0000 (Coordinated Universal Time)
+  url: http://wiki.timwang.me/
+  reason: RequestError: getaddrinfo ENOTFOUND wiki.timwang.me
+-
+  date: Wed Dec 04 2019 09:59:49 GMT+0000 (Coordinated Universal Time)
+  url: http://www.webx32.com/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:59:55 GMT+0000 (Coordinated Universal Time)
+  url: http://www.woniubi.cn/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 10:00:03 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wjdiankong.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:00:04 GMT+0000 (Coordinated Universal Time)
+  url: http://www.withparadox2.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:00:11 GMT+0000 (Coordinated Universal Time)
+  url: http://wuzhiwei.net/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Wed Dec 04 2019 10:00:37 GMT+0000 (Coordinated Universal Time)
+  url: https://wtipl.com/blog/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms

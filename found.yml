@@ -11010,3 +11010,327 @@
   alias: vcla.at
   url: http://www.vcla.at/
   feedUrl: http://www.vcla.at/feed/
+-
+  alias: villim.github.io
+  url: http://villim.github.io/
+  feedUrl: http://villim.github.io/atom.xml
+-
+  alias: vinnyxiong.cn
+  url: http://vinnyxiong.cn/
+  feedUrl: http://vinnyxiong.cn/atom.xml
+-
+  alias: virtualsanity.com
+  url: https://www.virtualsanity.com/
+  feedUrl: https://www.virtualsanity.com/feed/
+-
+  alias: voidspace.org.uk/python/weblog/index.shtml
+  url: http://www.voidspace.org.uk/python/weblog/index.shtml
+  feedUrl: http://feeds.feedburner.com/voidspace
+-
+  alias: vladmihalcea.com
+  url: https://vladmihalcea.com/
+  feedUrl: https://vladmihalcea.com/feed/
+-
+  alias: vinoit.me
+  url: https://vinoit.me/
+  feedUrl: https://vinoit.me/feed/
+-
+  alias: voxpelli.com
+  url: https://voxpelli.com/
+  feedUrl: https://voxpelli.com/all.xml
+-
+  alias: vmcd.org
+  url: http://www.vmcd.org/
+  feedUrl: http://www.vmcd.org/feed/
+-
+  alias: vitoshacademy.com
+  url: https://www.vitoshacademy.com/
+  feedUrl: https://www.vitoshacademy.com/feed/
+-
+  alias: vojtastavik.com
+  url: https://vojtastavik.com/
+  feedUrl: https://vojtastavik.com/atom.xml
+-
+  alias: vtourraine.net/blog/tags/dev
+  url: https://www.vtourraine.net/blog/tags/dev
+  feedUrl: https://www.vtourraine.net/blog/feed.xml
+-
+  alias: vuejsdevelopers.com
+  url: https://vuejsdevelopers.com/
+  feedUrl: https://vuejsdevelopers.com/feed.xml
+-
+  alias: vuejobs.com
+  url: https://vuejobs.com/
+  feedUrl: https://vuejobs.com/feed
+-
+  alias: vuejsfeed.com
+  url: https://vuejsfeed.com/
+  feedUrl: https://vuejsfeed.com/vuejsfeed.com/https:/vuejobs.com/?ref=vuejsfeed
+-
+  alias: w3.org/blog/css
+  url: https://www.w3.org/blog/css/
+  feedUrl: https://www.w3.org/blog/CSS/feed/atom/
+-
+  alias: vpser.net
+  url: http://www.vpser.net/
+  feedUrl: https://www.vpser.net/feed
+-
+  alias: vuenews.fireside.fm
+  url: https://vuenews.fireside.fm/
+  feedUrl: https://feeds.fireside.fm/vuenews/rss
+-
+  alias: wahibhaq.com/blog/ultimate-resources-android-dev
+  url: http://wahibhaq.com/blog/ultimate-resources-android-dev/
+  feedUrl: http://wahibhaq.com/feed.xml
+-
+  alias: waitingfy.com
+  url: http://www.waitingfy.com/
+  feedUrl: http://www.waitingfy.com/feed
+-
+  alias: vuejsexamples.com
+  url: https://vuejsexamples.com/
+  feedUrl: https://vuejsexamples.com/rss/
+-
+  alias: wang9262.github.io
+  url: http://wang9262.github.io/
+  feedUrl: https://vongloo.me/atom.xml
+-
+  alias: vsean.net/blog
+  url: http://vsean.net/blog/
+  feedUrl: https://www.vsean.net/feed/
+-
+  alias: wangcong.org
+  url: http://wangcong.org/
+  feedUrl: http://wangcong.org/atom.xml
+-
+  alias: w3technology.info
+  url: https://www.w3technology.info/
+  feedUrl: https://www.w3technology.info/feeds/posts/default
+-
+  alias: wangxinghe.github.io
+  url: http://wangxinghe.github.io/
+  feedUrl: http://mouxuejie.com/atom.xml
+-
+  alias: w3cplus.com
+  url: http://www.w3cplus.com/
+  feedUrl: http://www.w3cplus.com/node?page=1&amp;feed=rss
+-
+  alias: walkerfrederick.com
+  url: https://walkerfrederick.com/
+  feedUrl: https://walkerfrederick.com/rss/
+-
+  alias: wangying.sinaapp.com
+  url: http://wangying.sinaapp.com/
+  feedUrl: http://wangying.sinaapp.com/feed
+-
+  alias: waylau.com
+  url: https://waylau.com/
+  feedUrl: https://waylau.com/feed.xml
+-
+  alias: wdicc.com
+  url: http://wdicc.com/
+  feedUrl: http://wdicc.com/atom.xml
+-
+  alias: watchdown.com/programming
+  url: https://watchdown.com/programming/
+  feedUrl: https://watchdown.com/feed/
+-
+  alias: we-are.bookmyshow.com
+  url: https://we-are.bookmyshow.com/
+  feedUrl: https://we-are.bookmyshow.com/feed
+-
+  alias: way4ever.com
+  url: http://way4ever.com/
+  feedUrl: http://way4ever.com/?feed=rss2
+-
+  alias: wdxtub.com
+  url: https://wdxtub.com/
+  feedUrl: https://wdxtub.com/atom.xml
+-
+  alias: wdrl.info
+  url: https://wdrl.info/
+  feedUrl: https://wdrl.info/feed
+-
+  alias: wdk.pw
+  url: http://www.wdk.pw/
+  feedUrl: https://greatdk.com/feed
+-
+  alias: webdamn.com
+  url: https://webdamn.com/
+  feedUrl: https://webdamn.com/feed/
+-
+  alias: webdesignerdepot.com
+  url: https://www.webdesignerdepot.com/
+  feedUrl: https://www.webdesignerdepot.com/feed/
+-
+  alias: webappers.com
+  url: https://www.webappers.com/
+  feedUrl: http://feeds2.feedburner.com/Webappers
+-
+  alias: webdesign.tutsplus.com/categories/css
+  url: https://webdesign.tutsplus.com/categories/css
+  feedUrl: https://tutsplus.com/posts.atom
+-
+  alias: weblog.jamisbuck.org
+  url: http://weblog.jamisbuck.org/
+  feedUrl: https://feeds.feedburner.com/buckblog
+-
+  alias: webuild.envato.com
+  url: https://webuild.envato.com/
+  feedUrl: https://webuild.envato.com/atom.xml
+-
+  alias: webzhao.me
+  url: https://webzhao.me/
+  feedUrl: https://webzhao.me/rss.xml
+-
+  alias: webhek.com
+  url: http://www.webhek.com/
+  feedUrl: http://www.webhek.com/feed/
+-
+  alias: webjigsaw.com
+  url: http://webjigsaw.com/
+  feedUrl: http://webjigsaw.com/feed/
+-
+  alias: welsonla.timebot.net
+  url: http://welsonla.timebot.net/
+  feedUrl: http://welsonla.timebot.net/atom.xml
+-
+  alias: weyo.me
+  url: http://weyo.me/
+  feedUrl: http://weyo.me/feeds/all.rss.xml
+-
+  alias: wifidog.pro
+  url: http://www.wifidog.pro/
+  feedUrl: http://www.wifidog.pro/feed/
+-
+  alias: weheartswift.com
+  url: https://www.weheartswift.com/
+  feedUrl: https://www.weheartswift.com/feed/
+-
+  alias: wilfred.me.uk
+  url: http://www.wilfred.me.uk/
+  feedUrl: http://www.wilfred.me.uk/rss.xml
+-
+  alias: whoisnicoleharris.com
+  url: https://whoisnicoleharris.com/
+  feedUrl: http://www.whoisnicoleharris.com/atom.xml
+-
+  alias: willemjiang.github.io
+  url: http://willemjiang.github.io/
+  feedUrl: https://willemjiang.github.io/feed.xml
+-
+  alias: wiliam.com.au/wiliam-blog
+  url: https://www.wiliam.com.au/wiliam-blog
+  feedUrl: https://www.wiliam.com.au/rss
+-
+  alias: wenchao.ren
+  url: https://wenchao.ren/
+  feedUrl: https://wenchao.ren/atom.xml
+-
+  alias: wind13.lofter.com
+  url: http://wind13.lofter.com/
+  feedUrl: https://wind13.lofter.com/rss
+-
+  alias: williamboles.me
+  url: https://williamboles.me/
+  feedUrl: https://williamboles.me/rss/
+-
+  alias: windytan.com
+  url: http://www.windytan.com/
+  feedUrl: http://www.windytan.com/feeds/posts/default
+-
+  alias: winguse.com
+  url: https://winguse.com/
+  feedUrl: https://wingu.se/feed.xml
+-
+  alias: wired.com
+  url: https://www.wired.com/
+  feedUrl: https://www.wired.com/feed/rss
+-
+  alias: wiwoo.com
+  url: http://wiwoo.com/
+  feedUrl: https://wiwoo.com/index.php?feed/atom
+-
+  alias: wix.engineering/blog
+  url: https://www.wix.engineering/blog
+  feedUrl: https://www.wix.engineering/?feed=rss&amp;lightbox=dataItem-jh64zmi31
+-
+  alias: wjp2013.github.io
+  url: http://wjp2013.github.io/
+  feedUrl: http://wjp2013.github.io/feed.xml
+-
+  alias: wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns
+  url: http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+  feedUrl: http://www.wildml.com/feed/
+-
+  alias: wklken.me
+  url: http://www.wklken.me/
+  feedUrl: http://wklken.me/index.xml
+-
+  alias: wolfx.cn
+  url: https://wolfx.cn/
+  feedUrl: https://wolfx.cn/atom.xml
+-
+  alias: wonderffee.github.io
+  url: http://wonderffee.github.io/
+  feedUrl: http://wonderffee.github.io/atom.xml
+-
+  alias: word.bitly.com
+  url: http://word.bitly.com/
+  feedUrl: https://word.bitly.com/rss
+-
+  alias: wilwheaton.net
+  url: http://wilwheaton.net/
+  feedUrl: http://wilwheaton.net/feed/
+-
+  alias: worrydream.com
+  url: http://worrydream.com/
+  feedUrl: http://worrydream.com/feed.xml
+-
+  alias: wordpress.youran.me
+  url: https://wordpress.youran.me/
+  feedUrl: https://wordpress.youran.me/feed/
+-
+  alias: wlphp.com
+  url: https://www.wlphp.com/
+  feedUrl: https://www.wlphp.com/rss.php
+-
+  alias: writingontablets.com
+  url: https://www.writingontablets.com/
+  feedUrl: https://writingontablets.com/atom.xml
+-
+  alias: wsgzao.github.io
+  url: http://wsgzao.github.io/
+  feedUrl: http://wsgzao.github.io/atom.xml
+-
+  alias: wuchong.me
+  url: http://wuchong.me/
+  feedUrl: http://wuchong.me/atom.xml
+-
+  alias: wpgraphql.com
+  url: https://www.wpgraphql.com/
+  feedUrl: https://www.wpgraphql.com/feed/
+-
+  alias: wulfric.me
+  url: http://wulfric.me/
+  feedUrl: http://wulfric.me/feed.xml
+-
+  alias: woshipm.com
+  url: http://www.woshipm.com/
+  feedUrl: http://www.woshipm.com/?feed=rss2
+-
+  alias: wuxiaolong.me
+  url: http://wuxiaolong.me/
+  feedUrl: http://wuxiaolong.me/atom.xml
+-
+  alias: wowotech.net
+  url: http://www.wowotech.net/
+  feedUrl: http://www.wowotech.net/rss.php
+-
+  alias: wustrive2008.github.io
+  url: https://wustrive2008.github.io/
+  feedUrl: https://wustrive2008.github.io/atom.xml
+-
+  alias: wuguoren.com
+  url: http://wuguoren.com/
+  feedUrl: http://wuguoren.com/feed/
