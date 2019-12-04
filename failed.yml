@@ -491,3 +491,67 @@
   date: Wed Dec 04 2019 08:23:10 GMT+0000 (Coordinated Universal Time)
   url: https://www.chen101.cn/
   reason: RequestError: connect ETIMEDOUT 47.90.33.3:443
+-
+  date: Wed Dec 04 2019 08:24:09 GMT+0000 (Coordinated Universal Time)
+  url: https://claytonsalem.com/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: claytonsalem.com. is not in the cert's altnames: DNS:*.github.com, DNS:github.com, DNS:*.github.io, DNS:github.io
+-
+  date: Wed Dec 04 2019 08:24:10 GMT+0000 (Coordinated Universal Time)
+  url: http://cizixs.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:24:11 GMT+0000 (Coordinated Universal Time)
+  url: https://www.cloudbees.com/blog
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:24:12 GMT+0000 (Coordinated Universal Time)
+  url: http://cloudengineering.autodesk.com/blog/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: cloudengineering.autodesk.com. is not in the cert's altnames: DNS:ssl919196.cloudflaressl.com, DNS:*.typepad.com, DNS:typepad.com
+-
+  date: Wed Dec 04 2019 08:24:12 GMT+0000 (Coordinated Universal Time)
+  url: http://www.cloudcomputingintelligence.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:24:14 GMT+0000 (Coordinated Universal Time)
+  url: https://cloudplatform.googleblog.com/
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 08:24:22 GMT+0000 (Coordinated Universal Time)
+  url: https://www.cloudcomputing-news.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:24:28 GMT+0000 (Coordinated Universal Time)
+  url: http://cloudnewsdaily.com/
+  reason: HTTPError: Response code 502 (Bad Gateway)
+-
+  date: Wed Dec 04 2019 08:24:29 GMT+0000 (Coordinated Universal Time)
+  url: http://cmsblogs.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:24:39 GMT+0000 (Coordinated Universal Time)
+  url: http://www.cnfeat.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:24:54 GMT+0000 (Coordinated Universal Time)
+  url: http://www.code123.cc/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:24:56 GMT+0000 (Coordinated Universal Time)
+  url: https://codeconvey.com/category/css-tutorial/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:24:56 GMT+0000 (Coordinated Universal Time)
+  url: https://codedam.com/blog/
+  reason: RequestError: certificate has expired
+-
+  date: Wed Dec 04 2019 08:24:58 GMT+0000 (Coordinated Universal Time)
+  url: https://www.codelitt.com/blog/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:25:04 GMT+0000 (Coordinated Universal Time)
+  url: http://codebetter.com/
+  reason: HTTPError: Response code 503 (Service Unavailable)
+-
+  date: Wed Dec 04 2019 08:27:33 GMT+0000 (Coordinated Universal Time)
+  url: https://clusterhq.com/blog/
+  reason: RequestError: connect ETIMEDOUT 217.70.184.38:443

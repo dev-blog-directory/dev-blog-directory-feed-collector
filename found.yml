@@ -2706,3 +2706,339 @@
   alias: chriszou.com
   url: http://chriszou.com/
   feedUrl: http://chriszou.com/rss.xml
+-
+  alias: cloga.github.io
+  url: http://cloga.github.io/
+  feedUrl: http://cloga.info/atom.xml
+-
+  alias: clarkdo.github.io
+  url: http://clarkdo.github.io//
+  feedUrl: https://clarkdo.js.org/atom.xml
+-
+  alias: cloud-computing-today.com
+  url: https://cloud-computing-today.com/
+  feedUrl: https://cloud-computing-today.com/feed/
+-
+  alias: cloud-computing.tmcnet.com
+  url: http://cloud-computing.tmcnet.com/
+  feedUrl: http://rss.tmcnet.com/rss/tmcnet-news
+-
+  alias: cloudchou.com
+  url: http://www.cloudchou.com/
+  feedUrl: http://www.cloudchou.com/feed.xml 
+-
+  alias: clevertap.com/blog/tag/engineering
+  url: https://clevertap.com/blog/tag/engineering/
+  feedUrl: https://clevertap.com/blog/tag/engineering/feed/
+-
+  alias: client9.com
+  url: http://www.client9.com/
+  feedUrl: https://www.client9.com/index.xml
+-
+  alias: cifer.logdown.com
+  url: http://cifer.logdown.com/
+  feedUrl: http://cifer.logdown.com/posts.rss
+-
+  alias: cloudmatters.cloud
+  url: https://cloudmatters.cloud/
+  feedUrl: https://cloudmatters.cloud/feed/
+-
+  alias: ciodive.com/topic/cloud-computing
+  url: http://www.ciodive.com/topic/cloud-computing/
+  feedUrl: https://www.ciodive.com/feeds/news/
+-
+  alias: cloudpundit.com
+  url: https://cloudpundit.com/
+  feedUrl: https://cloudpundit.com/feed/
+-
+  alias: cloudscaling.com/blog
+  url: https://cloudscaling.com/blog/
+  feedUrl: https://cloudscaling.com/feed.xml
+-
+  alias: cloudpro.co.uk/news
+  url: https://www.cloudpro.co.uk/news
+  feedUrl: https://www.cloudpro.co.uk/news/feed
+-
+  alias: cloud.cioreview.com
+  url: https://cloud.cioreview.com/
+  feedUrl: https://www.cioreview.com/rssfeed/
+-
+  alias: cleanswifter.com
+  url: http://www.cleanswifter.com/
+  feedUrl: http://cleanswifter.com/feed/
+-
+  alias: cimgf.com
+  url: http://www.cimgf.com/
+  feedUrl: http://www.cimgf.com/feed/
+-
+  alias: cloudwards.net/articles
+  url: https://www.cloudwards.net/articles/
+  feedUrl: https://www.cloudwards.net/how-to-set-up-an-rss-feed/
+-
+  alias: clanfei.com
+  url: http://www.clanfei.com/
+  feedUrl: https://www.clanfei.com/feed/
+-
+  alias: cloudmanagementinsider.com
+  url: https://www.cloudmanagementinsider.com/
+  feedUrl: https://www.cloudmanagementinsider.com/feed/
+-
+  alias: cloudtweaks.com
+  url: https://cloudtweaks.com/
+  feedUrl: https://cloudtweaks.com/feed/
+-
+  alias: clusterbleep.net/blog
+  url: http://clusterbleep.net/blog/
+  feedUrl: http://clusterbleep.net/blog/feed/
+-
+  alias: cnbin.github.io
+  url: https://cnbin.github.io/
+  feedUrl: https://cnbin.github.io/atom.xml
+-
+  alias: clz.me
+  url: http://clz.me/
+  feedUrl: https://clz.me/feed/
+-
+  alias: cmsky.com
+  url: http://www.cmsky.com/
+  feedUrl: https://www.cmsky.com/feed/
+-
+  alias: cmsminds.com/blog
+  url: https://www.cmsminds.com/blog
+  feedUrl: https://www.cmsminds.com/feed/
+-
+  alias: cnblogs.com/3body
+  url: http://www.cnblogs.com/3body/
+  feedUrl: https://www.cnblogs.com/3body/rss
+-
+  alias: cnblogs.com/lhb25
+  url: http://www.cnblogs.com/lhb25/
+  feedUrl: https://www.cnblogs.com/lhb25/rss
+-
+  alias: cnblogs.com/caowei
+  url: https://www.cnblogs.com/caowei/
+  feedUrl: https://www.cnblogs.com/caowei/rss
+-
+  alias: cnblogs.com/dolphinX
+  url: http://www.cnblogs.com/dolphinX/
+  feedUrl: https://www.cnblogs.com/dolphinX/rss
+-
+  alias: cnborn.net/blog
+  url: http://cnborn.net/blog/
+  feedUrl: http://cnborn.net/blog/
+-
+  alias: cnblogs.com/liuzhaoyzz
+  url: https://www.cnblogs.com/liuzhaoyzz/
+  feedUrl: https://www.cnblogs.com/liuzhaoyzz/rss
+-
+  alias: cnblogs.com/lvdabao
+  url: http://www.cnblogs.com/lvdabao/
+  feedUrl: https://www.cnblogs.com/lvdabao/rss
+-
+  alias: cnblogs.com/tangyouhua
+  url: http://www.cnblogs.com/tangyouhua/
+  feedUrl: https://www.cnblogs.com/tangyouhua/rss
+-
+  alias: cnblogs.com/superdo
+  url: https://www.cnblogs.com/superdo/
+  feedUrl: https://www.cnblogs.com/superdo/rss
+-
+  alias: cockroachlabs.com/blog
+  url: https://www.cockroachlabs.com/blog/
+  feedUrl: https://www.cockroachlabs.com/https:/www.cockroachlabs.com/blog/index.xml
+-
+  alias: cocoacasts.com/blog
+  url: https://cocoacasts.com/blog
+  feedUrl: https://cocoacasts.com/feed/
+-
+  alias: cloudcomputing.sys-con.com
+  url: http://cloudcomputing.sys-con.com/
+  feedUrl: http://cloudcomputing.sys-con.com/index.rss
+-
+  alias: cnblogs.com/vipyoumay
+  url: https://www.cnblogs.com/vipyoumay/
+  feedUrl: https://www.cnblogs.com/vipyoumay/rss
+-
+  alias: cnblogs.com/wutianqi
+  url: https://www.cnblogs.com/wutianqi/
+  feedUrl: https://www.cnblogs.com/wutianqi/rss
+-
+  alias: cocoanetics.com/blog
+  url: https://www.cocoanetics.com/blog/
+  feedUrl: https://www.cocoanetics.com/wp-includes/wlwmanifest.xml
+-
+  alias: cocoacaffeine.wordpress.com
+  url: https://cocoacaffeine.wordpress.com/
+  feedUrl: https://cocoacaffeine.wordpress.com/feed/
+-
+  alias: code.allaboutapps.at/categories/ios
+  url: https://code.allaboutapps.at/categories/ios/
+  feedUrl: https://code.allaboutapps.at/categories/ios/index.xml
+-
+  alias: cocoawithlove.com
+  url: https://www.cocoawithlove.com/
+  feedUrl: https://www.cocoawithlove.com/feed.xml
+-
+  alias: cnblogs.com/zhuweisky
+  url: https://www.cnblogs.com/zhuweisky/
+  feedUrl: https://www.cnblogs.com/zhuweisky/rss
+-
+  alias: code.dblock.org
+  url: http://code.dblock.org/
+  feedUrl: https://code.dblock.org/feed.xml
+-
+  alias: cnitblog.com/shbwf
+  url: http://www.cnitblog.com/shbwf/
+  feedUrl: http://www.cnitblog.com/shbwf/rss.aspx
+-
+  alias: cnxct.com
+  url: http://www.cnxct.com/
+  feedUrl: https://www.cnxct.com/feed/
+-
+  alias: code.facebook.com/posts
+  url: https://code.facebook.com/posts
+  feedUrl: https://engineering.fb.com/feed/
+-
+  alias: code.facebook.com/posts
+  url: https://code.facebook.com/posts/
+  feedUrl: https://engineering.fb.com/feed/
+-
+  alias: code.flickr.net
+  url: https://code.flickr.net/
+  feedUrl: https://code.flickr.net/feed/
+-
+  alias: code.blender.org
+  url: https://code.blender.org/
+  feedUrl: https://code.blender.org/wp-includes/wlwmanifest.xml
+-
+  alias: code.flickr.net
+  url: http://code.flickr.net/
+  feedUrl: https://code.flickr.net/feed/
+-
+  alias: cnmiss.cn
+  url: http://www.cnmiss.cn/
+  feedUrl: http://www.cnmiss.cn/?feed=rss2
+-
+  alias: code.hootsuite.com
+  url: http://code.hootsuite.com/
+  feedUrl: https://medium.com/feed/hootsuite-engineering
+-
+  alias: cocoacontrols.com
+  url: http://www.cocoacontrols.com/
+  feedUrl: https://feeds.feedburner.com/cocoacontrols
+-
+  alias: cocoacontrols.com/posts
+  url: https://www.cocoacontrols.com/posts
+  feedUrl: https://feeds.feedburner.com/cocoacontrols
+-
+  alias: code4craft.github.com
+  url: http://code4craft.github.com/
+  feedUrl: http://code4craft.github.io/atom.xml
+-
+  alias: cocoasamurai.blogspot.com
+  url: https://cocoasamurai.blogspot.com/
+  feedUrl: https://cocoasamurai.blogspot.com/feeds/posts/default
+-
+  alias: code.oursky.com
+  url: https://code.oursky.com/
+  feedUrl: https://code.oursky.com/feed/
+-
+  alias: code.mixpanel.com
+  url: https://code.mixpanel.com/
+  feedUrl: https://engineering.mixpanel.com/feed/
+-
+  alias: codeascraft.com
+  url: https://codeascraft.com/
+  feedUrl: https://codeascraft.com/feed/
+-
+  alias: codebeforethehorse.tumblr.com
+  url: http://codebeforethehorse.tumblr.com/
+  feedUrl: https://codebeforethehorse.tumblr.com/rss
+-
+  alias: codeblog.shape.dk
+  url: http://codeblog.shape.dk/
+  feedUrl: http://codeblog.shape.dk/atom.xml
+-
+  alias: codeblog.jonskeet.uk
+  url: https://codeblog.jonskeet.uk/
+  feedUrl: https://codeblog.jonskeet.uk/feed/
+-
+  alias: codedump.info
+  url: http://www.codedump.info/
+  feedUrl: https://codedump.info/index.xml
+-
+  alias: code.hireart.com
+  url: http://code.hireart.com/
+  feedUrl: http://code.hireart.com/feed.xml
+-
+  alias: codecondo.com
+  url: https://codecondo.com/
+  feedUrl: https://codecondo.com/feed/
+-
+  alias: code.tutsplus.com
+  url: https://code.tutsplus.com/
+  feedUrl: https://tutsplus.com/posts.atom
+-
+  alias: code.tutsplus.com/categories/angular
+  url: https://code.tutsplus.com/categories/angular
+  feedUrl: https://tutsplus.com/posts.atom
+-
+  alias: codemany.com
+  url: http://codemany.com/
+  feedUrl: https://codemany.com/atom.xml
+-
+  alias: code.tutsplus.com/categories/swift
+  url: https://code.tutsplus.com/categories/swift
+  feedUrl: https://tutsplus.com/posts.atom
+-
+  alias: codenameone.com/blog.html
+  url: http://www.codenameone.com/blog.html
+  feedUrl: http://www.codenameone.com/feed.xml
+-
+  alias: codemacro.com
+  url: http://codemacro.com/
+  feedUrl: http://codemacro.com/atom.xml
+-
+  alias: codefx.org
+  url: http://codefx.org/
+  feedUrl: https://blog.codefx.org/feed/
+-
+  alias: codeandunicorns.com
+  url: https://codeandunicorns.com/
+  feedUrl: https://codeandunicorns.com/feed/
+-
+  alias: coderli.com
+  url: http://www.coderli.com/
+  feedUrl: http://www.coderli.com/atom.xml
+-
+  alias: coderbee.net
+  url: http://coderbee.net/
+  feedUrl: https://coderbee.net/index.php/feed
+-
+  alias: coderoncode.com
+  url: http://coderoncode.com/
+  feedUrl: https://coderoncode.com/rss.xml
+-
+  alias: codementor.io/tutorial
+  url: https://www.codementor.io/tutorial
+  feedUrl: https://www.codementor.io/search.xml
+-
+  alias: coder4.com
+  url: http://www.coder4.com/
+  feedUrl: https://www.coder4.com/feed
+-
+  alias: codecookread.com
+  url: https://codecookread.com/
+  feedUrl: https://codecookread.com/feed/
+-
+  alias: codelast.com
+  url: http://www.codelast.com/
+  feedUrl: https://www.codelast.com/feed/
+-
+  alias: codementor.io/android/tutorial
+  url: https://www.codementor.io/android/tutorial
+  feedUrl: https://www.codementor.io/search.xml
+-
+  alias: coderspoint.in
+  url: https://www.coderspoint.in/
+  feedUrl: https://www.coderspoint.in/feeds/posts/default
