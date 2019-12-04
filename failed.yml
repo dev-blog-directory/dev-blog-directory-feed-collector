@@ -1479,3 +1479,11 @@
   date: Wed Dec 04 2019 09:08:57 GMT+0000 (Coordinated Universal Time)
   url: https://medium.com/@Dschee
   reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:11:35 GMT+0000 (Coordinated Universal Time)
+  url: https://www.metachris.com/blog/
+  reason: HTTPError: Response code 403 (Forbidden)
+-
+  date: Wed Dec 04 2019 09:11:40 GMT+0000 (Coordinated Universal Time)
+  url: https://mentalfaculty.github.io/LLVS
+  reason: Feed URL not found
