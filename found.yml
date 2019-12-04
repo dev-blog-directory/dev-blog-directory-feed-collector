@@ -6962,3 +6962,363 @@
   alias: luolei.org
   url: http://luolei.org/
   feedUrl: https://luolei.org/feed/
+-
+  alias: machinethink.net/blog
+  url: http://machinethink.net/blog/
+  feedUrl: https://machinethink.net/blog/index.xml
+-
+  alias: mackuba.eu
+  url: https://mackuba.eu/
+  feedUrl: https://feeds.feedburner.com/psionides-eu
+-
+  alias: magalix.com/blog
+  url: https://www.magalix.com/blog
+  feedUrl: https://www.magalix.com/blog/rss.xml
+-
+  alias: major.io
+  url: https://major.io/
+  feedUrl: https://major.io/feed/index.xml
+-
+  alias: majorgeeks.com
+  url: https://www.majorgeeks.com/
+  feedUrl: https://www.majorgeeks.com/files/rss
+-
+  alias: machiel.me
+  url: https://machiel.me/
+  feedUrl: https://machiel.me/index.xml
+-
+  alias: makeapppie.com
+  url: https://makeapppie.com/
+  feedUrl: https://makeapppie.com/feed/
+-
+  alias: macshuo.com
+  url: http://macshuo.com/
+  feedUrl: http://macshuo.com/?feed=rss2
+-
+  alias: machinelearningmastery.com/blog
+  url: http://machinelearningmastery.com/blog/
+  feedUrl: https://feeds.feedburner.com/MachineLearningMastery
+-
+  alias: making.fiftythree.com
+  url: http://making.fiftythree.com/
+  feedUrl: http://making.fiftythree.com/feed.xml
+-
+  alias: mahongfei.com
+  url: https://mahongfei.com/
+  feedUrl: https://mahongfei.com/?feed=rss
+-
+  alias: making.pusher.com
+  url: https://making.pusher.com/
+  feedUrl: https://making.pusher.com/feed.xml
+-
+  alias: makaiqian.com
+  url: http://makaiqian.com/
+  feedUrl: http://makaiqian.com/rss/
+-
+  alias: malemburg.com
+  url: http://www.malemburg.com/
+  feedUrl: https://www.malemburg.com/rss
+-
+  alias: making.dia.com
+  url: https://making.dia.com/
+  feedUrl: https://making.dia.com/feed
+-
+  alias: malura.de
+  url: https://malura.de/
+  feedUrl: https://malura.de/feed.xml
+-
+  alias: mar.codes
+  url: https://mar.codes/
+  feedUrl: https://mar.codes/feed.xml
+-
+  alias: marco.org
+  url: https://marco.org/
+  feedUrl: http://marco.org/rss
+-
+  alias: marcozehe.de
+  url: https://www.marcozehe.de/
+  feedUrl: https://marcozehe.de/feed/
+-
+  alias: marcosantadev.com/tag/ios
+  url: https://marcosantadev.com/tag/ios/
+  feedUrl: https://marcosantadev.com/feed/
+-
+  alias: madewithreact.com
+  url: https://madewithreact.com/
+  feedUrl: https://madewithreact.com/rss/
+-
+  alias: marcysutton.com
+  url: https://marcysutton.com/
+  feedUrl: https://marcysutton.com/rss.xml
+-
+  alias: mariadesouza.com/category/golang
+  url: https://mariadesouza.com/category/golang/
+  feedUrl: https://mariadesouza.com/feed/
+-
+  alias: madetech.com/blog
+  url: https://www.madetech.com/blog
+  feedUrl: https://www.madetech.com/rss.xml
+-
+  alias: madewithvuejs.com/blog
+  url: https://madewithvuejs.com/blog
+  feedUrl: https://madewithvuejs.com/rss-feed
+-
+  alias: markdotto.com
+  url: http://markdotto.com/
+  feedUrl: http://feeds.feedburner.com/mdo
+-
+  alias: mariusschulz.com
+  url: https://mariusschulz.com/
+  feedUrl: https://feeds.feedburner.com/mariusschulz
+-
+  alias: marisibrothers.com
+  url: http://www.marisibrothers.com/
+  feedUrl: https://www.marisibrothers.com/feeds/posts/default
+-
+  alias: martiancraft.com/blog.html
+  url: http://martiancraft.com/blog.html
+  feedUrl: https://martiancraft.com/feed.xml
+-
+  alias: martin91.github.io
+  url: http://martin91.github.io/
+  feedUrl: http://martin91.github.io/atom.xml
+-
+  alias: martinfowler.com
+  url: https://martinfowler.com/
+  feedUrl: https://martinfowler.com/feed.atom
+-
+  alias: masilotti.com
+  url: http://masilotti.com/
+  feedUrl: http://masilotti.com/atom.xml
+-
+  alias: markchen.me
+  url: http://markchen.me/
+  feedUrl: http://markchen.me/feed/
+-
+  alias: maskray.me/blog
+  url: http://maskray.me/blog
+  feedUrl: http://maskray.me/blog/atom.xml
+-
+  alias: martinmitrevski.com
+  url: https://martinmitrevski.com/
+  feedUrl: https://martinmitrevski.com/feed/
+-
+  alias: makeuseof.com/tags/dark-web
+  url: https://www.makeuseof.com/tags/dark-web/
+  feedUrl: https://www.makeuseof.com/rss
+-
+  alias: marcpalmer.net/category/ios
+  url: https://marcpalmer.net/category/ios/
+  feedUrl: https://marcpalmer.net/feed/
+-
+  alias: matt.aimonetti.net
+  url: https://matt.aimonetti.net/
+  feedUrl: https://matt.aimonetti.net/index.xml
+-
+  alias: matt.diephouse.com/swift
+  url: http://matt.diephouse.com/swift/
+  feedUrl: https://matt.diephouse.com/index.xml
+-
+  alias: matt.might.net/articles
+  url: http://matt.might.net/articles/
+  feedUrl: http://matt.might.net/articles/feed.rss
+-
+  alias: mattdelves.com
+  url: https://mattdelves.com/
+  feedUrl: http://mattdelves.com/feed.xml
+-
+  alias: maptiler.com/blog
+  url: https://www.maptiler.com/blog/
+  feedUrl: https://www.maptiler.com/blog/feed/posts.xml
+-
+  alias: mattcutts.com/blog
+  url: https://www.mattcutts.com/blog/
+  feedUrl: https://www.mattcutts.com/blog/feed/
+-
+  alias: matthagner.com
+  url: https://www.matthagner.com/
+  feedUrl: https://www.matthagner.com/rss.xml
+-
+  alias: maniacdev.com
+  url: https://maniacdev.com/
+  feedUrl: https://maniacdev.com/feed
+-
+  alias: marcus.io
+  url: https://marcus.io/
+  feedUrl: https://marcus.io/feed
+-
+  alias: masnun.com
+  url: http://masnun.com/
+  feedUrl: http://masnun.com/feed
+-
+  alias: mathiasbynens.be/notes
+  url: https://mathiasbynens.be/notes
+  feedUrl: https://mathiasbynens.be/notes.atom
+-
+  alias: matthiasnoback.nl
+  url: https://matthiasnoback.nl/
+  feedUrl: https://matthiasnoback.nl/atom.xml
+-
+  alias: mattwarren.org
+  url: http://mattwarren.org/
+  feedUrl: https://mattwarren.org/atom.xml
+-
+  alias: maryrosecook.com/blog
+  url: https://maryrosecook.com/blog/
+  feedUrl: https://maryrosecook.com/blog/feed.xml
+-
+  alias: matthiasott.com
+  url: https://matthiasott.com/
+  feedUrl: https://matthiasott.com/feed
+-
+  alias: mavenecommerce.com/blog
+  url: https://www.mavenecommerce.com/blog/
+  feedUrl: https://www.mavenecommerce.com/wp-includes/wlwmanifest.xml
+-
+  alias: maximeremenko.com
+  url: https://maximeremenko.com/
+  feedUrl: https://maximeremenko.com/feed.xml
+-
+  alias: mccxj.github.com
+  url: http://mccxj.github.com/
+  feedUrl: https://mccxj.github.io/atom.xml
+-
+  alias: mcfunley.com
+  url: http://mcfunley.com/
+  feedUrl: https://mcfunley.com/feed.xml
+-
+  alias: mdslq.cn
+  url: http://www.mdslq.cn/
+  feedUrl: http://www.mdslq.cn/atom.xml
+-
+  alias: mattpodwysocki.github.io
+  url: https://mattpodwysocki.github.io/
+  feedUrl: http://podwysocki.org/feed.xml
+-
+  alias: mearso.co.uk
+  url: http://www.mearso.co.uk/
+  feedUrl: https://www.mearso.co.uk/feed.xml
+-
+  alias: me.jinchuang.org
+  url: https://me.jinchuang.org/
+  feedUrl: https://me.jinchuang.org/feed/
+-
+  alias: matterofsoftware.com/blog
+  url: https://www.matterofsoftware.com/blog/
+  feedUrl: https://www.matterofsoftware.com/feed/
+-
+  alias: mathblog.dk/programming-challenges
+  url: http://www.mathblog.dk/programming-challenges/
+  feedUrl: https://www.mathblog.dk/feed/
+-
+  alias: matteomanferdini.com/blog
+  url: https://matteomanferdini.com/blog/
+  feedUrl: https://matteomanferdini.com/feed/
+-
+  alias: mattnortham.com/blog
+  url: https://mattnortham.com/blog/
+  feedUrl: https://www.mattnortham.com/blog/feed/
+-
+  alias: medium.com/@CWinstanley90
+  url: https://medium.com/@CWinstanley90
+  feedUrl: https://medium.com/feed/@CWinstanley90
+-
+  alias: mazepress.com
+  url: https://mazepress.com/
+  feedUrl: https://mazepress.com/feed/
+-
+  alias: mawenjian.net
+  url: http://mawenjian.net/
+  feedUrl: https://mawenjian.net/feed
+-
+  alias: mecid.github.io
+  url: https://mecid.github.io/
+  feedUrl: https://swiftwithmajid.com/feed.xml
+-
+  alias: medium.com/@YammerEng
+  url: https://medium.com/@YammerEng
+  feedUrl: https://medium.com/feed/@yammereng
+-
+  alias: medium.com/@NilStack
+  url: https://medium.com/@NilStack/
+  feedUrl: https://medium.com/feed/@NilStack
+-
+  alias: mdba.cn
+  url: http://mdba.cn/
+  feedUrl: http://mdba.cn/feed/
+-
+  alias: medium.com/@Pinterest_Engineering
+  url: https://medium.com/@Pinterest_Engineering
+  feedUrl: https://medium.com/feed/@Pinterest_Engineering
+-
+  alias: medium.com/@adamwareing241
+  url: https://medium.com/@adamwareing241/
+  feedUrl: https://medium.com/feed/@adamwareing241
+-
+  alias: medium.com/@4kcode
+  url: https://medium.com/@4kcode
+  feedUrl: https://medium.com/feed/@4kcode
+-
+  alias: medium.com/@alanzeino
+  url: https://medium.com/@alanzeino
+  feedUrl: https://medium.com/feed/@alanzeino
+-
+  alias: medium.com/@JimmyMAndersson
+  url: https://medium.com/@JimmyMAndersson
+  feedUrl: https://medium.com/feed/@JimmyMAndersson
+-
+  alias: medium.com/@JillevdWeerd
+  url: https://medium.com/@JillevdWeerd
+  feedUrl: https://medium.com/feed/@JillevdWeerd
+-
+  alias: medium.com/@cecilia.humlelu
+  url: https://medium.com/@cecilia.humlelu
+  feedUrl: https://medium.com/feed/@cecilia.humlelu
+-
+  alias: medium.com/@Pelaez
+  url: https://medium.com/@Pelaez
+  feedUrl: https://medium.com/feed/@Pelaez
+-
+  alias: medium.com/@WoloxEngineering
+  url: https://medium.com/@WoloxEngineering/
+  feedUrl: https://medium.com/feed/@WoloxEngineering
+-
+  alias: medium.com/@codevapor
+  url: https://medium.com/@codevapor
+  feedUrl: https://medium.com/feed/@codevapor
+-
+  alias: medium.com/@adrianmsliwa
+  url: https://medium.com/@adrianmsliwa
+  feedUrl: https://medium.com/feed/@adrianmsliwa
+-
+  alias: medium.com/@_myrddin_
+  url: https://medium.com/@_myrddin_
+  feedUrl: https://medium.com/feed/@_myrddin_
+-
+  alias: medium.com/@alexiscreuzot
+  url: https://medium.com/@alexiscreuzot
+  feedUrl: https://medium.com/feed/@alexiscreuzot
+-
+  alias: medium.com/@daveford
+  url: https://medium.com/@daveford
+  feedUrl: https://medium.com/feed/@daveford
+-
+  alias: medium.com/@almalehdev
+  url: https://medium.com/@almalehdev
+  feedUrl: https://medium.com/feed/@almalehdev
+-
+  alias: medium.com/@bek_29339
+  url: https://medium.com/@bek_29339/
+  feedUrl: https://medium.com/feed/@bek_29339
+-
+  alias: medium.com/@consbulaquena
+  url: https://medium.com/@consbulaquena
+  feedUrl: https://medium.com/feed/@consbulaquena
+-
+  alias: medium.com/@danielt1263
+  url: https://medium.com/@danielt1263
+  feedUrl: https://medium.com/feed/@danielt1263
+-
+  alias: magentonotes.com
+  url: http://www.magentonotes.com/
+  feedUrl: https://www.magentonotes.com/feed
