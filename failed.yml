@@ -1559,3 +1559,87 @@
   date: Wed Dec 04 2019 09:18:31 GMT+0000 (Coordinated Universal Time)
   url: https://www.mocakemagic.com/
   reason: RequestError: connect ETIMEDOUT 112.74.47.96:443
+-
+  date: Wed Dec 04 2019 09:19:42 GMT+0000 (Coordinated Universal Time)
+  url: http://myst729.github.io/articles/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:19:49 GMT+0000 (Coordinated Universal Time)
+  url: https://mypython.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:19:59 GMT+0000 (Coordinated Universal Time)
+  url: https://natashatherobot.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:01 GMT+0000 (Coordinated Universal Time)
+  url: https://www.natashatherobot.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:06 GMT+0000 (Coordinated Universal Time)
+  url: https://news.google.com/news/section?q=androiddeveloper&tbm=nws&*
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:06 GMT+0000 (Coordinated Universal Time)
+  url: https://news.google.com/news/section?q=javascript&tbm=nws*
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:06 GMT+0000 (Coordinated Universal Time)
+  url: http://nkcoder.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:07 GMT+0000 (Coordinated Universal Time)
+  url: http://ningg.github.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:07 GMT+0000 (Coordinated Universal Time)
+  url: http://www.nmtree.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:08 GMT+0000 (Coordinated Universal Time)
+  url: http://noalgo.info/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:09 GMT+0000 (Coordinated Universal Time)
+  url: https://nodexperts.com/blog/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:20:09 GMT+0000 (Coordinated Universal Time)
+  url: http://www.nikantvohra.com/
+  reason: RequestError: getaddrinfo ENOTFOUND www.nikantvohra.com
+-
+  date: Wed Dec 04 2019 09:20:10 GMT+0000 (Coordinated Universal Time)
+  url: http://notice501.github.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:14 GMT+0000 (Coordinated Universal Time)
+  url: https://neverfriday.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:14 GMT+0000 (Coordinated Universal Time)
+  url: https://nscolak.com/
+  reason: RequestError: getaddrinfo ENOTFOUND nscolak.com
+-
+  date: Wed Dec 04 2019 09:20:18 GMT+0000 (Coordinated Universal Time)
+  url: http://objccn.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:21 GMT+0000 (Coordinated Universal Time)
+  url: https://offering.solutions/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:22 GMT+0000 (Coordinated Universal Time)
+  url: https://okoh.co.uk/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:20:22 GMT+0000 (Coordinated Universal Time)
+  url: http://ohcoder.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:21:08 GMT+0000 (Coordinated Universal Time)
+  url: http://ofcss.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:25:15 GMT+0000 (Coordinated Universal Time)
+  url: https://www.objective-see.com/blog.html
+  reason: RequestError: connect ETIMEDOUT 65.60.38.45:443

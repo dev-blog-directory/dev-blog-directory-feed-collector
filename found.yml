@@ -8042,3 +8042,319 @@
   alias: my.oschina.net/lifj
   url: http://my.oschina.net/lifj
   feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/wbo0801
+  url: http://my.oschina.net/wbo0801
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/xiongliding
+  url: http://my.oschina.net/xiongliding
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/u/553773
+  url: http://my.oschina.net/u/553773
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: myvoipapp.com/blogs/yxh
+  url: https://www.myvoipapp.com/blogs/yxh/
+  feedUrl: https://www.myvoipapp.com/blogs/yxh/feed/
+-
+  alias: nachbaur.com/tag/apple
+  url: http://nachbaur.com/tag/apple
+  feedUrl: https://nachbaur.com/feed/
+-
+  alias: mycodebuzz.com
+  url: https://mycodebuzz.com/
+  feedUrl: https://mycodebuzz.com/feed/
+-
+  alias: myfreelinux.com
+  url: http://www.myfreelinux.com/
+  feedUrl: http://www.myfreelinux.com/?feed=rss2
+-
+  alias: my.oschina.net/u/186074
+  url: http://my.oschina.net/u/186074
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: my.oschina.net/swuly302
+  url: http://my.oschina.net/swuly302
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: nateberkopec.com
+  url: http://www.nateberkopec.com/
+  feedUrl: https://www.nateberkopec.com/feed.xml
+-
+  alias: mydaytodo.com/blog
+  url: https://mydaytodo.com/blog/
+  feedUrl: https://mydaytodo.com/feed/
+-
+  alias: natethompson.io/blog
+  url: https://www.natethompson.io/blog/
+  feedUrl: https://www.natethompson.io///feed.xml
+-
+  alias: my.oschina.net/xuleo
+  url: http://my.oschina.net/xuleo
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: nateamack.com
+  url: https://nateamack.com/
+  feedUrl: https://nateamack.com/sitemap.xml
+-
+  alias: nanxiao.me
+  url: http://nanxiao.me/
+  feedUrl: https://nanxiao.me/feed/
+-
+  alias: nathany.com
+  url: https://nathany.com/
+  feedUrl: https://nathany.com/articles.xml
+-
+  alias: nearthespeedoflight.com
+  url: http://nearthespeedoflight.com/
+  feedUrl: http://nearthespeedoflight.com/index.xml
+-
+  alias: my.oschina.net/tdONEmadao
+  url: http://my.oschina.net/tdONEmadao
+  feedUrl: https://www.oschina.net/project/rss
+-
+  alias: nedbatchelder.com/blog/tag/python.html
+  url: http://nedbatchelder.com/blog/tag/python.html
+  feedUrl: https://nedbatchelder.com/blog/rss.xml
+-
+  alias: nehalist.io
+  url: https://nehalist.io/
+  feedUrl: https://nehalist.io/rss.xml
+-
+  alias: mysteriouscode.io/blog
+  url: https://mysteriouscode.io/blog/
+  feedUrl: https://mysteriouscode.io/feed/
+-
+  alias: neopythonic.blogspot.com
+  url: http://neopythonic.blogspot.com/
+  feedUrl: http://neopythonic.blogspot.com/feeds/posts/default
+-
+  alias: neopythonic.blogspot.co.id
+  url: http://neopythonic.blogspot.co.id/
+  feedUrl: http://neopythonic.blogspot.com/feeds/posts/default
+-
+  alias: neirong.org
+  url: http://www.neirong.org/
+  feedUrl: http://www.neirong.org/rss.php
+-
+  alias: nerds.airbnb.com
+  url: http://nerds.airbnb.com/
+  feedUrl: https://medium.com/feed/airbnb-engineering
+-
+  alias: nativeguru.wordpress.com
+  url: https://nativeguru.wordpress.com/
+  feedUrl: https://nativeguru.wordpress.com/feed/
+-
+  alias: netguru.co/codestories/topic/ios
+  url: https://www.netguru.co/codestories/topic/ios
+  feedUrl: https://www.netguru.com/codestories/rss.xml
+-
+  alias: neatstudio.com
+  url: http://neatstudio.com/
+  feedUrl: http://neatstudio.com/rss.php
+-
+  alias: nddesign.ca/blog
+  url: https://nddesign.ca/blog/
+  feedUrl: https://nddesign.ca/feed/
+-
+  alias: neverworkintheory.org
+  url: http://neverworkintheory.org/
+  feedUrl: http://neverworkintheory.org/feed.xml
+-
+  alias: neglectedpotential.com
+  url: http://www.neglectedpotential.com/
+  feedUrl: http://www.neglectedpotential.com/feed/
+-
+  alias: nenew.net
+  url: http://www.nenew.net/
+  feedUrl: https://www.nenew.net/feed
+-
+  alias: neoremind.com
+  url: http://neoremind.com/
+  feedUrl: http://neoremind.com/feed/
+-
+  alias: neoremind.net
+  url: http://neoremind.net/
+  feedUrl: http://neoremind.com/feed/
+-
+  alias: news.perlfoundation.org
+  url: http://news.perlfoundation.org/
+  feedUrl: https://news.perlfoundation.org/rss.xml
+-
+  alias: nextbigfuture.com
+  url: http://www.nextbigfuture.com/
+  feedUrl: https://www.nextbigfuture.com/feed
+-
+  alias: netsplit.com
+  url: https://netsplit.com/
+  feedUrl: https://netsplit.com/feed/
+-
+  alias: nickcraver.com/blog
+  url: https://nickcraver.com/blog/
+  feedUrl: https://nickcraver.com/blog/feed.xml
+-
+  alias: news.bitcoin.com/tag/darknet
+  url: https://news.bitcoin.com/tag/darknet/
+  feedUrl: https://news.bitcoin.com/feed/
+-
+  alias: nerdygeekmom.com
+  url: http://www.nerdygeekmom.com/
+  feedUrl: http://www.nerdygeekmom.com/feed/
+-
+  alias: nielinjie.github.io
+  url: http://nielinjie.github.io/
+  feedUrl: http://nielinjie.github.io/atom.xml
+-
+  alias: nicolas-hoizey.com
+  url: https://nicolas-hoizey.com/
+  feedUrl: https://nicolas-hoizey.com/feeds/articles.xml
+-
+  alias: nicolasgallagher.com
+  url: http://nicolasgallagher.com/
+  feedUrl: http://nicolasgallagher.com/feed/
+-
+  alias: neveryu.github.io
+  url: https://neveryu.github.io/
+  feedUrl: https://neveryu.github.io/atom.xml
+-
+  alias: nicholas.ren
+  url: http://nicholas.ren/
+  feedUrl: http://nicholas.ren/feed.xml
+-
+  alias: noahgilmore.com/blog/tags/ios
+  url: https://noahgilmore.com/blog/tags/ios/
+  feedUrl: https://noahgilmore.com/blog/ios.xml
+-
+  alias: no.lol
+  url: https://www.no.lol/
+  feedUrl: https://www.no.lol/rss.xml
+-
+  alias: nodesource.com/blog
+  url: https://nodesource.com/blog/
+  feedUrl: https://nodesource.com/blog/rss
+-
+  alias: no-title.victordomingos.com
+  url: https://no-title.victordomingos.com/
+  feedUrl: https://no-title.victordomingos.com/feeds/all.atom.xml
+-
+  alias: nikolay.rocks
+  url: http://nikolay.rocks/
+  feedUrl: http://nikolay.rocks/atom.xml
+-
+  alias: norvig.com
+  url: http://norvig.com/
+  feedUrl: http://www.norvig.com/rss-feed.xml
+-
+  alias: nonesuccess.me
+  url: http://nonesuccess.me/
+  feedUrl: http://nonesuccess.me/?feed=rss2
+-
+  alias: nickdesaulniers.github.io
+  url: https://nickdesaulniers.github.io/
+  feedUrl: https://nickdesaulniers.github.io/atom.xml
+-
+  alias: novoda.com/blog
+  url: https://www.novoda.com/blog/
+  feedUrl: https://blog.novoda.com/rss/
+-
+  alias: nordicapis.com/blog
+  url: https://nordicapis.com/blog/
+  feedUrl: https://nordicapis.com/feed/
+-
+  alias: nomothetis.svbtle.com
+  url: https://nomothetis.svbtle.com/
+  feedUrl: https://nomothetis.svbtle.com/feed
+-
+  alias: nshipster.cn
+  url: https://nshipster.cn/
+  feedUrl: https://nshipster.cn/feed.xml
+-
+  alias: notemi.cn
+  url: https://notemi.cn/
+  feedUrl: https://notemi.cn/feed/
+-
+  alias: nshipster.co.kr
+  url: https://nshipster.co.kr/
+  feedUrl: https://nshipster.co.kr/feed.xml
+-
+  alias: nshipster.com
+  url: https://nshipster.com/
+  feedUrl: https://nshipster.com/feed.xml
+-
+  alias: nikola-breznjak.com/blog
+  url: http://www.nikola-breznjak.com/blog/
+  feedUrl: http://www.nikola-breznjak.com/blog/feed/atom/
+-
+  alias: nshipster.es
+  url: https://nshipster.es/
+  feedUrl: https://nshipster.es/feed.xml
+-
+  alias: nshipster.fr
+  url: https://nshipster.fr/
+  feedUrl: https://nshipster.fr/feed.xml
+-
+  alias: nullprogram.com
+  url: http://nullprogram.com/
+  feedUrl: https://nullprogram.com/feed/
+-
+  alias: nthacloud.com/blog
+  url: https://www.nthacloud.com/blog
+  feedUrl: https://www.nthacloud.com/feed.xml
+-
+  alias: nshint.github.io
+  url: https://nshint.github.io/
+  feedUrl: https://nshint.github.io/atom.xml
+-
+  alias: ocramius.github.io
+  url: http://ocramius.github.io/
+  feedUrl: https://ocramius.github.io/atom.xml
+-
+  alias: octopresszhangyu.herokuapp.com
+  url: http://octopresszhangyu.herokuapp.com/
+  feedUrl: http://octopresszhangyu.herokuapp.com/atom.xml
+-
+  alias: nowayhere.com
+  url: http://nowayhere.com/
+  feedUrl: http://nowayhere.com/feed
+-
+  alias: notlaura.com
+  url: https://notlaura.com/
+  feedUrl: https://notlaura.com/wp-includes/wlwmanifest.xml
+-
+  alias: nonozone.net
+  url: http://www.nonozone.net/
+  feedUrl: http://www.nonozone.net/feed
+-
+  alias: ohhelloana.blog
+  url: https://www.ohhelloana.blog/
+  feedUrl: https://ohhelloana.blog/feed.xml
+-
+  alias: objectivetidbits.com
+  url: https://objectivetidbits.com/
+  feedUrl: https://objectivetidbits.com/feed
+-
+  alias: olavihaapala.fi
+  url: https://olavihaapala.fi/
+  feedUrl: https://olavihaapala.fi/feed.xml
+-
+  alias: netpc.com.cn
+  url: http://www.netpc.com.cn/
+  feedUrl: http://www.netpc.com.cn/feed/
+-
+  alias: objc.io/blog
+  url: https://www.objc.io/blog
+  feedUrl: http://www.objc.io/feed.xml
+-
+  alias: objc.io/blog
+  url: https://www.objc.io/blog/
+  feedUrl: http://www.objc.io/feed.xml
+-
+  alias: oicto.com
+  url: http://www.oicto.com/
+  feedUrl: http://www.oicto.com/feed/
+-
+  alias: objectbox.io/blog
+  url: https://objectbox.io/blog
+  feedUrl: https://objectbox.io/feed/
