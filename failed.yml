@@ -1788,3 +1788,51 @@
   date: Wed Dec 04 2019 09:33:07 GMT+0000 (Coordinated Universal Time)
   url: http://qinghe.me/
   reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:34:13 GMT+0000 (Coordinated Universal Time)
+  url: https://www.raizlabs.com/dev/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:34:13 GMT+0000 (Coordinated Universal Time)
+  url: https://www.raizlabs.com/dev/category/android/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:34:13 GMT+0000 (Coordinated Universal Time)
+  url: https://www.raizlabs.com/dev
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:34:17 GMT+0000 (Coordinated Universal Time)
+  url: http://raytaylorlin.com/
+  reason: RequestError: connect ECONNREFUSED 142.252.159.51:80
+-
+  date: Wed Dec 04 2019 09:34:35 GMT+0000 (Coordinated Universal Time)
+  url: https://reddyprasad.co.in/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:34:44 GMT+0000 (Coordinated Universal Time)
+  url: http://research.baidu.com/Blog
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:34:44 GMT+0000 (Coordinated Universal Time)
+  url: http://rhodesmill.org/brandon/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:34:50 GMT+0000 (Coordinated Universal Time)
+  url: http://rmingwang.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:34:55 GMT+0000 (Coordinated Universal Time)
+  url: https://roadfiresoftware.com/blog/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:34:59 GMT+0000 (Coordinated Universal Time)
+  url: https://rocko.xyz/
+  reason: HTTPError: Response code 403 (Forbidden)
+-
+  date: Wed Dec 04 2019 09:35:02 GMT+0000 (Coordinated Universal Time)
+  url: http://rokia.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:37:26 GMT+0000 (Coordinated Universal Time)
+  url: http://ratwu.com/
+  reason: RequestError: connect ETIMEDOUT 103.230.219.138:80
