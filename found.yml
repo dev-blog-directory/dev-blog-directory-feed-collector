@@ -9706,3 +9706,343 @@
   alias: sicpers.info
   url: http://www.sicpers.info/
   feedUrl: https://www.sicpers.info/feed/
+-
+  alias: simlinux.com
+  url: http://www.simlinux.com/
+  feedUrl: http://www.simlinux.com/atom.xml
+-
+  alias: sighingnow.github.io/archive
+  url: http://sighingnow.github.io/archive/
+  feedUrl: https://sighingnow.github.io/feed.xml
+-
+  alias: simurai.com
+  url: http://simurai.com/
+  feedUrl: http://simurai.com/rss/
+-
+  alias: simulmedia.com/resources/blog/categories/engineering
+  url: http://www.simulmedia.com/resources/blog/categories/engineering/
+  feedUrl: https://www.simulmedia.com/feed.xml
+-
+  alias: sirarsalih.com
+  url: https://sirarsalih.com/
+  feedUrl: https://sirarsalih.com/atom.xml
+-
+  alias: simonwillison.net
+  url: https://simonwillison.net/
+  feedUrl: https://simonwillison.net/atom/everything/
+-
+  alias: sitepen.com/blog/category/angular
+  url: https://www.sitepen.com/blog/category/angular/
+  feedUrl: https://www.sitepen.com/blog/wp-includes/wlwmanifest.xml
+-
+  alias: sitepoint.com
+  url: https://sitepoint.com/
+  feedUrl: https://www.sitepoint.com/feed/
+-
+  alias: sijmen.ruwhof.net/weblog
+  url: http://sijmen.ruwhof.net/weblog/
+  feedUrl: https://sijmen.ruwhof.net/weblog/feed
+-
+  alias: silverhammermba.github.io/blog
+  url: https://silverhammermba.github.io/blog/
+  feedUrl: https://silverhammermba.github.io/blog/feed.xml
+-
+  alias: simongilbert.net
+  url: https://www.simongilbert.net/
+  feedUrl: https://www.simongilbert.net/rss/
+-
+  alias: sitepoint.com
+  url: https://www.sitepoint.com/
+  feedUrl: https://www.sitepoint.com/feed/
+-
+  alias: sitepoint.com/javascript
+  url: https://www.sitepoint.com/javascript/
+  feedUrl: https://www.sitepoint.com/feed/
+-
+  alias: sizovs.net
+  url: https://sizovs.net/
+  feedUrl: https://sizovs.net/feed.xml
+-
+  alias: sjy.im
+  url: https://www.sjy.im/
+  feedUrl: https://www.sjy.im/feed.xml
+-
+  alias: sixrevisions.com
+  url: http://sixrevisions.com/
+  feedUrl: https://www.webfx.com/blog/web-design/feed/
+-
+  alias: sintraworks.github.io
+  url: https://sintraworks.github.io/
+  feedUrl: https://sintraworks.github.io/feed.xml
+-
+  alias: sinxloud.com
+  url: https://sinxloud.com/
+  feedUrl: https://sinxloud.com/feed/
+-
+  alias: smashingmagazine.com
+  url: https://www.smashingmagazine.com/
+  feedUrl: https://www.smashingmagazine.com/feed/
+-
+  alias: smashingmagazine.com/tag/css
+  url: https://www.smashingmagazine.com/tag/css/
+  feedUrl: https://www.smashingmagazine.com/categories/css/index.xml
+-
+  alias: sixu.life
+  url: https://sixu.life/
+  feedUrl: https://sixu.life/feed/
+-
+  alias: simonfairbairn.com/tag/swift
+  url: http://simonfairbairn.com/tag/swift/
+  feedUrl: https://simonfairbairn.com/feed/
+-
+  alias: smakosh.com/blog
+  url: https://smakosh.com/blog/
+  feedUrl: https://smakosh.com/rss.xml
+-
+  alias: slack.engineering
+  url: https://slack.engineering/
+  feedUrl: https://slack.engineering/feed
+-
+  alias: snook.ca
+  url: https://snook.ca/
+  feedUrl: https://snook.ca/jonathan/index.rdf
+-
+  alias: snellman.net/blog
+  url: https://www.snellman.net/blog/
+  feedUrl: https://www.snellman.net/blog/rss-index.xml
+-
+  alias: skerritt.blog
+  url: https://skerritt.blog/
+  feedUrl: https://skerritt.blog/rss/
+-
+  alias: snook.ca/posts
+  url: https://snook.ca/posts/
+  feedUrl: https://snook.ca/jonathan/index.rdf
+-
+  alias: snarky.ca
+  url: https://snarky.ca/
+  feedUrl: https://snarky.ca/rss/
+-
+  alias: sobolevn.me
+  url: https://sobolevn.me/
+  feedUrl: https://sobolevn.me/feed.xml
+-
+  alias: soffes.blog
+  url: https://soffes.blog/
+  feedUrl: https://soffes.blog/rss.xml
+-
+  alias: solarex.github.io
+  url: http://solarex.github.io/
+  feedUrl: http://solarex.github.io/atom.xml
+-
+  alias: skymoon.biz
+  url: http://www.skymoon.biz/
+  feedUrl: https://www.skymoon.biz/feed/
+-
+  alias: soledadpenades.com
+  url: https://soledadpenades.com/
+  feedUrl: https://soledadpenades.com/feed
+-
+  alias: skidu.me
+  url: http://www.skidu.me/
+  feedUrl: https://www.skidu.me/feed/
+-
+  alias: software.intel.com/en-us/blogs
+  url: https://software.intel.com/en-us/blogs/
+  feedUrl: https://software.intel.com/en-us/user/login?destination=node/698526%3Ffeed%3Drss
+-
+  alias: skyform.com.cn
+  url: http://www.skyform.com.cn/
+  feedUrl: http://www.skycloudsoftware.com/index.php/feed
+-
+  alias: sound-of-silence.com
+  url: http://sound-of-silence.com/
+  feedUrl: http://sound-of-silence.com/rss.xml
+-
+  alias: soooldier.com
+  url: http://www.soooldier.com/
+  feedUrl: http://www.soooldier.com/atom.xml
+-
+  alias: sophiebits.com
+  url: https://sophiebits.com/
+  feedUrl: https://sophiebits.com/atom.xml
+-
+  alias: speckyboy.com
+  url: https://speckyboy.com/
+  feedUrl: https://speckyboy.com/feed/
+-
+  alias: soleilneon.com/blog
+  url: http://www.soleilneon.com/blog
+  feedUrl: http://www.soleilneon.com/blog/feed/
+-
+  alias: smashswift.com
+  url: https://smashswift.com/
+  feedUrl: https://smashswift.com/feed/
+-
+  alias: splinter.com.au
+  url: http://www.splinter.com.au/
+  feedUrl: https://feeds.feedburner.com/splintersw
+-
+  alias: spin.atomicobject.com
+  url: https://spin.atomicobject.com/
+  feedUrl: https://spin.atomicobject.com/feed/
+-
+  alias: simpledeveloper.com
+  url: http://simpledeveloper.com/
+  feedUrl: http://simpledeveloper.com/feed/
+-
+  alias: sourcecode.entelo.com
+  url: https://sourcecode.entelo.com/
+  feedUrl: https://sourcecode.entelo.com/feed.xml
+-
+  alias: sspai.com/feed
+  url: http://sspai.com/feed
+  feedUrl: https://sspai.com/feed
+-
+  alias: smilejay.com
+  url: http://smilejay.com/
+  feedUrl: http://smilejay.com/feed/
+-
+  alias: stackoverflow.com/questions/tagged/css
+  url: https://stackoverflow.com/questions/tagged/css?sort=featured
+  feedUrl: https://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=featured
+-
+  alias: spf13.com
+  url: http://spf13.com/
+  feedUrl: https://spf13.com/index.xml
+-
+  alias: stackoverflow.com/questions/tagged/ios
+  url: https://stackoverflow.com/questions/tagged/ios
+  feedUrl: https://stackoverflow.com/feeds/tag?tagnames=ios&amp;sort=newest
+-
+  alias: sososwift.com
+  url: http://www.sososwift.com/
+  feedUrl: http://sososwift.com
+-
+  alias: stackoverflow.com/questions/tagged/python
+  url: http://stackoverflow.com/questions/tagged/python
+  feedUrl: https://stackoverflow.com/feeds/tag?tagnames=python&amp;sort=newest
+-
+  alias: stackabuse.com
+  url: http://www.stackabuse.com/
+  feedUrl: https://stackabuse.com/rss/
+-
+  alias: sourcediving.com
+  url: https://sourcediving.com/
+  feedUrl: https://sourcediving.com/feed
+-
+  alias: spaceotechnologies.com/blog
+  url: https://www.spaceotechnologies.com/blog/
+  feedUrl: https://www.spaceotechnologies.com/feed/
+-
+  alias: ssdax.com
+  url: https://www.ssdax.com/
+  feedUrl: https://www.ssdax.com/?feed=rss2
+-
+  alias: stackabuse.com
+  url: https://stackabuse.com/
+  feedUrl: https://stackabuse.com/rss/
+-
+  alias: stackbox.org
+  url: http://stackbox.org//
+  feedUrl: https://stackbox.cn/atom.xml
+-
+  alias: stackoverflow.blog/engineering
+  url: https://stackoverflow.blog/engineering/
+  feedUrl: https://stackoverflow.blog/engineering/feed/
+-
+  alias: steve-yegge.blogspot.de
+  url: http://steve-yegge.blogspot.de/
+  feedUrl: http://steve-yegge.blogspot.com/feeds/posts/default
+-
+  alias: stephencelis.com
+  url: http://www.stephencelis.com/
+  feedUrl: https://www.stephencelis.com/atom.xml
+-
+  alias: stevemoser.org/category/apple-dev
+  url: https://www.stevemoser.org/category/apple-dev/index.html
+  feedUrl: https://stevemoser.org/feed.xml
+-
+  alias: stavros.io/tutorials/python
+  url: https://www.stavros.io/tutorials/python/
+  feedUrl: https://feeds.feedburner.com/stavrosstuff
+-
+  alias: starduster.me
+  url: https://www.starduster.me/
+  feedUrl: https://www.starduster.me/feed/
+-
+  alias: steve-yegge.blogspot.com
+  url: https://steve-yegge.blogspot.com/
+  feedUrl: https://steve-yegge.blogspot.com/feeds/posts/default
+-
+  alias: stdout.in
+  url: http://stdout.in/
+  feedUrl: http://stdout.in/en/cat/all.rss
+-
+  alias: stormluke.me
+  url: http://stormluke.me/
+  feedUrl: http://stormluke.me/atom.xml
+-
+  alias: stratechery.com
+  url: https://stratechery.com/
+  feedUrl: https://stratechery.com/wp-includes/wlwmanifest.xml
+-
+  alias: strongloop.com/strongblog
+  url: https://strongloop.com/strongblog/
+  feedUrl: https://strongloop.com/feed.xml
+-
+  alias: stephenwang.com/b
+  url: http://stephenwang.com/b
+  feedUrl: http://stephenwang.com/b/feed/
+-
+  alias: stripe.com/blog/engineering
+  url: https://stripe.com/blog/engineering
+  feedUrl: https://stripe.com/blog/feed.rss
+-
+  alias: steve-yegge.blogspot.in
+  url: https://steve-yegge.blogspot.in/
+  feedUrl: https://steve-yegge.blogspot.com/feeds/posts/default
+-
+  alias: subfurther.com/blog
+  url: http://subfurther.com/blog/
+  feedUrl: http://subfurther.com/blog/feed/
+-
+  alias: stevepython.wordpress.com
+  url: https://stevepython.wordpress.com/
+  feedUrl: https://stevepython.wordpress.com/feed/
+-
+  alias: sudhagar.com
+  url: http://sudhagar.com/
+  feedUrl: http://sudhagar.com/feed.xml
+-
+  alias: sudo.isl.co
+  url: https://sudo.isl.co/
+  feedUrl: https://sudo.isl.co/atom.xml
+-
+  alias: stripe.com/blog
+  url: https://stripe.com/blog
+  feedUrl: https://stripe.com/blog/feed.rss
+-
+  alias: stxnext.com/blog
+  url: https://stxnext.com/blog/
+  feedUrl: https://stxnext.com/blog/feed/
+-
+  alias: stylechen.com
+  url: http://stylechen.com/
+  feedUrl: https://blog.yiguochen.com/feed
+-
+  alias: sugrsugr.com
+  url: http://www.sugrsugr.com/
+  feedUrl: http://www.sugrsugr.com/index.php/feed/
+-
+  alias: sunng.info/blog
+  url: http://sunng.info/blog
+  feedUrl: https://sunng.info/blog/feeds/all.atom.xml
+-
+  alias: suerb.com
+  url: http://www.suerb.com/
+  feedUrl: http://www.suerb.com/feed
+-
+  alias: sunjw.us/blog
+  url: http://www.sunjw.us/blog
+  feedUrl: https://www.sunjw.us/blog/feed/

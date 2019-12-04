@@ -1896,3 +1896,63 @@
   date: Wed Dec 04 2019 09:40:37 GMT+0000 (Coordinated Universal Time)
   url: http://shiyanjun.cn/
   reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 09:42:06 GMT+0000 (Coordinated Universal Time)
+  url: https://www.simple.com/engineering
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:42:06 GMT+0000 (Coordinated Universal Time)
+  url: https://www.singlehop.com/blog/
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Wed Dec 04 2019 09:42:10 GMT+0000 (Coordinated Universal Time)
+  url: http://www.singlex.net/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:42:10 GMT+0000 (Coordinated Universal Time)
+  url: http://www.sishixy.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:42:18 GMT+0000 (Coordinated Universal Time)
+  url: http://snowlotus.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:42:21 GMT+0000 (Coordinated Universal Time)
+  url: http://www.snowdream.tech/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:42:22 GMT+0000 (Coordinated Universal Time)
+  url: https://snyk.io/blog
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:42:31 GMT+0000 (Coordinated Universal Time)
+  url: https://stackshare.io/feed
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Wed Dec 04 2019 09:42:40 GMT+0000 (Coordinated Universal Time)
+  url: http://www.statsblogs.com/tag/python/
+  reason: RequestError: getaddrinfo ENOTFOUND www.statsblogs.com
+-
+  date: Wed Dec 04 2019 09:42:45 GMT+0000 (Coordinated Universal Time)
+  url: https://steveedson.co.uk/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:42:45 GMT+0000 (Coordinated Universal Time)
+  url: http://stackvoid.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:42:47 GMT+0000 (Coordinated Universal Time)
+  url: http://www.stormzhang.com/
+  reason: RequestError: connect ECONNREFUSED 103.72.146.182:80
+-
+  date: Wed Dec 04 2019 09:42:49 GMT+0000 (Coordinated Universal Time)
+  url: https://stormpath.com/blog/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:42:49 GMT+0000 (Coordinated Universal Time)
+  url: http://www.succw.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:49:19 GMT+0000 (Coordinated Universal Time)
+  url: http://stuartkhall.com/
+  reason: RequestError: connect ETIMEDOUT 54.225.150.200:80
