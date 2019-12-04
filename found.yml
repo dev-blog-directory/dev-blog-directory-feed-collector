@@ -8358,3 +8358,331 @@
   alias: objectbox.io/blog
   url: https://objectbox.io/blog
   feedUrl: https://objectbox.io/feed/
+-
+  alias: oleb.net/blog
+  url: https://oleb.net/blog/
+  feedUrl: https://oleb.net/blog/atom.xml
+-
+  alias: oleb.net
+  url: http://oleb.net/
+  feedUrl: https://oleb.net/blog/atom.xml
+-
+  alias: oldj.net
+  url: http://oldj.net/
+  feedUrl: https://oldj.net/feed
+-
+  alias: ondrejcertik.blogspot.co.id/search/label/python
+  url: http://ondrejcertik.blogspot.co.id/search/label/python
+  feedUrl: http://ondrejcertik.blogspot.com/feeds/posts/default
+-
+  alias: omar.engineer
+  url: https://omar.engineer/
+  feedUrl: https://omar.engineer/rss/
+-
+  alias: old.reddit.com/r/Kotlin
+  url: https://old.reddit.com/r/Kotlin/
+  feedUrl: https://old.reddit.com/r/Kotlin/.rss
+-
+  alias: old.reddit.com/r/graphql
+  url: https://old.reddit.com/r/graphql/
+  feedUrl: https://old.reddit.com/r/graphql/.rss
+-
+  alias: old.reddit.com/r/perl
+  url: https://old.reddit.com/r/perl/
+  feedUrl: https://old.reddit.com/r/perl/.rss
+-
+  alias: old.reddit.com/r/vuejs
+  url: https://old.reddit.com/r/vuejs/
+  feedUrl: https://old.reddit.com/r/vuejs/.rss
+-
+  alias: old.reddit.com/r/algorithms
+  url: https://old.reddit.com/r/algorithms/
+  feedUrl: https://old.reddit.com/r/algorithms/.rss
+-
+  alias: old.reddit.com/r/swift
+  url: https://old.reddit.com/r/swift/
+  feedUrl: https://old.reddit.com/r/swift/.rss
+-
+  alias: onswiftwings.com
+  url: https://onswiftwings.com/
+  feedUrl: https://www.onswiftwings.com/index.xml
+-
+  alias: openai.com/blog
+  url: https://openai.com/blog/
+  feedUrl: https://openai.com/blog/rss/
+-
+  alias: opensourceforgeeks.blogspot.com
+  url: http://opensourceforgeeks.blogspot.com/
+  feedUrl: http://opensourceforgeeks.blogspot.com/feeds/posts/default
+-
+  alias: onevcat.com
+  url: https://onevcat.com/
+  feedUrl: https://onevcat.com/feed.xml
+-
+  alias: olinone.com
+  url: http://www.olinone.com/
+  feedUrl: http://www.olinone.com/?feed=rss2
+-
+  alias: orangejuiceliberationfront.com
+  url: https://orangejuiceliberationfront.com/
+  feedUrl: https://orangejuiceliberationfront.com/feed.xml
+-
+  alias: oreilly.com/ideas
+  url: https://www.oreilly.com/ideas
+  feedUrl: https://www.oreilly.com/ideas/feed.atom
+-
+  alias: os.phil-opp.com
+  url: https://os.phil-opp.com/
+  feedUrl: https://os.phil-opp.com/rss.xml
+-
+  alias: osinski.dev
+  url: https://osinski.dev/
+  feedUrl: https://osinski.dev/index.xml
+-
+  alias: ooso.net
+  url: http://www.ooso.net/
+  feedUrl: https://ooso.net/feed
+-
+  alias: open.blogs.nytimes.com
+  url: https://open.blogs.nytimes.com/
+  feedUrl: https://open.nytimes.com/feed
+-
+  alias: opencodez.com
+  url: https://www.opencodez.com/
+  feedUrl: https://www.opencodez.com/feed
+-
+  alias: origin-software.intel.com
+  url: https://origin-software.intel.com/
+  feedUrl: https://origin-software.intel.com/en-us/user/login?destination=node/698526%3Ffeed%3Drss
+-
+  alias: owent.net
+  url: https://www.owent.net/
+  feedUrl: https://owent.net/index.xml
+-
+  alias: owensd.io
+  url: https://owensd.io/
+  feedUrl: https://owensd.io/feed/
+-
+  alias: onextrapixel.com
+  url: https://onextrapixel.com/
+  feedUrl: https://onextrapixel.com/feed/
+-
+  alias: orestis.gr
+  url: https://orestis.gr/
+  feedUrl: https://orestis.gr/rss/
+-
+  alias: opython.com
+  url: http://opython.com/
+  feedUrl: http://www.opython.com/feed/rss/
+-
+  alias: overreacted.io
+  url: https://overreacted.io/
+  feedUrl: https://overreacted.io/rss.xml
+-
+  alias: pagerduty.com/blog
+  url: https://www.pagerduty.com/blog/
+  feedUrl: https://www.pagerduty.com/wp-includes/wlwmanifest.xml
+-
+  alias: patrickbalestra.com/blog
+  url: http://patrickbalestra.com/blog/
+  feedUrl: https://patrickbalestra.com/feed.xml
+-
+  alias: parveenkaler.com/blog
+  url: https://parveenkaler.com/blog
+  feedUrl: http://parveenkaler.com/feed.xml
+-
+  alias: orczhou.com
+  url: http://www.orczhou.com/
+  feedUrl: http://www.orczhou.com/index.php/feed/
+-
+  alias: patshaughnessy.net
+  url: http://patshaughnessy.net/
+  feedUrl: http://feeds2.feedburner.com/patshaughnessy
+-
+  alias: oophp.cn
+  url: http://www.oophp.cn/
+  feedUrl: https://www.oophp.cn/feed
+-
+  alias: paulgraham.com/articles.html
+  url: http://www.paulgraham.com/articles.html
+  feedUrl: http://www.aaronsw.com/2002/feeds/pgessays.rss
+-
+  alias: paulmcbride.net
+  url: https://paulmcbride.net/
+  feedUrl: https://paulmcbride.net/sitemap.xml
+-
+  alias: paulox.net
+  url: https://www.paulox.net/
+  feedUrl: https://www.paulox.net/feed.xml
+-
+  alias: paulrobertlloyd.com
+  url: https://paulrobertlloyd.com/
+  feedUrl: https://paulrobertlloyd.com/feed.xml
+-
+  alias: pagico.com/blog
+  url: https://www.pagico.com/blog/
+  feedUrl: https://www.pagico.com/blog/feed
+-
+  alias: pbpython.com
+  url: https://pbpython.com/
+  feedUrl: https://pbpython.com/feeds/all.atom.xml
+-
+  alias: ourmysql.com
+  url: http://ourmysql.com/
+  feedUrl: http://ourmysql.com/feed
+-
+  alias: paul-samuels.com
+  url: http://paul-samuels.com/
+  feedUrl: https://paul-samuels.com/atom.xml
+-
+  alias: paulirish.com
+  url: https://www.paulirish.com/
+  feedUrl: https://feeds.feedburner.com/paul-irish
+-
+  alias: peiqiang.net
+  url: http://peiqiang.net/
+  feedUrl: http://peiqiang.net/atom.xml
+-
+  alias: perl.com
+  url: https://www.perl.com/
+  feedUrl: https://www.perl.com/article/index.xml
+-
+  alias: perlbuzz.com
+  url: https://perlbuzz.com/
+  feedUrl: https://perlbuzz.com/feed.xml
+-
+  alias: pandablog.cn
+  url: http://www.pandablog.cn/
+  feedUrl: http://www.pandablog.cn/?feed=rss2
+-
+  alias: perlmeister.com/art_eng.html
+  url: https://perlmeister.com/art_eng.html
+  feedUrl: https://perlmeister.com/rss/rss-perl-eng.xml
+-
+  alias: paypal-engineering.com
+  url: https://www.paypal-engineering.com/
+  feedUrl: https://medium.com/feed/paypal-engineering
+-
+  alias: pedrommcarrasco.github.io
+  url: https://pedrommcarrasco.github.io/
+  feedUrl: https://pedrommcarrasco.github.io/atom.xml
+-
+  alias: perltricks.com
+  url: http://perltricks.com/
+  feedUrl: http://perltricks.com/index.xml
+-
+  alias: perlweekly.com
+  url: http://perlweekly.com/
+  feedUrl: http://feeds.feedburner.com/PerlWeekly
+-
+  alias: perlsphere.net
+  url: http://perlsphere.net/
+  feedUrl: http://perlsphere.net/atom.xml
+-
+  alias: penbook.substack.com
+  url: https://penbook.substack.com/
+  feedUrl: https://penbook.substack.com/feed/
+-
+  alias: petersteinberger.com
+  url: http://petersteinberger.com/
+  feedUrl: http://petersteinberger.com/atom.xml
+-
+  alias: personball.com
+  url: http://personball.com/
+  feedUrl: http://personball.com/atom.xml
+-
+  alias: peterbe.com
+  url: https://www.peterbe.com/
+  feedUrl: https://www.peterbe.com/rss.xml
+-
+  alias: peterthaleikis.com
+  url: https://peterthaleikis.com/
+  feedUrl: https://peterthaleikis.com/feed.xml
+-
+  alias: pewpewthespells.com
+  url: http://pewpewthespells.com/
+  feedUrl: https://pewpewthespells.com/feed.xml
+-
+  alias: pfandrade.me/tags/ios
+  url: https://pfandrade.me/tags/ios/
+  feedUrl: https://pfandrade.me/tags/ios/index.xml
+-
+  alias: philipwalton.com
+  url: https://philipwalton.com/
+  feedUrl: https://feeds.feedburner.com/philipwalton
+-
+  alias: philippspiess.com
+  url: https://philippspiess.com/
+  feedUrl: https://philippspiess.com/rss.xml
+-
+  alias: perlmaven.com
+  url: https://perlmaven.com/
+  feedUrl: https://perlmaven.com/atom
+-
+  alias: philna.sh
+  url: https://philna.sh/
+  feedUrl: https://philna.sh/feed.xml
+-
+  alias: ownyourbits.com
+  url: https://ownyourbits.com/
+  feedUrl: https://ownyourbits.com/feed/
+-
+  alias: parallellabs.com
+  url: http://www.parallellabs.com/
+  feedUrl: http://www.parallellabs.com/feed/
+-
+  alias: perlhacks.com
+  url: https://perlhacks.com/
+  feedUrl: https://perlhacks.com/feed/
+-
+  alias: phodal.com
+  url: https://www.phodal.com/
+  feedUrl: https://www.phodal.com/blog/feeds/rss/
+-
+  alias: petr-mitrichev.blogspot.com
+  url: https://petr-mitrichev.blogspot.com/
+  feedUrl: https://petr-mitrichev.blogspot.com/feeds/posts/default
+-
+  alias: phrase.com/blog
+  url: https://phrase.com/blog
+  feedUrl: https://phrase.com/blog/feed/
+-
+  alias: phodal.com/blog
+  url: http://www.phodal.com/blog/
+  feedUrl: https://www.phodal.com/blog/feeds/rss/
+-
+  alias: peopleofcolorintech.com
+  url: http://peopleofcolorintech.com/
+  feedUrl: https://peopleofcolorintech.com/feed/
+-
+  alias: piotrpasich.com
+  url: http://piotrpasich.com/
+  feedUrl: http://piotrpasich.com/feed/
+-
+  alias: philipzucker.com
+  url: http://www.philipzucker.com/
+  feedUrl: http://www.philipzucker.com/feed/
+-
+  alias: phpforever.com
+  url: http://phpforever.com/
+  feedUrl: http://phpforever.com/feed/
+-
+  alias: pjax.cn
+  url: https://pjax.cn/
+  feedUrl: https://pjax.cn/rss.php
+-
+  alias: pjf.name
+  url: http://pjf.name/
+  feedUrl: https://pjf.name/feed/
+-
+  alias: phpvar.com
+  url: http://www.phpvar.com/
+  feedUrl: http://www.phpvar.com/feed
+-
+  alias: pixelhint.com
+  url: http://pixelhint.com/
+  feedUrl: http://pixelhint.com/feed/
+-
+  alias: phpor.net/blog
+  url: http://phpor.net/blog
+  feedUrl: https://phpor.net/blog/feed
