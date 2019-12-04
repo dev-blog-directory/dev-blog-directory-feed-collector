@@ -11578,3 +11578,215 @@
   alias: yueyemaitian.iteye.com
   url: http://yueyemaitian.iteye.com/
   feedUrl: https://www.iteye.com/rss
+-
+  alias: yujiangshui.com
+  url: http://yujiangshui.com/
+  feedUrl: https://yujiangshui.com/atom.xml
+-
+  alias: yurichev.com/blog
+  url: https://yurichev.com/blog/
+  feedUrl: https://yurichev.com/blog/rss.xml
+-
+  alias: yulingtianxia.com
+  url: http://yulingtianxia.com/
+  feedUrl: http://yulingtianxia.com/atom.xml
+-
+  alias: yyny1789.github.io
+  url: http://yyny1789.github.io/
+  feedUrl: http://yyny1789.github.io/feed.xml
+-
+  alias: za.github.io
+  url: http://za.github.io/
+  feedUrl: http://za.github.io/feed.django.xml
+-
+  alias: zachholman.com
+  url: https://zachholman.com/
+  feedUrl: https://zachholman.com/atom.xml
+-
+  alias: zachknox.com
+  url: https://zachknox.com/
+  feedUrl: https://zachknox.com/feed.xml
+-
+  alias: yushuangqi.com
+  url: https://yushuangqi.com/
+  feedUrl: https://yushuangqi.com/index.xml
+-
+  alias: zaff.netlify.com
+  url: https://zaff.netlify.com/
+  feedUrl: https://zaff.netlify.com/rss.xml
+-
+  alias: zddhub.github.io
+  url: http://zddhub.github.io/
+  feedUrl: https://www.zddhub.com/feed
+-
+  alias: zellwk.com/blog
+  url: https://zellwk.com/blog/
+  feedUrl: https://zellwk.com/rss
+-
+  alias: zeemee.engineering
+  url: https://zeemee.engineering/
+  feedUrl: https://zeemee.engineering/feed
+-
+  alias: zeroequalsfalse.press
+  url: https://www.zeroequalsfalse.press/
+  feedUrl: https://zeroequalsfalse.com/atom.xml
+-
+  alias: zerynth.com/blog
+  url: https://www.zerynth.com/blog/
+  feedUrl: https://www.zerynth.com/feed/
+-
+  alias: zgia.net
+  url: http://zgia.net/
+  feedUrl: https://zgia.net/?feed=rss2
+-
+  alias: zh.lucida.me
+  url: http://zh.lucida.me/
+  feedUrl: http://zh.lucida.me/atom.xml
+-
+  alias: zato.io/blog
+  url: https://zato.io/blog/
+  feedUrl: https://zato.io/blog/feed.xml
+-
+  alias: zhaiqianfeng.com
+  url: http://www.zhaiqianfeng.com/
+  feedUrl: http://www.zhaiqianfeng.com/atom.xml
+-
+  alias: zhangdashuo.github.io
+  url: https://zhangdashuo.github.io/
+  feedUrl: https://zhangdashuo.github.io/atom.xml
+-
+  alias: zhangge.net
+  url: https://zhangge.net/
+  feedUrl: https://zhangge.net/feed
+-
+  alias: zhangjun.me
+  url: http://www.zhangjun.me/
+  feedUrl: https://www.zhangjun.me/feed/
+-
+  alias: zhangsa.net
+  url: http://zhangsa.net/
+  feedUrl: http://zhangsa.net/sitemap.xml
+-
+  alias: zhanjindong.com
+  url: https://zhanjindong.com/
+  feedUrl: https://zhanjindong.com/rss.xml
+-
+  alias: zhengkun.info
+  url: http://zhengkun.info/
+  feedUrl: http://zhengkun.info/feed.atom
+-
+  alias: zhengqm.github.io
+  url: http://zhengqm.github.io/
+  feedUrl: https://zhengqm.github.io/atom.xml
+-
+  alias: zhangxc.com
+  url: http://zhangxc.com/
+  feedUrl: https://zhangxc.com/index.xml
+-
+  alias: zhgeaits.github.io
+  url: http://zhgeaits.github.io/
+  feedUrl: http://feed.feedsky.com/zhgeaits
+-
+  alias: zhidaow.com/feed
+  url: http://www.zhidaow.com/feed
+  feedUrl: http://www.zhidaow.com/feed
+-
+  alias: zhangshenjia.com
+  url: http://zhangshenjia.com/
+  feedUrl: http://zhangshenjia.com/feed/
+-
+  alias: zhoujin.com/index.php
+  url: http://zhoujin.com/index.php
+  feedUrl: http://zhoujin.com/feed.php
+-
+  alias: zhaoj.in
+  url: https://www.zhaoj.in/
+  feedUrl: https://www.zhaoj.in/feed
+-
+  alias: zhangxinxu.com/wordpress
+  url: http://www.zhangxinxu.com/wordpress
+  feedUrl: https://www.zhangxinxu.com/wordpress/feed/
+-
+  alias: zhuangbiaowei.com/blog
+  url: http://www.zhuangbiaowei.com/blog/
+  feedUrl: http://www.zhuangbiaowei.com/blog/?feed=rss2
+-
+  alias: zhengzexin.com/feed
+  url: http://zhengzexin.com/feed
+  feedUrl: https://zhengzexin.com/feed
+-
+  alias: zhujun.me
+  url: http://www.zhujun.me/
+  feedUrl: http://www.zhujun.me/sitemap.xml
+-
+  alias: zhihu.com/org/thoughtworks-zhong-guo/activities
+  url: https://www.zhihu.com/org/thoughtworks-zhong-guo/activities
+  feedUrl: https://static.zhihu.com/static/search.xml
+-
+  alias: zhum.in/blog
+  url: https://zhum.in/blog/
+  feedUrl: https://zhum.in/?feed=rss
+-
+  alias: zhowkev.in
+  url: http://zhowkev.in/
+  feedUrl: https://zhowkev.in/rss/
+-
+  alias: zillow.com/engineering
+  url: https://www.zillow.com/engineering/
+  feedUrl: https://www.zillow.com/tech/zgwp/wp-includes/wlwmanifest.xml
+-
+  alias: zhukun.net
+  url: http://www.zhukun.net/
+  feedUrl: https://www.zhukun.net/feed
+-
+  alias: zoesmith.io
+  url: https://zoesmith.io/
+  feedUrl: https://www.zoesmith.io/index.xml
+-
+  alias: zolmeister.com
+  url: https://zolmeister.com/
+  feedUrl: https://zolmeister.com/feeds/posts/default
+-
+  alias: zimug.com
+  url: http://www.zimug.com/
+  feedUrl: http://www.zimug.com/feed
+-
+  alias: zmingcx.com
+  url: http://zmingcx.com/
+  feedUrl: http://zmingcx.com/feed/
+-
+  alias: zhujiangtao.com
+  url: http://zhujiangtao.com/
+  feedUrl: http://zhujiangtao.com/?feed=rss2
+-
+  alias: zuoqy.com
+  url: http://zuoqy.com/
+  feedUrl: http://zuoqy.com/atom.xml
+-
+  alias: zyan.cc
+  url: http://zyan.cc/
+  feedUrl: http://zyan.cc/feed.php
+-
+  alias: zyearn.github.io
+  url: http://zyearn.github.io/
+  feedUrl: http://zyearn.github.io/atom.xml
+-
+  alias: zynga.com/blogs/engineering
+  url: https://www.zynga.com/blogs/engineering
+  feedUrl: https://www.zynga.com/lib/wlwmanifest.xml
+-
+  alias: zonneveld.dev
+  url: https://zonneveld.dev/
+  feedUrl: https://zonneveld.dev/feed/
+-
+  alias: zoucz.com
+  url: http://www.zoucz.com/
+  feedUrl: https://www.zoucz.com/atom.xml
+-
+  alias: zsoltnagy.eu
+  url: http://www.zsoltnagy.eu/
+  feedUrl: http://www.zsoltnagy.eu/feed/
+-
+  alias: zhyea.com
+  url: http://www.zhyea.com/
+  feedUrl: https://www.zhyea.com/feed

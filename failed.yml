@@ -2424,3 +2424,43 @@
   date: Wed Dec 04 2019 10:04:45 GMT+0000 (Coordinated Universal Time)
   url: http://www.youc.net/
   reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:05:47 GMT+0000 (Coordinated Universal Time)
+  url: http://yunkus.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:05:48 GMT+0000 (Coordinated Universal Time)
+  url: http://www.yunweipai.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:05:49 GMT+0000 (Coordinated Universal Time)
+  url: https://zapier.com/engineering/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:05:57 GMT+0000 (Coordinated Universal Time)
+  url: http://zengrong.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:06:10 GMT+0000 (Coordinated Universal Time)
+  url: http://zhangtielei.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:06:14 GMT+0000 (Coordinated Universal Time)
+  url: https://www.zhangxinxu.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:06:15 GMT+0000 (Coordinated Universal Time)
+  url: http://www.ywjt.org/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:06:15 GMT+0000 (Coordinated Universal Time)
+  url: http://zaodula.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:06:18 GMT+0000 (Coordinated Universal Time)
+  url: http://zheng-ji.github.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:06:23 GMT+0000 (Coordinated Universal Time)
+  url: https://zhiku8.com/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: zhiku8.com. is not in the cert's altnames: DNS:izpan.com, DNS:www.izpan.com
