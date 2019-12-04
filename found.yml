@@ -2014,3 +2014,363 @@
   alias: blog.pchudzik.com
   url: https://blog.pchudzik.com/
   feedUrl: https://blog.pchudzik.com/index.xml
+-
+  alias: blog.skydark.info
+  url: http://blog.skydark.info/
+  feedUrl: http://blog.skydark.info/
+-
+  alias: blog.sketchapp.com
+  url: https://blog.sketchapp.com/
+  feedUrl: https://blog.sketchapp.com/feed
+-
+  alias: blog.sleeplessbeastie.eu
+  url: https://blog.sleeplessbeastie.eu/
+  feedUrl: https://blog.sleeplessbeastie.eu/feed.xml
+-
+  alias: blog.sourceclear.com
+  url: https://blog.sourceclear.com/
+  feedUrl: https://www.veracode.com/blog/feed
+-
+  alias: blog.sina.com.cn/xiaomingchao
+  url: http://blog.sina.com.cn/xiaomingchao
+  feedUrl: http://blog.sina.com.cn/rss/1265695842.xml
+-
+  alias: blog.sqisland.com
+  url: http://blog.sqisland.com/
+  feedUrl: http://blog.sqisland.com/feeds/posts/default
+-
+  alias: blog.sina.com.cn/varjwqc5j9uvclf8
+  url: http://blog.sina.com.cn/varjwqc5j9uvclf8
+  feedUrl: http://blog.sina.com.cn/rss/1229183684.xml
+-
+  alias: blog.stablekernel.com
+  url: http://blog.stablekernel.com/
+  feedUrl: http://blog.stablekernel.com/?feed=rss
+-
+  alias: blog.sqreen.io
+  url: https://blog.sqreen.io/
+  feedUrl: https://blog.sqreen.com/feed/
+-
+  alias: blog.startifact.com/categories/python.html
+  url: https://blog.startifact.com/categories/python.html
+  feedUrl: https://blog.startifact.com/rss.xml
+-
+  alias: blog.stridenyc.com
+  url: https://blog.stridenyc.com/
+  feedUrl: https://www.stridenyc.com/blog/rss.xml
+-
+  alias: blog.skagedal.tech
+  url: https://blog.skagedal.tech/
+  feedUrl: http://blog.skagedal.tech/feed.xml
+-
+  alias: blog.spacemanlabs.com
+  url: https://blog.spacemanlabs.com/
+  feedUrl: https://blog.spacemanlabs.com/feed/
+-
+  alias: blog.sunnyxx.com
+  url: http://blog.sunnyxx.com/
+  feedUrl: http://blog.sunnyxx.com/atom.xml
+-
+  alias: blog.sina.com.cn/zhongzhaochuan
+  url: http://blog.sina.com.cn/zhongzhaochuan
+  feedUrl: http://blog.sina.com.cn/rss/1639790891.xml
+-
+  alias: blog.star7th.com
+  url: http://blog.star7th.com/
+  feedUrl: http://blog.star7th.com/feed
+-
+  alias: blog.sina.com.cn/u/5134522966
+  url: http://blog.sina.com.cn/u/5134522966
+  feedUrl: http://blog.sina.com.cn/rss/5134522966.xml
+-
+  alias: blog.sina.com.cn/xywatersky
+  url: http://blog.sina.com.cn/xywatersky
+  feedUrl: http://blog.sina.com.cn/rss/1283622691.xml
+-
+  alias: blog.sinovale.com
+  url: http://blog.sinovale.com/
+  feedUrl: http://blog.sinovale.com/feed
+-
+  alias: blog.thislongrun.com
+  url: http://blog.thislongrun.com/
+  feedUrl: http://blog.thislongrun.com/feeds/posts/default
+-
+  alias: blog.supertop.co
+  url: http://blog.supertop.co/
+  feedUrl: https://blog.supertop.co/rss
+-
+  alias: blog.supereasyapps.com
+  url: http://blog.supereasyapps.com/
+  feedUrl: https://blog.supereasyapps.com/rss/
+-
+  alias: blog.timescale.com
+  url: https://blog.timescale.com/
+  feedUrl: https://blog.timescale.com/feed/
+-
+  alias: blog.totaljs.com/blogs
+  url: https://blog.totaljs.com/blogs/
+  feedUrl: https://blog.totaljs.com/rss/
+-
+  alias: blog.stylingandroid.com
+  url: https://blog.stylingandroid.com/
+  feedUrl: https://blog.stylingandroid.com/feed/
+-
+  alias: blog.twoshortplanks.com
+  url: http://blog.twoshortplanks.com/
+  feedUrl: http://blog.twoshortplanks.com/feed.xml
+-
+  alias: blog.tankywoo.com
+  url: http://blog.tankywoo.com/
+  feedUrl: http://blog.tankywoo.com/feed.xml
+-
+  alias: blog.soshace.com/en
+  url: https://blog.soshace.com/en/
+  feedUrl: https://blog.soshace.com/wp-includes/wlwmanifest.xml
+-
+  alias: blog.suryad.com
+  url: https://blog.suryad.com/
+  feedUrl: https://blog.suryad.com/rss/
+-
+  alias: blog.takipi.com
+  url: http://blog.takipi.com/
+  feedUrl: https://blog.overops.com/feed/
+-
+  alias: blog.venmo.com
+  url: http://blog.venmo.com/?category=Engineering
+  feedUrl: http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry?format=rss
+-
+  alias: blog.versioneye.com
+  url: https://blog.versioneye.com/
+  feedUrl: https://blog.versioneye.com/feed/
+-
+  alias: blog.udacity.com
+  url: https://blog.udacity.com/
+  feedUrl: https://blog.udacity.com/feed
+-
+  alias: blog.timac.org
+  url: https://blog.timac.org/
+  feedUrl: https://blog.timac.org/index.xml
+-
+  alias: blog.useasp.net/Default.aspx
+  url: http://blog.useasp.net/Default.aspx
+  feedUrl: http://blog.useasp.net/rss.aspx
+-
+  alias: blog.vevo.com
+  url: http://blog.vevo.com/
+  feedUrl: https://medium.com/feed/vevo-engineering
+-
+  alias: blog.warpfactor.io
+  url: http://blog.warpfactor.io/
+  feedUrl: http://blog.warpfactor.io/feed.xml
+-
+  alias: blog.travisbumgarner.com
+  url: https://blog.travisbumgarner.com/
+  feedUrl: https://blog.travisbumgarner.com/index.xml
+-
+  alias: blog.studygolang.com
+  url: http://blog.studygolang.com/
+  feedUrl: http://blog.studygolang.com/feed/
+-
+  alias: blog.webf.zone
+  url: https://blog.webf.zone/
+  feedUrl: https://blog.webf.zone/feed
+-
+  alias: blog.waldo.io
+  url: https://blog.waldo.io/
+  feedUrl: https://blog.waldo.io/feed/
+-
+  alias: blog.wittchen.biz.pl
+  url: http://blog.wittchen.biz.pl/
+  feedUrl: http://wittchen.io/atom.xml
+-
+  alias: blog.wencan.org
+  url: http://blog.wencan.org/
+  feedUrl: https://blog.wencan.org/feed/
+-
+  alias: blog.workshape.io
+  url: http://blog.workshape.io/
+  feedUrl: http://blog.workshape.io/rss/
+-
+  alias: blog.xiaohansong.com
+  url: http://blog.xiaohansong.com//
+  feedUrl: https://blog.xiaohansong.com//atom.xml
+-
+  alias: blog.xmartlabs.com
+  url: https://blog.xmartlabs.com/
+  feedUrl: https://xmartlabs.com/feed.xml
+-
+  alias: blog.willbish.com
+  url: https://blog.willbish.com/
+  feedUrl: https://blog.willbish.com/feed/
+-
+  alias: blog.warmcolor.net
+  url: http://blog.warmcolor.net/
+  feedUrl: https://blog.warmcolor.net/feed/
+-
+  alias: blog.wangjunyu.net
+  url: http://blog.wangjunyu.net/
+  feedUrl: http://blog.wangjunyu.net/feed
+-
+  alias: blog.webjeda.com
+  url: https://blog.webjeda.com/
+  feedUrl: https://blog.webjeda.com/sitemap.xml
+-
+  alias: blog.vngrs.com
+  url: http://blog.vngrs.com/
+  feedUrl: http://blog.vngrs.com/feed/
+-
+  alias: blog.yourtion.com/rss.xml
+  url: http://blog.yourtion.com/rss.xml
+  feedUrl: https://blog.yourtion.com/rss.xml
+-
+  alias: blog.yld.io
+  url: https://blog.yld.io/
+  feedUrl: https://blog.yld.io/sitemap.xml
+-
+  alias: blog.yhat.com
+  url: http://blog.yhat.com/
+  feedUrl: http://blog.yhat.com/rss.xml
+-
+  alias: blog.ziade.org
+  url: https://blog.ziade.org/
+  feedUrl: https://ziade.org/
+-
+  alias: blog.zeplin.io
+  url: https://blog.zeplin.io/
+  feedUrl: https://blog.zeplin.io/feed
+-
+  alias: blog.ykqmain.com
+  url: http://blog.ykqmain.com/
+  feedUrl: http://blog.ykqmain.com/atom.xml
+-
+  alias: blog.zorro.im
+  url: http://blog.zorro.im/
+  feedUrl: http://blog.zorro.im/rss.xml
+-
+  alias: blog.xn--9p3a45o.cn
+  url: http://blog.xn--9p3a45o.cn/
+  feedUrl: http://blog.xn--9p3a45o.cn/feed/
+-
+  alias: blog.whsir.com
+  url: https://blog.whsir.com/
+  feedUrl: https://blog.whsir.com/rsslatest.xml
+-
+  alias: blog.ziki.cn
+  url: http://blog.ziki.cn/
+  feedUrl: https://blog.ziki.cn/index.xml
+-
+  alias: blog.xdite.net
+  url: http://blog.xdite.net/
+  feedUrl: http://xdite-ld.logdown.com/posts.rss
+-
+  alias: blogs.cisco.com/tag/python
+  url: http://blogs.cisco.com/tag/python
+  feedUrl: https://blogs.cisco.com/feed
+-
+  alias: blogs.dropbox.com/tech
+  url: https://blogs.dropbox.com/tech/
+  feedUrl: https://blogs.dropbox.com/tech/feed/
+-
+  alias: blogs.360.cn
+  url: http://blogs.360.cn/
+  feedUrl: http://blogs.360.cn/rss.html
+-
+  alias: blogs.fluidinfo.com
+  url: http://blogs.fluidinfo.com/
+  feedUrl: http://blogs.fluidinfo.com/fluidinfo/feed/
+-
+  alias: blogs.janestreet.com/category/ocaml
+  url: https://blogs.janestreet.com/category/ocaml/
+  feedUrl: https://blog.janestreet.com/feed.xml
+-
+  alias: blogs.cisco.com/tag/cloud-computing
+  url: https://blogs.cisco.com/tag/cloud-computing
+  feedUrl: https://blogs.cisco.com/feed
+-
+  alias: blog.yufeng.info
+  url: http://blog.yufeng.info/
+  feedUrl: http://blog.yufeng.info/feed
+-
+  alias: blogs.msdn.microsoft.com/oldnewthing
+  url: https://blogs.msdn.microsoft.com/oldnewthing/
+  feedUrl: https://devblogs.microsoft.com/oldnewthing/feed
+-
+  alias: bloghuman.com/index.php
+  url: http://www.bloghuman.com/index.php
+  feedUrl: http://www.bloghuman.com/feed.php
+-
+  alias: blogs.cisco.com
+  url: https://blogs.cisco.com/?s=cloudcomputing
+  feedUrl: https://blogs.cisco.com/feed
+-
+  alias: blogs.perl.org
+  url: http://blogs.perl.org/
+  feedUrl: http://blogs.perl.org/atom.xml
+-
+  alias: blogs.msdn.com/b/abhinaba
+  url: https://blogs.msdn.com/b/abhinaba/
+  feedUrl: https://blogs.msdn.com/?feed=rss
+-
+  alias: blogs.msdn.com/b/vcblog
+  url: http://blogs.msdn.com/b/vcblog/
+  feedUrl: https://devblogs.microsoft.com/cppblog/feed/
+-
+  alias: blogs.oracle.com/java
+  url: https://blogs.oracle.com/java/
+  feedUrl: https://blogs.oracle.com/java/compendium/rss
+-
+  alias: blogs.msdn.microsoft.com/abhinaba
+  url: https://blogs.msdn.microsoft.com/abhinaba/
+  feedUrl: https://blogs.msdn.microsoft.com/abhinaba/wp-includes/wlwmanifest.xml
+-
+  alias: blogs.msdn.microsoft.com/dotnet
+  url: https://blogs.msdn.microsoft.com/dotnet/
+  feedUrl: https://devblogs.microsoft.com/dotnet/feed/
+-
+  alias: bobrochel.blogspot.co.id/search/label/python
+  url: http://bobrochel.blogspot.co.id/search/label/python
+  feedUrl: http://bobrochel.blogspot.com/feeds/posts/default
+-
+  alias: blogs.nvidia.com
+  url: https://blogs.nvidia.com/
+  feedUrl: https://blogs.nvidia.com/feed/
+-
+  alias: bohemiancoders.tumblr.com
+  url: http://bohemiancoders.tumblr.com/
+  feedUrl: https://bohemiancoders.tumblr.com/rss
+-
+  alias: blogs.msdn.microsoft.com/pythonengineering
+  url: https://blogs.msdn.microsoft.com/pythonengineering/
+  feedUrl: https://devblogs.microsoft.com/python/feed/
+-
+  alias: boingboing.net
+  url: https://boingboing.net/
+  feedUrl: https://boingboing.net/feed
+-
+  alias: blogs.windows.com/msedgedev
+  url: https://blogs.windows.com/msedgedev/
+  feedUrl: https://blogs.windows.com/msedgedev/wp-includes/wlwmanifest.xml
+-
+  alias: bohops.com
+  url: https://bohops.com/
+  feedUrl: https://bohops.com/feed/
+-
+  alias: blogs.vmware.com/vcloud
+  url: http://blogs.vmware.com/vcloud/
+  feedUrl: http://blogs.vmware.com/security/rss.xml
+-
+  alias: blogsgeek.com
+  url: https://www.blogsgeek.com/
+  feedUrl: https://www.blogsgeek.com/feed/
+-
+  alias: bo56.com
+  url: http://www.bo56.com/
+  feedUrl: https://www.bo56.com/feed/
+-
+  alias: bluewhale.cc
+  url: http://bluewhale.cc/
+  feedUrl: http://bluewhale.cc/feed
+-
+  alias: boffosocko.com
+  url: https://boffosocko.com/
+  feedUrl: https://boffosocko.com/feed/

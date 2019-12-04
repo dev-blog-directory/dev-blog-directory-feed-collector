@@ -383,3 +383,43 @@
   date: Wed Dec 04 2019 08:06:32 GMT+0000 (Coordinated Universal Time)
   url: https://blog.nchyn.com/
   reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:13:17 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.smemo.info/
+  reason: RequestError: certificate has expired
+-
+  date: Wed Dec 04 2019 08:13:23 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.stormma.me/
+  reason: RequestError: getaddrinfo ENOTFOUND blog.stormma.me
+-
+  date: Wed Dec 04 2019 08:13:27 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.twitch.tv/tagged/engineering
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:13:28 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.twitter.com/engineering
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:13:36 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.tsyinpin.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:13:40 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.yasking.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:13:53 GMT+0000 (Coordinated Universal Time)
+  url: http://blogs.splunk.com/tag/python/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:13:56 GMT+0000 (Coordinated Universal Time)
+  url: http://www.blogways.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:14:04 GMT+0000 (Coordinated Universal Time)
+  url: http://www.blogmars.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:18:27 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.wearewizards.io/
+  reason: RequestError: connect ETIMEDOUT 52.16.92.204:443
