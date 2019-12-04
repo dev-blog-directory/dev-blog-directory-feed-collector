@@ -845,3 +845,79 @@
   date: Wed Dec 04 2019 08:39:05 GMT+0000 (Coordinated Universal Time)
   url: https://engineering.intercom.io/
   reason: RequestError: connect ETIMEDOUT 52.217.42.11:443
+-
+  date: Wed Dec 04 2019 08:40:04 GMT+0000 (Coordinated Universal Time)
+  url: https://engineering.zenefits.com/posts/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: engineering.zenefits.com. is not in the cert's altnames: DNS:*.wpengine.com, DNS:wpengine.com
+-
+  date: Wed Dec 04 2019 08:40:08 GMT+0000 (Coordinated Universal Time)
+  url: http://etrd.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:08 GMT+0000 (Coordinated Universal Time)
+  url: http://epingwang.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:10 GMT+0000 (Coordinated Universal Time)
+  url: http://www.epooll.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:13 GMT+0000 (Coordinated Universal Time)
+  url: http://f2eskills.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:13 GMT+0000 (Coordinated Universal Time)
+  url: http://fabiensanglard.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:14 GMT+0000 (Coordinated Universal Time)
+  url: http://everet.org/
+  reason: RequestError: read ECONNRESET
+-
+  date: Wed Dec 04 2019 08:40:18 GMT+0000 (Coordinated Universal Time)
+  url: http://fancywt.cn/
+  reason: RequestError: getaddrinfo ENOTFOUND fancywt.cn
+-
+  date: Wed Dec 04 2019 08:40:21 GMT+0000 (Coordinated Universal Time)
+  url: http://www.extlight.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:21 GMT+0000 (Coordinated Universal Time)
+  url: https://feather.ca/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: feather.ca. is not in the cert's altnames: DNS:*.gridserver.com, DNS:gridserver.com
+-
+  date: Wed Dec 04 2019 08:40:24 GMT+0000 (Coordinated Universal Time)
+  url: https://fernandocejas.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:35 GMT+0000 (Coordinated Universal Time)
+  url: http://www.flickering.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:36 GMT+0000 (Coordinated Universal Time)
+  url: http://www.forestli.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:42 GMT+0000 (Coordinated Universal Time)
+  url: http://flykobe.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:42 GMT+0000 (Coordinated Universal Time)
+  url: http://freewind.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:43 GMT+0000 (Coordinated Universal Time)
+  url: http://www.freezhongzi.info/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:43 GMT+0000 (Coordinated Universal Time)
+  url: https://fsharpforfunandprofit.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:40:55 GMT+0000 (Coordinated Universal Time)
+  url: https://www.freebuf.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:41:00 GMT+0000 (Coordinated Universal Time)
+  url: https://everybodyshometowngeek.com/blog/
+  reason: Feed URL not found

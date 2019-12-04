@@ -4354,3 +4354,327 @@
   alias: engineering.webengage.com
   url: https://engineering.webengage.com/
   feedUrl: https://webengage.com/blog/feed/
+-
+  alias: engineering.zulily.com
+  url: https://engineering.zulily.com/
+  feedUrl: https://zulily-tech.com/feed/
+-
+  alias: enoent.fr
+  url: https://enoent.fr/
+  feedUrl: https://enoent.fr/index.xml
+-
+  alias: engineering.zomato.com
+  url: https://engineering.zomato.com/
+  feedUrl: https://engineering.zomato.com/blog/feed
+-
+  alias: engineroom.settled.co.uk
+  url: https://engineroom.settled.co.uk/
+  feedUrl: https://engineroom.settled.co.uk/feed
+-
+  alias: erikbern.com
+  url: https://erikbern.com/
+  feedUrl: https://erikbern.com/index.xml
+-
+  alias: ericlippert.com
+  url: https://ericlippert.com/
+  feedUrl: https://ericlippert.com/feed/
+-
+  alias: erikrunyon.com
+  url: https://erikrunyon.com/
+  feedUrl: https://erikrunyon.com/feed.xml
+-
+  alias: erlang-solutions.com/blog.html
+  url: https://www.erlang-solutions.com/blog.html
+  feedUrl: https://www.erlang-solutions.com/news.rss
+-
+  alias: ennioma.com
+  url: http://ennioma.com/
+  feedUrl: http://ennioma.com/feed/
+-
+  alias: esoftmobile.com
+  url: http://esoftmobile.com/
+  feedUrl: https://esoftmobile.com/atom.xml
+-
+  alias: evanhahn.com
+  url: http://evanhahn.com/
+  feedUrl: https://evanhahn.com/feed.xml
+-
+  alias: evanjones.ca
+  url: http://www.evanjones.ca/
+  feedUrl: https://www.evanjones.ca/index.rss
+-
+  alias: evanjones.ca/chronological.html
+  url: http://www.evanjones.ca/chronological.html
+  feedUrl: https://www.evanjones.ca/index.rss
+-
+  alias: envoy.engineering
+  url: https://envoy.engineering/
+  feedUrl: https://envoy.engineering/feed
+-
+  alias: ericasadun.com
+  url: https://ericasadun.com/
+  feedUrl: https://ericasadun.com/feed/
+-
+  alias: esferasoft.com/blog
+  url: https://www.esferasoft.com/blog/
+  feedUrl: https://www.esferasoft.com/blog/feed/
+-
+  alias: eventbrite.com/engineering
+  url: https://www.eventbrite.com/engineering/
+  feedUrl: https://www.eventbrite.com/engineering/feed/
+-
+  alias: eviltrout.com
+  url: https://eviltrout.com/
+  feedUrl: https://eviltrout.com/feed.xml
+-
+  alias: evilmartians.com/chronicles
+  url: https://evilmartians.com/chronicles/
+  feedUrl: https://evilmartians.com/chronicles.atom
+-
+  alias: engineeringblog.yelp.com
+  url: https://engineeringblog.yelp.com/
+  feedUrl: https://engineeringblog.yelp.com/feed.xml
+-
+  alias: engineroom.teamwork.com
+  url: https://engineroom.teamwork.com/
+  feedUrl: https://engineroom.teamwork.com/feed
+-
+  alias: evernote.com/blog
+  url: https://evernote.com/blog/
+  feedUrl: https://evernote.com/blog/feed/
+-
+  alias: engineroom.trackmaven.com
+  url: http://engineroom.trackmaven.com/
+  feedUrl: http://engineroom.trackmaven.com/feeds/rss.xml
+-
+  alias: fabric.io/blog
+  url: https://fabric.io/blog
+  feedUrl: http://fabric.io/blog/blog?format=RSS
+-
+  alias: evanmiller.org
+  url: http://www.evanmiller.org/
+  feedUrl: https://www.evanmiller.org/news.xml
+-
+  alias: extras.waynewbishop.com/swift
+  url: https://extras.waynewbishop.com/swift
+  feedUrl: https://extras.waynewbishop.com/swift?format=rss
+-
+  alias: fangshanzi.com
+  url: http://www.fangshanzi.com/
+  feedUrl: http://www.fangshanzi.com/?feed=rss&rkhwtq=xfcne2
+-
+  alias: exceptionnotfound.net
+  url: https://www.exceptionnotfound.net/
+  feedUrl: https://exceptionnotfound.net/rss/
+-
+  alias: explo-media.com/blog
+  url: https://www.explo-media.com/blog/
+  feedUrl: https://www.explo-media.com/feed/
+-
+  alias: facebook.github.io/react-native/blog
+  url: https://facebook.github.io/react-native/blog/
+  feedUrl: https://facebook.github.io/react-native/blog/atom.xml
+-
+  alias: facebook.github.io/react/blog
+  url: https://facebook.github.io/react/blog/
+  feedUrl: https://reactjs.org/feed.xml
+-
+  alias: fareez.info
+  url: http://fareez.info/
+  feedUrl: https://www.fareez.info/rss.xml
+-
+  alias: farzadyz.com/blog
+  url: https://farzadyz.com/blog
+  feedUrl: https://farzadyz.com/rss.xml
+-
+  alias: exiatian.com
+  url: http://www.exiatian.com/
+  feedUrl: http://www.exiatian.com/sitemap_baidu.xml
+-
+  alias: fatman13.github.io
+  url: http://fatman13.github.io/
+  feedUrl: http://tauntaunslayer13.me/atom.xml
+-
+  alias: fatesinger.com
+  url: https://fatesinger.com/
+  feedUrl: https://fatesinger.com/?feed=rss
+-
+  alias: feihu.me
+  url: http://feihu.me/
+  feedUrl: http://feihu.me/blog/feed.atom
+-
+  alias: fed.taobao.org
+  url: https://fed.taobao.org/
+  feedUrl: https://fed.taobao.org/atom.xml
+-
+  alias: ezloo.com
+  url: http://www.ezloo.com/
+  feedUrl: https://www.ezloo.com/atom.xml
+-
+  alias: fangjian0423.github.io
+  url: https://fangjian0423.github.io/
+  feedUrl: https://fangjian0423.github.io/atom.xml
+-
+  alias: felix021.com/blog/index.php
+  url: http://www.felix021.com/blog/index.php
+  feedUrl: https://www.felix021.com/blog/feed.php
+-
+  alias: fex.baidu.com
+  url: http://fex.baidu.com/
+  feedUrl: http://fex.baidu.com/feed.xml
+-
+  alias: fbrnc.net
+  url: http://fbrnc.net/
+  feedUrl: http://fbrnc.net/blog.atom
+-
+  alias: feyin.net
+  url: http://www.feyin.net/
+  feedUrl: http://www.feyin.net/index.xml
+-
+  alias: figure.ink
+  url: http://www.figure.ink/
+  feedUrl: http://www.figure.ink/blog?format=rss
+-
+  alias: finestructure.co
+  url: https://finestructure.co/
+  feedUrl: https://finestructure.co/blog?format=rss
+-
+  alias: felginep.github.io
+  url: https://felginep.github.io/
+  feedUrl: https://felginep.github.io/feed.xml
+-
+  alias: fatihkalifa.com
+  url: https://fatihkalifa.com/
+  feedUrl: https://fatihkalifa.com/feed/rss
+-
+  alias: fitzgeraldnick.com
+  url: http://fitzgeraldnick.com/
+  feedUrl: http://fitzgeraldnick.com/feed.xml
+-
+  alias: firstdoit.com
+  url: https://firstdoit.com/
+  feedUrl: https://firstdoit.com/feed
+-
+  alias: feitianbenyue.iteye.com
+  url: http://feitianbenyue.iteye.com/
+  feedUrl: https://www.iteye.com/rss
+-
+  alias: fleurer.github.com
+  url: http://fleurer.github.com/
+  feedUrl: http://fleurer.github.io/atom.xml
+-
+  alias: firstclassjs.com
+  url: https://firstclassjs.com/
+  feedUrl: https://firstclassjs.com/feed/
+-
+  alias: fatkun.com
+  url: http://fatkun.com/
+  feedUrl: http://fatkun.com/feed
+-
+  alias: fgiesen.wordpress.com
+  url: https://fgiesen.wordpress.com/
+  feedUrl: https://fgiesen.wordpress.com/feed/
+-
+  alias: flaviocopes.com
+  url: https://flaviocopes.com/
+  feedUrl: https://flaviocopes.com/index.xml
+-
+  alias: flight.school
+  url: https://flight.school/
+  feedUrl: https://flight.school/feed.xml
+-
+  alias: fishermartyn.github.io
+  url: https://fishermartyn.github.io/
+  feedUrl: https://fishermartyn.github.io/feed.xml
+-
+  alias: fengxiangba.com
+  url: http://fengxiangba.com/
+  feedUrl: https://fengxiangba.com/sitemap.xml
+-
+  alias: fivestars.blog
+  url: https://www.fivestars.blog/
+  feedUrl: https://fivestars.blog/feed.xml
+-
+  alias: fluffy.es
+  url: https://fluffy.es/
+  feedUrl: https://fluffy.es/rss/
+-
+  alias: foresightmobile.com/blog
+  url: https://foresightmobile.com/blog
+  feedUrl: https://foresightmobile.com/blog?format=rss
+-
+  alias: fiveaday.co
+  url: https://fiveaday.co/
+  feedUrl: https://fiveaday.co/?feed=rss
+-
+  alias: forum.golangbridge.org
+  url: https://forum.golangbridge.org/
+  feedUrl: https://forum.golangbridge.org/posts.rss
+-
+  alias: fragmentedpodcast.com
+  url: https://fragmentedpodcast.com/
+  feedUrl: https://fragmentedpodcast.com/feed/
+-
+  alias: fqk.io
+  url: https://fqk.io/
+  feedUrl: https://fqk.io/atom.xml
+-
+  alias: freeletics.engineering
+  url: https://freeletics.engineering/
+  feedUrl: https://freeletics.engineering/feed.xml
+-
+  alias: flycatdeng.iteye.com
+  url: http://flycatdeng.iteye.com/
+  feedUrl: https://www.iteye.com/rss
+-
+  alias: foofish.net
+  url: https://foofish.net/
+  feedUrl: https://foofish.net/feeds/all.atom.xml
+-
+  alias: freemind.pluskid.org
+  url: http://freemind.pluskid.org/
+  feedUrl: http://freemind.pluskid.org/rss.xml
+-
+  alias: freshswift.net
+  url: http://freshswift.net/
+  feedUrl: http://freshswift.net/index.xml
+-
+  alias: frodoking.github.io
+  url: http://frodoking.github.io/
+  feedUrl: http://frodoking.github.io/atom.xml
+-
+  alias: frogermcs.github.io
+  url: http://frogermcs.github.io/
+  feedUrl: http://frogermcs.github.io/feed.xml
+-
+  alias: frompythonimportpodcast.com
+  url: http://www.frompythonimportpodcast.com/
+  feedUrl: http://www.frompythonimportpodcast.com/feed
+-
+  alias: flyne.org
+  url: http://www.flyne.org/
+  feedUrl: http://www.flyne.org/feed
+-
+  alias: francs3.blog.163.com
+  url: http://francs3.blog.163.com/
+  feedUrl: http://francs3.blog.163.com/rss/
+-
+  alias: forece.net
+  url: http://www.forece.net/
+  feedUrl: https://www.forece.net/feed
+-
+  alias: forevergeek.com
+  url: https://www.forevergeek.com/
+  feedUrl: https://www.forevergeek.com/feed/
+-
+  alias: fueled.com/blog
+  url: https://fueled.com/blog/
+  feedUrl: https://fueled.com/feed/
+-
+  alias: freemindworld.com/blog
+  url: http://www.freemindworld.com/blog
+  feedUrl: https://www.freemindworld.com/blog/feed
+-
+  alias: ftium4.com
+  url: http://www.ftium4.com/
+  feedUrl: http://www.ftium4.com/feed
