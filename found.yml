@@ -1354,3 +1354,299 @@
   alias: blog.cxiangnet.cn
   url: http://blog.cxiangnet.cn/
   feedUrl: http://blog.cxiangnet.cn/feed/
+-
+  alias: blog.fir.im
+  url: http://blog.fir.im/
+  feedUrl: http://blog.fir.im/rss/
+-
+  alias: blog.fogus.me
+  url: http://blog.fogus.me/
+  feedUrl: http://blog.fogus.me/feed/
+-
+  alias: blog.fnil.net
+  url: http://blog.fnil.net/
+  feedUrl: http://blog.fnil.net/atom.xml
+-
+  alias: blog.frankel.ch
+  url: https://blog.frankel.ch/
+  feedUrl: https://blog.frankel.ch/feed.xml
+-
+  alias: blog.getbootstrap.com
+  url: https://blog.getbootstrap.com/
+  feedUrl: https://blog.getbootstrap.com/feed.xml
+-
+  alias: blog.golang.org
+  url: https://blog.golang.org/
+  feedUrl: https://blog.golang.org/feed.atom
+-
+  alias: blog.georgi-yanev.com
+  url: https://blog.georgi-yanev.com/
+  feedUrl: https://blog.georgi-yanev.com/feed.xml
+-
+  alias: blog.graphqleditor.com
+  url: https://blog.graphqleditor.com/
+  feedUrl: https://blog.graphqleditor.com/rss.xml
+-
+  alias: blog.graph.cool
+  url: https://blog.graph.cool/
+  feedUrl: https://www.prisma.io/blog/rss.xml
+-
+  alias: blog.fooleap.org
+  url: https://blog.fooleap.org/
+  feedUrl: https://blog.fooleap.org/atom.xml
+-
+  alias: blog.frankmtaylor.com
+  url: https://blog.frankmtaylor.com/
+  feedUrl: https://blog.frankmtaylor.com/feed/
+-
+  alias: blog.gnuers.org
+  url: https://blog.gnuers.org/
+  feedUrl: https://blog.gnuers.org/?feed=rss2
+-
+  alias: blog.helftone.com
+  url: https://blog.helftone.com/
+  feedUrl: https://blog.helftone.com/feed.xml
+-
+  alias: blog.gojekengineering.com
+  url: https://blog.gojekengineering.com/
+  feedUrl: https://blog.gojekengineering.com/feed
+-
+  alias: blog.honeybadger.io
+  url: https://blog.honeybadger.io/
+  feedUrl: https://www.honeybadger.io/blog/feed.xml
+-
+  alias: blog.honeybadger.io
+  url: http://blog.honeybadger.io/
+  feedUrl: https://www.honeybadger.io/blog/feed.xml
+-
+  alias: blog.gregbrockman.com
+  url: https://blog.gregbrockman.com/
+  feedUrl: https://blog.gregbrockman.com/feed
+-
+  alias: blog.hypriot.com
+  url: http://blog.hypriot.com/
+  feedUrl: https://blog.hypriot.com/index.xml
+-
+  alias: blog.ianbicking.org
+  url: http://blog.ianbicking.org/
+  feedUrl: https://www.ianbicking.org/feeds/atom.xml
+-
+  alias: blog.huanghao.me
+  url: http://blog.huanghao.me/
+  feedUrl: http://blog.huanghao.me/?feed=rss2
+-
+  alias: blog.heroku.com/engineering
+  url: https://blog.heroku.com/engineering
+  feedUrl: https://blog.heroku.com/feed
+-
+  alias: blog.ihipop.info
+  url: http://blog.ihipop.info/
+  feedUrl: https://blog.ihipop.info/feed
+-
+  alias: blog.imaginea.com
+  url: https://blog.imaginea.com/
+  feedUrl: https://blog.imaginea.com/feed/
+-
+  alias: blog.hasura.io
+  url: https://blog.hasura.io/
+  feedUrl: https://blog.hasura.io/rss/
+-
+  alias: blog.gssxgss.me
+  url: http://blog.gssxgss.me/
+  feedUrl: http://blog.gssxgss.me/feed/
+-
+  alias: blog.intercom.io
+  url: https://blog.intercom.io/
+  feedUrl: https://blog.intercom.io/?feed=rss
+-
+  alias: blog.isquaredsoftware.com
+  url: https://blog.isquaredsoftware.com/
+  feedUrl: https://blog.isquaredsoftware.com/index.xml
+-
+  alias: blog.hobbyistsoftware.com/category/coding/apple
+  url: https://blog.hobbyistsoftware.com/category/coding/apple
+  feedUrl: https://blog.hobbyistsoftware.com/feed/
+-
+  alias: blog.ijasoneverett.com
+  url: https://blog.ijasoneverett.com/
+  feedUrl: https://blog.ijasoneverett.com/feed/
+-
+  alias: blog.it580.com
+  url: http://blog.it580.com/
+  feedUrl: https://blog.it580.com/index.xml
+-
+  alias: blog.jayfields.com
+  url: http://blog.jayfields.com/
+  feedUrl: http://blog.jayfields.com/feeds/posts/default
+-
+  alias: blog.jessfraz.com
+  url: https://blog.jessfraz.com/
+  feedUrl: https://blog.jessfraz.com/index.xml
+-
+  alias: blog.hakugyokurou.net
+  url: http://blog.hakugyokurou.net/
+  feedUrl: http://blog.hakugyokurou.net/?feed=rss2
+-
+  alias: blog.ibireme.com
+  url: https://blog.ibireme.com/
+  feedUrl: https://blog.ibireme.com/feed/
+-
+  alias: blog.jessitron.com
+  url: http://blog.jessitron.com/
+  feedUrl: https://blog.jessitron.com/feed/
+-
+  alias: blog.jeswang.org
+  url: http://blog.jeswang.org/
+  feedUrl: http://blog.jeswang.org/atom.xml
+-
+  alias: blog.jaredsinclair.com
+  url: http://blog.jaredsinclair.com/
+  feedUrl: https://jaredsinclair.com/rss?1
+-
+  alias: blog.jibin.tech
+  url: https://blog.jibin.tech/
+  feedUrl: https://blog.jibin.tech/rss.xml
+-
+  alias: blog.javafortesters.com
+  url: http://blog.javafortesters.com/
+  feedUrl: https://www.eviltester.com/index.xml
+-
+  alias: blog.joda.org
+  url: http://blog.joda.org/
+  feedUrl: https://blog.joda.org/feeds/posts/default
+-
+  alias: blog.johnnyreilly.com
+  url: https://blog.johnnyreilly.com/
+  feedUrl: https://blog.johnnyreilly.com/feeds/posts/default
+-
+  alias: blog.jelastic.com
+  url: https://blog.jelastic.com/
+  feedUrl: https://jelastic.com/blog/feed/
+-
+  alias: blog.jooq.org
+  url: https://blog.jooq.org/
+  feedUrl: https://blog.jooq.org/feed/
+-
+  alias: blog.jetbrains.com/go
+  url: https://blog.jetbrains.com/go/
+  feedUrl: https://blog.jetbrains.com/go/feed/
+-
+  alias: blog.jetbrains.com/kotlin
+  url: https://blog.jetbrains.com/kotlin/
+  feedUrl: https://blog.jetbrains.com/kotlin/feed/
+-
+  alias: blog.jetbrains.com/objc
+  url: https://blog.jetbrains.com/objc
+  feedUrl: https://blog.jetbrains.com/objc/feed/
+-
+  alias: blog.jetbrains.com/pycharm
+  url: https://blog.jetbrains.com/pycharm/
+  feedUrl: https://blog.jetbrains.com/pycharm/feed/
+-
+  alias: blog.jgrossi.com
+  url: https://blog.jgrossi.com/
+  feedUrl: https://blog.jgrossi.com/feed/
+-
+  alias: blog.joanzapata.com
+  url: https://blog.joanzapata.com/
+  feedUrl: https://blog.joanzapata.com/rss/
+-
+  alias: blog.klipse.tech
+  url: http://blog.klipse.tech/
+  feedUrl: https://blog.klipse.tech//feed.xml
+-
+  alias: blog.just4fun.site
+  url: http://blog.just4fun.site/index.html
+  feedUrl: https://blog.just4fun.site/index.xml
+-
+  alias: blog.jquery.com
+  url: https://blog.jquery.com/
+  feedUrl: https://blog.jquery.com/feed/
+-
+  alias: blog.kazaff.me
+  url: http://blog.kazaff.me/
+  feedUrl: https://blog.kazaff.me/atom.xml
+-
+  alias: blog.kaggle.com
+  url: http://blog.kaggle.com/
+  feedUrl: http://blog.kaggle.com/feed/
+-
+  alias: blog.kulman.sk
+  url: https://blog.kulman.sk/
+  feedUrl: https://blog.kulman.sk/index.xml
+-
+  alias: blog.leapoahead.com
+  url: http://blog.leapoahead.com/
+  feedUrl: http://blog.leapoahead.com/atom.xml
+-
+  alias: blog.krzyzanowskim.com
+  url: http://blog.krzyzanowskim.com/
+  feedUrl: https://blog.krzyzanowskim.com/rss/
+-
+  alias: blog.k-res.net
+  url: http://blog.k-res.net/
+  feedUrl: https://blog.k-res.net/feed
+-
+  alias: blog.leancloud.cn
+  url: https://blog.leancloud.cn/
+  feedUrl: https://leancloudblog.com/rss.xml
+-
+  alias: blog.karumi.com
+  url: https://blog.karumi.com/
+  feedUrl: https://blog.karumi.com/rss/
+-
+  alias: blog.jupyter.org
+  url: https://blog.jupyter.org/
+  feedUrl: https://blog.jupyter.org/feed
+-
+  alias: blog.learngoprogramming.com
+  url: https://blog.learngoprogramming.com/
+  feedUrl: https://blog.learngoprogramming.com/feed
+-
+  alias: blog.lichengwu.cn
+  url: http://blog.lichengwu.cn/
+  feedUrl: http://blog.lichengwu.cn/feed.xml
+-
+  alias: blog.lerner.co.il
+  url: http://blog.lerner.co.il/
+  feedUrl: https://lerner.co.il/wp-includes/wlwmanifest.xml
+-
+  alias: blog.lmorchard.com
+  url: http://blog.lmorchard.com/
+  feedUrl: http://blog.lmorchard.com/index.rss
+-
+  alias: blog.lickability.com
+  url: https://blog.lickability.com/
+  feedUrl: https://lickability.com/blog/feed/index.xml
+-
+  alias: blog.kotlin-academy.com
+  url: https://blog.kotlin-academy.com/
+  feedUrl: https://blog.kotlin-academy.com/feed
+-
+  alias: blog.knownsec.com
+  url: http://blog.knownsec.com/
+  feedUrl: https://blog.knownsec.com/feed/
+-
+  alias: blog.mandrill.com
+  url: http://blog.mandrill.com/
+  feedUrl: http://blog.mandrill.com/feeds/all.atom.xml
+-
+  alias: blog.mallow-tech.com
+  url: http://blog.mallow-tech.com/
+  feedUrl: http://blog.mallow-tech.com/feed/
+-
+  alias: blog.lse.epita.fr
+  url: https://blog.lse.epita.fr/
+  feedUrl: http://blog.lse.epita.fr/rssfeed.xml
+-
+  alias: blog.log4d.com
+  url: http://blog.log4d.com/
+  feedUrl: https://blog.alswl.com/atom.xml
+-
+  alias: blog.lucode.net
+  url: http://blog.lucode.net/
+  feedUrl: http://blog.lucode.net/feed/
+-
+  alias: blog.livecoding.tv
+  url: http://blog.livecoding.tv/
+  feedUrl: https://blog.education-ecosystem.com/feed/

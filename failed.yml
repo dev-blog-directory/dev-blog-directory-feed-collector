@@ -243,3 +243,107 @@
   date: Wed Dec 04 2019 07:24:43 GMT+0000 (Coordinated Universal Time)
   url: http://blog.erezsh.com/
   reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.filipesaraiva.info/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.evernote.com/tech/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.fens.me/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.faraday.io/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.fedecarg.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.farbox.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.fastmail.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.feedly.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.finxter.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:16 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.filippo.io/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:00:34 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.hexiangyu.me/
+  reason: RequestError: certificate has expired
+-
+  date: Wed Dec 04 2019 08:00:35 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.guorenxi.com/
+  reason: RequestError: getaddrinfo ENOTFOUND blog.guorenxi.com
+-
+  date: Wed Dec 04 2019 08:00:35 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.hotoo.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:00:38 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.icoolxue.com/
+  reason: RequestError: certificate has expired
+-
+  date: Wed Dec 04 2019 08:00:44 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.jamespan.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:00:45 GMT+0000 (Coordinated Universal Time)
+  url: http://www.blog.insisiv.com/
+  reason: RequestError: getaddrinfo ENOTFOUND www.blog.insisiv.com
+-
+  date: Wed Dec 04 2019 08:00:45 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.instabug.com/
+  reason: HTTPError: Response code 503 (Service Unavailable: Back-end server is at capacity)
+-
+  date: Wed Dec 04 2019 08:00:45 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.jeremyshaw.co.nz/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:00:46 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.imgur.com/category/eng/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 08:00:56 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.joingrouper.com/
+  reason: RequestError: getaddrinfo ENOTFOUND blog.joingrouper.com
+-
+  date: Wed Dec 04 2019 08:00:59 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.jpush.cn/
+  reason: RequestError: read ECONNRESET
+-
+  date: Wed Dec 04 2019 08:01:05 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.licess.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:01:07 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.lishewen.com/
+  reason: ReadError: incorrect header check
+-
+  date: Wed Dec 04 2019 08:01:12 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.leezhong.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:01:52 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.ghostunix.org/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:04:01 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.itbdw.com/
+  reason: RequestError: connect ETIMEDOUT 67.218.156.13:80
