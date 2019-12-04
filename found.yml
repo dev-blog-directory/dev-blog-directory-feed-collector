@@ -1650,3 +1650,367 @@
   alias: blog.livecoding.tv
   url: http://blog.livecoding.tv/
   feedUrl: https://blog.education-ecosystem.com/feed/
+-
+  alias: blog.mazur.me
+  url: https://blog.mazur.me/
+  feedUrl: https://blog.mazur.me/feed.xml
+-
+  alias: blog.mikeswanson.com
+  url: http://blog.mikeswanson.com/
+  feedUrl: https://blog.mikeswanson.com/rss
+-
+  alias: blog.metaflow.fr
+  url: https://blog.metaflow.fr/
+  feedUrl: https://blog.metaflow.fr/feed
+-
+  alias: blog.memsql.com/content/engineering
+  url: http://blog.memsql.com/content/engineering/
+  feedUrl: https://www.memsql.com/blog/feed/
+-
+  alias: blog.mozilla.org
+  url: https://blog.mozilla.org/
+  feedUrl: https://blog.mozilla.org/feed/
+-
+  alias: blog.natanrolnik.me
+  url: https://blog.natanrolnik.me/
+  feedUrl: https://blog.natanrolnik.me/feed.xml
+-
+  alias: blog.mikiobraun.de
+  url: http://blog.mikiobraun.de/
+  feedUrl: http://feeds.feedburner.com/MarginallyInteresting
+-
+  alias: blog.miaozhaofeng.cn/feed
+  url: http://blog.miaozhaofeng.cn/feed
+  feedUrl: http://blog.miaozhaofeng.cn/feed
+-
+  alias: blog.nimbledroid.com
+  url: https://blog.nimbledroid.com/
+  feedUrl: https://blog.nimbledroid.com/feed.xml
+-
+  alias: blog.nodejs.org
+  url: http://blog.nodejs.org/
+  feedUrl: https://nodejs.org/en/feed/blog.xml
+-
+  alias: blog.meteor.com
+  url: https://blog.meteor.com/
+  feedUrl: https://blog.meteor.com/feed
+-
+  alias: blog.mutoo.im
+  url: http://blog.mutoo.im/
+  feedUrl: https://blog.mutoo.im/atom.xml
+-
+  alias: blog.novoda.com
+  url: https://blog.novoda.com/
+  feedUrl: https://blog.novoda.com/rss/
+-
+  alias: blog.nullspace.io
+  url: http://blog.nullspace.io/
+  feedUrl: http://blog.nullspace.io/atom.xml
+-
+  alias: blog.omitol.com
+  url: http://blog.omitol.com/
+  feedUrl: http://blog.omitol.com/atom.xml
+-
+  alias: blog.pamelafox.org
+  url: http://blog.pamelafox.org/
+  feedUrl: http://blog.pamelafox.org/feeds/posts/default
+-
+  alias: blog.nelhage.com
+  url: https://blog.nelhage.com/
+  feedUrl: https://blog.nelhage.com/atom.xml
+-
+  alias: blog.monstermuffin.org
+  url: https://blog.monstermuffin.org/
+  feedUrl: https://blog.monstermuffin.org/feed/
+-
+  alias: blog.miguelgrinberg.com/category/Python
+  url: https://blog.miguelgrinberg.com/category/Python
+  feedUrl: https://blog.miguelgrinberg.com/feed
+-
+  alias: blog.phoenixlzx.com
+  url: http://blog.phoenixlzx.com/
+  feedUrl: https://blog.phoenixlzx.com/atom.xml
+-
+  alias: blog.netopyr.com
+  url: https://blog.netopyr.com/
+  feedUrl: https://netopyr.com/feed/
+-
+  alias: blog.phpgao.com
+  url: https://blog.phpgao.com/
+  feedUrl: https://blog.phpgao.com/feed/
+-
+  alias: blog.petrzemek.net
+  url: http://blog.petrzemek.net/
+  feedUrl: https://blog.petrzemek.net/feed/
+-
+  alias: blog.plataformatec.com.br
+  url: http://blog.plataformatec.com.br/
+  feedUrl: http://blog.plataformatec.com.br/feed/
+-
+  alias: blog.python.org
+  url: https://blog.python.org/
+  feedUrl: https://blog.python.org/feeds/posts/default
+-
+  alias: blog.moove-it.com
+  url: https://blog.moove-it.com/
+  feedUrl: https://blog.moove-it.com/services/rss/
+-
+  alias: blog.pythonaro.com
+  url: http://blog.pythonaro.com/
+  feedUrl: http://blog.pythonaro.com/feeds/posts/default
+-
+  alias: blog.notific.io
+  url: https://blog.notific.io/
+  feedUrl: https://blog.notific.io/feed/
+-
+  alias: blog.quicktype.io
+  url: https://blog.quicktype.io/
+  feedUrl: https://blog.quicktype.io/rss/
+-
+  alias: blog.newtum.com/blog
+  url: http://blog.newtum.com/blog/
+  feedUrl: https://blog.newtum.com/feed/
+-
+  alias: blog.postmates.com/tagged/engineering
+  url: https://blog.postmates.com/tagged/engineering
+  feedUrl: https://medium.com/feed/postmates-blog/tagged/engineering
+-
+  alias: blog.rahmannet.net
+  url: http://blog.rahmannet.net/
+  feedUrl: http://blog.rahmannet.net/feeds/posts/default
+-
+  alias: blog.raintank.io
+  url: https://blog.raintank.io/
+  feedUrl: https://grafana.com/blog/index.xml
+-
+  alias: blog.rainy.im
+  url: http://blog.rainy.im/
+  feedUrl: http://blog.rainy.im/feeds/all.atom.xml
+-
+  alias: blog.radware.com/tag/darknet
+  url: https://blog.radware.com/tag/darknet/
+  feedUrl: https://blog.radware.com/feed/
+-
+  alias: blog.pythonanywhere.com
+  url: https://blog.pythonanywhere.com/
+  feedUrl: https://blog.pythonanywhere.com/feed/
+-
+  alias: blog.phpdr.net
+  url: http://blog.phpdr.net/
+  feedUrl: https://blog.phpdr.net/feed
+-
+  alias: blog.pythonlibrary.org
+  url: http://www.blog.pythonlibrary.org/
+  feedUrl: http://www.blog.pythonlibrary.org/feed/
+-
+  alias: blog.reverberate.org
+  url: http://blog.reverberate.org/
+  feedUrl: http://blog.reverberate.org/feed.xml
+-
+  alias: blog.reactnativecoach.com
+  url: https://blog.reactnativecoach.com/
+  feedUrl: https://blog.reactnativecoach.com/feed
+-
+  alias: blog.regehr.org
+  url: http://blog.regehr.org/
+  feedUrl: https://blog.regehr.org/feed
+-
+  alias: blog.risingstack.com
+  url: https://blog.risingstack.com/
+  feedUrl: https://blog.risingstack.com/rss/
+-
+  alias: blog.rogermolas.com
+  url: http://blog.rogermolas.com/
+  feedUrl: http://blog.rogermolas.com/index.xml
+-
+  alias: blog.rinesi.com
+  url: https://blog.rinesi.com/
+  feedUrl: https://blog.rinesi.com/feed/
+-
+  alias: blog.qdsang.com
+  url: http://blog.qdsang.com/
+  feedUrl: http://blog.qdsang.com/feed/
+-
+  alias: blog.rust-lang.org
+  url: https://blog.rust-lang.org/
+  feedUrl: https://blog.rust-lang.org/feed.xml
+-
+  alias: blog.rootk.com
+  url: http://blog.rootk.com/
+  feedUrl: http://blog.rootk.com/feed
+-
+  alias: blog.rapidapi.com
+  url: http://blog.rapidapi.com/
+  feedUrl: https://rapidapi.com/blog/wp-includes/wlwmanifest.xml
+-
+  alias: blog.rapidapi.com
+  url: https://blog.rapidapi.com/
+  feedUrl: https://rapidapi.com/blog/wp-includes/wlwmanifest.xml
+-
+  alias: blog.sensible.io
+  url: https://blog.sensible.io/
+  feedUrl: https://blog.sensible.io/rss
+-
+  alias: blog.sensible.io
+  url: http://blog.sensible.io/
+  feedUrl: https://blog.sensible.io/rss
+-
+  alias: blog.shazam.com
+  url: https://blog.shazam.com/
+  feedUrl: https://blog.shazam.com/osd.xml
+-
+  alias: blog.saymagic.cn
+  url: http://blog.saymagic.cn/
+  feedUrl: https://blog.saymagic.cn/pages/atom.xml
+-
+  alias: blog.reetsee.com
+  url: http://blog.reetsee.com/
+  feedUrl: http://blog.reetsee.com/feed
+-
+  alias: blog.siftscience.com
+  url: https://blog.siftscience.com/?category=Engineering
+  feedUrl: https://blog.sift.com/wp-includes/wlwmanifest.xml
+-
+  alias: blog.scrapinghub.com
+  url: https://blog.scrapinghub.com/
+  feedUrl: https://blog.scrapinghub.com/rss.xml
+-
+  alias: blog.rtwilson.com
+  url: http://blog.rtwilson.com/
+  feedUrl: http://blog.rtwilson.com/feed/
+-
+  alias: blog.sina.com.cn/87ask
+  url: http://blog.sina.com.cn/87ask
+  feedUrl: http://blog.sina.com.cn/rss/1777158455.xml
+-
+  alias: blog.sead.co
+  url: http://blog.sead.co/
+  feedUrl: http://blog.sead.co/feed
+-
+  alias: blog.samsonis.me
+  url: http://blog.samsonis.me/
+  feedUrl: http://blog.samsonis.me/feed/
+-
+  alias: blog.sina.com.cn/auroratony
+  url: http://blog.sina.com.cn/auroratony
+  feedUrl: http://blog.sina.com.cn/rss/1584387113.xml
+-
+  alias: blog.sina.com.cn/android2007
+  url: http://blog.sina.com.cn/android2007
+  feedUrl: http://blog.sina.com.cn/rss/2804859404.xml
+-
+  alias: blog.sina.com.cn/blog782081987
+  url: http://blog.sina.com.cn/blog782081987
+  feedUrl: http://blog.sina.com.cn/rss/1367089600.xml
+-
+  alias: blog.sina.com.cn/blogbot
+  url: http://blog.sina.com.cn/blogbot
+  feedUrl: http://blog.sina.com.cn/rss/1252330317.xml
+-
+  alias: blog.sina.com.cn/bwftesting
+  url: http://blog.sina.com.cn/bwftesting
+  feedUrl: http://blog.sina.com.cn/rss/1738268182.xml
+-
+  alias: blog.sina.com.cn/cmmi
+  url: http://blog.sina.com.cn/cmmi
+  feedUrl: http://blog.sina.com.cn/rss/1228571733.xml
+-
+  alias: blog.sina.com.cn/dxs110
+  url: http://blog.sina.com.cn/dxs110
+  feedUrl: http://blog.sina.com.cn/rss/1630399741.xml
+-
+  alias: blog.sina.com.cn/gsh85
+  url: http://blog.sina.com.cn/gsh85
+  feedUrl: http://blog.sina.com.cn/rss/1571372175.xml
+-
+  alias: blog.sina.com.cn/enviidl
+  url: http://blog.sina.com.cn/enviidl
+  feedUrl: http://blog.sina.com.cn/rss/1984634525.xml
+-
+  alias: blog.sina.com.cn/heguanpei
+  url: http://blog.sina.com.cn/heguanpei
+  feedUrl: http://blog.sina.com.cn/rss/1644946990.xml
+-
+  alias: blog.sina.com.cn/ifont
+  url: http://blog.sina.com.cn/ifont
+  feedUrl: http://blog.sina.com.cn/rss/1908368722.xml
+-
+  alias: blog.sina.com.cn/hellofrankey
+  url: http://blog.sina.com.cn/hellofrankey
+  feedUrl: http://blog.sina.com.cn/rss/1221155353.xml
+-
+  alias: blog.sina.com.cn/hfttrade
+  url: http://blog.sina.com.cn/hfttrade
+  feedUrl: http://blog.sina.com.cn/rss/2321482330.xml
+-
+  alias: blog.sina.com.cn/kern0612
+  url: http://blog.sina.com.cn/kern0612
+  feedUrl: http://blog.sina.com.cn/rss/1070095910.xml
+-
+  alias: blog.sina.com.cn/liujunhomepage
+  url: http://blog.sina.com.cn/liujunhomepage
+  feedUrl: http://blog.sina.com.cn/rss/2393434581.xml
+-
+  alias: blog.sina.com.cn/liuguiyou
+  url: http://blog.sina.com.cn/liuguiyou
+  feedUrl: http://blog.sina.com.cn/rss/1257500882.xml
+-
+  alias: blog.sina.com.cn/mindtesting
+  url: http://blog.sina.com.cn/mindtesting
+  feedUrl: http://blog.sina.com.cn/rss/1828197054.xml
+-
+  alias: blog.sina.com.cn/mumuhouzi
+  url: http://blog.sina.com.cn/mumuhouzi
+  feedUrl: http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml
+-
+  alias: blog.sina.com.cn/sadieyucn
+  url: http://blog.sina.com.cn/sadieyucn
+  feedUrl: http://blog.sina.com.cn/rss/3167337765.xml
+-
+  alias: blog.sina.com.cn/simmone
+  url: http://blog.sina.com.cn/simmone
+  feedUrl: http://blog.sina.com.cn/rss/1401771454.xml
+-
+  alias: blog.sina.com.cn/solonshen
+  url: http://blog.sina.com.cn/solonshen
+  feedUrl: http://blog.sina.com.cn/rss/1420827854.xml
+-
+  alias: blog.sina.com.cn/thinkpc
+  url: http://blog.sina.com.cn/thinkpc
+  feedUrl: http://blog.sina.com.cn/rss/1424963977.xml
+-
+  alias: blog.sina.com.cn/u/1738987054
+  url: http://blog.sina.com.cn/u/1738987054
+  feedUrl: http://blog.sina.com.cn/rss/1738987054.xml
+-
+  alias: blog.sina.com.cn/u/1823385791
+  url: http://blog.sina.com.cn/u/1823385791
+  feedUrl: http://blog.sina.com.cn/rss/1823385791.xml
+-
+  alias: blog.sina.com.cn/u/1881320895
+  url: http://blog.sina.com.cn/u/1881320895
+  feedUrl: http://blog.sina.com.cn/rss/1881320895.xml
+-
+  alias: blog.sina.com.cn/u/2088275181
+  url: http://blog.sina.com.cn/u/2088275181
+  feedUrl: http://blog.sina.com.cn/rss/2088275181.xml
+-
+  alias: blog.sina.com.cn/u/2158457562
+  url: http://blog.sina.com.cn/u/2158457562
+  feedUrl: http://blog.sina.com.cn/rss/2158457562.xml
+-
+  alias: blog.sina.com.cn/u/2179459874
+  url: http://blog.sina.com.cn/u/2179459874
+  feedUrl: http://blog.sina.com.cn/rss/2179459874.xml
+-
+  alias: blog.sina.com.cn/u/2617744132
+  url: http://blog.sina.com.cn/u/2617744132
+  feedUrl: http://blog.sina.com.cn/rss/2617744132.xml
+-
+  alias: blog.sina.com.cn/fouryu
+  url: http://blog.sina.com.cn/fouryu
+  feedUrl: http://blog.sina.com.cn/rss/1403193915.xml
+-
+  alias: blog.pchudzik.com
+  url: https://blog.pchudzik.com/
+  feedUrl: https://blog.pchudzik.com/index.xml
