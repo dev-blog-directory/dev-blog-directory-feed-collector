@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "description": "Collect feed URLs for dev blogs.",
   "scripts": {
-    "start": "collect-feeds"
+    "start": "collect-feeds",
+    "import": "feed-db-import found.yml"
   },
   "dependencies": {
-    "collect-feeds": "*"
+    "collect-feeds": "*",
+    "feed-db-importer": "*"
   },
   "engines": {
     "node": ">=8.6.0"

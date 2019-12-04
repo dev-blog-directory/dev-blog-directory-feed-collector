@@ -4,12 +4,14 @@ node_js: "12"
 before_cache:
   - rm -rf node_modules/dev-blog-directory*
   - rm -rf node_modules/collect-feeds
+  - rm -rf node_modules/feed-db-importer
 branches:
   only:
     - master
 
 script:
   - npm run start 100
+  - npm run import
 
 deploy:
   - provider: pages
