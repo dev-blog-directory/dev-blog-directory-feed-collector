@@ -1716,3 +1716,75 @@
   date: Wed Dec 04 2019 09:31:23 GMT+0000 (Coordinated Universal Time)
   url: http://outofmemory.cn/
   reason: RequestError: connect ETIMEDOUT 42.121.14.159:80
+-
+  date: Wed Dec 04 2019 09:32:17 GMT+0000 (Coordinated Universal Time)
+  url: http://www.pmtoo.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:24 GMT+0000 (Coordinated Universal Time)
+  url: https://possiblemobile.com/tag/ios/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:32:31 GMT+0000 (Coordinated Universal Time)
+  url: http://pustone.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:33 GMT+0000 (Coordinated Universal Time)
+  url: https://www.pydanny.com/category/python.html
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 09:32:34 GMT+0000 (Coordinated Universal Time)
+  url: http://purecpp.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:35 GMT+0000 (Coordinated Universal Time)
+  url: http://python-notes.curiousefficiency.org/en/latest/index.html
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:36 GMT+0000 (Coordinated Universal Time)
+  url: http://www.python-course.eu/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:38 GMT+0000 (Coordinated Universal Time)
+  url: http://python3.codes/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:41 GMT+0000 (Coordinated Universal Time)
+  url: https://pythonspot.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:42 GMT+0000 (Coordinated Universal Time)
+  url: http://www.pythonweekly.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:43 GMT+0000 (Coordinated Universal Time)
+  url: http://qianxiaoyang.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:43 GMT+0000 (Coordinated Universal Time)
+  url: http://www.qiangblog.com/feed
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:44 GMT+0000 (Coordinated Universal Time)
+  url: http://www.qcoke.com/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Wed Dec 04 2019 09:32:45 GMT+0000 (Coordinated Universal Time)
+  url: http://www.qingliangcn.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:46 GMT+0000 (Coordinated Universal Time)
+  url: http://qiuchengjia.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:47 GMT+0000 (Coordinated Universal Time)
+  url: https://pythonpedia.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:32:50 GMT+0000 (Coordinated Universal Time)
+  url: https://www.quirksmode.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:33:07 GMT+0000 (Coordinated Universal Time)
+  url: http://qinghe.me/
+  reason: Feed URL not found

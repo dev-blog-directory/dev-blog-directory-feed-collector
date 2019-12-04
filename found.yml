@@ -8686,3 +8686,331 @@
   alias: phpor.net/blog
   url: http://phpor.net/blog
   feedUrl: https://phpor.net/blog/feed
+-
+  alias: plumberjack.blogspot.co.id
+  url: http://plumberjack.blogspot.co.id/
+  feedUrl: http://plumberjack.blogspot.com/feeds/posts/default
+-
+  alias: planetpython.org
+  url: https://planetpython.org/
+  feedUrl: https://planetpython.org/rss20.xml
+-
+  alias: planet.scipy.org
+  url: https://planet.scipy.org/
+  feedUrl: https://planet.scipy.org/feed.xml
+-
+  alias: pocoproject.org/blog
+  url: http://pocoproject.org/blog
+  feedUrl: https://pocoproject.org/blog/?feed=rss2
+-
+  alias: pluralsight.com/guides
+  url: https://www.pluralsight.com/guides
+  feedUrl: https://www.pluralsight.com/sitemap.xml
+-
+  alias: plumbr.eu/blog
+  url: https://plumbr.eu/blog
+  feedUrl: https://plumbr.io/feed
+-
+  alias: pl6anet.org
+  url: https://pl6anet.org/
+  feedUrl: https://pl6anet.org/atom.xml
+-
+  alias: pontikis.net
+  url: https://www.pontikis.net/
+  feedUrl: http://www.pontikis.net/feed
+-
+  alias: position-absolute.com
+  url: http://www.position-absolute.com/
+  feedUrl: http://www.position-absolute.com/feed/
+-
+  alias: ppinera.es
+  url: http://ppinera.es/
+  feedUrl: https://ppinera.es/feed.xml
+-
+  alias: postmarkapp.com/blog
+  url: https://postmarkapp.com/blog
+  feedUrl: https://postmarkapp.com/blog/feed.atom
+-
+  alias: practicallyefficient.com
+  url: http://www.practicallyefficient.com/
+  feedUrl: http://www.practicallyefficient.com/feed.xml
+-
+  alias: ppwwyyxx.com
+  url: http://ppwwyyxx.com/
+  feedUrl: http://ppwwyyxx.com/index.xml
+-
+  alias: planet.mozilla.org/ateam
+  url: https://planet.mozilla.org/ateam/
+  feedUrl: https://planet.mozilla.org/ateam/atom.xml
+-
+  alias: planet.mozilla.org/releng
+  url: https://planet.mozilla.org/releng/
+  feedUrl: https://planet.mozilla.org/releng/atom.xml
+-
+  alias: pm28.com
+  url: http://www.pm28.com/
+  feedUrl: http://www.pm28.com/wp-includes/wlwmanifest.xml
+-
+  alias: prepan.org
+  url: http://prepan.org/
+  feedUrl: http://prepan.org/feed
+-
+  alias: preshing.com
+  url: http://preshing.com/
+  feedUrl: https://preshing.com/feed
+-
+  alias: product.hubspot.com/blog/topic/engineering
+  url: http://product.hubspot.com/blog/topic/engineering
+  feedUrl: https://product.hubspot.com/blog/rss.xml
+-
+  alias: prog21.dadgum.com
+  url: http://prog21.dadgum.com/
+  feedUrl: https://prog21.dadgum.com/atom.xml
+-
+  alias: programlife.net
+  url: http://www.programlife.net/
+  feedUrl: https://programlife.net/atom.xml
+-
+  alias: pointfree.co/blog
+  url: https://www.pointfree.co/blog
+  feedUrl: https://www.pointfree.co/feed/episodes.xml
+-
+  alias: ponyfoo.com
+  url: https://ponyfoo.com/
+  feedUrl: https://feeds.feedburner.com/ponyfoo
+-
+  alias: pransukh.blogspot.com
+  url: http://pransukh.blogspot.com/
+  feedUrl: http://pransukh.blogspot.com/feeds/posts/default
+-
+  alias: programesecure.com
+  url: https://programesecure.com/
+  feedUrl: https://programesecure.com/feed/
+-
+  alias: programcreek.com
+  url: https://www.programcreek.com/
+  feedUrl: https://www.programcreek.com/feed/
+-
+  alias: pspdfkit.com/blog
+  url: https://pspdfkit.com/blog
+  feedUrl: https://pspdfkit.com/blog/feed.atom
+-
+  alias: polande.com
+  url: http://polande.com/
+  feedUrl: https://polande.com/feed/
+-
+  alias: psy-lob-saw.blogspot.com
+  url: http://psy-lob-saw.blogspot.com/
+  feedUrl: http://psy-lob-saw.blogspot.com/feeds/posts/default
+-
+  alias: prodevelopertutorial.com
+  url: https://www.prodevelopertutorial.com/
+  feedUrl: https://www.prodevelopertutorial.com/feed/
+-
+  alias: pubnub.com/blog
+  url: https://www.pubnub.com/blog/
+  feedUrl: https://www.pubnub.com/blog/feed/
+-
+  alias: program-think.blogspot.com
+  url: https://program-think.blogspot.com/
+  feedUrl: https://program-think.blogspot.com/feeds/posts/default
+-
+  alias: pureage.info
+  url: http://pureage.info/
+  feedUrl: https://pureage.info/index.xml
+-
+  alias: prolificinteractive.com/ideas
+  url: https://www.prolificinteractive.com/ideas/
+  feedUrl: https://www.prolificinteractive.com/feed/
+-
+  alias: pvk.ca
+  url: http://www.pvk.ca/
+  feedUrl: https://www.pvk.ca/atom.xml
+-
+  alias: protectiongeek.co.uk/blog
+  url: https://www.protectiongeek.co.uk/blog/
+  feedUrl: https://www.protectiongeek.co.uk/feed/
+-
+  alias: pycon.blogspot.co.id
+  url: http://pycon.blogspot.co.id/
+  feedUrl: https://pycon.blogspot.com/feeds/posts/default
+-
+  alias: programmingcamp1.blogspot.com
+  url: https://programmingcamp1.blogspot.com/
+  feedUrl: https://programmingcamp1.blogspot.com/feeds/posts/default
+-
+  alias: pycoders.com
+  url: http://pycoders.com/
+  feedUrl: https://pycoders.com/feed/kbZpkeGt
+-
+  alias: pydev.blogspot.co.id
+  url: http://pydev.blogspot.co.id/
+  feedUrl: http://pydev.blogspot.com/feeds/posts/default
+-
+  alias: pyfound.blogspot.com
+  url: http://pyfound.blogspot.com/
+  feedUrl: http://pyfound.blogspot.com/feeds/posts/default
+-
+  alias: programmingthrowdown.com
+  url: https://www.programmingthrowdown.com/
+  feedUrl: https://www.programmingthrowdown.com/feeds/posts/default
+-
+  alias: pymotw.com/3
+  url: https://pymotw.com/3/
+  feedUrl: http://feeds.doughellmann.com/DougHellmann
+-
+  alias: python-history.blogspot.co.id
+  url: http://python-history.blogspot.co.id/
+  feedUrl: http://python-history.blogspot.com/feeds/posts/default
+-
+  alias: programmableweb.com
+  url: https://www.programmableweb.com/
+  feedUrl: https://www.programmableweb.com/user/register?destination=node/1%3Ffeed%3Drss
+-
+  alias: plcscan.org/blog
+  url: http://plcscan.org/blog
+  feedUrl: http://plcscan.org/blog/feed/
+-
+  alias: pugs.blogs.com
+  url: https://pugs.blogs.com/
+  feedUrl: https://pugs.blogs.com/pugs/atom.xml
+-
+  alias: pythonclub.com.br
+  url: http://pythonclub.com.br/
+  feedUrl: http://pythonclub.com.br/feeds/all.atom.xml
+-
+  alias: python.or.id
+  url: http://www.python.or.id/
+  feedUrl: http://www.python.or.id/feeds/posts/default
+-
+  alias: python4kids.brendanscott.com
+  url: https://python4kids.brendanscott.com/
+  feedUrl: https://python4kids.brendanscott.com/feed/
+-
+  alias: pycon.blogspot.com
+  url: https://pycon.blogspot.com/
+  feedUrl: https://pycon.blogspot.com/feeds/posts/default
+-
+  alias: pythonforbeginners.com
+  url: http://www.pythonforbeginners.com/
+  feedUrl: https://www.pythonforbeginners.com/feed/
+-
+  alias: pybloggers.com
+  url: http://www.pybloggers.com/
+  feedUrl: http://www.pybloggers.com/feed/
+-
+  alias: pythonblogs.com
+  url: https://www.pythonblogs.com/
+  feedUrl: https://www.pythonblogs.com/feed/
+-
+  alias: pushing-pixels.org
+  url: https://www.pushing-pixels.org/
+  feedUrl: https://www.pushing-pixels.org/feed
+-
+  alias: pythontips.com
+  url: https://pythontips.com/
+  feedUrl: https://pythontips.com/feed/
+-
+  alias: pythonadventures.wordpress.com
+  url: https://pythonadventures.wordpress.com/
+  feedUrl: https://pythonadventures.wordpress.com/feed/
+-
+  alias: pythonforfinance.net
+  url: https://pythonforfinance.net/
+  feedUrl: https://www.pythonforfinance.net/feed/
+-
+  alias: qichaochen.github.io
+  url: http://qichaochen.github.io/
+  feedUrl: http://chenqichao.me/atom.xml
+-
+  alias: pymnts.com/tag/dark-web
+  url: https://www.pymnts.com/tag/dark-web/
+  feedUrl: https://www.pymnts.com/feed/
+-
+  alias: qianduan.net
+  url: http://www.qianduan.net/
+  feedUrl: https://www.qianduan.net/rss/
+-
+  alias: pythonforengineers.blogspot.com
+  url: https://pythonforengineers.blogspot.com/
+  feedUrl: https://pythonforengineers.blogspot.com/feeds/posts/default
+-
+  alias: qnoid.com
+  url: https://qnoid.com/
+  feedUrl: https://qnoid.com/feed.xml
+-
+  alias: qqrs.github.io
+  url: http://qqrs.github.io/
+  feedUrl: http://blog.qqrs.us/atom.xml
+-
+  alias: quake0day.com
+  url: http://www.quake0day.com/
+  feedUrl: http://www.quake0day.com/feed/rss
+-
+  alias: qingbob.com
+  url: http://qingbob.com/
+  feedUrl: http://qingbob.com/feed.xml
+-
+  alias: qubyte.codes
+  url: https://qubyte.codes/
+  feedUrl: https://qubyte.codes/atom.xml
+-
+  alias: pythongeeks.net
+  url: https://pythongeeks.net/
+  feedUrl: https://pythongeeks.net/?feed=rss
+-
+  alias: qiqiboy.com
+  url: http://www.qiqiboy.com/
+  feedUrl: http://www.qiqiboy.com/opensearch.xml
+-
+  alias: qualitycoding.org
+  url: https://qualitycoding.org/
+  feedUrl: https://qualitycoding.org/jrwp/wp-includes/wlwmanifest.xml
+-
+  alias: quickbooks-engineering.intuit.com
+  url: https://quickbooks-engineering.intuit.com/
+  feedUrl: https://quickbooks-engineering.intuit.com/feed
+-
+  alias: racecondition.software
+  url: http://racecondition.software/
+  feedUrl: https://racecondition.software/feed.xml
+-
+  alias: rachelbythebay.com/w
+  url: https://rachelbythebay.com/w/
+  feedUrl: https://rachelbythebay.com/w/atom.xml
+-
+  alias: rachelnabors.com
+  url: http://rachelnabors.com/
+  feedUrl: http://feeds.feedburner.com/RachelNabors
+-
+  alias: pythonstatistics.net
+  url: http://pythonstatistics.net/
+  feedUrl: http://pythonstatistics.net/feed/
+-
+  alias: race604.com
+  url: https://race604.com/
+  feedUrl: http://www.race604.com/rss/
+-
+  alias: quickbirdstudios.com/blog
+  url: https://quickbirdstudios.com/blog/
+  feedUrl: https://quickbirdstudios.com/blog/feed/
+-
+  alias: qinbin.me
+  url: http://www.qinbin.me/
+  feedUrl: http://www.qinbin.me/feed/
+-
+  alias: rachelandrew.co.uk/archives
+  url: https://rachelandrew.co.uk/archives
+  feedUrl: https://rachelandrew.co.uk/archives/rss.php
+-
+  alias: quding0308.iteye.com
+  url: http://quding0308.iteye.com/
+  feedUrl: https://www.iteye.com/rss
+-
+  alias: qingyu.me
+  url: http://www.qingyu.me/
+  feedUrl: https://qingyu.me/feed/
+-
+  alias: quchao.com
+  url: http://www.quchao.com/
+  feedUrl: https://quchao.com/feed/
