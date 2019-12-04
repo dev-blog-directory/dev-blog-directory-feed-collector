@@ -3378,3 +3378,323 @@
   alias: contentmarketinggeek.com
   url: http://contentmarketinggeek.com/
   feedUrl: http://contentmarketinggeek.com/feed/
+-
+  alias: cyj.me
+  url: http://cyj.me/
+  feedUrl: http://cyj.me/feed/atom.xml
+-
+  alias: cyrilmottier.com
+  url: https://cyrilmottier.com/
+  feedUrl: https://cyrilmottier.com/atom.xml
+-
+  alias: damiansheldon.github.io
+  url: http://damiansheldon.github.io/
+  feedUrl: https://damiansheldon.github.io/atom.xml
+-
+  alias: dailytechvideo.com
+  url: http://dailytechvideo.com/
+  feedUrl: http://dailytechvideo.com/feed/
+-
+  alias: danieltull.co.uk/blog
+  url: http://danieltull.co.uk/blog/
+  feedUrl: http://danieltull.co.uk/feed.xml
+-
+  alias: danluu.com
+  url: https://danluu.com/
+  feedUrl: https://danluu.com/atom.xml
+-
+  alias: dannysuen.github.io
+  url: http://dannysuen.github.io/
+  feedUrl: https://dannysuen.github.io/atom.xml
+-
+  alias: danielemargutti.com
+  url: http://danielemargutti.com/
+  feedUrl: http://danielemargutti.com/feed/
+-
+  alias: daichuanqing.com
+  url: http://daichuanqing.com/
+  feedUrl: http://daichuanqing.com/index.php/feed
+-
+  alias: daringfireball.net
+  url: http://daringfireball.net/
+  feedUrl: https://daringfireball.net/feeds/main
+-
+  alias: czmmiao.iteye.com
+  url: http://czmmiao.iteye.com/
+  feedUrl: https://www.iteye.com/rss
+-
+  alias: daringsnowball.net
+  url: https://daringsnowball.net/
+  feedUrl: https://daringsnowball.net/atom.xml
+-
+  alias: d.sb/blog
+  url: https://d.sb/blog
+  feedUrl: http://feeds.d15.biz/Daniel15
+-
+  alias: data-artisans.com/blog
+  url: https://data-artisans.com/blog/
+  feedUrl: https://www.ververica.com/blog/rss.xml
+-
+  alias: dapythonista.com
+  url: http://dapythonista.com/
+  feedUrl: https://dapythonista.com/feed/
+-
+  alias: darkcoding.net
+  url: https://www.darkcoding.net/
+  feedUrl: https://www.darkcoding.net/feed/
+-
+  alias: dapengde.com
+  url: http://dapengde.com/
+  feedUrl: http://dapengde.com/feed
+-
+  alias: dasdom.github.io
+  url: https://dasdom.github.io/
+  feedUrl: https://dasdom.github.io//feed.xml
+-
+  alias: datacamp.com/community/tutorials
+  url: https://www.datacamp.com/community/tutorials
+  feedUrl: https://www.datacamp.com/community/rss.xml
+-
+  alias: databricks.com/blog
+  url: https://databricks.com/blog
+  feedUrl: https://databricks.com/wp-includes/wlwmanifest.xml
+-
+  alias: darkweblink.com
+  url: https://www.darkweblink.com/
+  feedUrl: https://www.darkweblink.com/feed/
+-
+  alias: dave.cheney.net
+  url: https://dave.cheney.net/
+  feedUrl: https://dave.cheney.net/feed
+-
+  alias: datchley.name
+  url: http://www.datchley.name/
+  feedUrl: http://datchley.name/feed/
+-
+  alias: davedelong.com
+  url: https://davedelong.com/
+  feedUrl: https://davedelong.com/feed.xml
+-
+  alias: dave.cheney.net/category/golang
+  url: https://dave.cheney.net/category/golang
+  feedUrl: https://dave.cheney.net/feed
+-
+  alias: daveverwer.com
+  url: https://daveverwer.com/
+  feedUrl: https://daveverwer.com/feed.xml
+-
+  alias: datageek.blog
+  url: https://datageek.blog/
+  feedUrl: https://datageek.blog/feed/
+-
+  alias: datafloq.com/read
+  url: https://datafloq.com/read/
+  feedUrl: https://datafloq.com/read/feed.rss
+-
+  alias: davidad.github.io
+  url: http://davidad.github.io/
+  feedUrl: http://davidad.github.io/atom.xml
+-
+  alias: david-smith.org
+  url: http://david-smith.org/
+  feedUrl: https://david-smith.org/atom.xml
+-
+  alias: dataiku.com/blog
+  url: https://www.dataiku.com/blog/
+  feedUrl: https://blog.dataiku.com/rss.xml
+-
+  alias: davidosomething.com
+  url: https://davidosomething.com/
+  feedUrl: https://www.davidosomething.com/rss.xml
+-
+  alias: daimingblog.com
+  url: http://www.daimingblog.com/
+  feedUrl: http://www.daimingblog.com/feed
+-
+  alias: dbarobin.com
+  url: http://dbarobin.com/
+  feedUrl: https://dbarobin.com/feed.xml
+-
+  alias: datascienceunlimited.tech
+  url: https://datascienceunlimited.tech/
+  feedUrl: https://datascienceunlimited.tech/feed/
+-
+  alias: darkweblist.com/category/dark-web
+  url: https://www.darkweblist.com/category/dark-web/
+  feedUrl: https://www.darkweblist.com/feed/
+-
+  alias: david.y4ng.fr
+  url: https://david.y4ng.fr/
+  feedUrl: https://david.y4ng.fr/rss/
+-
+  alias: davenott.co.uk
+  url: https://www.davenott.co.uk/
+  feedUrl: https://www.davenott.co.uk/feed/
+-
+  alias: dcordero.me
+  url: https://www.dcordero.me/
+  feedUrl: https://dcordero.me/feed.xml
+-
+  alias: dddweekly.com
+  url: http://dddweekly.com/
+  feedUrl: http://dddweekly.com/index.xml
+-
+  alias: dazeend.org
+  url: https://dazeend.org/
+  feedUrl: https://dazeend.org/feed/
+-
+  alias: davidwalsh.name
+  url: https://davidwalsh.name/
+  feedUrl: https://davidwalsh.name/feed/atom
+-
+  alias: deadcoderising.com
+  url: http://www.deadcoderising.com/
+  feedUrl: https://www.deadcoderising.com/rss/
+-
+  alias: deborah-digges.github.io
+  url: http://deborah-digges.github.io/
+  feedUrl: http://deborah-digges.github.io/atom.xml
+-
+  alias: declanfinn.com
+  url: http://www.declanfinn.com/
+  feedUrl: http://www.declanfinn.com/feeds/posts/default
+-
+  alias: daxiblog.com
+  url: http://www.daxiblog.com/
+  feedUrl: https://www.daxiblog.com/feed/
+-
+  alias: dbform.com
+  url: http://www.dbform.com/
+  feedUrl: https://www.dbform.com/feed/
+-
+  alias: deezer.io
+  url: https://deezer.io/
+  feedUrl: https://deezer.io/feed
+-
+  alias: deliveroo.engineering
+  url: https://deliveroo.engineering/
+  feedUrl: https://deliveroo.engineering/feed.xml
+-
+  alias: dengzuoheng.github.io
+  url: http://dengzuoheng.github.io/
+  feedUrl: http://dengzuoheng.github.io/atom.xml
+-
+  alias: deliciousreverie.co.uk
+  url: https://deliciousreverie.co.uk/
+  feedUrl: https://deliciousreverie.co.uk/index.xml
+-
+  alias: dejal.com/blog
+  url: http://www.dejal.com/blog/
+  feedUrl: http://www.dejal.com/blog/feed
+-
+  alias: dearb.me
+  url: http://dearb.me/
+  feedUrl: https://dearb.me/atom.xml
+-
+  alias: denzelrodriguez.com/blog
+  url: https://denzelrodriguez.com/blog
+  feedUrl: https://denzelrodriguez.com/blog?format=rss
+-
+  alias: decadecity.net
+  url: https://decadecity.net/
+  feedUrl: https://decadecity.net/index.xml
+-
+  alias: desiatov.com
+  url: https://desiatov.com/
+  feedUrl: https://desiatov.com/rss.xml
+-
+  alias: deanhume.com
+  url: http://deanhume.com/
+  feedUrl: https://deanhume.com/rss/
+-
+  alias: denispoifol.github.io
+  url: https://denispoifol.github.io/
+  feedUrl: https://denispoifol.github.io//feed.xml
+-
+  alias: dereuromark.de
+  url: http://www.dereuromark.de/
+  feedUrl: https://www.dereuromark.de/feed/
+-
+  alias: deprogrammaticaipsum.com
+  url: https://deprogrammaticaipsum.com/
+  feedUrl: https://deprogrammaticaipsum.com/feed/
+-
+  alias: designshack.net
+  url: https://designshack.net/
+  feedUrl: https://feedpress.me/designshack
+-
+  alias: dev.to
+  url: https://dev.to/
+  feedUrl: https://dev.to/feed
+-
+  alias: dev.to/aspittel
+  url: https://dev.to/aspittel
+  feedUrl: https://dev.to/feed/aspittel
+-
+  alias: dev.to/sarah_chima
+  url: https://dev.to/sarah_chima
+  feedUrl: https://dev.to/feed/sarah_chima
+-
+  alias: designsbydaveo.com
+  url: https://designsbydaveo.com/
+  feedUrl: https://designsbydaveo.com/feed/
+-
+  alias: devblog.songkick.com
+  url: https://devblog.songkick.com/
+  feedUrl: https://devblog.songkick.com/feed
+-
+  alias: devchat.tv/adv-in-angular
+  url: https://devchat.tv/adv-in-angular/
+  feedUrl: https://feeds.feedwrench.com/AdventuresInAngularOnly.rss
+-
+  alias: developer.amazon.com/blogs
+  url: https://developer.amazon.com/blogs
+  feedUrl: https://developer.amazon.com/blogs/home/feed/entries/atom
+-
+  alias: devblog.kogan.com
+  url: https://devblog.kogan.com/
+  feedUrl: https://devblog.kogan.com/blog?format=rss
+-
+  alias: developer.apple.com/news
+  url: https://developer.apple.com/news/
+  feedUrl: feed://developer.apple.com/news/rss/news.rss
+-
+  alias: developer.apple.com/swift/blog
+  url: https://developer.apple.com/swift/blog/
+  feedUrl: feed://developer.apple.com/swift/blog/news.rss
+-
+  alias: developer.atlassian.com/blog
+  url: https://developer.atlassian.com/blog/
+  feedUrl: https://blog.developer.atlassian.com/feed/
+-
+  alias: devblog.coolblue.nl
+  url: http://devblog.coolblue.nl/
+  feedUrl: https://devblog.coolblue.nl/feed/
+-
+  alias: designinstruct.com
+  url: http://designinstruct.com/
+  feedUrl: https://www.webfx.com/blog/web-design/feed/
+-
+  alias: dev.jimdo.com
+  url: https://dev.jimdo.com/
+  feedUrl: https://dev.jimdo.com/rss/blog
+-
+  alias: developer.here.com/blog
+  url: https://developer.here.com/blog
+  feedUrl: https://developer.here.com/blog/feed
+-
+  alias: developer.okta.com/blog
+  url: https://developer.okta.com/blog/
+  feedUrl: https://developer.okta.com/feed.xml
+-
+  alias: devbean.net
+  url: http://www.devbean.net/
+  feedUrl: https://www.devbean.net/feed/
+-
+  alias: developer.ibm.com/dwblog
+  url: https://developer.ibm.com/dwblog/
+  feedUrl: https://developer.ibm.com/dwblog/feed/
+-
+  alias: devdactic.com/devblog
+  url: https://devdactic.com/devblog/
+  feedUrl: https://devdactic.com/feed/

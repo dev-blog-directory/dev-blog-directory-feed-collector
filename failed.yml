@@ -619,3 +619,83 @@
   date: Wed Dec 04 2019 08:29:34 GMT+0000 (Coordinated Universal Time)
   url: https://cuiqingcai.com/
   reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:08 GMT+0000 (Coordinated Universal Time)
+  url: http://www.dabeaz.com/blog.html
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:08 GMT+0000 (Coordinated Universal Time)
+  url: http://www.dabeaz.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:10 GMT+0000 (Coordinated Universal Time)
+  url: http://danthorpe.me/
+  reason: HTTPError: Response code 403 (Forbidden)
+-
+  date: Wed Dec 04 2019 08:31:12 GMT+0000 (Coordinated Universal Time)
+  url: https://cyc2018.github.io/page.html
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:17 GMT+0000 (Coordinated Universal Time)
+  url: http://www.daqianduan.com/
+  reason: RequestError: read ECONNRESET
+-
+  date: Wed Dec 04 2019 08:31:23 GMT+0000 (Coordinated Universal Time)
+  url: https://www.datapipe.com/blog/category/cloud-computing/
+  reason: RequestError: Parse Error: Invalid header value char
+-
+  date: Wed Dec 04 2019 08:31:29 GMT+0000 (Coordinated Universal Time)
+  url: http://www.davenkin.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:31 GMT+0000 (Coordinated Universal Time)
+  url: http://www.davidsanchezplaza.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:41 GMT+0000 (Coordinated Universal Time)
+  url: https://deanacus.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:43 GMT+0000 (Coordinated Universal Time)
+  url: http://decodegirl.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:43 GMT+0000 (Coordinated Universal Time)
+  url: https://deferpanic.com/blog/
+  reason: RequestError: certificate has expired
+-
+  date: Wed Dec 04 2019 08:31:47 GMT+0000 (Coordinated Universal Time)
+  url: http://www.dbpoo.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:47 GMT+0000 (Coordinated Universal Time)
+  url: https://www.denofgeek.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:50 GMT+0000 (Coordinated Universal Time)
+  url: https://denzhadanov.com/
+  reason: RequestError: getaddrinfo ENOTFOUND denzhadanov.com
+-
+  date: Wed Dec 04 2019 08:31:52 GMT+0000 (Coordinated Universal Time)
+  url: http://desappstre.com/
+  reason: HTTPError: Response code 503 (Service Unavailable)
+-
+  date: Wed Dec 04 2019 08:31:52 GMT+0000 (Coordinated Universal Time)
+  url: https://dev.firmafon.dk/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:31:55 GMT+0000 (Coordinated Universal Time)
+  url: https://devcases.com/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Wed Dec 04 2019 08:32:11 GMT+0000 (Coordinated Universal Time)
+  url: http://dchq.co/blog.html
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:32:38 GMT+0000 (Coordinated Universal Time)
+  url: http://dailyjs.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:32:38 GMT+0000 (Coordinated Universal Time)
+  url: http://dailycode.daoapp.io/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
