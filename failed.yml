@@ -757,3 +757,91 @@
   date: Wed Dec 04 2019 08:34:29 GMT+0000 (Coordinated Universal Time)
   url: http://www.eastdesign.net/
   reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:40 GMT+0000 (Coordinated Universal Time)
+  url: https://emmawedekind.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:40 GMT+0000 (Coordinated Universal Time)
+  url: https://www.endyourif.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:41 GMT+0000 (Coordinated Universal Time)
+  url: http://eng.datafox.co/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:42 GMT+0000 (Coordinated Universal Time)
+  url: https://www.encodedna.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:43 GMT+0000 (Coordinated Universal Time)
+  url: http://eng.joingrouper.com/
+  reason: RequestError: getaddrinfo ENOTFOUND eng.joingrouper.com
+-
+  date: Wed Dec 04 2019 08:35:43 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.bloomreach.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:45 GMT+0000 (Coordinated Universal Time)
+  url: https://engineering.9gag.com/
+  reason: RequestError: getaddrinfo ENOTFOUND engineering.9gag.com
+-
+  date: Wed Dec 04 2019 08:35:46 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.bittorrent.com/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 08:35:48 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.hackerearth.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:50 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.ifttt.com/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:35:50 GMT+0000 (Coordinated Universal Time)
+  url: https://engineering.imvu.com/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: engineering.imvu.com. is not in the cert's altnames: DNS:*.wpengine.com, DNS:wpengine.com
+-
+  date: Wed Dec 04 2019 08:35:50 GMT+0000 (Coordinated Universal Time)
+  url: https://engineering.gnip.com/
+  reason: RequestError: getaddrinfo ENOTFOUND engineering.gnip.com
+-
+  date: Wed Dec 04 2019 08:35:52 GMT+0000 (Coordinated Universal Time)
+  url: https://engineering.medallia.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:52 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.medallia.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:53 GMT+0000 (Coordinated Universal Time)
+  url: https://engineering.nodesagency.com/categories/ios/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:54 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.laterooms.com/
+  reason: RequestError: getaddrinfo ENOTFOUND engineering.laterooms.com
+-
+  date: Wed Dec 04 2019 08:35:58 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.shapesecurity.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:35:59 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.snapdeal.com/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:36:05 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.slideshare.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:36:07 GMT+0000 (Coordinated Universal Time)
+  url: http://engineering.vine.co/
+  reason: RequestError: getaddrinfo ENOTFOUND engineering.vine.co
+-
+  date: Wed Dec 04 2019 08:37:06 GMT+0000 (Coordinated Universal Time)
+  url: https://elvirainfotech.com/blog/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:39:05 GMT+0000 (Coordinated Universal Time)
+  url: https://engineering.intercom.io/
+  reason: RequestError: connect ETIMEDOUT 52.217.42.11:443

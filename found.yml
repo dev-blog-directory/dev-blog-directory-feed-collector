@@ -4042,3 +4042,315 @@
   alias: drupal001.com
   url: http://www.drupal001.com/
   feedUrl: http://www.drupal001.com/feed/
+-
+  alias: endlessparentheses.com
+  url: http://endlessparentheses.com/
+  feedUrl: http://endlessparentheses.com/atom.xml
+-
+  alias: eng.rightscale.com
+  url: http://eng.rightscale.com/
+  feedUrl: http://eng.rightscale.com/feed.xml
+-
+  alias: eng.localytics.com
+  url: http://eng.localytics.com/
+  feedUrl: https://eng.localytics.com/rss/
+-
+  alias: eng.uber.com
+  url: https://eng.uber.com/
+  feedUrl: https://eng.uber.com/feed/
+-
+  alias: eng.uber.com
+  url: http://eng.uber.com/
+  feedUrl: https://eng.uber.com/feed/
+-
+  alias: eli.thegreenplace.net/tag/python
+  url: http://eli.thegreenplace.net/tag/python
+  feedUrl: https://eli.thegreenplace.net/feeds/all.atom.xml
+-
+  alias: elijahlynn.net
+  url: https://www.elijahlynn.net/
+  feedUrl: https://www.elijahlynn.net/rss.xml
+-
+  alias: emberjs.com/blog
+  url: https://www.emberjs.com/blog/
+  feedUrl: https://blog.emberjs.com/feed.xml
+-
+  alias: engineering.betterworks.com
+  url: https://engineering.betterworks.com/
+  feedUrl: https://blog.betterworks.com/feed/
+-
+  alias: engineering.blogfoster.com
+  url: http://engineering.blogfoster.com/
+  feedUrl: https://engineering.blogfoster.com/rss.xml
+-
+  alias: engineering.canva.com
+  url: https://engineering.canva.com/
+  feedUrl: https://product.canva.com/feed.xml
+-
+  alias: eng.lyft.com
+  url: https://eng.lyft.com/
+  feedUrl: https://eng.lyft.com/feed
+-
+  alias: engineering.cerner.com
+  url: http://engineering.cerner.com/
+  feedUrl: https://engineering.cerner.com/atom.xml
+-
+  alias: engineering.chrobinson.com
+  url: http://engineering.chrobinson.com/
+  feedUrl: https://engineering.chrobinson.com/atom.xml
+-
+  alias: engineering.chartbeat.com
+  url: http://engineering.chartbeat.com/
+  feedUrl: https://engineering.chartbeat.com/feed/
+-
+  alias: eng.wealthfront.com
+  url: http://eng.wealthfront.com/
+  feedUrl: https://eng.wealthfront.com/feed/
+-
+  alias: engineering.curalate.com
+  url: http://engineering.curalate.com/
+  feedUrl: http://engineering.curalate.com/feed.xml
+-
+  alias: engineering.criteolabs.com
+  url: http://engineering.criteolabs.com/
+  feedUrl: http://engineering.criteolabs.com/feeds/posts/default
+-
+  alias: engineering.docker.com
+  url: https://engineering.docker.com/
+  feedUrl: https://engineering.docker.com/feed/
+-
+  alias: engineering.flipboard.com
+  url: http://engineering.flipboard.com/
+  feedUrl: https://engineering.flipboard.com/feed.xml
+-
+  alias: engineering.dailymotion.com
+  url: http://engineering.dailymotion.com/
+  feedUrl: https://medium.com/feed/dailymotion
+-
+  alias: engineering.fundingcircle.com
+  url: https://engineering.fundingcircle.com/
+  feedUrl: https://engineering.fundingcircle.com/blog/feed.xml
+-
+  alias: engineering.doximity.com
+  url: https://engineering.doximity.com/
+  feedUrl: https://engineering.doximity.com/?feed=rss&amp;page=2
+-
+  alias: engineering.brandwatch.com
+  url: http://engineering.brandwatch.com/
+  feedUrl: https://s14415.pcdn.co/wp-includes/wlwmanifest.xml
+-
+  alias: engineering.clever.com
+  url: https://engineering.clever.com/
+  feedUrl: https://engineering.clever.com/wp-includes/wlwmanifest.xml
+-
+  alias: engineering.grab.com
+  url: http://engineering.grab.com/
+  feedUrl: https://engineering.grab.com/feed.xml
+-
+  alias: engblog.nextdoor.com
+  url: https://engblog.nextdoor.com/
+  feedUrl: https://engblog.nextdoor.com/feed
+-
+  alias: eng.wealthfront.com
+  url: https://eng.wealthfront.com/
+  feedUrl: https://eng.wealthfront.com/feed/
+-
+  alias: engineering.gusto.com
+  url: http://engineering.gusto.com/
+  feedUrl: https://engineering.gusto.com/rss/
+-
+  alias: engineering.groupon.com
+  url: https://engineering.groupon.com/
+  feedUrl: https://medium.com/feed/groupon-eng
+-
+  alias: engineering.harrys.com
+  url: http://engineering.harrys.com/
+  feedUrl: https://medium.com/feed/harrys-engineering
+-
+  alias: engineering.coinbase.com
+  url: https://engineering.coinbase.com/
+  feedUrl: https://engineering.coinbase.com/osd.xml
+-
+  alias: engineering.foursquare.com
+  url: https://engineering.foursquare.com/
+  feedUrl: https://medium.com/feed/foursquare-direct/tagged/engineering
+-
+  alias: engineering.giphy.com
+  url: https://engineering.giphy.com/
+  feedUrl: https://engineering.giphy.com/wp-includes/wlwmanifest.xml
+-
+  alias: engineering.haus.com
+  url: https://engineering.haus.com/
+  feedUrl: https://engineering.haus.com/feed
+-
+  alias: engineering.heroku.com
+  url: https://engineering.heroku.com/
+  feedUrl: https://blog.heroku.com/feed
+-
+  alias: engineering.intenthq.com
+  url: http://engineering.intenthq.com/
+  feedUrl: http://engineering.intenthq.com/feed.xml
+-
+  alias: engineering.indeedblog.com/blog
+  url: http://engineering.indeedblog.com/blog/
+  feedUrl: https://engineering.indeedblog.com/feed/
+-
+  alias: engine-box.com/engine-box-document-management-blog
+  url: https://www.engine-box.com/engine-box-document-management-blog/
+  feedUrl: https://www.engine-box.com/feed/
+-
+  alias: engineering.khanacademy.org
+  url: http://engineering.khanacademy.org/
+  feedUrl: http://engineering.khanacademy.org/rss.xml
+-
+  alias: engineering.linkedin.com/blog
+  url: https://engineering.linkedin.com/blog
+  feedUrl: https://engineering.linkedin.com/feed
+-
+  alias: engineering.instagram.com
+  url: https://engineering.instagram.com/
+  feedUrl: https://instagram-engineering.com/feed
+-
+  alias: engineering.mongodb.com
+  url: https://engineering.mongodb.com/
+  feedUrl: https://engineering.mongodb.com/post?format=rss
+-
+  alias: engineering.instagram.com/@InstagramEng
+  url: https://engineering.instagram.com/@InstagramEng
+  feedUrl: https://engineering.instagram.com/osd.xml
+-
+  alias: engineering.linecorp.com/en/blog
+  url: https://engineering.linecorp.com/en/blog
+  feedUrl: https://engineering.linecorp.com/en/feed/
+-
+  alias: engineering.pinterest.com
+  url: https://engineering.pinterest.com/
+  feedUrl: https://www.pinterestcareers.com/blogs/stories-by-pinterest-engineering-on-medium
+-
+  alias: engineering.gosquared.com
+  url: https://engineering.gosquared.com/
+  feedUrl: https://engineering.gosquared.com/feed
+-
+  alias: engineering.pivotal.io
+  url: https://engineering.pivotal.io/
+  feedUrl: http://feeds.feedburner.com/PivotalEngineeringJournal
+-
+  alias: engineering.invisionapp.com
+  url: http://engineering.invisionapp.com/
+  feedUrl: https://engineering.invisionapp.com/index.xml
+-
+  alias: engineering.remind.com
+  url: http://engineering.remind.com/
+  feedUrl: http://engineering.remind.com/feed.xml
+-
+  alias: engineering.opendns.com
+  url: https://engineering.opendns.com/
+  feedUrl: https://umbrella.cisco.com/blog/wp-includes/wlwmanifest.xml
+-
+  alias: engineering.riotgames.com
+  url: https://engineering.riotgames.com/
+  feedUrl: https://technology.riotgames.com/rss.xml
+-
+  alias: engineering.shopify.com
+  url: https://engineering.shopify.com/
+  feedUrl: http://engineering.shopify.com/blogs/engineering.atom
+-
+  alias: engineering.semantics3.com
+  url: https://engineering.semantics3.com/
+  feedUrl: https://www.semantics3.com/blog/rss/
+-
+  alias: engineering.panoramaed.com
+  url: http://engineering.panoramaed.com/
+  feedUrl: https://medium.com/feed/building-panorama-education
+-
+  alias: engineering.skybettingandgaming.com
+  url: http://engineering.skybettingandgaming.com/
+  feedUrl: https://sbg.technology/feed.xml
+-
+  alias: engineering.monsanto.com
+  url: http://engineering.monsanto.com/
+  feedUrl: http://engineering.monsanto.com/feed.xml
+-
+  alias: engineering.prezi.com
+  url: https://engineering.prezi.com/
+  feedUrl: https://engineering.prezi.com/feed
+-
+  alias: engineering.monetate.com
+  url: http://engineering.monetate.com/
+  feedUrl: http://engineering.monetate.com/opensearch.xml
+-
+  alias: engineering.opensooq.com
+  url: http://engineering.opensooq.com/
+  feedUrl: https://engineering.opensooq.com/feed/
+-
+  alias: engineering.tripadvisor.com
+  url: http://engineering.tripadvisor.com/
+  feedUrl: https://www.tripadvisor.com/engineering/wp-includes/wlwmanifest.xml
+-
+  alias: engineering.quora.com
+  url: https://engineering.quora.com/
+  feedUrl: https://engineering.quora.com/opensearch/description.xml
+-
+  alias: engineering.speedledger.com
+  url: http://engineering.speedledger.com/
+  feedUrl: http://engineering.speedledger.com/feed/
+-
+  alias: engineering.vena.io
+  url: https://engineering.vena.io/
+  feedUrl: https://engineering.vena.io/rss/
+-
+  alias: engineering.vinted.com
+  url: http://engineering.vinted.com/
+  feedUrl: http://engineering.vinted.com//atom.xml
+-
+  alias: engineering.wattpad.com
+  url: http://engineering.wattpad.com/
+  feedUrl: https://engineering.wattpad.com/rss
+-
+  alias: engineering.universe.com
+  url: https://engineering.universe.com/
+  feedUrl: https://engineering.universe.com/feed
+-
+  alias: engineering.squarespace.com
+  url: https://engineering.squarespace.com/
+  feedUrl: https://engineering.squarespace.com/blog?format=rss
+-
+  alias: engineering.surveymonkey.com
+  url: https://engineering.surveymonkey.com/
+  feedUrl: https://www.surveymonkey.com/feed/
+-
+  alias: engineering.tumblr.com
+  url: https://engineering.tumblr.com/
+  feedUrl: https://engineering.tumblr.com/rss
+-
+  alias: engineering.slideshare.com
+  url: http://engineering.slideshare.com/
+  feedUrl: https://www.slideshare.net/rss/latest
+-
+  alias: engineering.wingify.com
+  url: http://engineering.wingify.com/
+  feedUrl: http://engineering.wingify.com/atom.xml
+-
+  alias: engineering.wework.com
+  url: https://engineering.wework.com/
+  feedUrl: https://engineering.wework.com/feed
+-
+  alias: engineering.webengage.com
+  url: http://engineering.webengage.com/
+  feedUrl: https://webengage.com/blog/feed/
+-
+  alias: engineering.upgrad.com
+  url: https://engineering.upgrad.com/
+  feedUrl: https://engineering.upgrad.com/feed
+-
+  alias: engineering.wayfair.com
+  url: https://engineering.wayfair.com/
+  feedUrl: https://tech.wayfair.com/feed/
+-
+  alias: engineering.wayfair.com
+  url: http://engineering.wayfair.com/
+  feedUrl: https://tech.wayfair.com/feed/
+-
+  alias: engineering.webengage.com
+  url: https://engineering.webengage.com/
+  feedUrl: https://webengage.com/blog/feed/
