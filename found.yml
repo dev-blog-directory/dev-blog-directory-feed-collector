@@ -10378,3 +10378,323 @@
   alias: techblog.appnexus.com
   url: https://techblog.appnexus.com/
   feedUrl: https://techblog.appnexus.com/feed
+-
+  alias: techblog.commercetools.com
+  url: https://techblog.commercetools.com/
+  feedUrl: https://techblog.commercetools.com/feed
+-
+  alias: techblog.thescore.com
+  url: http://techblog.thescore.com/
+  feedUrl: https://techblog.thescore.com/feed.xml
+-
+  alias: techblog.youdao.com
+  url: http://techblog.youdao.com/
+  feedUrl: http://techblog.youdao.com/?feed=rss
+-
+  alias: techblog.netflix.com
+  url: http://techblog.netflix.com/
+  feedUrl: https://medium.com/feed/netflix-techblog
+-
+  alias: techblog.king.com
+  url: https://techblog.king.com/
+  feedUrl: https://medium.com/feed/@TechKing
+-
+  alias: techcrunch.com/tag/dark-web
+  url: https://techcrunch.com/tag/dark-web/
+  feedUrl: https://techcrunch.com/feed/
+-
+  alias: techbriefers.com
+  url: https://techbriefers.com/
+  feedUrl: https://techbriefers.com/feed/
+-
+  alias: techiedelight.com
+  url: https://www.techiedelight.com/
+  feedUrl: https://www.techiedelight.com/feed/
+-
+  alias: techgoeasy.com
+  url: https://techgoeasy.com/
+  feedUrl: https://techgoeasy.com/feed/
+-
+  alias: techielass.com
+  url: https://www.techielass.com/
+  feedUrl: https://techielass.com/.atom
+-
+  alias: technology.condenast.com
+  url: https://technology.condenast.com/
+  feedUrl: https://technology.condenast.com/feed/rss
+-
+  alias: techotaku.net
+  url: http://www.techotaku.net/
+  feedUrl: https://blog.ianli.xyz/index.xml
+-
+  alias: technothirsty.com
+  url: https://www.technothirsty.com/
+  feedUrl: https://www.technothirsty.com/feed/
+-
+  alias: technocratshorizons.com/blogs
+  url: https://www.technocratshorizons.com/blogs/
+  feedUrl: https://www.technocratshorizons.com/feed/
+-
+  alias: techrepublic.com/topic/cloud
+  url: https://www.techrepublic.com/topic/cloud/
+  feedUrl: https://www.techrepublic.com/rssfeeds/topic/cloud/?feedType=rssfeeds
+-
+  alias: techug.com
+  url: http://www.techug.com/
+  feedUrl: http://www.techug.com/feed
+-
+  alias: tedhacker.top
+  url: http://tedhacker.top/
+  feedUrl: http://tedhacker.top/atom.xml
+-
+  alias: tedunangst.com/flak
+  url: http://www.tedunangst.com/flak/
+  feedUrl: https://flak.tedunangst.com/rss
+-
+  alias: teespring.engineering
+  url: http://teespring.engineering/
+  feedUrl: http://teespring.engineering/index.xml
+-
+  alias: tenderlovemaking.com
+  url: http://tenderlovemaking.com/
+  feedUrl: http://tenderlovemaking.com/atom.xml
+-
+  alias: teclogiq.com/blog
+  url: http://www.teclogiq.com/blog/
+  feedUrl: http://www.teclogiq.com/blog/feed/
+-
+  alias: terabit.ca/blog
+  url: https://terabit.ca/blog/
+  feedUrl: https://terabit.ca/blog/wp-includes/wlwmanifest.xml
+-
+  alias: terinstock.com
+  url: https://terinstock.com/
+  feedUrl: https://terinstock.com/index.xml
+-
+  alias: teropa.info
+  url: http://teropa.info/
+  feedUrl: http://teropa.info/blog/feed.xml
+-
+  alias: techyadda.in
+  url: https://techyadda.in/
+  feedUrl: https://techyadda.in/feed/
+-
+  alias: tengj.top
+  url: http://tengj.top/
+  feedUrl: http://tengj.top/atom.xml
+-
+  alias: thatthinginswift.com
+  url: https://thatthinginswift.com/
+  feedUrl: https://thatthinginswift.com/index.xml
+-
+  alias: tfan.org
+  url: http://www.tfan.org/
+  feedUrl: http://www.tfan.org/feed/
+-
+  alias: the5fire.com
+  url: http://www.the5fire.com/
+  feedUrl: http://www.the5fire.com/sitemap.xml
+-
+  alias: theandroid-mania.com
+  url: https://www.theandroid-mania.com/
+  feedUrl: https://www.theandroid-mania.com/feed/
+-
+  alias: thecloudcast.net
+  url: https://www.thecloudcast.net/
+  feedUrl: https://www.thecloudcast.net/feeds/posts/default
+-
+  alias: thecodedself.com
+  url: http://www.thecodedself.com/
+  feedUrl: https://thecodedself.github.io/feed.xml
+-
+  alias: thecodersblog.com
+  url: https://thecodersblog.com/
+  feedUrl: https://thecodersblog.com/feed.xml
+-
+  alias: thebaldgeek.net/index.php/home/blog
+  url: http://thebaldgeek.net/index.php/home/blog/
+  feedUrl: http://thebaldgeek.net/index.php/feed/
+-
+  alias: theconversation.com/us/topics/dark-web-8437
+  url: https://theconversation.com/us/topics/dark-web-8437
+  feedUrl: https://theconversation.com/us/topics/dark-web-8437/articles.atom
+-
+  alias: theautomatic.net
+  url: http://theautomatic.net/
+  feedUrl: http://theautomatic.net/feed/
+-
+  alias: thedistance.co.uk/category/ios
+  url: https://thedistance.co.uk/category/ios/
+  feedUrl: https://thedistance.co.uk/?feed=rss
+-
+  alias: thecrazyprogrammer.com
+  url: https://www.thecrazyprogrammer.com/
+  feedUrl: https://www.thecrazyprogrammer.com/feed
+-
+  alias: theeffectiveengineer.com/blog
+  url: http://www.theeffectiveengineer.com/blog
+  feedUrl: http://www.effectiveengineer.com/atom.xml
+-
+  alias: theerlangelist.com
+  url: http://theerlangelist.com/
+  feedUrl: https://www.theerlangelist.com/rss
+-
+  alias: thecodeway.com/blog
+  url: http://thecodeway.com/blog
+  feedUrl: https://thecodeway.com/blog/?feed=rss2
+-
+  alias: thegeekblog.co.uk/the-geek-blog
+  url: http://www.thegeekblog.co.uk/the-geek-blog
+  feedUrl: http://www.thegeekblog.co.uk/the-geek-blog?format=rss
+-
+  alias: thegeekinsider.blogspot.com
+  url: http://thegeekinsider.blogspot.com/
+  feedUrl: http://thegeekinsider.blogspot.com/feeds/posts/default
+-
+  alias: thegeekorthant.blogspot.com
+  url: http://thegeekorthant.blogspot.com/
+  feedUrl: http://thegeekorthant.blogspot.com/feeds/posts/default
+-
+  alias: thedarkweblinks.com/blog
+  url: https://www.thedarkweblinks.com/blog/
+  feedUrl: https://www.thedarkweblinks.com/feed/
+-
+  alias: theguardian.com/info/developer-blog
+  url: https://www.theguardian.com/info/developer-blog
+  feedUrl: https://www.theguardian.com/info/series/digital-blog/rss
+-
+  alias: thegeekgetaway.blogspot.com
+  url: https://thegeekgetaway.blogspot.com/
+  feedUrl: https://thegeekgetaway.blogspot.com/feeds/posts/default
+-
+  alias: thelazylog.com
+  url: http://thelazylog.com/
+  feedUrl: http://thelazylog.com/rss/
+-
+  alias: thelondongeek.co.uk/blog
+  url: https://www.thelondongeek.co.uk/blog
+  feedUrl: https://www.thelondongeek.co.uk/feed.xml
+-
+  alias: thegeekstuff.com
+  url: https://www.thegeekstuff.com/
+  feedUrl: https://www.thegeekstuff.com/feed/
+-
+  alias: themodernlife.github.io
+  url: https://themodernlife.github.io/
+  feedUrl: https://themodernlife.github.io/feed.xml
+-
+  alias: thenextweb.com
+  url: https://thenextweb.com/
+  feedUrl: http://feeds2.feedburner.com/thenextweb
+-
+  alias: thelovelygeek.com/blog
+  url: https://thelovelygeek.com/blog/
+  feedUrl: https://thelovelygeek.com/?feed=rss
+-
+  alias: thepythonguru.com/blog
+  url: https://thepythonguru.com/blog/
+  feedUrl: https://thepythonguru.com/feed.xml/
+-
+  alias: thepythoncorner.com
+  url: https://www.thepythoncorner.com/
+  feedUrl: https://www.thepythoncorner.com/feed/
+-
+  alias: therightgeek.blogspot.com
+  url: http://therightgeek.blogspot.com/
+  feedUrl: http://therightgeek.blogspot.com/feeds/posts/default
+-
+  alias: therichergeek.com/blog
+  url: https://www.therichergeek.com/blog
+  feedUrl: https://www.therichergeek.com/blog?format=rss
+-
+  alias: themoneygeek.info/the-geek-blog
+  url: https://www.themoneygeek.info/the-geek-blog/
+  feedUrl: https://www.themoneygeek.info/feed/
+-
+  alias: theserverside.com
+  url: http://www.theserverside.com/
+  feedUrl: https://www.theserverside.com/rss
+-
+  alias: thetechieshouse.com
+  url: https://www.thetechieshouse.com/
+  feedUrl: https://www.thetechieshouse.com/feed/
+-
+  alias: thetrevorharmon.com
+  url: https://thetrevorharmon.com/
+  feedUrl: https://thetrevorharmon.com/rss.xml
+-
+  alias: theswiftdev.com
+  url: https://theswiftdev.com/
+  feedUrl: https://theswiftdev.com/rss/
+-
+  alias: thinkerchan.com
+  url: http://thinkerchan.com/
+  feedUrl: https://thinkerchan.com/atom.xml
+-
+  alias: therightbraingeek.com/blog
+  url: https://www.therightbraingeek.com/blog/
+  feedUrl: https://www.therightbraingeek.com/wp-includes/wlwmanifest.xml
+-
+  alias: thinkingincrowd.me
+  url: http://www.thinkingincrowd.me/
+  feedUrl: http://www.thinkingincrowd.me/atom.xml
+-
+  alias: theswiftness.com
+  url: https://theswiftness.com/
+  feedUrl: https://theswiftness.com/rss/
+-
+  alias: third-bit.com
+  url: http://third-bit.com/
+  feedUrl: http://third-bit.com/feed.xml
+-
+  alias: thisiskyle.me
+  url: http://thisiskyle.me/
+  feedUrl: http://thisiskyle.me/feed.xml
+-
+  alias: thomas.zoechling.me/journal
+  url: https://thomas.zoechling.me/journal/
+  feedUrl: https://thomas.zoechling.me/journal/feed.xml
+-
+  alias: thinkgem.iteye.com
+  url: http://thinkgem.iteye.com/
+  feedUrl: https://www.iteye.com/rss
+-
+  alias: thomashunter.name
+  url: https://thomashunter.name/
+  feedUrl: https://thomashunter.name/feed.rss
+-
+  alias: thinkandbuild.it
+  url: http://www.thinkandbuild.it/
+  feedUrl: https://www.thinkandbuild.it/feed/
+-
+  alias: thomaskekeisen.de/en/blog/archive
+  url: https://thomaskekeisen.de/en/blog/archive/
+  feedUrl: https://thomaskekeisen.de/en/rss.xml
+-
+  alias: thomaswdinsmore.com
+  url: https://thomaswdinsmore.com/
+  feedUrl: https://thomaswdinsmore.com/feed/
+-
+  alias: thisweekingeek.net/category/blogs
+  url: http://thisweekingeek.net/category/blogs
+  feedUrl: http://www.thisweekingeek.net/?feed=atom
+-
+  alias: thomasdeneuville.com
+  url: https://thomasdeneuville.com/
+  feedUrl: https://www.thomasdeneuville.com/feed/
+-
+  alias: thumbtack.com/engineering
+  url: https://www.thumbtack.com/engineering/
+  feedUrl: https://engineering.thumbtack.com/feed/
+-
+  alias: thoughts-on-java.org/blog
+  url: https://thoughts-on-java.org/blog/
+  feedUrl: https://thoughts-on-java.org/feed/
+-
+  alias: thoughtworks.com/insights
+  url: https://www.thoughtworks.com/insights
+  feedUrl: https://www.thoughtworks.com/es/?feed=rss
+-
+  alias: tianjiaguo.com
+  url: http://www.tianjiaguo.com/
+  feedUrl: http://www.tianjiaguo.com/feed/
