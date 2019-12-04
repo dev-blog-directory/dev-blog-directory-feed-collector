@@ -2268,3 +2268,159 @@
   date: Wed Dec 04 2019 10:00:37 GMT+0000 (Coordinated Universal Time)
   url: https://wtipl.com/blog/
   reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:01:32 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wwwer.net/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Wed Dec 04 2019 10:01:32 GMT+0000 (Coordinated Universal Time)
+  url: http://www.xdemo.org/
+  reason: HTTPError: Response code 403 (Forbidden)
+-
+  date: Wed Dec 04 2019 10:01:33 GMT+0000 (Coordinated Universal Time)
+  url: http://wyattbaldwin.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:01:34 GMT+0000 (Coordinated Universal Time)
+  url: http://xianglong.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:02:07 GMT+0000 (Coordinated Universal Time)
+  url: http://www.xwuxin.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:02:07 GMT+0000 (Coordinated Universal Time)
+  url: https://yaabed.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:02:16 GMT+0000 (Coordinated Universal Time)
+  url: https://www.xiaoweigod.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:02:25 GMT+0000 (Coordinated Universal Time)
+  url: http://www.xuanfengge.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:02:58 GMT+0000 (Coordinated Universal Time)
+  url: http://yannisxu.farbox.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:02:58 GMT+0000 (Coordinated Universal Time)
+  url: http://yaojingguo.github.io/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:02:58 GMT+0000 (Coordinated Universal Time)
+  url: http://www.ydwe.net/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:03:01 GMT+0000 (Coordinated Universal Time)
+  url: http://yechengfu.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:03:04 GMT+0000 (Coordinated Universal Time)
+  url: https://www.yegor256.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:03:31 GMT+0000 (Coordinated Universal Time)
+  url: http://www.yegor256.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:03:31 GMT+0000 (Coordinated Universal Time)
+  url: http://yejinxin.github.io/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:03:34 GMT+0000 (Coordinated Universal Time)
+  url: http://yemengying.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:03:35 GMT+0000 (Coordinated Universal Time)
+  url: http://yetanothermathprogrammingconsultant.blogspot.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:03:40 GMT+0000 (Coordinated Universal Time)
+  url: http://www.yfworld.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:04:05 GMT+0000 (Coordinated Universal Time)
+  url: http://yi-programmer.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:04:07 GMT+0000 (Coordinated Universal Time)
+  url: http://yifan.lu/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:04:07 GMT+0000 (Coordinated Universal Time)
+  url: http://www.yihaomen.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 10:04:09 GMT+0000 (Coordinated Universal Time)
+  url: http://yimingzhi.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:04:10 GMT+0000 (Coordinated Universal Time)
+  url: http://yonsm.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:04:13 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/channel/UC-TSTzj5hADDACFwolGgSxA/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:14 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:16 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:17 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:19 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/channel/UCcSj41xzQJCT2V0GNwlob_w/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:20 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:21 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/user/99baddawg/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:24 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/user/ShadowcatSystems/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:24 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/user/gocoding/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:26 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/user/jsconfeu/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:26 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/user/shan1j/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:27 GMT+0000 (Coordinated Universal Time)
+  url: https://www.youtube.com/user/vivekanandkhyade/videos
+  reason: Error: Not a feed
+-
+  date: Wed Dec 04 2019 10:04:28 GMT+0000 (Coordinated Universal Time)
+  url: http://ytliu.info/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:04:30 GMT+0000 (Coordinated Universal Time)
+  url: http://www.youxiuboke.com/en/index.html
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:04:30 GMT+0000 (Coordinated Universal Time)
+  url: https://yq.aliyun.com/articles/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 10:04:45 GMT+0000 (Coordinated Universal Time)
+  url: http://www.youc.net/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms

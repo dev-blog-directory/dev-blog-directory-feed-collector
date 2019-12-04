@@ -11334,3 +11334,247 @@
   alias: wuguoren.com
   url: http://wuguoren.com/
   feedUrl: http://wuguoren.com/feed/
+-
+  alias: x-wei.github.io
+  url: http://x-wei.github.io/
+  feedUrl: http://x-wei.github.io/feeds/atom.xml
+-
+  alias: xanthir.com/blog
+  url: https://www.xanthir.com/blog/
+  feedUrl: https://www.xanthir.com/blog/atom/
+-
+  alias: xiangguo.li
+  url: http://www.xiangguo.li/
+  feedUrl: http://www.xiangguo.li/atom.xml
+-
+  alias: wyeworks.com/blog
+  url: https://wyeworks.com/blog/
+  feedUrl: https://www.wyeworks.com/rss.xml
+-
+  alias: xiangwangfeng.com
+  url: http://xiangwangfeng.com/
+  feedUrl: https://xiangwangfeng.com/atom.xml
+-
+  alias: xiabingbao.com
+  url: https://www.xiabingbao.com/
+  feedUrl: https://www.xiabingbao.com/atom.xml
+-
+  alias: xiaoleilu.com
+  url: http://www.xiaoleilu.com/
+  feedUrl: https://www.xiaoleilu.com/atom.xml
+-
+  alias: xiaomastack.com
+  url: https://www.xiaomastack.com/
+  feedUrl: https://www.xiaomastack.com/atom.xml
+-
+  alias: xiaofancn.iteye.com
+  url: http://xiaofancn.iteye.com/
+  feedUrl: https://www.iteye.com/rss
+-
+  alias: wuzhuti.cn
+  url: http://wuzhuti.cn/
+  feedUrl: https://wuzhuti.cn/feed
+-
+  alias: xiaobai8.com
+  url: http://www.xiaobai8.com/
+  feedUrl: http://www.xiaobai8.com/feed
+-
+  alias: xiaohudie.net
+  url: http://xiaohudie.net/
+  feedUrl: http://xiaohudie.net/feed
+-
+  alias: xiaoxiaozi.com
+  url: http://www.xiaoxiaozi.com/
+  feedUrl: http://www.xiaoxiaozi.com/feed/
+-
+  alias: xiequan.info
+  url: http://xiequan.info/
+  feedUrl: https://xiequan.info/feed/
+-
+  alias: xinghenghan.blog.163.com
+  url: http://xinghenghan.blog.163.com/
+  feedUrl: http://xinghenghan.blog.163.com/rss/
+-
+  alias: xiaoyaoli.com
+  url: http://www.xiaoyaoli.com/
+  feedUrl: http://www.xiaoyaoli.com/?feed=rss2
+-
+  alias: xmuxiaomo.github.io
+  url: http://xmuxiaomo.github.io/
+  feedUrl: http://xmuxiaomo.github.io/atom.xml
+-
+  alias: xiezhenye.com
+  url: http://xiezhenye.com/
+  feedUrl: http://xiezhenye.com/feed
+-
+  alias: xnow.me
+  url: http://xnow.me/
+  feedUrl: http://xnow.me/feed/
+-
+  alias: xifenfei.com
+  url: http://www.xifenfei.com/
+  feedUrl: http://www.xifenfei.com/feed
+-
+  alias: xncoding.com
+  url: https://www.xncoding.com/
+  feedUrl: https://www.xncoding.com/atom.xml
+-
+  alias: xuanwo.io
+  url: https://xuanwo.io/
+  feedUrl: https://xuanwo.io/index.xml
+-
+  alias: xsinger.me
+  url: http://xsinger.me/
+  feedUrl: https://xsinger.me/feed/
+-
+  alias: xuanye.github.io
+  url: http://xuanye.github.io/
+  feedUrl: http://xuanye.github.io/atom.xml
+-
+  alias: xuanyan.org
+  url: http://xuanyan.org/
+  feedUrl: http://xuanyan.org/atom.xml
+-
+  alias: xuexb.com
+  url: http://www.xuexb.com/
+  feedUrl: https://xuexb.com/rss.html
+-
+  alias: xuwenhao.com
+  url: http://www.xuwenhao.com/
+  feedUrl: https://xuwenhao.com/feed
+-
+  alias: xj123.info
+  url: http://www.xj123.info/
+  feedUrl: http://www.xj123.info/feed
+-
+  alias: xxgblog.com
+  url: http://xxgblog.com/
+  feedUrl: http://xxgblog.com/atom.xml
+-
+  alias: xushiwei.com
+  url: http://xushiwei.com/
+  feedUrl: http://xushiwei.com/feed/pages/pagename/blog/category/_default/order/updated_at+desc/limit/10/t/Xushiwei%27s+Blog
+-
+  alias: yalishizhude.github.io
+  url: http://yalishizhude.github.io/
+  feedUrl: https://yalishizhude.github.io/rss2.xml
+-
+  alias: yanbober.github.io
+  url: http://yanbober.github.io/
+  feedUrl: http://2btech.cn/atom.xml
+-
+  alias: yangbolin.cn
+  url: http://yangbolin.cn/
+  feedUrl: http://yangbolin.cn/atom.xml
+-
+  alias: yangcaimu.github.io
+  url: http://yangcaimu.github.io/
+  feedUrl: http://yangcaimu.github.io/atom.xml
+-
+  alias: yangcongchufang.com
+  url: http://yangcongchufang.com/
+  feedUrl: https://diggzhang.github.io/feed.xml
+-
+  alias: yahooeng.tumblr.com
+  url: https://yahooeng.tumblr.com/
+  feedUrl: https://yahooeng.tumblr.com/rss
+-
+  alias: yangcs.net
+  url: https://www.yangcs.net/
+  feedUrl: https://fuckcloudnative.io/index.xml
+-
+  alias: yalewoo.com
+  url: http://www.yalewoo.com/
+  feedUrl: http://www.yalewoo.com/feed
+-
+  alias: yangjinyou.com
+  url: http://yangjinyou.com/
+  feedUrl: http://yangjinyou.com/?feed=rss
+-
+  alias: yangyingchao.github.io
+  url: http://yangyingchao.github.io/
+  feedUrl: http://yangyingchao.github.io/feed.xml
+-
+  alias: yangzhiping.com
+  url: http://www.yangzhiping.com/
+  feedUrl: https://www.yangzhiping.com/feed.xml
+-
+  alias: yanhaijing.com
+  url: http://yanhaijing.com/
+  feedUrl: https://yanhaijing.com/atom.xml
+-
+  alias: yangshangchuan.iteye.com
+  url: http://yangshangchuan.iteye.com/
+  feedUrl: https://www.iteye.com/rss
+-
+  alias: yangtingkun.net
+  url: http://yangtingkun.net/
+  feedUrl: http://yangtingkun.net/?feed=rss2
+-
+  alias: yangwenbo.com
+  url: https://yangwenbo.com/
+  feedUrl: https://yangwenbo.com/feed
+-
+  alias: yikun.github.io
+  url: http://yikun.github.io/
+  feedUrl: http://yikun.github.io/atom.xml
+-
+  alias: yogthos.net
+  url: http://yogthos.net/
+  feedUrl: http://yogthos.net/feed.xml
+-
+  alias: yihui.name
+  url: http://yihui.name/
+  feedUrl: https://yihui.org/index.xml
+-
+  alias: yoongkang.com
+  url: https://yoongkang.com/
+  feedUrl: https://yoongkang.com/feed.xml
+-
+  alias: yosefk.com/blog
+  url: http://yosefk.com/blog/
+  feedUrl: http://yosefk.com/blog/feed
+-
+  alias: yinwang.org
+  url: http://www.yinwang.org/
+  feedUrl: http://www.yinwang.org/atom.xml
+-
+  alias: youly.github.io
+  url: http://youly.github.io/
+  feedUrl: http://blog.lastww.com/atom.xml
+-
+  alias: youngsterxyf.github.io
+  url: http://youngsterxyf.github.io/
+  feedUrl: http://youngsterxyf.github.io/feeds/atom.xml
+-
+  alias: youtube-eng.googleblog.com
+  url: https://youtube-eng.googleblog.com/
+  feedUrl: https://youtube-eng.googleblog.com/feeds/posts/default
+-
+  alias: yongqing.is-programmer.com
+  url: http://yongqing.is-programmer.com/
+  feedUrl: http://yongqing.is-programmer.com/posts.rss
+-
+  alias: youmeek.com
+  url: http://www.youmeek.com/
+  feedUrl: http://www.youmeek.com/feed/
+-
+  alias: yuefeng.li/feed
+  url: http://yuefeng.li/feed
+  feedUrl: http://yuefeng.li/feed
+-
+  alias: yrom.net
+  url: http://www.yrom.net/
+  feedUrl: http://www.yrom.net/atom.xml
+-
+  alias: yuguo.us
+  url: http://yuguo.us/
+  feedUrl: https://yuguo.us/feed.xml
+-
+  alias: yuerblog.cc
+  url: http://yuerblog.cc/
+  feedUrl: https://yuerblog.cc/feed/
+-
+  alias: yueyemaitian.iteye.com
+  url: http://yueyemaitian.iteye.com/
+  feedUrl: https://www.iteye.com/rss
