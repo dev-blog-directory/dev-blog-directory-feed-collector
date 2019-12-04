@@ -10698,3 +10698,315 @@
   alias: tianjiaguo.com
   url: http://www.tianjiaguo.com/
   feedUrl: http://www.tianjiaguo.com/feed/
+-
+  alias: tiffanywhite.dev
+  url: https://tiffanywhite.dev/
+  feedUrl: https://tiffanywhite.dev/feed.xml
+-
+  alias: til.hashrocket.com
+  url: https://til.hashrocket.com/
+  feedUrl: https://til.hashrocket.com/rss
+-
+  alias: tianshuang.me
+  url: https://tianshuang.me/
+  feedUrl: https://tianshuang.me/atom.xml
+-
+  alias: timekl.com
+  url: https://www.timekl.com/
+  feedUrl: https://www.timekl.com/atom.xml
+-
+  alias: timkadlec.com
+  url: https://timkadlec.com/
+  feedUrl: https://timkadlec.com/atom.xml
+-
+  alias: tiankonguse.github.io
+  url: http://tiankonguse.github.io/
+  feedUrl: http://github.tiankonguse.com/atom.xml
+-
+  alias: tigeroakes.com/posts
+  url: https://tigeroakes.com/posts/
+  feedUrl: https://tigeroakes.com/posts/index.xml
+-
+  alias: timothyqiu.com
+  url: http://timothyqiu.com/
+  feedUrl: https://timothyqiu.com/feed/
+-
+  alias: timnash.co.uk
+  url: https://timnash.co.uk/
+  feedUrl: https://timnash.co.uk/?feed=rss
+-
+  alias: tomanistor.com/blog
+  url: https://tomanistor.com/blog
+  feedUrl: https://tomanistor.com/blog/index.xml
+-
+  alias: toddmotto.com
+  url: https://toddmotto.com/
+  feedUrl: https://ultimatecourses.com/feed
+-
+  alias: timyang.net
+  url: http://timyang.net/
+  feedUrl: https://timyang.net/feed/atom/
+-
+  alias: tommikivimaki.com/notes
+  url: https://tommikivimaki.com/notes/
+  feedUrl: https://tommikivimaki.com/notes/feed.xlm
+-
+  alias: tim.engineering
+  url: https://tim.engineering/
+  feedUrl: https://tim.engineering/rss/
+-
+  alias: tomassetti.me
+  url: https://tomassetti.me/
+  feedUrl: https://tomassetti.me/feed/
+-
+  alias: tonyarnold.com
+  url: http://tonyarnold.com/
+  feedUrl: https://tonyarnold.com/atom.xml
+-
+  alias: tonyxu.io
+  url: https://tonyxu.io/
+  feedUrl: https://tonyxu.io/index.xml
+-
+  alias: tongjingcheng.cn
+  url: http://www.tongjingcheng.cn/
+  feedUrl: https://www.tongjingcheng.cn/feed.xml
+-
+  alias: toptal.com/blog
+  url: https://www.toptal.com/blog
+  feedUrl: https://www.toptal.com/blog.rss
+-
+  alias: toptal.com/blog
+  url: https://www.toptal.com/blog/
+  feedUrl: https://www.toptal.com/blog.rss
+-
+  alias: toughcoder.net
+  url: http://toughcoder.net/
+  feedUrl: http://toughcoder.net/atom.xml
+-
+  alias: topologyeyewear.github.io/engineering-blog
+  url: https://topologyeyewear.github.io/engineering-blog
+  feedUrl: https://topologyeyewear.github.io/engineering-blog/atom
+-
+  alias: tradingwithpython.blogspot.co.id
+  url: http://tradingwithpython.blogspot.co.id/
+  feedUrl: http://tradingwithpython.blogspot.com/feeds/posts/default
+-
+  alias: trickyandroid.com
+  url: http://trickyandroid.com/
+  feedUrl: https://trickyandroid.com/rss/
+-
+  alias: towriting.com
+  url: http://towriting.com/
+  feedUrl: http://towriting.com/atom.xml
+-
+  alias: tonybai.com
+  url: http://tonybai.com/
+  feedUrl: https://tonybai.com/feed/
+-
+  alias: troyhunt.com
+  url: https://www.troyhunt.com/
+  feedUrl: https://www.troyhunt.com/rss/
+-
+  alias: troz.net
+  url: https://troz.net/
+  feedUrl: https://troz.net/index.xml
+-
+  alias: tothenew.com/blog/category/technology/angular
+  url: http://www.tothenew.com/blog/category/technology/angular/
+  feedUrl: https://www.tothenew.com/blog/feed/
+-
+  alias: trydofor.com
+  url: http://www.trydofor.com/
+  feedUrl: http://www.trydofor.com/atom.xml
+-
+  alias: trinhhieu668.wordpress.com/category/big-data/golang
+  url: https://trinhhieu668.wordpress.com/category/big-data/golang/
+  feedUrl: https://trinhhieu668.wordpress.com/feed/
+-
+  alias: tostring.informedk12.com
+  url: https://tostring.informedk12.com/
+  feedUrl: https://tostring.informedk12.com/feed
+-
+  alias: tsov.net
+  url: http://tsov.net/
+  feedUrl: http://tsov.net/feed/
+-
+  alias: trinea.cn
+  url: http://www.trinea.cn/
+  feedUrl: https://www.trinea.cn/feed/
+-
+  alias: tutorialzine.com
+  url: https://tutorialzine.com/
+  feedUrl: https://tutorialzine.com/feed
+-
+  alias: tushargahora.blogspot.com
+  url: https://tushargahora.blogspot.com/?m=1
+  feedUrl: https://tushargahora.blogspot.com/feeds/posts/default
+-
+  alias: tutuge.me
+  url: http://tutuge.me/
+  feedUrl: http://tutuge.me/atom.xml
+-
+  alias: ttlsa.com
+  url: http://www.ttlsa.com/
+  feedUrl: http://www.ttlsa.com/?feed=rss
+-
+  alias: tutorp0int.blogspot.com
+  url: https://tutorp0int.blogspot.com/
+  feedUrl: https://tutorp0int.blogspot.com/feeds/posts/default
+-
+  alias: twilio.com/blog
+  url: https://www.twilio.com/blog/
+  feedUrl: https://www.twilio.com/blog/feed
+-
+  alias: tworingsoft.com/blog
+  url: http://tworingsoft.com/blog/
+  feedUrl: https://tworingsoft.com/feed.xml
+-
+  alias: tutorialandexample.com
+  url: https://www.tutorialandexample.com/
+  feedUrl: https://www.tutorialandexample.com/feed/
+-
+  alias: twosigma.com/insights/category/technology
+  url: https://www.twosigma.com/insights/category/technology
+  feedUrl: https://www.twosigma.com/?feed=rss
+-
+  alias: tympanus.net/codrops
+  url: https://tympanus.net/codrops/
+  feedUrl: https://codropspz-tympanus.netdna-ssl.com/codrops/wp-includes/wlwmanifest.xml
+-
+  alias: tutsplanet.com
+  url: https://www.tutsplanet.com/
+  feedUrl: https://www.tutsplanet.com/feed/
+-
+  alias: type.so
+  url: http://type.so/
+  feedUrl: https://type.so/feed/
+-
+  alias: tw.newtonstudio.com
+  url: http://tw.newtonstudio.com/
+  feedUrl: http://tw.newtonstudio.com/?feed=rss2
+-
+  alias: ucdchina.com
+  url: http://ucdchina.com/
+  feedUrl: http://ucdchina.com/rss/all
+-
+  alias: uie.com
+  url: https://www.uie.com/
+  feedUrl: https://www.uie.com/?feed=rss
+-
+  alias: uiharu.moe
+  url: http://uiharu.moe/
+  feedUrl: http://uiharu.moe/atom.xml
+-
+  alias: ultracrepidarian.phfactor.net
+  url: https://ultracrepidarian.phfactor.net/
+  feedUrl: https://ultracrepidarian.phfactor.net/feed/
+-
+  alias: una.im
+  url: https://una.im/
+  feedUrl: https://una.im/feed.xml
+-
+  alias: unclechen.github.io
+  url: http://unclechen.github.io/
+  feedUrl: http://unclechen.github.io/atom.xml
+-
+  alias: undefinedblog.com
+  url: http://undefinedblog.com/
+  feedUrl: http://undefinedblog.com/atom.xml
+-
+  alias: up.smartrecruiters.com
+  url: https://up.smartrecruiters.com/
+  feedUrl: https://up.smartrecruiters.com/feed
+-
+  alias: upbeat.it
+  url: https://www.upbeat.it/
+  feedUrl: https://www.upbeat.it/atom.xml
+-
+  alias: ukonline2000.com
+  url: http://ukonline2000.com/
+  feedUrl: http://ukonline2000.com/?feed=rss2
+-
+  alias: undocumentedmatlab.com
+  url: http://undocumentedmatlab.com/
+  feedUrl: http://undocumentedmatlab.com/feed
+-
+  alias: uraimo.com
+  url: https://www.uraimo.com/
+  feedUrl: http://www.uraimo.com/atom.xml
+-
+  alias: urbanisedgeek.co.za
+  url: http://www.urbanisedgeek.co.za/
+  feedUrl: http://www.urbanisedgeek.co.za/feeds/posts/default
+-
+  alias: uisdc.com
+  url: http://www.uisdc.com/
+  feedUrl: http://www.uisdc.com/?feed=rss
+-
+  alias: userinterfacing.com
+  url: https://userinterfacing.com/
+  feedUrl: https://www.userinterfacing.com/rss.xml
+-
+  alias: upday.github.io
+  url: https://upday.github.io/
+  feedUrl: https://upday.github.io/feed.xml
+-
+  alias: useyourloaf.com
+  url: https://useyourloaf.com/
+  feedUrl: https://useyourloaf.com/blog/rss.xml
+-
+  alias: useyourloaf.com/blog
+  url: https://useyourloaf.com/blog/
+  feedUrl: https://useyourloaf.com/blog/rss.xml
+-
+  alias: uxc.360.cn
+  url: http://uxc.360.cn/
+  feedUrl: http://uxc.360.cn/rss.html
+-
+  alias: upcoder.com
+  url: http://upcoder.com/
+  feedUrl: https://upcoder.com/feed
+-
+  alias: uxpin.com/studio/blog
+  url: https://www.uxpin.com/studio/blog/
+  feedUrl: https://www.uxpincdn.com/studio/wp-includes/wlwmanifest.xml
+-
+  alias: vadimbulavin.com
+  url: https://www.vadimbulavin.com/
+  feedUrl: https://www.vadimbulavin.com/feed.xml
+-
+  alias: valhead.com
+  url: https://valhead.com/
+  feedUrl: https://valhead.com/feed/
+-
+  alias: vanillajava.blogspot.com
+  url: http://vanillajava.blogspot.com/
+  feedUrl: http://vanillajava.blogspot.com/feeds/posts/default
+-
+  alias: vcarrer.com
+  url: http://www.vcarrer.com/
+  feedUrl: http://feeds.feedburner.com/CarrerBlog
+-
+  alias: uuvps.com
+  url: http://www.uuvps.com/
+  feedUrl: http://www.uuvps.com/feed
+-
+  alias: verycb.me
+  url: http://verycb.me/
+  feedUrl: https://verycb.me/feed.xml
+-
+  alias: vice.com/en_us/topic/dark-web
+  url: https://www.vice.com/en_us/topic/dark-web
+  feedUrl: https://www.vice.com/en_us/rss/topic/dark-web
+-
+  alias: viget.com/articles/category/code
+  url: https://www.viget.com/articles/category/code#articles
+  feedUrl: https://feeds.feedburner.com/Viget
+-
+  alias: victoria.dev
+  url: https://victoria.dev/
+  feedUrl: https://victoria.dev/index.xml
+-
+  alias: vcla.at
+  url: http://www.vcla.at/
+  feedUrl: http://www.vcla.at/feed/

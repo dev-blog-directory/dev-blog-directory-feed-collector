@@ -2104,3 +2104,91 @@
   date: Wed Dec 04 2019 09:55:02 GMT+0000 (Coordinated Universal Time)
   url: http://thinkstrategies.com/blog/#
   reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 09:56:06 GMT+0000 (Coordinated Universal Time)
+  url: https://www.tianmaying.com/user/david
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Wed Dec 04 2019 09:56:07 GMT+0000 (Coordinated Universal Time)
+  url: http://tikitoo.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:09 GMT+0000 (Coordinated Universal Time)
+  url: http://tmyam.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:14 GMT+0000 (Coordinated Universal Time)
+  url: http://tomner.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:17 GMT+0000 (Coordinated Universal Time)
+  url: http://timoliver.blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:19 GMT+0000 (Coordinated Universal Time)
+  url: http://www.tony77.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:24 GMT+0000 (Coordinated Universal Time)
+  url: http://tomxin.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:25 GMT+0000 (Coordinated Universal Time)
+  url: http://tony.ecy.ren/
+  reason: HTTPError: Response code 502 (Bad Gateway)
+-
+  date: Wed Dec 04 2019 09:56:34 GMT+0000 (Coordinated Universal Time)
+  url: https://www.truepush.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:36 GMT+0000 (Coordinated Universal Time)
+  url: https://ttt.tt/
+  reason: RequestError: certificate has expired
+-
+  date: Wed Dec 04 2019 09:56:40 GMT+0000 (Coordinated Universal Time)
+  url: http://www.tutorialspoint.com/python/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:47 GMT+0000 (Coordinated Universal Time)
+  url: https://www.twilio.com/docs/quickstart/python
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:47 GMT+0000 (Coordinated Universal Time)
+  url: https://www.twilio.com/engineering/
+  reason: HTTPError: Response code 404 (NOT FOUND)
+-
+  date: Wed Dec 04 2019 09:56:48 GMT+0000 (Coordinated Universal Time)
+  url: http://typeof.net/index.html
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:56:56 GMT+0000 (Coordinated Universal Time)
+  url: http://www.ui.cn/
+  reason: RequestError: getaddrinfo ENOTFOUND www.ui.cn
+-
+  date: Wed Dec 04 2019 09:56:59 GMT+0000 (Coordinated Universal Time)
+  url: http://ued.focus.cn/wordpress
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:57:05 GMT+0000 (Coordinated Universal Time)
+  url: http://uicss.cn/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 09:57:19 GMT+0000 (Coordinated Universal Time)
+  url: https://urenko.github.io/Accesser/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:57:25 GMT+0000 (Coordinated Universal Time)
+  url: http://www.ueview.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Wed Dec 04 2019 09:57:26 GMT+0000 (Coordinated Universal Time)
+  url: http://www.vertabelo.com/blog
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:57:27 GMT+0000 (Coordinated Universal Time)
+  url: http://uxc.baidu.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 09:57:28 GMT+0000 (Coordinated Universal Time)
+  url: https://uxcellence.com/
+  reason: Feed URL not found
