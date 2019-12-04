@@ -1,0 +1,25 @@
+sudo: false
+language: node_js
+node_js: "12"
+before_cache:
+  - rm -rf node_modules/dev-blog-directory*
+  - rm -rf node_modules/collect-feeds
+branches:
+  only:
+    - master
+
+script:
+  - npm run start 100
+
+deploy:
+  - provider: pages
+    skip_cleanup: true
+    target_branch: master
+    github_token: $GITHUB_TOKEN
+    keep_history: true
+    committer_from_gh: true
+    name: dailyrandomphoto
+    email: dailyrandomphoto@gmail.com
+    commit_message: "continuous collecting"
+    on:
+      branch: master

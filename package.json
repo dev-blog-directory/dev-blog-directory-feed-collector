@@ -1,0 +1,24 @@
+{
+  "name": "dev-blog-directory-feed-collector",
+  "version": "1.0.0",
+  "description": "Collect feed URLs for dev blogs.",
+  "scripts": {
+    "start": "collect-feeds"
+  },
+  "dependencies": {
+    "collect-feeds": "*"
+  },
+  "engines": {
+    "node": ">=8.6.0"
+  },
+  "author": "dailyrandomphoto <dailyrandomphoto@gmail.com> (https://www.dailyrandomphoto.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailyrandomphoto/dev-blog-directory-feed-collector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dailyrandomphoto/dev-blog-directory-feed-collector/issues"
+  },
+  "homepage": "https://github.com/dailyrandomphoto/dev-blog-directory-feed-collector#readme"
+}
