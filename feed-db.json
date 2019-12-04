@@ -213,7 +213,7 @@
   {
     "alias": "academie.ryfacto.fr",
     "url": "https://academie.ryfacto.fr/",
-    "feedUrl": "https://academie.ryfacto.fr/advanced-ios-craft/feed.xml",
+    "feedUrl": "https://academie.ryfacto.fr/",
     "title": "Académie Ryfacto | Advanced iOS Craft",
     "type": "rss"
   },
@@ -407,8 +407,8 @@
   },
   {
     "alias": "akpdev.com",
-    "url": "http://www.akpdev.com/",
-    "feedUrl": "http://www.akpdev.com/feed.xml",
+    "url": "http://akpdev.com/",
+    "feedUrl": "http://akpdev.com/feed.xml",
     "title": "Arseniy Kuznetsov's Blog",
     "type": "rss"
   },
@@ -525,7 +525,7 @@
   {
     "alias": "alloc-init.com",
     "url": "https://www.alloc-init.com/",
-    "feedUrl": "https://www.alloc-init.com/feed",
+    "feedUrl": "https://www.alloc-init.com/https:/alloc-init.com/feed",
     "title": "Alloc-Init",
     "type": "rss"
   },
@@ -750,7 +750,7 @@
   {
     "alias": "aplus.rs/categories/iosdev",
     "url": "http://aplus.rs/categories/iosdev/",
-    "feedUrl": "http://aplus.rs/index.xml",
+    "feedUrl": "http://localhost:1313/categories/iosdev/index.xml",
     "title": "Aleksandar Vacić's blog",
     "type": "rss"
   },
@@ -815,7 +815,7 @@
   {
     "alias": "appracatappra.com/category/blog",
     "url": "https://appracatappra.com/category/blog/",
-    "feedUrl": "https://appracatappra.com/category/blog/feed/",
+    "feedUrl": "https://appracatappra.com/feed/",
     "title": "Appracatappra Blog",
     "type": "rss"
   },
@@ -957,7 +957,7 @@
   {
     "alias": "ashfurrow.com",
     "url": "https://ashfurrow.com/",
-    "feedUrl": "https://ashfurrow.com/feed.xml",
+    "feedUrl": "https://ashfurrow.com/sitemap.xml",
     "title": "Ash Furrow's Blog",
     "type": "rss"
   },
