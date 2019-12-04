@@ -674,3 +674,331 @@
   alias: askmaclean.com
   url: http://www.askmaclean.com/
   feedUrl: https://www.askmaclean.com/feed
+-
+  alias: avoa.com
+  url: https://avoa.com/
+  feedUrl: https://avoa.com/feed/
+-
+  alias: aweary.dev
+  url: https://aweary.dev/
+  feedUrl: https://aweary.dev/rss.xml
+-
+  alias: auth0.com/blog
+  url: https://auth0.com/blog/
+  feedUrl: https://auth0.com/blog/rss.xml
+-
+  alias: augmentedcode.io/blog
+  url: https://augmentedcode.io/blog/
+  feedUrl: https://augmentedcode.io/feed/
+-
+  alias: awik.io
+  url: https://awik.io/
+  feedUrl: https://awik.io/wp-includes/wlwmanifest.xml
+-
+  alias: audiokitpro.com/blog
+  url: https://audiokitpro.com/blog/
+  feedUrl: https://audiokitpro.com/feed/
+-
+  alias: atomicbird.com/blog
+  url: http://www.atomicbird.com/blog
+  feedUrl: https://www.atomicbird.com/feed
+-
+  alias: ausios.com
+  url: http://ausios.com/
+  feedUrl: http://ausios.com/feed/
+-
+  alias: asymt.com
+  url: http://www.asymt.com/
+  feedUrl: https://www.asymt.com/feed
+-
+  alias: avanderlee.com
+  url: https://www.avanderlee.com/
+  feedUrl: https://www.avanderlee.com/feed/
+-
+  alias: axuebin.com/blog
+  url: http://axuebin.com/blog/
+  feedUrl: http://axuebin.com/blog /feed.xml 
+-
+  alias: awhitehouse104.github.io
+  url: https://awhitehouse104.github.io/
+  feedUrl: https://awhitehouse104.github.io/feed.xml
+-
+  alias: bad-concurrency.blogspot.com
+  url: http://bad-concurrency.blogspot.com/
+  feedUrl: http://bad-concurrency.blogspot.com/feeds/posts/default
+-
+  alias: aws.amazon.com/blogs/aws
+  url: https://aws.amazon.com/blogs/aws/
+  feedUrl: https://aws.amazon.com/blogs/aws/feed/
+-
+  alias: b-list.org/weblog/categories/python
+  url: http://www.b-list.org/weblog/categories/python/
+  feedUrl: https://www.b-list.org/feeds/entries/
+-
+  alias: azure.microsoft.com/en-in/blog
+  url: https://azure.microsoft.com/en-in/blog/
+  feedUrl: https://azurecomcdn.azureedge.net/en-in/blog/feed/
+-
+  alias: awaimai.com
+  url: https://www.awaimai.com/
+  feedUrl: https://www.awaimai.com/?feed=rss
+-
+  alias: aws.amazon.com/blogs/developer/category/java
+  url: https://aws.amazon.com/blogs/developer/category/java/
+  feedUrl: https://aws.amazon.com/blogs/developer/category/programing-language/java/feed/
+-
+  alias: backtrace.io/blog
+  url: https://backtrace.io/blog/
+  feedUrl: https://backtrace.io/feed/
+-
+  alias: barretlee.com
+  url: http://www.barretlee.com/
+  feedUrl: http://www.barretlee.com/rss2.xml
+-
+  alias: barretlee.com/entry
+  url: https://www.barretlee.com/entry/
+  feedUrl: http://www.barretlee.com/rss2.xml
+-
+  alias: badootech.badoo.com/tagged/ios
+  url: https://badootech.badoo.com/tagged/ios
+  feedUrl: https://medium.com/feed/badoo-developers/tagged/ios
+-
+  alias: barbarianmeetscoding.com
+  url: https://www.barbarianmeetscoding.com/
+  feedUrl: https://www.barbarianmeetscoding.com/atom.xml
+-
+  alias: bastengao.com
+  url: http://bastengao.com/
+  feedUrl: https://bastengao.com/feed.xml
+-
+  alias: basememara.com
+  url: http://basememara.com/
+  feedUrl: https://basememara.com/feed/
+-
+  alias: beauty-of-imagination.blogspot.co.id/search/label/python
+  url: http://beauty-of-imagination.blogspot.co.id/search/label/python
+  feedUrl: http://beauty-of-imagination.blogspot.com/feeds/posts/default
+-
+  alias: axiu.me
+  url: http://axiu.me/
+  feedUrl: https://axiu.me/feed
+-
+  alias: bandcamptech.wordpress.com
+  url: https://bandcamptech.wordpress.com/
+  feedUrl: https://bandcamptech.wordpress.com/feed/
+-
+  alias: ayqy.net/blog
+  url: http://ayqy.net/blog
+  feedUrl: http://www.ayqy.net/blog/feed/
+-
+  alias: beginor.github.io
+  url: http://beginor.github.io/
+  feedUrl: http://beginor.github.io/atom.xml
+-
+  alias: begriffs.com
+  url: https://begriffs.com/
+  feedUrl: https://begriffs.com/atom.xml
+-
+  alias: beisiegel.me
+  url: https://beisiegel.me/
+  feedUrl: https://beisiegel.me/rss.xml
+-
+  alias: bayescafe.com
+  url: http://bayescafe.com/
+  feedUrl: http://bayescafe.com/feed/
+-
+  alias: belkadan.com/blog
+  url: https://belkadan.com/blog/
+  feedUrl: https://belkadan.com/blog/atom
+-
+  alias: baiyunpeng.com
+  url: http://baiyunpeng.com/
+  feedUrl: https://baiyunpeng.com/?feed=rss2
+-
+  alias: basthomas.github.io
+  url: https://basthomas.github.io/
+  feedUrl: https://basthomas.github.io/feed.xml
+-
+  alias: bendodson.com/weblog
+  url: https://bendodson.com/weblog/
+  feedUrl: https://bendodson.com/rss.xml
+-
+  alias: benediktmeurer.de
+  url: https://benediktmeurer.de/
+  feedUrl: https://benediktmeurer.de/feed.xml
+-
+  alias: benjaminscholtysik.com
+  url: https://benjaminscholtysik.com/
+  feedUrl: https://benjaminscholtysik.com/feed/
+-
+  alias: bennadel.com/index.cfm
+  url: https://www.bennadel.com/index.cfm
+  feedUrl: https://www.bennadel.com/index.cfm?event=blog.rss
+-
+  alias: awnlab.com
+  url: http://www.awnlab.com/
+  feedUrl: https://www.awnlab.com/feed
+-
+  alias: benoitpasquier.com
+  url: https://benoitpasquier.com/
+  feedUrl: https://benoitpasquier.com/index.xml
+-
+  alias: benweizhu.github.io
+  url: http://benweizhu.github.io/
+  feedUrl: http://benweizhu.github.io/atom.xml
+-
+  alias: berkhanberkdemir.com
+  url: https://berkhanberkdemir.com/
+  feedUrl: https://www.berkhanberkdemir.com/feed.xml
+-
+  alias: bensnider.com
+  url: http://www.bensnider.com/
+  feedUrl: https://www.bensnider.com/feeds/all.atom.xml
+-
+  alias: benchling.engineering
+  url: https://benchling.engineering/
+  feedUrl: https://benchling.engineering/feed
+-
+  alias: bhsc881114.github.io
+  url: http://bhsc881114.github.io/
+  feedUrl: http://bhsc881114.github.io/atom.xml
+-
+  alias: bfilipek.com
+  url: http://www.bfilipek.com/
+  feedUrl: https://www.bfilipek.com/feeds/posts/default
+-
+  alias: beforweb.com
+  url: http://www.beforweb.com/
+  feedUrl: http://www.beforweb.com/rss.xml
+-
+  alias: beckyhansmeyer.com
+  url: http://beckyhansmeyer.com/
+  feedUrl: https://beckyhansmeyer.com/feed/
+-
+  alias: benchresources.net
+  url: https://www.benchresources.net/
+  feedUrl: https://www.benchresources.net/feed/
+-
+  alias: bindog.github.io
+  url: http://bindog.github.io/
+  feedUrl: https://bindog.github.io/feed.xml 
+-
+  alias: beforweb.com/front-end
+  url: http://beforweb.com/front-end
+  feedUrl: http://beforweb.com/taxonomy/term/3/feed
+-
+  alias: bigeng.io
+  url: http://www.bigeng.io/
+  feedUrl: https://www.bigeng.io/rss/
+-
+  alias: bignerdranch.com/blog/category/ios
+  url: https://www.bignerdranch.com/blog/category/ios/
+  feedUrl: https://www.bignerdranch.com/feed/
+-
+  alias: benefitfocus.com/blogs/design-engineering
+  url: https://www.benefitfocus.com/blogs/design-engineering
+  feedUrl: https://www.benefitfocus.com/rss.xml
+-
+  alias: bitsofco.de
+  url: https://bitsofco.de/
+  feedUrl: https://bitsofco.de/rss/
+-
+  alias: benscheirman.com
+  url: https://benscheirman.com/
+  feedUrl: https://benscheirman.com/rss/
+-
+  alias: bjango.com/articles
+  url: https://bjango.com/articles/
+  feedUrl: feed://bjango.com/rss/articles.xml
+-
+  alias: bixly.com/blog
+  url: https://bixly.com/blog/
+  feedUrl: https://blog.bixly.com/feed
+-
+  alias: bjt.name
+  url: http://www.bjt.name/
+  feedUrl: http://bjt.name/feed.xml
+-
+  alias: bjornjohansen.no
+  url: https://bjornjohansen.no/
+  feedUrl: https://bjornjohansen.no/feed
+-
+  alias: blablatech.com
+  url: http://blablatech.com/
+  feedUrl: https://medium.com/feed/blablacar-tech
+-
+  alias: blackpixel.com/writing
+  url: https://blackpixel.com/writing/
+  feedUrl: https://blackpixel.com/writing/atom.xml
+-
+  alias: biaodianfu.com
+  url: http://www.biaodianfu.com/
+  feedUrl: https://www.biaodianfu.com/feed
+-
+  alias: blablatech.com/blog
+  url: http://blablatech.com/blog/
+  feedUrl: https://medium.com/feed/blablacar-tech
+-
+  alias: blog.8thcolor.com
+  url: http://blog.8thcolor.com/
+  feedUrl: http://blog.8thcolor.com/feed.xml
+-
+  alias: bitsplitting.org
+  url: http://bitsplitting.org/
+  feedUrl: https://bitsplitting.org/feed/
+-
+  alias: blog.acolyer.org
+  url: https://blog.acolyer.org/
+  feedUrl: https://blog.acolyer.org/feed/
+-
+  alias: blendle.engineering
+  url: https://blendle.engineering/
+  feedUrl: https://blendle.engineering/feed
+-
+  alias: blog.algolia.com
+  url: https://blog.algolia.com/
+  feedUrl: https://blog.algolia.com/sitemap.xml
+-
+  alias: billthelizard.com
+  url: http://www.billthelizard.com/
+  feedUrl: http://billthelizard.com/feed/
+-
+  alias: blog.andrewray.me
+  url: https://blog.andrewray.me/
+  feedUrl: http://blog.andrewray.me/rss/
+-
+  alias: blog.andymatuschak.org
+  url: http://blog.andymatuschak.org/
+  feedUrl: https://blog.andymatuschak.org/rss
+-
+  alias: blahti.wordpress.com
+  url: https://blahti.wordpress.com/
+  feedUrl: https://blahti.wordpress.com/feed/
+-
+  alias: blog.angular.io
+  url: https://blog.angular.io/
+  feedUrl: https://blog.angular.io/feed
+-
+  alias: blog.alltheflow.com
+  url: https://blog.alltheflow.com/
+  feedUrl: https://blog.alltheflow.com/rss/
+-
+  alias: biostack.org
+  url: http://www.biostack.org/
+  feedUrl: http://www.biostack.org/?feed=rss2
+-
+  alias: blog.amlun.com
+  url: http://blog.amlun.com/
+  feedUrl: https://blog.amlun.com/feed
+-
+  alias: bitstampede.com
+  url: https://www.bitstampede.com/
+  feedUrl: https://www.bitstampede.com/feed/
+-
+  alias: blog.1a23.com
+  url: https://blog.1a23.com/
+  feedUrl: https://blog.1a23.com/feed/
+-
+  alias: blog.apollographql.com
+  url: https://blog.apollographql.com/
+  feedUrl: https://blog.apollographql.com/feed

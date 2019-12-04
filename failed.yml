@@ -122,3 +122,75 @@
   date: Wed Dec 04 2019 07:21:22 GMT+0000 (Coordinated Universal Time)
   url: https://algorithms.rdio.com/
   reason: RequestError: connect ETIMEDOUT 8.18.203.171:443
+-
+  date: Wed Dec 04 2019 07:22:16 GMT+0000 (Coordinated Universal Time)
+  url: https://atasanchez.com/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 07:22:17 GMT+0000 (Coordinated Universal Time)
+  url: http://avant.engineering/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:17 GMT+0000 (Coordinated Universal Time)
+  url: https://avinash.com.np/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:24 GMT+0000 (Coordinated Universal Time)
+  url: https://www.azavea.com/blog/category/software-development/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 07:22:30 GMT+0000 (Coordinated Universal Time)
+  url: http://www.bakachu.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:37 GMT+0000 (Coordinated Universal Time)
+  url: http://www.baikeyang.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:37 GMT+0000 (Coordinated Universal Time)
+  url: https://benmccormick.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:40 GMT+0000 (Coordinated Universal Time)
+  url: http://www.bibodeng.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:41 GMT+0000 (Coordinated Universal Time)
+  url: https://biezhi.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:41 GMT+0000 (Coordinated Universal Time)
+  url: https://www.bignerdranch.com/blog/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 07:22:41 GMT+0000 (Coordinated Universal Time)
+  url: http://beyondvincent.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:41 GMT+0000 (Coordinated Universal Time)
+  url: https://www.bbsmax.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:44 GMT+0000 (Coordinated Universal Time)
+  url: http://www.binkery.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:46 GMT+0000 (Coordinated Universal Time)
+  url: http://www.birdcat.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:49 GMT+0000 (Coordinated Universal Time)
+  url: http://blog.aclark.net/blog/category/python.html
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 07:22:52 GMT+0000 (Coordinated Universal Time)
+  url: https://binary-studio.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:22:53 GMT+0000 (Coordinated Universal Time)
+  url: https://blog.amanpratapsingh.in/
+  reason: RequestError: getaddrinfo ENOTFOUND blog.amanpratapsingh.in
+-
+  date: Wed Dec 04 2019 07:22:56 GMT+0000 (Coordinated Universal Time)
+  url: http://www.blackbytes.info/
+  reason: Feed URL not found
