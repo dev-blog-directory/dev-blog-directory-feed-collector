@@ -1,0 +1,76 @@
+-
+  date: Wed Dec 04 2019 03:49:20 GMT+0000 (Coordinated Universal Time)
+  url: http://17173ops.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:20 GMT+0000 (Coordinated Universal Time)
+  url: http://0x3f.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:22 GMT+0000 (Coordinated Universal Time)
+  url: http://www.36dsj.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:23 GMT+0000 (Coordinated Universal Time)
+  url: http://44670.org/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:27 GMT+0000 (Coordinated Universal Time)
+  url: http://www.51gocloud.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:28 GMT+0000 (Coordinated Universal Time)
+  url: http://51reboot.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:30 GMT+0000 (Coordinated Universal Time)
+  url: https://www.47deg.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:30 GMT+0000 (Coordinated Universal Time)
+  url: http://54im.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:32 GMT+0000 (Coordinated Universal Time)
+  url: https://2muchcoffee.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:32 GMT+0000 (Coordinated Universal Time)
+  url: http://www.520ued.com/
+  reason: RequestError: getaddrinfo ENOTFOUND www.520ued.com
+-
+  date: Wed Dec 04 2019 03:49:35 GMT+0000 (Coordinated Universal Time)
+  url: http://abloz.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:36 GMT+0000 (Coordinated Universal Time)
+  url: https://a-coding.com/
+  reason: RequestError: getaddrinfo ENOTFOUND a-coding.com
+-
+  date: Wed Dec 04 2019 03:49:49 GMT+0000 (Coordinated Universal Time)
+  url: http://aijogja.pythonblogs.com/251_aijogja
+  reason: RequestError: getaddrinfo ENOTFOUND aijogja.pythonblogs.com
+-
+  date: Wed Dec 04 2019 03:49:51 GMT+0000 (Coordinated Universal Time)
+  url: http://akagi201.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:52 GMT+0000 (Coordinated Universal Time)
+  url: https://alanbi.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:53 GMT+0000 (Coordinated Universal Time)
+  url: http://airflypan.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:49:55 GMT+0000 (Coordinated Universal Time)
+  url: http://akkartik.name/
+  reason: HTTPError: Response code 502 (Bad Gateway)
+-
+  date: Wed Dec 04 2019 03:50:02 GMT+0000 (Coordinated Universal Time)
+  url: https://alexcarpenter.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 03:51:18 GMT+0000 (Coordinated Universal Time)
+  url: https://ahsensaeed.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 30000ms
