@@ -74,3 +74,51 @@
   date: Wed Dec 04 2019 03:51:18 GMT+0000 (Coordinated Universal Time)
   url: https://ahsensaeed.com/
   reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 07:18:15 GMT+0000 (Coordinated Universal Time)
+  url: http://aminby.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:18:21 GMT+0000 (Coordinated Universal Time)
+  url: http://www.androiddevtools.cn/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:18:22 GMT+0000 (Coordinated Universal Time)
+  url: https://androidweekly.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:18:24 GMT+0000 (Coordinated Universal Time)
+  url: http://andyhuzhill.github.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:18:27 GMT+0000 (Coordinated Universal Time)
+  url: https://angular.jsnews.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:18:27 GMT+0000 (Coordinated Universal Time)
+  url: http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:18:40 GMT+0000 (Coordinated Universal Time)
+  url: https://applaunchmap.com/blog/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:18:46 GMT+0000 (Coordinated Universal Time)
+  url: https://appmakers.dev/category/ios/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Wed Dec 04 2019 07:18:54 GMT+0000 (Coordinated Universal Time)
+  url: https://argcv.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:19:00 GMT+0000 (Coordinated Universal Time)
+  url: https://arunmichaeldsouza.com/blog
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 07:19:03 GMT+0000 (Coordinated Universal Time)
+  url: https://www.appliedi.net/blog/
+  reason: RequestError: Parse Error: Invalid header value char
+-
+  date: Wed Dec 04 2019 07:21:22 GMT+0000 (Coordinated Universal Time)
+  url: https://algorithms.rdio.com/
+  reason: RequestError: connect ETIMEDOUT 8.18.203.171:443

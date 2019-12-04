@@ -322,3 +322,355 @@
   alias: alexcurylo.com/blog
   url: https://alexcurylo.com/blog/
   feedUrl: https://www.alexcurylo.com/feed/
+-
+  alias: alisoftware.github.io
+  url: http://alisoftware.github.io/
+  feedUrl: https://alisoftware.github.io/feed.xml
+-
+  alias: alistapart.com
+  url: https://alistapart.com/
+  feedUrl: https://alistapart.com/main/feed/
+-
+  alias: alwaysrightinstitute.com
+  url: https://www.alwaysrightinstitute.com/
+  feedUrl: https://www.alwaysrightinstitute.com/feed.xml
+-
+  alias: allenpike.com
+  url: http://www.allenpike.com/
+  feedUrl: https://allenpike.com/feed/
+-
+  alias: allofyourbases.com
+  url: https://allofyourbases.com/
+  feedUrl: https://allofyourbases.com/feed/
+-
+  alias: amiantos.net/tags/swift
+  url: https://amiantos.net/tags/swift/
+  feedUrl: https://amiantos.net/rss.xml
+-
+  alias: allegro.tech
+  url: https://allegro.tech/
+  feedUrl: https://allegro.tech/feed.xml
+-
+  alias: alloc-init.com
+  url: https://www.alloc-init.com/
+  feedUrl: https://www.alloc-init.com/https:/alloc-init.com/feed
+-
+  alias: amitness.com
+  url: https://amitness.com/
+  feedUrl: https://amitness.com/atom.xml
+-
+  alias: amadousall.com
+  url: https://www.amadousall.com/
+  feedUrl: https://www.amadousall.com/rss/
+-
+  alias: amitmerchant.com
+  url: https://www.amitmerchant.com/
+  feedUrl: https://www.amitmerchant.com/feed.xml
+-
+  alias: andrewcbancroft.com
+  url: https://www.andrewcbancroft.com/
+  feedUrl: https://www.andrewcbancroft.com/index.xml
+-
+  alias: anbob.com
+  url: http://www.anbob.com/
+  feedUrl: https://www.anbob.com/feed
+-
+  alias: allinthehead.com
+  url: http://allinthehead.com/
+  feedUrl: https://allinthehead.com/rss
+-
+  alias: android-er.blogspot.com
+  url: http://android-er.blogspot.com/
+  feedUrl: http://android-er.blogspot.com/feeds/posts/default
+-
+  alias: android-arsenal.com
+  url: https://android-arsenal.com/
+  feedUrl: http://feeds.feedburner.com/Android_Arsenal
+-
+  alias: amysorensen.typepad.com
+  url: https://amysorensen.typepad.com/
+  feedUrl: https://amysorensen.typepad.com/the_english_geek/atom.xml
+-
+  alias: allanbian.com
+  url: http://www.allanbian.com/
+  feedUrl: http://allanbian.com/feed
+-
+  alias: androidauthority.com/android-development
+  url: https://www.androidauthority.com/android-development/
+  feedUrl: https://www.androidauthority.com/feed
+-
+  alias: alloyteam.com
+  url: http://www.alloyteam.com/
+  feedUrl: http://www.alloyteam.com/feed/
+-
+  alias: android-developers.blogspot.com
+  url: https://android-developers.blogspot.com/
+  feedUrl: https://android-developers.googleblog.com/feeds/posts/default
+-
+  alias: alltechgeeks.com
+  url: http://www.alltechgeeks.com/
+  feedUrl: http://www.alltechgeeks.com/feeds/posts/default
+-
+  alias: android-developers.googleblog.com
+  url: https://android-developers.googleblog.com/
+  feedUrl: https://android-developers.googleblog.com/feeds/posts/default
+-
+  alias: allthingsdistributed.com
+  url: https://www.allthingsdistributed.com/
+  feedUrl: https://www.allthingsdistributed.com/atom.xml
+-
+  alias: andy-bell.design
+  url: https://andy-bell.design/
+  feedUrl: https://hankchizljaw.com/feed/all.xml
+-
+  alias: androidperformance.com
+  url: http://androidperformance.com/
+  feedUrl: https://androidperformance.com/atom.xml
+-
+  alias: andyibanez.com/tags/apple
+  url: https://www.andyibanez.com/tags/apple/
+  feedUrl: https://www.andyibanez.com/tags/apple/index.xml
+-
+  alias: androiduipatterns.com
+  url: http://www.androiduipatterns.com/
+  feedUrl: https://androiduipatterns.com/feed
+-
+  alias: androidmads.blogspot.com
+  url: https://androidmads.blogspot.com/
+  feedUrl: https://www.androidmads.info/feeds/posts/default
+-
+  alias: androidsweets.ongoodbits.com
+  url: https://androidsweets.ongoodbits.com/
+  feedUrl: https://androidsweets.ongoodbits.com/feed
+-
+  alias: androidhive.info
+  url: https://www.androidhive.info/
+  feedUrl: https://www.androidhive.info/feed/
+-
+  alias: angiejones.tech
+  url: http://angiejones.tech/
+  feedUrl: http://angiejones.tech/feed/
+-
+  alias: androiddeveloper.co.in/blog
+  url: http://www.androiddeveloper.co.in/blog/
+  feedUrl: http://www.androiddeveloper.co.in/blog/feed/
+-
+  alias: androiddev.net
+  url: http://www.androiddev.net/
+  feedUrl: https://www.androiddev.net/feed/
+-
+  alias: aneasystone.com
+  url: https://www.aneasystone.com/
+  feedUrl: https://www.aneasystone.com/feed/
+-
+  alias: androidweekly.cn
+  url: http://androidweekly.cn/
+  feedUrl: https://androidweekly.io/rss/
+-
+  alias: annevankesteren.nl
+  url: https://annevankesteren.nl/
+  feedUrl: https://annevankesteren.nl/feeds/weblog
+-
+  alias: anvil.works/blog
+  url: https://anvil.works/blog
+  feedUrl: https://anvil.works/blog/feed.xml
+-
+  alias: andybargh.com/swiftdevelopments
+  url: https://andybargh.com/swiftdevelopments/
+  feedUrl: https://andybargh.com/feed/
+-
+  alias: aplus.rs/categories/iosdev
+  url: http://aplus.rs/categories/iosdev/
+  feedUrl: http://localhost:1313/categories/iosdev/index.xml
+-
+  alias: angularjs4u.com
+  url: https://www.angularjs4u.com/
+  feedUrl: https://www.angularjs4u.com/feed/
+-
+  alias: apontious.com
+  url: https://apontious.com/
+  feedUrl: https://apontious.com/feed/
+-
+  alias: apoorvatyagi.com
+  url: https://apoorvatyagi.com/
+  feedUrl: https://apoorvatyagi.com/feed/
+-
+  alias: antirez.com/latest/0
+  url: http://antirez.com/latest/0
+  feedUrl: http://antirez.com/rss
+-
+  alias: anji66.net
+  url: https://www.anji66.net/
+  feedUrl: https://www.anji66.net/rss.xml
+-
+  alias: antjanus.com
+  url: https://antjanus.com/
+  feedUrl: https://antjanus.com/feed/
+-
+  alias: aphyr.com
+  url: https://aphyr.com/
+  feedUrl: https://aphyr.com/posts.atom
+-
+  alias: aphyr.com/posts
+  url: https://aphyr.com/posts
+  feedUrl: https://aphyr.com/posts.atom
+-
+  alias: appcoda.com
+  url: https://www.appcoda.com/
+  feedUrl: https://www.appcoda.com/feed/
+-
+  alias: antonioleiva.com/category/blog
+  url: https://antonioleiva.com/category/blog/
+  feedUrl: https://antonioleiva.com/feed/
+-
+  alias: appdividend.com/category/react-js
+  url: https://appdividend.com/category/react-js/
+  feedUrl: https://appdividend.com/feed/
+-
+  alias: appdividend.com/category/vuejs
+  url: https://appdividend.com/category/vuejs/
+  feedUrl: https://appdividend.com/feed/
+-
+  alias: applicationnotresponding.wordpress.com
+  url: https://applicationnotresponding.wordpress.com/
+  feedUrl: https://applicationnotresponding.wordpress.com/feed/
+-
+  alias: apptamin.com/blog
+  url: https://www.apptamin.com/blog/
+  feedUrl: https://www.apptamin.com/feed/
+-
+  alias: appventure.me
+  url: https://appventure.me/
+  feedUrl: https://appventure.me/feed.rss
+-
+  alias: appliedgo.net
+  url: https://appliedgo.net/
+  feedUrl: https://appliedgo.net/%7balternate%20%7bRSS%20application/rss&#43;xml%20%20index%20alternate%20%20false%20false%20true%20false%20false%200%7d%20/index.xml%20https://appliedgo.net/index.xml%7d
+-
+  alias: ar.al
+  url: https://ar.al/
+  feedUrl: https://ar.al/index.xml
+-
+  alias: arganzheng.life
+  url: http://arganzheng.life/
+  feedUrl: http://arganzheng.life/feed.xml
+-
+  alias: appsdissected.com
+  url: https://www.appsdissected.com/
+  feedUrl: https://www.appsdissected.com/feed/
+-
+  alias: arccode.net
+  url: http://arccode.net/
+  feedUrl: http://www.arccode.net/atom.xml
+-
+  alias: appscan.360.cn/blog
+  url: http://appscan.360.cn/blog
+  feedUrl: http://appscan.360.cn/blog/?feed=rss2
+-
+  alias: anto.online
+  url: https://anto.online/
+  feedUrl: https://anto.online/feed/
+-
+  alias: ariejan.net
+  url: https://ariejan.net/
+  feedUrl: https://www.devroom.io/index.xml
+-
+  alias: arjunnayini.com
+  url: http://arjunnayini.com/
+  feedUrl: https://arjunnayini.com/feed.xml
+-
+  alias: ariya.ofilabs.com
+  url: http://ariya.ofilabs.com/
+  feedUrl: http://ariya.ofilabs.com/index.xml
+-
+  alias: arcpy.wordpress.com
+  url: https://arcpy.wordpress.com/
+  feedUrl: https://arcpy.wordpress.com/feed/
+-
+  alias: arslan.io
+  url: https://arslan.io/
+  feedUrl: https://arslan.io/index.xml
+-
+  alias: artdriver.com/blog
+  url: https://artdriver.com/blog
+  feedUrl: https://artdriver.com/feed
+-
+  alias: arielelkin.github.io
+  url: https://arielelkin.github.io/
+  feedUrl: https://arielelkin.github.io/feed.xml
+-
+  alias: ariya.io
+  url: https://ariya.io/
+  feedUrl: https://ariya.io/index.xml
+-
+  alias: artplustech.com
+  url: http://artplustech.com/
+  feedUrl: http://artplustech.com/feed/
+-
+  alias: artsy.github.io
+  url: http://artsy.github.io/
+  feedUrl: https://artsy.github.io/feed
+-
+  alias: arogozhnikov.github.io
+  url: https://arogozhnikov.github.io/
+  feedUrl: http://arogozhnikov.github.io/feed.xml
+-
+  alias: aroberge.blogspot.co.id
+  url: https://aroberge.blogspot.co.id/
+  feedUrl: https://aroberge.blogspot.com/feeds/posts/default
+-
+  alias: arunrocks.com/archives
+  url: http://arunrocks.com/archives/
+  feedUrl: https://arunrocks.com/index.xml
+-
+  alias: ashfurrow.com
+  url: https://ashfurrow.com/
+  feedUrl: https://ashfurrow.com/sitemap.xml
+-
+  alias: artori.us
+  url: http://artori.us/
+  feedUrl: https://artori.us/feed.xml
+-
+  alias: appracatappra.com/category/blog
+  url: https://appracatappra.com/category/blog/
+  feedUrl: https://appracatappra.com/feed/
+-
+  alias: asarea.cn
+  url: http://www.asarea.cn/
+  feedUrl: http://www.asarea.cn/rss.php
+-
+  alias: aslibra.com/blog/index.php
+  url: http://www.aslibra.com/blog/index.php
+  feedUrl: http://www.aslibra.com/blog/feed.php
+-
+  alias: artemzin.com/blog
+  url: https://artemzin.com/blog/
+  feedUrl: http://artemzin.com/blog/rss/
+-
+  alias: artsy.github.io
+  url: https://artsy.github.io/
+  feedUrl: https://artsy.github.io/feed
+-
+  alias: asoldatenko.com/category/python.html
+  url: https://asoldatenko.com/category/python.html
+  feedUrl: https://asoldatenko.com/feeds/all.atom.xml
+-
+  alias: appmakers.dev
+  url: https://appmakers.dev/
+  feedUrl: https://appmakers.dev/feed/
+-
+  alias: ashishkakkad.com
+  url: http://ashishkakkad.com/
+  feedUrl: https://ashishkakkad.com/feed/
+-
+  alias: aswifter.com
+  url: http://www.aswifter.com//
+  feedUrl: http://aswifter.com/feed/
+-
+  alias: astropython.org/blog
+  url: http://www.astropython.org/blog/
+  feedUrl: http://astropython.org/feeds/atom
+-
+  alias: askmaclean.com
+  url: http://www.askmaclean.com/
+  feedUrl: https://www.askmaclean.com/feed
