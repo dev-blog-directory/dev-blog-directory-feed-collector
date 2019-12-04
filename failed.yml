@@ -1247,3 +1247,75 @@
   date: Wed Dec 04 2019 08:56:00 GMT+0000 (Coordinated Universal Time)
   url: https://iosdeveloperblog.com/
   reason: TimeoutError: Timeout awaiting 'request' for 30000ms
+-
+  date: Wed Dec 04 2019 08:57:01 GMT+0000 (Coordinated Universal Time)
+  url: http://jimliu.net/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Wed Dec 04 2019 08:57:05 GMT+0000 (Coordinated Universal Time)
+  url: https://jimfilippou.space/
+  reason: RequestError: getaddrinfo ENOTFOUND jimfilippou.space
+-
+  date: Wed Dec 04 2019 08:57:07 GMT+0000 (Coordinated Universal Time)
+  url: https://jin-yang.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:08 GMT+0000 (Coordinated Universal Time)
+  url: https://www.jianshu.com/u/oSuHPw
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:09 GMT+0000 (Coordinated Universal Time)
+  url: http://jo2.org/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Wed Dec 04 2019 08:57:15 GMT+0000 (Coordinated Universal Time)
+  url: https://joearms.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:19 GMT+0000 (Coordinated Universal Time)
+  url: https://www.johnstewart.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:23 GMT+0000 (Coordinated Universal Time)
+  url: https://jordanm.co.uk/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: jordanm.co.uk. is not in the cert's altnames: DNS:*.github.com, DNS:github.com, DNS:*.github.io, DNS:github.io
+-
+  date: Wed Dec 04 2019 08:57:26 GMT+0000 (Coordinated Universal Time)
+  url: https://jollygoodcode.github.io/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:32 GMT+0000 (Coordinated Universal Time)
+  url: https://jsnews.io/react/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:33 GMT+0000 (Coordinated Universal Time)
+  url: http://www.judymax.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:35 GMT+0000 (Coordinated Universal Time)
+  url: http://www.jubushoushen.com/
+  reason: RequestError: getaddrinfo ENOTFOUND www.jubushoushen.com
+-
+  date: Wed Dec 04 2019 08:57:40 GMT+0000 (Coordinated Universal Time)
+  url: https://junaidqadir.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:42 GMT+0000 (Coordinated Universal Time)
+  url: http://www.keakon.net/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:42 GMT+0000 (Coordinated Universal Time)
+  url: http://keeganlee.me/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:43 GMT+0000 (Coordinated Universal Time)
+  url: http://www.kele5240.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:49 GMT+0000 (Coordinated Universal Time)
+  url: http://kaverjody.com/
+  reason: Feed URL not found
+-
+  date: Wed Dec 04 2019 08:57:59 GMT+0000 (Coordinated Universal Time)
+  url: http://jwcyber.com/
+  reason: Feed URL not found

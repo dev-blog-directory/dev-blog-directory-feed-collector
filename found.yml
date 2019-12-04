@@ -5954,3 +5954,331 @@
   alias: jerrygamblin.com
   url: https://jerrygamblin.com/
   feedUrl: https://jerrygamblin.com/feed/
+-
+  alias: jinlong.github.io
+  url: http://jinlong.github.io/
+  feedUrl: http://jinlong.github.io/atom.xml
+-
+  alias: jiongks.name
+  url: http://jiongks.name/
+  feedUrl: https://jiongks.name/atom.xml
+-
+  alias: jjyy.guru
+  url: http://jjyy.guru/
+  feedUrl: http://jjyy.guru/feed.xml
+-
+  alias: jlongster.com/archive
+  url: http://jlongster.com/archive
+  feedUrl: https://jlongster.com/atom.xml
+-
+  alias: jingle1267.github.io
+  url: http://jingle1267.github.io/
+  feedUrl: http://94275.cn/atom.xml
+-
+  alias: jincon.com
+  url: http://www.jincon.com/
+  feedUrl: http://www.jincon.com/rss.php
+-
+  alias: jlelse.blog
+  url: https://jlelse.blog/
+  feedUrl: https://jlelse.blog/index.xml
+-
+  alias: jiongsun.com
+  url: http://www.jiongsun.com/
+  feedUrl: http://www.jiongsun.com/feed
+-
+  alias: jiawin.com
+  url: http://www.jiawin.com/
+  feedUrl: https://www.jiawin.com/feed
+-
+  alias: jobs.perl.org
+  url: https://jobs.perl.org/
+  feedUrl: https://jobs.perl.org/rss/
+-
+  alias: joelhy.github.io
+  url: http://joelhy.github.io//
+  feedUrl: http://joelhy.github.io/atom.xml
+-
+  alias: joezimjs.com
+  url: https://www.joezimjs.com/
+  feedUrl: https://www.joezimjs.com/feed/
+-
+  alias: joelonsoftware.com
+  url: https://www.joelonsoftware.com/
+  feedUrl: https://www.joelonsoftware.com/feed/
+-
+  alias: jjrscott.com
+  url: https://jjrscott.com/
+  feedUrl: https://jjrscott.com/atom.xml
+-
+  alias: joeduffyblog.com
+  url: http://joeduffyblog.com/
+  feedUrl: http://joeduffyblog.com/feed.xml
+-
+  alias: jobandtalent.engineering
+  url: https://jobandtalent.engineering/
+  feedUrl: https://jobandtalent.engineering/feed
+-
+  alias: johnresig.com/category/blog
+  url: https://johnresig.com/category/blog/
+  feedUrl: https://feeds.feedburner.com/JohnResig
+-
+  alias: jlao.net
+  url: http://www.jlao.net/
+  feedUrl: https://www.jlao.net/feed/
+-
+  alias: johnwittenauer.net
+  url: http://www.johnwittenauer.net/
+  feedUrl: https://www.johnwittenauer.net/rss/
+-
+  alias: jmouse.cn
+  url: http://www.jmouse.cn/
+  feedUrl: https://jmouse.cn/feed/
+-
+  alias: johnyorke.me/tagged/swift
+  url: https://johnyorke.me/tagged/swift
+  feedUrl: https://medium.com/feed/johnyorke/tagged/swift
+-
+  alias: jonathancutrell.com
+  url: https://jonathancutrell.com/
+  feedUrl: https://jonathancutrell.com/rss.xml
+-
+  alias: johndcook.com/blog
+  url: https://www.johndcook.com/blog/
+  feedUrl: https://www.johndcook.com/blog/feed/
+-
+  alias: johannesbrodwall.com
+  url: http://johannesbrodwall.com/
+  feedUrl: http://johannesbrodwall.com/feed/
+-
+  alias: jonhilton.net
+  url: https://jonhilton.net/
+  feedUrl: https://jonhilton.net/index.xml
+-
+  alias: jointd.com
+  url: http://www.jointd.com/
+  feedUrl: http://www.jointd.com/?feed=rss
+-
+  alias: jonkuperman.com
+  url: https://jonkuperman.com/
+  feedUrl: https://jonkuperman.com/feed/feed.xml
+-
+  alias: joecodes.com
+  url: https://joecodes.com/
+  feedUrl: https://joecodes.com/feed/
+-
+  alias: joshtronic.com
+  url: https://joshtronic.com/
+  feedUrl: https://joshtronic.com/atom.xml
+-
+  alias: journal.dedasys.com
+  url: https://journal.dedasys.com/
+  feedUrl: https://journal.dedasys.com/feed/
+-
+  alias: johng.cn/category/programming/golang
+  url: https://johng.cn/category/programming/golang/
+  feedUrl: https://johng.cn/feed/
+-
+  alias: js8.in
+  url: http://js8.in/
+  feedUrl: https://js8.in/atom.xml
+-
+  alias: jqlblue.github.io
+  url: http://jqlblue.github.io/
+  feedUrl: http://blog.gaoyuan.xyz/atom.xml
+-
+  alias: jsdiaries.com
+  url: https://www.jsdiaries.com/
+  feedUrl: https://www.jsdiaries.com/rss.xml
+-
+  alias: jonathanbossenger.com
+  url: https://jonathanbossenger.com/
+  feedUrl: https://jonathanbossenger.com/feed/
+-
+  alias: jonathant.com
+  url: https://www.jonathant.com/
+  feedUrl: https://www.jonathant.com/feed/
+-
+  alias: jokerliang.com
+  url: http://jokerliang.com/
+  feedUrl: http://jokerliang.com/feed
+-
+  alias: jsmanifest.com
+  url: https://jsmanifest.com/
+  feedUrl: https://jsmanifest.com/rss.xml
+-
+  alias: jizhuomi.com
+  url: http://www.jizhuomi.com/
+  feedUrl: http://www.jizhuomi.com/rss.xml
+-
+  alias: jtreminio.com
+  url: https://jtreminio.com/
+  feedUrl: https://jtreminio.com/index.xml
+-
+  alias: juanfernandes.uk/blog
+  url: https://juanfernandes.uk/blog/
+  feedUrl: https://www.juanfernandes.uk/rss
+-
+  alias: jonkensy.com
+  url: http://www.jonkensy.com/
+  feedUrl: https://www.jonkensy.com/feed/
+-
+  alias: joomlageek.com/blog
+  url: https://www.joomlageek.com/blog
+  feedUrl: https://www.joomlageek.com/blog?format=feed&amp;type=rss
+-
+  alias: joyent.com/blog
+  url: https://www.joyent.com/blog
+  feedUrl: https://www.joyent.com/blog/feed
+-
+  alias: jser.me
+  url: http://jser.me/
+  feedUrl: http://jser.me/rss
+-
+  alias: jsblog.sarawinter.se
+  url: https://jsblog.sarawinter.se/
+  feedUrl: https://jsblog.sarawinter.se/feed/
+-
+  alias: juristr.com
+  url: https://juristr.com/
+  feedUrl: https://feeds.feedburner.com/juristrumpflohner
+-
+  alias: jqwidgets.com/blog
+  url: https://www.jqwidgets.com/blog/
+  feedUrl: https://www.jqwidgets.com/feed/
+-
+  alias: juristr.com/blog
+  url: https://juristr.com/blog
+  feedUrl: https://feeds.feedburner.com/juristrumpflohner
+-
+  alias: just4coding.com
+  url: http://www.just4coding.com/
+  feedUrl: http://www.just4coding.com/atom.xml
+-
+  alias: juristr.com/blog
+  url: https://juristr.com/blog/
+  feedUrl: https://feeds.feedburner.com/juristrumpflohner
+-
+  alias: justinweiss.com/articles/archives
+  url: https://www.justinweiss.com/articles/archives/
+  feedUrl: https://www.justinweiss.com/atom.xml
+-
+  alias: justjavac.com
+  url: http://justjavac.com/
+  feedUrl: https://justjavac.com/atom.xml
+-
+  alias: justqyx.github.io
+  url: http://justqyx.github.io/
+  feedUrl: http://www.justqyx.me/atom.xml
+-
+  alias: julyclyde.org
+  url: http://julyclyde.org/
+  feedUrl: http://julyclyde.org/?feed=rss2
+-
+  alias: jvns.ca
+  url: https://jvns.ca/
+  feedUrl: https://jvns.ca/atom.xml
+-
+  alias: justyy.com
+  url: https://justyy.com/
+  feedUrl: https://justyy.com/feed
+-
+  alias: kahlillechelt.com
+  url: https://www.kahlillechelt.com/
+  feedUrl: https://www.kahlillechelt.com/index.xml
+-
+  alias: jysperm.me
+  url: https://jysperm.me/
+  feedUrl: https://jysperm.me/atom.xml
+-
+  alias: kaifei.net
+  url: http://kaifei.net/
+  feedUrl: https://kaifei.net/feed.xml
+-
+  alias: kamalmarhubi.com/blog
+  url: http://kamalmarhubi.com/blog/
+  feedUrl: http://kamalmarhubi.com/blog/feed.xml
+-
+  alias: kairadiagne.com
+  url: https://kairadiagne.com/
+  feedUrl: https://kairadiagne.com/feed.xml
+-
+  alias: karpathy.github.io
+  url: http://karpathy.github.io/
+  feedUrl: http://karpathy.github.io/feed.xml
+-
+  alias: jugad2.blogspot.co.id/search/label/python
+  url: https://jugad2.blogspot.co.id/search/label/python
+  feedUrl: https://jugad2.blogspot.com/feeds/posts/default
+-
+  alias: junan.name
+  url: http://junan.name/
+  feedUrl: https://junan.name/feed
+-
+  alias: jster.net/blog
+  url: http://jster.net/blog
+  feedUrl: http://feeds.feedburner.com/jster
+-
+  alias: kayle.win
+  url: http://kayle.win/
+  feedUrl: http://kayle.win/atom.xml
+-
+  alias: jszbug.com
+  url: https://jszbug.com/
+  feedUrl: https://jszbug.com/feed/
+-
+  alias: kdr2.com/misc
+  url: http://kdr2.com/misc/
+  feedUrl: http://kdr2.com/misc/site-log.xml
+-
+  alias: kean.github.io
+  url: http://kean.github.io/
+  feedUrl: https://kean.github.io/feed.xml
+-
+  alias: keithjgrant.com
+  url: https://keithjgrant.com/
+  feedUrl: https://keithjgrant.com/posts/index.xml
+-
+  alias: justinjackson.ca
+  url: https://justinjackson.ca/
+  feedUrl: https://justinjackson.ca/feed
+-
+  alias: justinablog.com
+  url: http://www.justinablog.com/
+  feedUrl: http://www.justinablog.com/feed
+-
+  alias: kentcdodds.com
+  url: https://kentcdodds.com/
+  feedUrl: https://kentcdodds.com/blog/rss.xml
+-
+  alias: kenb.us
+  url: https://kenb.us/
+  feedUrl: https://kenb.us/feed
+-
+  alias: kasicass.blog.163.com
+  url: http://kasicass.blog.163.com/
+  feedUrl: http://kasicass.blog.163.com/rss/
+-
+  alias: kayathomas.info
+  url: https://kayathomas.info/
+  feedUrl: https://kayathomas.info/feed/
+-
+  alias: kenpythonic.blogspot.com
+  url: https://kenpythonic.blogspot.com/
+  feedUrl: https://kenpythonic.blogspot.com/feeds/posts/default
+-
+  alias: kayosite.com
+  url: http://kayosite.com/
+  feedUrl: http://kayosite.com/feed
+-
+  alias: kazaimazai.com
+  url: https://kazaimazai.com/
+  feedUrl: https://kazaimazai.com/rss/
+-
+  alias: kevien.github.io
+  url: https://kevien.github.io/
+  feedUrl: https://kevien.github.io/atom.xml
+-
+  alias: kev.inburke.com
+  url: https://kev.inburke.com/
+  feedUrl: https://kevin.burke.dev/feed/
