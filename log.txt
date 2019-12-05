@@ -575,3 +575,272 @@ append to failed list. http://zhangsa.net/
 append to skip list. http://zhangsa.net/
 append to failed list. http://zengrong.net/
 append to skip list. http://zengrong.net/
+append to failed list. http://0x3f.org/
+append to skip list. http://0x3f.org/
+append to failed list. http://17173ops.com/
+append to skip list. http://17173ops.com/
+append to failed list. http://44670.org/
+append to skip list. http://44670.org/
+append to failed list. http://www.51gocloud.com/
+append to skip list. http://www.51gocloud.com/
+append to failed list. http://www.36dsj.com/
+append to skip list. http://www.36dsj.com/
+append to failed list. http://51reboot.com/
+append to skip list. http://51reboot.com/
+append to failed list. http://www.520ued.com/
+append to skip list. http://www.520ued.com/
+append to failed list. http://54im.com/
+append to skip list. http://54im.com/
+append to failed list. https://www.47deg.com/blog/
+append to skip list. https://www.47deg.com/blog/
+Should check the url 'https://2heng.xin/'. 
+  Found different feed URLs: 
+    - https://2heng.xin/sitemap_index.xml
+    - https://2heng.xin/feed
+append to found list. https://2heng.xin/
+append to skip list. https://2heng.xin/
+append to failed list. https://a-coding.com/
+append to skip list. https://a-coding.com/
+append to failed list. http://abloz.com/
+append to skip list. http://abloz.com/
+append to failed list. http://www.adrop.me/
+append to skip list. http://www.adrop.me/
+append to failed list. https://2muchcoffee.com/
+append to skip list. https://2muchcoffee.com/
+append to failed list. http://aijogja.pythonblogs.com/251_aijogja
+append to skip list. http://aijogja.pythonblogs.com/251_aijogja
+append to failed list. http://airflypan.com/
+append to skip list. http://airflypan.com/
+append to failed list. http://akagi201.github.io/
+append to skip list. http://akagi201.github.io/
+append to failed list. https://alanbi.com/blog/
+append to skip list. https://alanbi.com/blog/
+append to failed list. https://alexcarpenter.me/
+append to skip list. https://alexcarpenter.me/
+append to failed list. http://akkartik.name/
+append to skip list. http://akkartik.name/
+Should check the url 'https://acodez.in/blog/'. 
+  Found different feed URLs: 
+    - https://acodez.in/services/rss/
+append to found list. https://acodez.in/blog/
+append to skip list. https://acodez.in/blog/
+Should check the url 'https://www.alloc-init.com/'. 
+  Found different feed URLs: 
+    - https://alloc-init.com/feed
+    - https://www.alloc-init.com/feed/
+    - https://www.alloc-init.com/feed/rss/
+    - https://www.alloc-init.com/feed/rss2/
+    - https://www.alloc-init.com/feed/rdf/
+    - https://www.alloc-init.com/feed/atom/
+    - https://alloc-init.com/feed/
+    - https://alloc-init.com/feed/rss/
+    - https://alloc-init.com/feed/rss2/
+    - https://alloc-init.com/feed/rdf/
+    - https://alloc-init.com/feed/atom/
+append to found list. https://www.alloc-init.com/
+append to skip list. https://www.alloc-init.com/
+append to failed list. http://aminby.net/
+append to skip list. http://aminby.net/
+append to failed list. http://www.androiddevtools.cn/
+append to skip list. http://www.androiddevtools.cn/
+append to failed list. http://andyhuzhill.github.com/
+append to skip list. http://andyhuzhill.github.com/
+append to failed list. https://alexpate.uk/
+append to skip list. https://alexpate.uk/
+append to failed list. http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html
+append to skip list. http://anh.cs.luc.edu/python/hands-on/3.1/handsonHtml/index.html
+append to failed list. https://angular.jsnews.io/
+append to skip list. https://angular.jsnews.io/
+append to failed list. https://applaunchmap.com/blog/
+append to skip list. https://applaunchmap.com/blog/
+append to failed list. https://androidweekly.net/
+append to skip list. https://androidweekly.net/
+append to failed list. https://www.appliedi.net/blog/
+append to skip list. https://www.appliedi.net/blog/
+Should check the url 'https://ashfurrow.com/'. 
+  Found different feed URLs: 
+    - https://ashfurrow.com/feed.xml
+    - https://www.ashfurrow.com/feed.xml
+append to found list. https://ashfurrow.com/
+append to skip list. https://ashfurrow.com/
+append to failed list. https://atasanchez.com/
+append to skip list. https://atasanchez.com/
+append to failed list. http://avant.engineering/
+append to skip list. http://avant.engineering/
+append to failed list. https://avinash.com.np/
+append to skip list. https://avinash.com.np/
+append to failed list. https://arunmichaeldsouza.com/blog
+append to skip list. https://arunmichaeldsouza.com/blog
+Should check the url 'https://awik.io/'. 
+  Found different feed URLs: 
+    - https://awik.io/?feed=rss
+    - https://awik.io/?feed=rss2
+    - https://awik.io/?feed=rdf
+    - https://awik.io/?feed=atom
+    - https://awik.io/feed/
+    - https://awik.io/feed/rss/
+    - https://awik.io/feed/rss2/
+    - https://awik.io/feed/rdf/
+    - https://awik.io/feed/atom/
+    - https://awik.io/services/rss/
+append to found list. https://awik.io/
+append to skip list. https://awik.io/
+append to failed list. https://www.azavea.com/blog/category/software-development/
+append to skip list. https://www.azavea.com/blog/category/software-development/
+append to failed list. https://argcv.com/
+append to skip list. https://argcv.com/
+append to failed list. https://ahsensaeed.com/
+append to skip list. https://ahsensaeed.com/
+append to failed list. http://www.bakachu.cn/
+append to skip list. http://www.bakachu.cn/
+append to failed list. https://benmccormick.org/
+append to skip list. https://benmccormick.org/
+append to failed list. http://beyondvincent.com/
+append to skip list. http://beyondvincent.com/
+append to failed list. https://www.bbsmax.com/
+append to skip list. https://www.bbsmax.com/
+append to failed list. http://www.bibodeng.com/
+append to skip list. http://www.bibodeng.com/
+append to failed list. https://biezhi.me/
+append to skip list. https://biezhi.me/
+append to failed list. https://www.bignerdranch.com/blog/
+append to skip list. https://www.bignerdranch.com/blog/
+append to found list. https://www.bignerdranch.com/blog/category/ios/
+append to skip list. https://www.bignerdranch.com/blog/category/ios/
+append to failed list. https://appmakers.dev/category/ios/
+append to skip list. https://appmakers.dev/category/ios/
+append to failed list. https://algorithms.rdio.com/
+append to skip list. https://algorithms.rdio.com/
+append to failed list. http://www.birdcat.cn/
+append to skip list. http://www.birdcat.cn/
+append to failed list. http://www.binkery.com/
+append to skip list. http://www.binkery.com/
+append to failed list. http://blog.aclark.net/blog/category/python.html
+append to skip list. http://blog.aclark.net/blog/category/python.html
+append to failed list. https://blog.algolia.com/
+append to skip list. https://blog.algolia.com/
+append to failed list. https://blog.amanpratapsingh.in/
+append to skip list. https://blog.amanpratapsingh.in/
+Should check the url 'https://blog.cloudera.com/'. 
+  Found different feed URLs: 
+    - https://blog.cloudera.com/?feed=rss
+    - https://blog.cloudera.com/?feed=rss2
+    - https://blog.cloudera.com/?feed=rdf
+    - https://blog.cloudera.com/?feed=atom
+    - https://blog.cloudera.com/feed/
+    - https://blog.cloudera.com/feed/rss/
+    - https://blog.cloudera.com/feed/rss2/
+    - https://blog.cloudera.com/feed/rdf/
+    - https://blog.cloudera.com/feed/atom/
+append to found list. https://blog.cloudera.com/
+append to skip list. https://blog.cloudera.com/
+append to failed list. http://www.baikeyang.com/
+append to skip list. http://www.baikeyang.com/
+append to failed list. https://blog.booking.com/
+append to skip list. https://blog.booking.com/
+append to failed list. https://binary-studio.com/blog/
+append to skip list. https://binary-studio.com/blog/
+append to failed list. http://blog.bitfoc.us/
+append to skip list. http://blog.bitfoc.us/
+append to failed list. http://blog.codeunion.cn/
+append to skip list. http://blog.codeunion.cn/
+append to failed list. http://www.blackbytes.info/
+append to skip list. http://www.blackbytes.info/
+Should check the url 'https://blog.codepen.io/'. 
+  Found different feed URLs: 
+    - https://blog.codepen.io/feed/
+    - https://blog.codepen.io/?feed=rss
+    - https://blog.codepen.io/?feed=rss2
+    - https://blog.codepen.io/?feed=rdf
+    - https://blog.codepen.io/?feed=atom
+    - https://blog.codepen.io/feed/rss/
+    - https://blog.codepen.io/feed/rss2/
+    - https://blog.codepen.io/feed/rdf/
+    - https://blog.codepen.io/feed/atom/
+append to found list. https://blog.codepen.io/
+append to skip list. https://blog.codepen.io/
+append to failed list. http://blog.daimajia.com/
+append to skip list. http://blog.daimajia.com/
+append to failed list. https://blog.designveloper.com/
+append to skip list. https://blog.designveloper.com/
+append to failed list. http://blog.darkmi.com/
+append to skip list. http://blog.darkmi.com/
+append to failed list. https://blog.dianqk.org/
+append to skip list. https://blog.dianqk.org/
+append to failed list. http://blog.dragon-yuan.me/
+append to skip list. http://blog.dragon-yuan.me/
+append to failed list. https://blog.engineyard.com/
+append to skip list. https://blog.engineyard.com/
+append to failed list. http://blog.edankwan.com/
+append to skip list. http://blog.edankwan.com/
+append to found list. https://blog.evernote.com/tech/
+append to skip list. https://blog.evernote.com/tech/
+append to found list. http://blog.faraday.io/
+append to skip list. http://blog.faraday.io/
+append to failed list. http://blog.cofface.com/
+append to skip list. http://blog.cofface.com/
+append to failed list. http://blog.erezsh.com/
+append to skip list. http://blog.erezsh.com/
+append to failed list. https://blog.farbox.com/
+append to skip list. https://blog.farbox.com/
+append to failed list. https://blog.fastmail.com/
+append to skip list. https://blog.fastmail.com/
+append to failed list. https://blog.feedly.com/
+append to skip list. https://blog.feedly.com/
+append to failed list. https://blog.fedecarg.com/
+append to skip list. https://blog.fedecarg.com/
+append to failed list. http://blog.fens.me/
+append to skip list. http://blog.fens.me/
+append to failed list. http://blog.filipesaraiva.info/
+append to skip list. http://blog.filipesaraiva.info/
+append to failed list. https://blog.filippo.io/
+append to skip list. https://blog.filippo.io/
+append to failed list. https://blog.finxter.com/
+append to skip list. https://blog.finxter.com/
+append to failed list. http://blog.ghostunix.org/
+append to skip list. http://blog.ghostunix.org/
+append to failed list. https://blog.guorenxi.com/
+append to skip list. https://blog.guorenxi.com/
+append to failed list. https://blog.hexiangyu.me/
+append to skip list. https://blog.hexiangyu.me/
+append to failed list. http://blog.hotoo.me/
+append to skip list. http://blog.hotoo.me/
+append to failed list. http://blog.icoolxue.com/
+append to skip list. http://blog.icoolxue.com/
+append to failed list. http://www.blog.insisiv.com/
+append to skip list. http://www.blog.insisiv.com/
+append to failed list. http://blog.jamespan.me/
+append to skip list. http://blog.jamespan.me/
+append to failed list. https://blog.jeremyshaw.co.nz/
+append to skip list. https://blog.jeremyshaw.co.nz/
+append to failed list. https://blog.instabug.com/
+append to skip list. https://blog.instabug.com/
+append to failed list. https://blog.imgur.com/category/eng/
+append to skip list. https://blog.imgur.com/category/eng/
+append to failed list. http://blog.joingrouper.com/
+append to skip list. http://blog.joingrouper.com/
+Should check the url 'http://blog.lerner.co.il/'. 
+  Found different feed URLs: 
+    - http://blog.lerner.co.il/?feed=rss
+    - http://blog.lerner.co.il/?feed=rss2
+    - http://blog.lerner.co.il/?feed=rdf
+    - http://blog.lerner.co.il/?feed=atom
+    - http://blog.lerner.co.il/feed/
+    - http://blog.lerner.co.il/feed/rss/
+    - http://blog.lerner.co.il/feed/rss2/
+    - http://blog.lerner.co.il/feed/rdf/
+    - http://blog.lerner.co.il/feed/atom/
+append to found list. http://blog.lerner.co.il/
+append to skip list. http://blog.lerner.co.il/
+append to failed list. http://blog.licess.org/
+append to skip list. http://blog.licess.org/
+append to failed list. http://blog.lishewen.com/
+append to skip list. http://blog.lishewen.com/
+append to failed list. http://blog.jpush.cn/
+append to skip list. http://blog.jpush.cn/
+append to failed list. http://blog.mariotaku.org/
+append to skip list. http://blog.mariotaku.org/
+append to failed list. http://blog.leezhong.com/
+append to skip list. http://blog.leezhong.com/
+append to failed list. http://blog.itbdw.com/
+append to skip list. http://blog.itbdw.com/

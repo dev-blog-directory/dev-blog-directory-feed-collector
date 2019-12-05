@@ -1,0 +1,44 @@
+-
+  alias: 2heng.xin
+  url: https://2heng.xin/
+  feedUrl: https://2heng.xin/sitemap_index.xml
+-
+  alias: acodez.in/blog
+  url: https://acodez.in/blog/
+  feedUrl: https://acodez.in/services/rss/
+-
+  alias: alloc-init.com
+  url: https://www.alloc-init.com/
+  feedUrl: https://alloc-init.com/feed
+-
+  alias: ashfurrow.com
+  url: https://ashfurrow.com/
+  feedUrl: https://ashfurrow.com/feed.xml
+-
+  alias: awik.io
+  url: https://awik.io/
+  feedUrl: https://awik.io/?feed=rss
+-
+  alias: bignerdranch.com/blog/category/ios
+  url: https://www.bignerdranch.com/blog/category/ios/
+  feedUrl: https://www.bignerdranch.com/feed/
+-
+  alias: blog.cloudera.com
+  url: https://blog.cloudera.com/
+  feedUrl: https://blog.cloudera.com/?feed=rss
+-
+  alias: blog.codepen.io
+  url: https://blog.codepen.io/
+  feedUrl: https://blog.codepen.io/feed/
+-
+  alias: blog.evernote.com/tech
+  url: https://blog.evernote.com/tech/
+  feedUrl: https://evernote.com/blog/feed/
+-
+  alias: blog.faraday.io
+  url: http://blog.faraday.io/
+  feedUrl: https://blog.faraday.io/rss/
+-
+  alias: blog.lerner.co.il
+  url: http://blog.lerner.co.il/
+  feedUrl: http://blog.lerner.co.il/?feed=rss
