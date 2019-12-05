@@ -1812,3 +1812,322 @@ append to failed list. http://jwcyber.com/
 append to skip list. http://jwcyber.com/
 append to failed list. http://landonf.org/
 append to skip list. http://landonf.org/
+append to failed list. http://lijiayu.net/
+append to skip list. http://lijiayu.net/
+append to failed list. https://www.liaoxuefeng.com/
+append to skip list. https://www.liaoxuefeng.com/
+append to failed list. http://www.lichenfan.com/
+append to skip list. http://www.lichenfan.com/
+append to failed list. https://lienjack.github.io/Blog/
+append to skip list. https://lienjack.github.io/Blog/
+append to failed list. https://www.levvel.io/blog/
+append to skip list. https://www.levvel.io/blog/
+append to failed list. http://likun.me/
+append to skip list. http://likun.me/
+append to failed list. http://www.liuhaihua.cn/
+append to skip list. http://www.liuhaihua.cn/
+append to failed list. http://londry.cn/
+append to skip list. http://londry.cn/
+Should check the url 'http://liunian.info/'. 
+  Found different feed URLs: 
+    - https://liunian.info/feed
+    - https://liunian.info/comments/feed
+append to found list. http://liunian.info/
+append to skip list. http://liunian.info/
+append to failed list. http://luliu.me/
+append to skip list. http://luliu.me/
+append to failed list. http://lvhui.org/
+append to skip list. http://lvhui.org/
+append to failed list. http://lostphp.com/
+append to skip list. http://lostphp.com/
+append to failed list. https://lvrbrtsn.com/blog/
+append to skip list. https://lvrbrtsn.com/blog/
+append to failed list. https://lynnandtonic.com/
+append to skip list. https://lynnandtonic.com/
+append to failed list. https://www.machinalis.com/blog/
+append to skip list. https://www.machinalis.com/blog/
+append to failed list. http://manu.sporny.org/
+append to skip list. http://manu.sporny.org/
+append to failed list. https://www.markou.me/
+append to skip list. https://www.markou.me/
+append to failed list. http://markstruzinski.com/
+append to skip list. http://markstruzinski.com/
+append to failed list. http://www.matrix67.com/
+append to skip list. http://www.matrix67.com/
+append to failed list. http://lzw.me/
+append to skip list. http://lzw.me/
+append to failed list. http://www.madboor.com/
+append to skip list. http://www.madboor.com/
+append to failed list. http://matthiaseisen.com/pp/
+append to skip list. http://matthiaseisen.com/pp/
+append to failed list. https://maxdeviant.com/
+append to skip list. https://maxdeviant.com/
+Should check the url 'https://www.mavenecommerce.com/blog/'. 
+  Found different feed URLs: 
+    - https://www.mavenecommerce.com/?feed=rss
+    - https://www.mavenecommerce.com/?feed=rss2
+    - https://www.mavenecommerce.com/?feed=rdf
+    - https://www.mavenecommerce.com/?feed=atom
+    - https://www.mavenecommerce.com/feed/
+    - https://www.mavenecommerce.com/feed/rss/
+    - https://www.mavenecommerce.com/feed/rss2/
+    - https://www.mavenecommerce.com/feed/rdf/
+    - https://www.mavenecommerce.com/feed/atom/
+    - https://www.mavenecommerce.com/services/rss/
+    - https://mavenecommerce.com/?feed=rss
+    - https://mavenecommerce.com/?feed=rss2
+    - https://mavenecommerce.com/?feed=rdf
+    - https://mavenecommerce.com/?feed=atom
+    - https://mavenecommerce.com/feed/
+    - https://mavenecommerce.com/feed/rss/
+    - https://mavenecommerce.com/feed/rss2/
+    - https://mavenecommerce.com/feed/rdf/
+    - https://mavenecommerce.com/feed/atom/
+    - https://mavenecommerce.com/services/rss/
+append to found list. https://www.mavenecommerce.com/blog/
+append to skip list. https://www.mavenecommerce.com/blog/
+append to failed list. https://maxlibin.com/
+append to skip list. https://maxlibin.com/
+append to failed list. https://medium.com/@Dschee
+append to skip list. https://medium.com/@Dschee
+append to failed list. https://www.metachris.com/blog/
+append to skip list. https://www.metachris.com/blog/
+append to failed list. http://www.microhu.com/
+append to skip list. http://www.microhu.com/
+append to failed list. http://www.michaelgallego.fr/articles/
+append to skip list. http://www.michaelgallego.fr/articles/
+append to failed list. https://mentalfaculty.github.io/LLVS
+append to skip list. https://mentalfaculty.github.io/LLVS
+append to failed list. https://minghe.me/
+append to skip list. https://minghe.me/
+append to failed list. http://www.liyonge.com/
+append to skip list. http://www.liyonge.com/
+append to failed list. https://mixmax.com/blog/tag/engineering
+append to skip list. https://mixmax.com/blog/tag/engineering
+append to failed list. https://mixmax.com/eng/
+append to skip list. https://mixmax.com/eng/
+Should check the url 'https://www.mmuaa.com/'. 
+  Found different feed URLs: 
+    - https://www.mmuaa.com/?feed=rss
+    - https://www.mmuaa.com/?feed=rss2
+    - https://www.mmuaa.com/?feed=rdf
+    - https://www.mmuaa.com/?feed=atom
+    - https://www.mmuaa.com/feed/
+    - https://www.mmuaa.com/feed/rss/
+    - https://www.mmuaa.com/feed/rss2/
+    - https://www.mmuaa.com/feed/rdf/
+    - https://www.mmuaa.com/feed/atom/
+append to found list. https://www.mmuaa.com/
+append to skip list. https://www.mmuaa.com/
+Should check the url 'http://www.mikespook.com/'. 
+  Found different feed URLs: 
+    - https://mikespook.com/feed/
+    - https://mikespook.com/comments/feed/
+append to found list. http://www.mikespook.com/
+append to skip list. http://www.mikespook.com/
+append to failed list. http://lovesoo.org/
+append to skip list. http://lovesoo.org/
+append to failed list. http://mnstory.net/
+append to skip list. http://mnstory.net/
+append to failed list. https://mobikefe.github.io/
+append to skip list. https://mobikefe.github.io/
+Should check the url 'http://www.mjix.com/'. 
+  Found different feed URLs: 
+    - http://www.mjix.com/?feed=rdf
+append to found list. http://www.mjix.com/
+append to skip list. http://www.mjix.com/
+append to failed list. http://www.moonshineclouds.com/category/cloud-computing/
+append to skip list. http://www.moonshineclouds.com/category/cloud-computing/
+append to failed list. https://mohsen.dev/
+append to skip list. https://mohsen.dev/
+Should check the url 'https://mobiledevmemo.com/'. 
+  Found different feed URLs: 
+    - https://mobiledevmemo.com/feed/atom/
+    - https://mobiledevmemo.com/what-comes-next-after-facebooks-vo-campaign-strategy/feed/atom/
+    - https://mobiledevmemo.com/google-stadia-highlights-the-difference-between-gamers-and-people-who-play-games/feed/atom/
+    - https://mobiledevmemo.com/has-the-hypercasual-game-genre-peaked/feed/atom/
+    - https://mobiledevmemo.com/six-principles-of-effective-analytics/feed/atom/
+    - https://mobiledevmemo.com/building-a-traffic-composition-strategy-on-mobile/feed/atom/
+    - https://mobiledevmemo.com/the-only-growth-metric-that-matters/feed/atom/
+    - https://mobiledevmemo.com/why-do-mobile-gaming-companies-use-fake-ads/feed/atom/
+    - https://mobiledevmemo.com/modern-mobile-marketing-at-scale-a-mdm-workshop-series-in-fall-2019/feed/atom/
+    - https://mobiledevmemo.com/two-fundamental-problems-with-product-a-b-testing/feed/atom/
+    - https://mobiledevmemo.com/ltv-roas-marketing-p-and-l/feed/atom/
+append to found list. https://mobiledevmemo.com/
+append to skip list. https://mobiledevmemo.com/
+append to failed list. http://mrben.co.uk/category/python/
+append to skip list. http://mrben.co.uk/category/python/
+append to failed list. http://mtoou.info/index.html
+append to skip list. http://mtoou.info/index.html
+append to failed list. http://morfans.cn/
+append to skip list. http://morfans.cn/
+append to failed list. https://mxstbr.com/
+append to skip list. https://mxstbr.com/
+append to failed list. https://mxstbr.com/thoughts/
+append to skip list. https://mxstbr.com/thoughts/
+append to failed list. http://myst729.github.io/articles/
+append to skip list. http://myst729.github.io/articles/
+append to failed list. https://mypython.me/
+append to skip list. https://mypython.me/
+append to failed list. https://nateamack.com/
+append to skip list. https://nateamack.com/
+Should check the url 'https://natashatherobot.com/'. 
+  Found different feed URLs: 
+    - https://natashatherobot.com/?feed=rss
+    - https://natashatherobot.com/feed/
+    - https://natashatherobot.com/feed/rdf/
+    - https://www.natashatherobot.com/?feed=rss
+    - https://www.natashatherobot.com/?feed=rss2
+    - https://www.natashatherobot.com/feed/
+    - https://www.natashatherobot.com/feed/rss2/
+    - https://www.natashatherobot.com/feed/rdf/
+    - https://www.natashatherobot.com/feed/atom/
+append to found list. https://natashatherobot.com/
+append to skip list. https://natashatherobot.com/
+append to failed list. https://www.mocakemagic.com/
+append to skip list. https://www.mocakemagic.com/
+Should check the url 'https://www.natashatherobot.com/'. 
+  Found different feed URLs: 
+    - https://natashatherobot.com/feed/
+    - https://natashatherobot.com/feed/rss/
+    - https://natashatherobot.com/feed/rdf/
+append to found list. https://www.natashatherobot.com/
+append to skip list. https://www.natashatherobot.com/
+append to failed list. https://news.google.com/news/section?q=androiddeveloper&tbm=nws&*
+append to skip list. https://news.google.com/news/section?q=androiddeveloper&tbm=nws&*
+append to failed list. https://news.google.com/news/section?q=javascript&tbm=nws*
+append to skip list. https://news.google.com/news/section?q=javascript&tbm=nws*
+append to failed list. http://nkcoder.github.io/
+append to skip list. http://nkcoder.github.io/
+append to failed list. http://www.nmtree.net/
+append to skip list. http://www.nmtree.net/
+append to failed list. http://www.nikantvohra.com/
+append to skip list. http://www.nikantvohra.com/
+append to failed list. http://noalgo.info/
+append to skip list. http://noalgo.info/
+append to failed list. http://ningg.github.com/
+append to skip list. http://ningg.github.com/
+append to failed list. http://notice501.github.com/
+append to skip list. http://notice501.github.com/
+append to failed list. https://nodexperts.com/blog/
+append to skip list. https://nodexperts.com/blog/
+append to failed list. https://www.mousereeve.com/
+append to skip list. https://www.mousereeve.com/
+append to found list. https://www.objective-see.com/blog.html
+append to skip list. https://www.objective-see.com/blog.html
+append to failed list. https://neverfriday.com/blog/
+append to skip list. https://neverfriday.com/blog/
+append to failed list. http://objccn.io/
+append to skip list. http://objccn.io/
+append to failed list. https://nscolak.com/
+append to skip list. https://nscolak.com/
+append to failed list. https://offering.solutions/blog/
+append to skip list. https://offering.solutions/blog/
+append to failed list. https://okoh.co.uk/
+append to skip list. https://okoh.co.uk/
+append to failed list. http://ohcoder.com/
+append to skip list. http://ohcoder.com/
+append to failed list. https://omniti.com/seeds/stop-collaborate-and-listen-notify
+append to skip list. https://omniti.com/seeds/stop-collaborate-and-listen-notify
+append to failed list. http://www.openstack.cn/
+append to skip list. http://www.openstack.cn/
+append to failed list. http://opjasee.com/
+append to skip list. http://opjasee.com/
+append to failed list. http://www.oraclema.com/
+append to skip list. http://www.oraclema.com/
+Should check the url 'https://notlaura.com/'. 
+  Found different feed URLs: 
+    - https://notlaura.com/?feed=rss
+    - https://notlaura.com/?feed=rss2
+    - https://notlaura.com/?feed=rdf
+    - https://notlaura.com/?feed=atom
+    - https://notlaura.com/feed/
+    - https://notlaura.com/feed/rss/
+    - https://notlaura.com/feed/rss2/
+    - https://notlaura.com/feed/rdf/
+    - https://notlaura.com/feed/atom/
+    - https://notlaura.com/services/rss/
+    - https://www.notlaura.com/?feed=rss
+    - https://www.notlaura.com/?feed=rss2
+    - https://www.notlaura.com/?feed=rdf
+    - https://www.notlaura.com/?feed=atom
+    - https://www.notlaura.com/feed/
+    - https://www.notlaura.com/feed/rss/
+    - https://www.notlaura.com/feed/rss2/
+    - https://www.notlaura.com/feed/rdf/
+    - https://www.notlaura.com/feed/atom/
+    - https://www.notlaura.com/services/rss/
+append to found list. https://notlaura.com/
+append to skip list. https://notlaura.com/
+Should check the url 'https://www.pagerduty.com/blog/'. 
+  Found different feed URLs: 
+    - https://www.pagerduty.com/?feed=rss
+    - https://www.pagerduty.com/?feed=rss2
+    - https://www.pagerduty.com/?feed=rdf
+    - https://www.pagerduty.com/?feed=atom
+    - https://www.pagerduty.com/feed/
+    - https://www.pagerduty.com/feed/rss/
+    - https://www.pagerduty.com/feed/rss2/
+    - https://www.pagerduty.com/feed/rdf/
+    - https://www.pagerduty.com/feed/atom/
+    - https://pagerduty.com/?feed=rss
+    - https://pagerduty.com/?feed=rss2
+    - https://pagerduty.com/?feed=rdf
+    - https://pagerduty.com/?feed=atom
+    - https://pagerduty.com/feed/
+    - https://pagerduty.com/feed/rss/
+    - https://pagerduty.com/feed/rss2/
+    - https://pagerduty.com/feed/rdf/
+    - https://pagerduty.com/feed/atom/
+append to found list. https://www.pagerduty.com/blog/
+append to skip list. https://www.pagerduty.com/blog/
+append to failed list. https://oliverrussellwhite.github.io/
+append to skip list. https://oliverrussellwhite.github.io/
+append to failed list. https://www.paperlesspost.com/blog/teams/tech/
+append to skip list. https://www.paperlesspost.com/blog/teams/tech/
+append to failed list. http://ofcss.com/
+append to skip list. http://ofcss.com/
+append to failed list. http://www.pchou.info/
+append to skip list. http://www.pchou.info/
+append to failed list. https://www.pcmaffey.com/
+append to skip list. https://www.pcmaffey.com/
+append to failed list. https://pdf-lib.org/
+append to skip list. https://pdf-lib.org/
+append to failed list. https://peripheryapp.com/blog/
+append to skip list. https://peripheryapp.com/blog/
+append to failed list. https://paulmcbride.net/
+append to skip list. https://paulmcbride.net/
+append to failed list. https://www.periscopedata.com/blog
+append to skip list. https://www.periscopedata.com/blog
+append to failed list. http://www.pfinn.net/
+append to skip list. http://www.pfinn.net/
+append to failed list. http://www.phppan.com/
+append to skip list. http://www.phppan.com/
+append to failed list. http://www.open-open.com/
+append to skip list. http://www.open-open.com/
+append to failed list. https://www.phyramid.com/blog/
+append to skip list. https://www.phyramid.com/blog/
+append to failed list. http://pipul.org/
+append to skip list. http://pipul.org/
+Should check the url 'https://www.pluralsight.com/guides'. 
+  Found different feed URLs: 
+    - https://www.pluralsight.com/feed/rss/
+    - https://pluralsight.com/feed/rss/
+append to found list. https://www.pluralsight.com/guides
+append to skip list. https://www.pluralsight.com/guides
+append to failed list. https://pilgwon.github.io/blog/
+append to skip list. https://pilgwon.github.io/blog/
+append to failed list. http://www.pmtoo.com/
+append to skip list. http://www.pmtoo.com/
+append to failed list. http://pustone.com/
+append to skip list. http://pustone.com/
+append to failed list. https://www.pydanny.com/category/python.html
+append to skip list. https://www.pydanny.com/category/python.html
+append to failed list. https://possiblemobile.com/tag/ios/
+append to skip list. https://possiblemobile.com/tag/ios/
+append to failed list. http://www.pm28.com/
+append to skip list. http://www.pm28.com/
+append to failed list. http://purecpp.org/
+append to skip list. http://purecpp.org/
+append to failed list. http://outofmemory.cn/
+append to skip list. http://outofmemory.cn/

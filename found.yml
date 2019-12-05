@@ -222,3 +222,51 @@
   alias: jo2.org
   url: http://jo2.org/
   feedUrl: http://jo2.org/feed/
+-
+  alias: liunian.info
+  url: http://liunian.info/
+  feedUrl: https://liunian.info/feed
+-
+  alias: mavenecommerce.com/blog
+  url: https://www.mavenecommerce.com/blog/
+  feedUrl: https://www.mavenecommerce.com/?feed=rss
+-
+  alias: mmuaa.com
+  url: https://www.mmuaa.com/
+  feedUrl: https://www.mmuaa.com/?feed=rss
+-
+  alias: mikespook.com
+  url: http://www.mikespook.com/
+  feedUrl: https://mikespook.com/feed/
+-
+  alias: mjix.com
+  url: http://www.mjix.com/
+  feedUrl: http://www.mjix.com/?feed=rdf
+-
+  alias: mobiledevmemo.com
+  url: https://mobiledevmemo.com/
+  feedUrl: https://mobiledevmemo.com/feed/atom/
+-
+  alias: natashatherobot.com
+  url: https://natashatherobot.com/
+  feedUrl: https://natashatherobot.com/?feed=rss
+-
+  alias: natashatherobot.com
+  url: https://www.natashatherobot.com/
+  feedUrl: https://natashatherobot.com/feed/
+-
+  alias: objective-see.com/blog.html
+  url: https://www.objective-see.com/blog.html
+  feedUrl: https://objective-see.com/rss.xml
+-
+  alias: notlaura.com
+  url: https://notlaura.com/
+  feedUrl: https://notlaura.com/?feed=rss
+-
+  alias: pagerduty.com/blog
+  url: https://www.pagerduty.com/blog/
+  feedUrl: https://www.pagerduty.com/?feed=rss
+-
+  alias: pluralsight.com/guides
+  url: https://www.pluralsight.com/guides
+  feedUrl: https://www.pluralsight.com/feed/rss/
