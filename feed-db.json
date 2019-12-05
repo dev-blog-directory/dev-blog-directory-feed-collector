@@ -2723,7 +2723,7 @@
   {
     "alias": "blog.rapidapi.com",
     "url": "https://blog.rapidapi.com/",
-    "feedUrl": "https://rapidapi.com/blog/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://blog.rapidapi.com/feed/",
     "title": "RapidAPI",
     "type": "rss"
   },
@@ -2828,7 +2828,7 @@
   {
     "alias": "blog.siftscience.com",
     "url": "https://blog.siftscience.com/?category=Engineering",
-    "feedUrl": "https://blog.sift.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://blog.siftscience.com/?feed=rss",
     "title": "Sift Science",
     "type": "rss"
   },
@@ -2930,7 +2930,7 @@
   {
     "alias": "blog.sina.com.cn/mumuhouzi",
     "url": "http://blog.sina.com.cn/mumuhouzi",
-    "feedUrl": "http://blog.sina.com.cn/blog_rebuild/blog/wlwmanifest.xml"
+    "feedUrl": "http://blog.sina.com.cn/rss/1241373614.xml"
   },
   {
     "alias": "blog.sina.com.cn/sadieyucn",
@@ -3046,7 +3046,7 @@
   {
     "alias": "blog.soshace.com/en",
     "url": "https://blog.soshace.com/en/",
-    "feedUrl": "https://blog.soshace.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://blog.soshace.com/?feed=rss",
     "title": "Soshace",
     "type": "rss"
   },
@@ -3432,7 +3432,7 @@
   {
     "alias": "blogs.msdn.microsoft.com/abhinaba",
     "url": "https://blogs.msdn.microsoft.com/abhinaba/",
-    "feedUrl": "https://blogs.msdn.microsoft.com/abhinaba/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://blogs.msdn.microsoft.com/abhinaba/feed/"
   },
   {
     "alias": "blogs.msdn.microsoft.com/dotnet",
@@ -3480,7 +3480,7 @@
   {
     "alias": "blogs.windows.com/msedgedev",
     "url": "https://blogs.windows.com/msedgedev/",
-    "feedUrl": "https://blogs.windows.com/msedgedev/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://blogs.windows.com/msedgedev/feed/",
     "title": "Microsoft Edge",
     "type": "rss"
   },
@@ -3811,7 +3811,7 @@
   {
     "alias": "cdc.tencent.com",
     "url": "http://cdc.tencent.com/",
-    "feedUrl": "https://cdc.tencent.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://cdc.tencent.com/feed/rss/"
   },
   {
     "alias": "cenalulu.github.io",
@@ -4081,6 +4081,11 @@
     "feedUrl": "http://www.cloudchou.com/feed.xml"
   },
   {
+    "alias": "cloudcomputing-news.net",
+    "url": "https://www.cloudcomputing-news.net/",
+    "feedUrl": "https://www.cloudcomputing-news.net/feed/"
+  },
+  {
     "alias": "cloudcomputing.sys-con.com",
     "url": "http://cloudcomputing.sys-con.com/",
     "feedUrl": "http://cloudcomputing.sys-con.com/index.rss"
@@ -4129,6 +4134,11 @@
     "alias": "clz.me",
     "url": "http://clz.me/",
     "feedUrl": "https://clz.me/feed/"
+  },
+  {
+    "alias": "cmsblogs.com",
+    "url": "http://cmsblogs.com/",
+    "feedUrl": "http://cmsblogs.com/sitemap_baidu.xml"
   },
   {
     "alias": "cmsky.com",
@@ -4223,7 +4233,7 @@
   {
     "alias": "cockroachlabs.com/blog",
     "url": "https://www.cockroachlabs.com/blog/",
-    "feedUrl": "https://www.cockroachlabs.com/https:/www.cockroachlabs.com/blog/index.xml",
+    "feedUrl": "https://www.cockroachlabs.com/blog/index.xml",
     "title": "CockroachDB",
     "type": "rss"
   },
@@ -4256,7 +4266,7 @@
   {
     "alias": "cocoanetics.com/blog",
     "url": "https://www.cocoanetics.com/blog/",
-    "feedUrl": "https://www.cocoanetics.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://www.cocoanetics.com/feed/",
     "title": "Cocoanetics",
     "type": "rss"
   },
@@ -4284,7 +4294,7 @@
   {
     "alias": "code.blender.org",
     "url": "https://code.blender.org/",
-    "feedUrl": "https://code.blender.org/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://devtalk.blender.org/c/blender/meeting-notes.rss",
     "title": "Blender",
     "type": "rss"
   },
@@ -4446,12 +4456,12 @@
   {
     "alias": "codementor.io/android/tutorial",
     "url": "https://www.codementor.io/android/tutorial",
-    "feedUrl": "https://www.codementor.io/search.xml"
+    "feedUrl": "https://www.codementor.io/feed"
   },
   {
     "alias": "codementor.io/tutorial",
     "url": "https://www.codementor.io/tutorial",
-    "feedUrl": "https://www.codementor.io/search.xml",
+    "feedUrl": "https://www.codementor.io/feed",
     "title": "Codementor",
     "type": "rss"
   },
@@ -4624,7 +4634,7 @@
   {
     "alias": "collegeinfogeek.com",
     "url": "https://collegeinfogeek.com/",
-    "feedUrl": "https://collegeinfogeek.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://collegeinfogeek.com/?feed=rss"
   },
   {
     "alias": "colobu.com",
@@ -5092,7 +5102,7 @@
   {
     "alias": "databricks.com/blog",
     "url": "https://databricks.com/blog",
-    "feedUrl": "https://databricks.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://databricks.com/feed",
     "title": "Databricks",
     "type": "rss"
   },
