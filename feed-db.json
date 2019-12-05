@@ -5483,7 +5483,7 @@
   {
     "alias": "developer.salesforce.com/blogs/engineering",
     "url": "https://developer.salesforce.com/blogs/engineering/",
-    "feedUrl": "https://developer.salesforce.com/blogs/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://developer.salesforce.com/blogs/feed",
     "title": "Salesforce",
     "type": "rss"
   },
@@ -5540,7 +5540,7 @@
   {
     "alias": "developers.redhat.com/blog",
     "url": "https://developers.redhat.com/blog/",
-    "feedUrl": "https://developers.redhat.com/blog/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://developers.redhat.com/blog/feed/rss/",
     "title": "Red Hat",
     "type": "rss"
   },
@@ -5933,6 +5933,11 @@
     "feedUrl": "https://blog.easwy.com/feed/"
   },
   {
+    "alias": "easyui.info",
+    "url": "http://www.easyui.info/",
+    "feedUrl": "http://www.easyui.info/feed"
+  },
+  {
     "alias": "ebayinc.com/stories/blogs/tech",
     "url": "https://www.ebayinc.com/stories/blogs/tech/",
     "feedUrl": "https://www.ebayinc.com/stories/news/rss/",
@@ -6145,7 +6150,7 @@
   {
     "alias": "engineering.clever.com",
     "url": "https://engineering.clever.com/",
-    "feedUrl": "https://engineering.clever.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://engineering.clever.com/?feed=rss",
     "title": "Clever",
     "type": "rss"
   },
@@ -6213,7 +6218,7 @@
   {
     "alias": "engineering.giphy.com",
     "url": "https://engineering.giphy.com/",
-    "feedUrl": "https://engineering.giphy.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://engineering.giphy.com/?feed=rss",
     "title": "GIPHY",
     "type": "rss"
   },
@@ -6354,7 +6359,7 @@
   {
     "alias": "engineering.monetate.com",
     "url": "http://engineering.monetate.com/",
-    "feedUrl": "http://engineering.monetate.com/opensearch.xml"
+    "feedUrl": "http://engineering.monetate.com/login?return_to=%2Fmonetate%3Ffeed%3Drss"
   },
   {
     "alias": "engineering.mongodb.com",
@@ -6380,7 +6385,7 @@
   {
     "alias": "engineering.opendns.com",
     "url": "https://engineering.opendns.com/",
-    "feedUrl": "https://umbrella.cisco.com/blog/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://umbrella.cisco.com/blog/feed/",
     "title": "OpenDNS",
     "type": "rss"
   },
@@ -6745,7 +6750,7 @@
   {
     "alias": "exiatian.com",
     "url": "http://www.exiatian.com/",
-    "feedUrl": "http://www.exiatian.com/sitemap_baidu.xml"
+    "feedUrl": "http://www.exiatian.com/?feed=rss"
   },
   {
     "alias": "explo-media.com/blog",
@@ -7004,6 +7009,11 @@
     "feedUrl": "http://francs3.blog.163.com/rss/"
   },
   {
+    "alias": "freebuf.com",
+    "url": "https://www.freebuf.com/",
+    "feedUrl": "https://www.freebuf.com/?feed=rss2"
+  },
+  {
     "alias": "freeletics.engineering",
     "url": "https://freeletics.engineering/",
     "feedUrl": "https://freeletics.engineering/feed.xml",
@@ -7110,6 +7120,11 @@
     "type": "rss"
   },
   {
+    "alias": "fuzhijie.me",
+    "url": "http://www.fuzhijie.me/",
+    "feedUrl": "http://fuzhijie.me/elegant_designer-cat-furniture/new_designer-cat-furniture-contemporary-for-urban-pet-lover-home-feed"
+  },
+  {
     "alias": "fuzzyblog.io/blog",
     "url": "http://www.fuzzyblog.io/blog/",
     "feedUrl": "http://fuzzyblog.io/blog/feed.xml",
@@ -7138,7 +7153,7 @@
   {
     "alias": "galois.com/blog",
     "url": "https://galois.com/blog/",
-    "feedUrl": "https://galois.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://galois.com/feed/",
     "title": "Galois",
     "type": "rss"
   },
@@ -7205,6 +7220,11 @@
     "feedUrl": "https://geekfeminismdotorg.wordpress.com/feed/"
   },
   {
+    "alias": "geekfence.com",
+    "url": "https://www.geekfence.com/",
+    "feedUrl": "https://www.geekfence.com/feed/"
+  },
+  {
     "alias": "geekgalgo.com/home",
     "url": "https://www.geekgalgo.com/home",
     "feedUrl": "https://www.geekgalgo.com/home?format=rss"
@@ -7212,7 +7232,7 @@
   {
     "alias": "geekgirlcon.com/blog",
     "url": "https://geekgirlcon.com/blog/",
-    "feedUrl": "https://geekgirlcon.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://geekgirlcon.com/?feed=rss"
   },
   {
     "alias": "geekhash.blogspot.com",
@@ -7334,17 +7354,17 @@
   {
     "alias": "github.com/memleaks",
     "url": "https://github.com/memleaks",
-    "feedUrl": "https://github.com/opensearch.xml"
+    "feedUrl": "https://github.com/login?return_to=%2Ffeed"
   },
   {
     "alias": "github.com/thzt",
     "url": "https://github.com/thzt/",
-    "feedUrl": "https://github.com/opensearch.xml"
+    "feedUrl": "https://github.com/login?return_to=%2Ffeed"
   },
   {
     "alias": "github.com/wangxiaojing",
     "url": "https://github.com/wangxiaojing",
-    "feedUrl": "https://github.com/opensearch.xml"
+    "feedUrl": "https://github.com/login?return_to=%2Ffeed"
   },
   {
     "alias": "githubengineering.com",
@@ -7378,7 +7398,7 @@
   {
     "alias": "glennstovall.com",
     "url": "https://glennstovall.com/",
-    "feedUrl": "https://glennstovall.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://glennstovall.com/?feed=rss"
   },
   {
     "alias": "glowingpython.blogspot.co.id",
