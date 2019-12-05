@@ -239,7 +239,7 @@
   {
     "alias": "acodez.in/blog",
     "url": "https://acodez.in/blog/",
-    "feedUrl": "https://cdn.acodez.in/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://acodez.in/services/rss/"
   },
   {
     "alias": "acornishgeek.com",
@@ -525,7 +525,7 @@
   {
     "alias": "alloc-init.com",
     "url": "https://www.alloc-init.com/",
-    "feedUrl": "https://www.alloc-init.com/https:/alloc-init.com/feed",
+    "feedUrl": "https://alloc-init.com/feed",
     "title": "Alloc-Init",
     "type": "rss"
   },
@@ -808,7 +808,7 @@
   {
     "alias": "appmakers.dev/category/ios",
     "url": "https://appmakers.dev/category/ios/",
-    "feedUrl": "https://appmakers.dev/category/ios/feed/",
+    "feedUrl": "https://appmakers.dev/feed/",
     "title": "AppMakers.Dev",
     "type": "rss"
   },
@@ -957,7 +957,7 @@
   {
     "alias": "ashfurrow.com",
     "url": "https://ashfurrow.com/",
-    "feedUrl": "https://ashfurrow.com/sitemap.xml",
+    "feedUrl": "https://ashfurrow.com/feed.xml",
     "title": "Ash Furrow's Blog",
     "type": "rss"
   },
@@ -1063,7 +1063,7 @@
   {
     "alias": "awik.io",
     "url": "https://awik.io/",
-    "feedUrl": "https://awik.io/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://awik.io/?feed=rss"
   },
   {
     "alias": "awnlab.com",
@@ -1354,7 +1354,7 @@
   {
     "alias": "binary-studio.com/blog",
     "url": "https://binary-studio.com/blog/",
-    "feedUrl": "https://binary-studio.com/blog/rss",
+    "feedUrl": "https://binary-studio.com/feed/rdf/",
     "title": "Binary Studio",
     "type": "rss"
   },
@@ -1687,7 +1687,7 @@
   {
     "alias": "blog.cloudera.com",
     "url": "https://blog.cloudera.com/",
-    "feedUrl": "https://blog.cloudera.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://blog.cloudera.com/?feed=rss",
     "title": "Cloudera",
     "type": "rss"
   },
@@ -1740,7 +1740,7 @@
   {
     "alias": "blog.codepen.io",
     "url": "https://blog.codepen.io/",
-    "feedUrl": "https://blog.codepen.io/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://blog.codepen.io/feed/"
   },
   {
     "alias": "blog.codepiano.com",
@@ -2015,6 +2015,11 @@
     "feedUrl": "https://blog.evantahler.com/feed",
     "title": "Evan Tahler",
     "type": "rss"
+  },
+  {
+    "alias": "blog.evernote.com/tech",
+    "url": "https://blog.evernote.com/tech/",
+    "feedUrl": "https://evernote.com/blog/feed/"
   },
   {
     "alias": "blog.faraday.io",
