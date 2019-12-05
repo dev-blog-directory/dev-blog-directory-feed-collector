@@ -6750,7 +6750,7 @@
   {
     "alias": "exiatian.com",
     "url": "http://www.exiatian.com/",
-    "feedUrl": "http://www.exiatian.com/?feed=rss"
+    "feedUrl": "http://exiatian.com/feed/rss2/"
   },
   {
     "alias": "explo-media.com/blog",
@@ -6867,7 +6867,7 @@
   {
     "alias": "fengxiangba.com",
     "url": "http://fengxiangba.com/",
-    "feedUrl": "https://fengxiangba.com/sitemap.xml"
+    "feedUrl": "https://fengxiangba.com/feed"
   },
   {
     "alias": "fex.baidu.com",

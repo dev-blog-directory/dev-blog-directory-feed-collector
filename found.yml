@@ -110,3 +110,87 @@
   alias: databricks.com/blog
   url: https://databricks.com/blog
   feedUrl: https://databricks.com/feed
+-
+  alias: developer.salesforce.com/blogs/engineering
+  url: https://developer.salesforce.com/blogs/engineering/
+  feedUrl: https://developer.salesforce.com/blogs/feed
+-
+  alias: desappstre.com
+  url: http://desappstre.com/
+  feedUrl: http://desappstre.com/feed/
+-
+  alias: developers.redhat.com/blog
+  url: https://developers.redhat.com/blog/
+  feedUrl: https://developers.redhat.com/blog/feed/rss/
+-
+  alias: developers.redhat.com/blog/tag/java
+  url: https://developers.redhat.com/blog/tag/java/
+  feedUrl: https://developers.redhat.com/blog/tag/java/feed/
+-
+  alias: developers.redhat.com/blog/tag/python
+  url: https://developers.redhat.com/blog/tag/python/
+  feedUrl: https://developers.redhat.com/blog/tag/python/feed/
+-
+  alias: easyui.info
+  url: http://www.easyui.info/
+  feedUrl: http://www.easyui.info/feed
+-
+  alias: engineering.clever.com
+  url: https://engineering.clever.com/
+  feedUrl: https://engineering.clever.com/?feed=rss
+-
+  alias: engineering.giphy.com
+  url: https://engineering.giphy.com/
+  feedUrl: https://engineering.giphy.com/?feed=rss
+-
+  alias: engineering.brandwatch.com
+  url: http://engineering.brandwatch.com/
+  feedUrl: http://engineering.brandwatch.com/?feed=rss
+-
+  alias: engineering.monetate.com
+  url: http://engineering.monetate.com/
+  feedUrl: http://engineering.monetate.com/login?return_to=%2Fmonetate%3Ffeed%3Drss
+-
+  alias: engineering.opendns.com
+  url: https://engineering.opendns.com/
+  feedUrl: https://umbrella.cisco.com/blog/feed/
+-
+  alias: exiatian.com
+  url: http://www.exiatian.com/
+  feedUrl: http://exiatian.com/feed/rss2/
+-
+  alias: fengxiangba.com
+  url: http://fengxiangba.com/
+  feedUrl: https://fengxiangba.com/feed
+-
+  alias: galois.com/blog
+  url: https://galois.com/blog/
+  feedUrl: https://galois.com/feed/
+-
+  alias: geekgirlcon.com/blog
+  url: https://geekgirlcon.com/blog/
+  feedUrl: https://geekgirlcon.com/?feed=rss
+-
+  alias: github.com/thzt
+  url: https://github.com/thzt/
+  feedUrl: https://github.com/login?return_to=%2Ffeed
+-
+  alias: github.com/wangxiaojing
+  url: https://github.com/wangxiaojing
+  feedUrl: https://github.com/login?return_to=%2Ffeed
+-
+  alias: geekfence.com
+  url: https://www.geekfence.com/
+  feedUrl: https://www.geekfence.com/feed/
+-
+  alias: gold.xitu.io
+  url: http://gold.xitu.io/
+  feedUrl: http://gold.xitu.io/?feed=rss&amp;sort=popular
+-
+  alias: glennstovall.com
+  url: https://glennstovall.com/
+  feedUrl: https://glennstovall.com/?feed=rss
+-
+  alias: github.com/memleaks
+  url: https://github.com/memleaks
+  feedUrl: https://github.com/login?return_to=%2Ffeed

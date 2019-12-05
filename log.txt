@@ -1223,3 +1223,351 @@ append to failed list. http://dchq.co/blog.html
 append to skip list. http://dchq.co/blog.html
 append to failed list. http://dailyjs.com/
 append to skip list. http://dailyjs.com/
+append to failed list. https://dev.firmafon.dk/blog/
+append to skip list. https://dev.firmafon.dk/blog/
+append to failed list. https://devcases.com/
+append to skip list. https://devcases.com/
+append to failed list. https://www.denofgeek.com/
+append to skip list. https://www.denofgeek.com/
+Should check the url 'https://developer.salesforce.com/blogs/engineering/'. 
+  Found different feed URLs: 
+    - https://developer.salesforce.com/blogs/feed
+append to found list. https://developer.salesforce.com/blogs/engineering/
+append to skip list. https://developer.salesforce.com/blogs/engineering/
+append to failed list. https://developers.google.com/edu/python/
+append to skip list. https://developers.google.com/edu/python/
+append to failed list. https://denzhadanov.com/
+append to skip list. https://denzhadanov.com/
+Should check the url 'http://desappstre.com/'. 
+  Found different feed URLs: 
+    - http://desappstre.com/feed/
+    - http://desappstre.com/comments/feed/
+append to found list. http://desappstre.com/
+append to skip list. http://desappstre.com/
+append to failed list. https://devs.mailchimp.com/blog/
+append to skip list. https://devs.mailchimp.com/blog/
+append to failed list. http://www.dinghaijun.com/
+append to skip list. http://www.dinghaijun.com/
+append to failed list. https://developers.redhat.com/
+append to skip list. https://developers.redhat.com/
+append to failed list. https://www.discovermeteor.com/blog
+append to skip list. https://www.discovermeteor.com/blog
+Should check the url 'https://developers.redhat.com/blog/'. 
+  Found different feed URLs: 
+    - https://developers.redhat.com/blog/feed/rss/
+    - https://developers.redhat.com/blog/feed/atom/
+append to found list. https://developers.redhat.com/blog/
+append to skip list. https://developers.redhat.com/blog/
+append to failed list. http://docs.python-guide.org/en/latest/
+append to skip list. http://docs.python-guide.org/en/latest/
+append to found list. https://developers.redhat.com/blog/tag/java/
+append to skip list. https://developers.redhat.com/blog/tag/java/
+append to failed list. https://drobinin.com/
+append to skip list. https://drobinin.com/
+append to failed list. http://www.dushiwei.cn/
+append to skip list. http://www.dushiwei.cn/
+append to failed list. https://dzone.com/
+append to skip list. https://dzone.com/
+append to found list. https://developers.redhat.com/blog/tag/python/
+append to skip list. https://developers.redhat.com/blog/tag/python/
+append to failed list. http://www.dongcoder.com/
+append to skip list. http://www.dongcoder.com/
+append to failed list. http://www.eharmony.com/engineering/
+append to skip list. http://www.eharmony.com/engineering/
+append to failed list. http://elegantcode.com/
+append to skip list. http://elegantcode.com/
+append to failed list. http://www.easycolor.cc/
+append to skip list. http://www.easycolor.cc/
+append to failed list. https://emmawedekind.com/
+append to skip list. https://emmawedekind.com/
+append to failed list. https://www.endyourif.com/
+append to skip list. https://www.endyourif.com/
+append to failed list. http://eng.datafox.co/
+append to skip list. http://eng.datafox.co/
+append to failed list. https://www.encodedna.com/
+append to skip list. https://www.encodedna.com/
+append to found list. http://www.easyui.info/
+append to skip list. http://www.easyui.info/
+append to failed list. http://eng.joingrouper.com/
+append to skip list. http://eng.joingrouper.com/
+append to failed list. https://engineering.9gag.com/
+append to skip list. https://engineering.9gag.com/
+append to failed list. http://engineering.bloomreach.com/
+append to skip list. http://engineering.bloomreach.com/
+Should check the url 'https://engineering.clever.com/'. 
+  Found different feed URLs: 
+    - https://engineering.clever.com/?feed=rss
+    - https://engineering.clever.com/?feed=rss2
+    - https://engineering.clever.com/?feed=rdf
+    - https://engineering.clever.com/?feed=atom
+    - https://engineering.clever.com/feed/
+    - https://engineering.clever.com/feed/rss/
+    - https://engineering.clever.com/feed/rss2/
+    - https://engineering.clever.com/feed/rdf/
+    - https://engineering.clever.com/feed/atom/
+append to found list. https://engineering.clever.com/
+append to skip list. https://engineering.clever.com/
+append to failed list. http://engineering.bittorrent.com/
+append to skip list. http://engineering.bittorrent.com/
+Should check the url 'https://engineering.giphy.com/'. 
+  Found different feed URLs: 
+    - https://engineering.giphy.com/?feed=rss
+    - https://engineering.giphy.com/?feed=rss2
+    - https://engineering.giphy.com/?feed=rdf
+    - https://engineering.giphy.com/?feed=atom
+    - https://engineering.giphy.com/feed/
+    - https://engineering.giphy.com/feed/rss/
+    - https://engineering.giphy.com/feed/rss2/
+    - https://engineering.giphy.com/feed/rdf/
+    - https://engineering.giphy.com/feed/atom/
+    - https://engineering.giphy.com/services/rss/
+append to found list. https://engineering.giphy.com/
+append to skip list. https://engineering.giphy.com/
+append to failed list. http://engineering.hackerearth.com/
+append to skip list. http://engineering.hackerearth.com/
+Should check the url 'http://engineering.brandwatch.com/'. 
+  Found different feed URLs: 
+    - http://engineering.brandwatch.com/?feed=rss
+    - http://engineering.brandwatch.com/?feed=rss2
+    - http://engineering.brandwatch.com/?feed=rdf
+    - http://engineering.brandwatch.com/?feed=atom
+    - http://engineering.brandwatch.com/feed/
+    - http://engineering.brandwatch.com/feed/rss/
+    - http://engineering.brandwatch.com/feed/rss2/
+    - http://engineering.brandwatch.com/feed/rdf/
+    - http://engineering.brandwatch.com/feed/atom/
+append to found list. http://engineering.brandwatch.com/
+append to skip list. http://engineering.brandwatch.com/
+append to failed list. https://engineering.gnip.com/
+append to skip list. https://engineering.gnip.com/
+append to failed list. http://engineering.ifttt.com/
+append to skip list. http://engineering.ifttt.com/
+append to failed list. https://engineering.imvu.com/
+append to skip list. https://engineering.imvu.com/
+append to failed list. http://www.eastdesign.net/
+append to skip list. http://www.eastdesign.net/
+append to failed list. http://engineering.laterooms.com/
+append to skip list. http://engineering.laterooms.com/
+append to failed list. https://engineering.medallia.com/blog/
+append to skip list. https://engineering.medallia.com/blog/
+append to failed list. http://engineering.medallia.com/blog/
+append to skip list. http://engineering.medallia.com/blog/
+append to failed list. https://engineering.nodesagency.com/categories/ios/
+append to skip list. https://engineering.nodesagency.com/categories/ios/
+append to failed list. http://engineering.shapesecurity.com/
+append to skip list. http://engineering.shapesecurity.com/
+Should check the url 'http://engineering.monetate.com/'. 
+  Found different feed URLs: 
+    - http://engineering.monetate.com/login?return_to=%2Fmonetate%3Ffeed%3Drss
+    - http://engineering.monetate.com/monetate?feed=rss&amp;page=2
+    - http://engineering.monetate.com/monetate?feed=rss2&amp;page=2
+    - http://engineering.monetate.com/login?return_to=%2Fmonetate%3Ffeed%3Datom
+    - http://engineering.monetate.com/monetate?feed=atom&amp;page=2
+append to found list. http://engineering.monetate.com/
+append to skip list. http://engineering.monetate.com/
+append to failed list. http://engineering.snapdeal.com/
+append to skip list. http://engineering.snapdeal.com/
+append to failed list. http://engineering.tripadvisor.com/
+append to skip list. http://engineering.tripadvisor.com/
+Should check the url 'https://engineering.opendns.com/'. 
+  Found different feed URLs: 
+    - https://umbrella.cisco.com/blog/feed/
+    - https://engineering.opendns.com/?feed=rss
+    - https://engineering.opendns.com/?feed=rss2
+    - https://engineering.opendns.com/?feed=rdf
+    - https://engineering.opendns.com/?feed=atom
+append to found list. https://engineering.opendns.com/
+append to skip list. https://engineering.opendns.com/
+append to failed list. https://engineering.zenefits.com/posts/
+append to skip list. https://engineering.zenefits.com/posts/
+append to failed list. http://engineering.vine.co/
+append to skip list. http://engineering.vine.co/
+append to failed list. http://epingwang.me/
+append to skip list. http://epingwang.me/
+append to failed list. http://engineering.slideshare.net/
+append to skip list. http://engineering.slideshare.net/
+append to failed list. http://etrd.org/
+append to skip list. http://etrd.org/
+append to failed list. http://www.epooll.com/
+append to skip list. http://www.epooll.com/
+append to failed list. https://elvirainfotech.com/blog/
+append to skip list. https://elvirainfotech.com/blog/
+append to failed list. http://everet.org/
+append to skip list. http://everet.org/
+append to failed list. http://f2eskills.com/
+append to skip list. http://f2eskills.com/
+append to failed list. http://fabiensanglard.net/
+append to skip list. http://fabiensanglard.net/
+append to failed list. https://everybodyshometowngeek.com/blog/
+append to skip list. https://everybodyshometowngeek.com/blog/
+Should check the url 'http://www.exiatian.com/'. 
+  Found different feed URLs: 
+    - http://exiatian.com/feed/rss2/
+append to found list. http://www.exiatian.com/
+append to skip list. http://www.exiatian.com/
+append to failed list. https://feather.ca/
+append to skip list. https://feather.ca/
+append to failed list. http://fancywt.cn/
+append to skip list. http://fancywt.cn/
+append to failed list. https://fernandocejas.com/
+append to skip list. https://fernandocejas.com/
+append to failed list. http://www.extlight.com/
+append to skip list. http://www.extlight.com/
+append to failed list. https://engineering.intercom.io/
+append to skip list. https://engineering.intercom.io/
+append to failed list. http://www.forestli.com/
+append to skip list. http://www.forestli.com/
+append to failed list. http://www.flickering.cn/
+append to skip list. http://www.flickering.cn/
+append to failed list. http://freewind.me/
+append to skip list. http://freewind.me/
+append to failed list. https://fsharpforfunandprofit.com/
+append to skip list. https://fsharpforfunandprofit.com/
+append to failed list. https://fulljoin.io/
+append to skip list. https://fulljoin.io/
+append to failed list. https://www.fullstackpython.com/blog.html
+append to skip list. https://www.fullstackpython.com/blog.html
+append to failed list. http://www.freezhongzi.info/
+append to skip list. http://www.freezhongzi.info/
+append to failed list. http://www.funboxpower.com/
+append to skip list. http://www.funboxpower.com/
+Should check the url 'http://fengxiangba.com/'. 
+  Found different feed URLs: 
+    - https://fengxiangba.com/feed
+    - https://fengxiangba.com/tag/rss
+append to found list. http://fengxiangba.com/
+append to skip list. http://fengxiangba.com/
+Should check the url 'https://galois.com/blog/'. 
+  Found different feed URLs: 
+    - https://galois.com/feed/
+    - https://galois.com/?feed=rss
+    - https://galois.com/?feed=rss2
+    - https://galois.com/?feed=rdf
+    - https://galois.com/?feed=atom
+    - https://galois.com/feed/rss/
+    - https://galois.com/feed/rss2/
+    - https://galois.com/feed/rdf/
+    - https://galois.com/feed/atom/
+    - https://www.galois.com/?feed=rss
+    - https://www.galois.com/?feed=rss2
+    - https://www.galois.com/?feed=rdf
+    - https://www.galois.com/?feed=atom
+append to found list. https://galois.com/blog/
+append to skip list. https://galois.com/blog/
+append to failed list. https://www.future-processing.pl/technical-blog/
+append to skip list. https://www.future-processing.pl/technical-blog/
+append to failed list. http://flykobe.com/
+append to skip list. http://flykobe.com/
+append to failed list. http://www.fuzhijie.me/
+append to skip list. http://www.fuzhijie.me/
+append to failed list. https://gedd.ski/
+append to skip list. https://gedd.ski/
+append to failed list. https://www.gblm.net/
+append to skip list. https://www.gblm.net/
+append to failed list. http://www.geekboots.tech/
+append to skip list. http://www.geekboots.tech/
+append to failed list. https://gavinhenderson.me/
+append to skip list. https://gavinhenderson.me/
+append to failed list. https://www.freebuf.com/
+append to skip list. https://www.freebuf.com/
+append to failed list. http://ggajos.com/
+append to skip list. http://ggajos.com/
+Should check the url 'https://geekgirlcon.com/blog/'. 
+  Found different feed URLs: 
+    - https://geekgirlcon.com/?feed=rss
+    - https://geekgirlcon.com/?feed=rss2
+    - https://geekgirlcon.com/?feed=rdf
+    - https://geekgirlcon.com/?feed=atom
+    - https://geekgirlcon.com/feed/
+    - https://geekgirlcon.com/feed/rss/
+    - https://geekgirlcon.com/feed/rss2/
+    - https://geekgirlcon.com/feed/rdf/
+    - https://geekgirlcon.com/feed/atom/
+    - https://geekgirlcon.com/services/rss/
+    - https://www.geekgirlcon.com/?feed=rss
+    - https://www.geekgirlcon.com/?feed=rss2
+    - https://www.geekgirlcon.com/?feed=rdf
+    - https://www.geekgirlcon.com/?feed=atom
+    - https://www.geekgirlcon.com/feed/
+    - https://www.geekgirlcon.com/feed/rss/
+    - https://www.geekgirlcon.com/feed/rss2/
+    - https://www.geekgirlcon.com/feed/rdf/
+    - https://www.geekgirlcon.com/feed/atom/
+    - https://www.geekgirlcon.com/services/rss/
+append to found list. https://geekgirlcon.com/blog/
+append to skip list. https://geekgirlcon.com/blog/
+append to failed list. https://gideonpyzer.com/
+append to skip list. https://gideonpyzer.com/
+append to failed list. https://gideonpyzer.dev/blog/
+append to skip list. https://gideonpyzer.dev/blog/
+append to failed list. https://www.giftegwuenu.com/
+append to skip list. https://www.giftegwuenu.com/
+append to failed list. https://www.genedock.com/blog/
+append to skip list. https://www.genedock.com/blog/
+Should check the url 'https://github.com/thzt/'. 
+  Found different feed URLs: 
+    - https://github.com/login?return_to=%2Ffeed
+    - https://github.com/Feed
+    - https://www.github.com/login?return_to=%2Ffeed
+    - https://www.github.com/Feed
+append to found list. https://github.com/thzt/
+append to skip list. https://github.com/thzt/
+Should check the url 'https://github.com/wangxiaojing'. 
+  Found different feed URLs: 
+    - https://github.com/login?return_to=%2Ffeed
+    - https://github.com/Feed
+    - https://www.github.com/login?return_to=%2Ffeed
+    - https://www.github.com/Feed
+append to found list. https://github.com/wangxiaojing
+append to skip list. https://github.com/wangxiaojing
+append to failed list. http://gofynd.io/blog
+append to skip list. http://gofynd.io/blog
+Should check the url 'https://www.geekfence.com/'. 
+  Found different feed URLs: 
+    - https://www.geekfence.com/feed/
+    - https://www.geekfence.com/comments/feed/
+    - https://www.geekfence.com/home/feed/
+append to found list. https://www.geekfence.com/
+append to skip list. https://www.geekfence.com/
+Should check the url 'http://gold.xitu.io/'. 
+  Found different feed URLs: 
+    - http://gold.xitu.io/?feed=rss&amp;sort=popular
+    - http://gold.xitu.io/?feed=rss&amp;sort=newest
+    - http://gold.xitu.io/?feed=rss&amp;sort=three_days_hottest
+    - http://gold.xitu.io/?feed=rss2&amp;sort=popular
+    - http://gold.xitu.io/?feed=rss2&amp;sort=newest
+    - http://gold.xitu.io/?feed=rss2&amp;sort=three_days_hottest
+    - http://gold.xitu.io/?feed=atom&amp;sort=popular
+    - http://gold.xitu.io/?feed=atom&amp;sort=newest
+    - http://gold.xitu.io/?feed=atom&amp;sort=three_days_hottest
+append to found list. http://gold.xitu.io/
+append to skip list. http://gold.xitu.io/
+append to failed list. http://www.grackertalk.com/
+append to skip list. http://www.grackertalk.com/
+Should check the url 'https://glennstovall.com/'. 
+  Found different feed URLs: 
+    - https://glennstovall.com/?feed=rss
+    - https://glennstovall.com/?feed=rss2
+    - https://glennstovall.com/?feed=rdf
+    - https://glennstovall.com/?feed=atom
+    - https://glennstovall.com/feed/
+    - https://glennstovall.com/feed/rss/
+    - https://glennstovall.com/feed/rss2/
+    - https://glennstovall.com/feed/rdf/
+    - https://glennstovall.com/feed/atom/
+append to found list. https://glennstovall.com/
+append to skip list. https://glennstovall.com/
+append to failed list. http://greengnn.org/
+append to skip list. http://greengnn.org/
+append to failed list. http://goz.hexacosa.net/
+append to skip list. http://goz.hexacosa.net/
+Should check the url 'https://github.com/memleaks'. 
+  Found different feed URLs: 
+    - https://github.com/login?return_to=%2Ffeed
+    - https://github.com/Feed
+    - https://www.github.com/login?return_to=%2Ffeed
+    - https://www.github.com/Feed
+append to found list. https://github.com/memleaks
+append to skip list. https://github.com/memleaks
+append to failed list. https://www.gloriacho.com/
+append to skip list. https://www.gloriacho.com/
