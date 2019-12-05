@@ -3046,7 +3046,7 @@
   {
     "alias": "blog.soshace.com/en",
     "url": "https://blog.soshace.com/en/",
-    "feedUrl": "https://blog.soshace.com/?feed=rss",
+    "feedUrl": "https://blog.soshace.com/?feed=rss2",
     "title": "Soshace",
     "type": "rss"
   },

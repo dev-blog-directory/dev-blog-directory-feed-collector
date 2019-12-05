@@ -844,3 +844,382 @@ append to failed list. http://blog.leezhong.com/
 append to skip list. http://blog.leezhong.com/
 append to failed list. http://blog.itbdw.com/
 append to skip list. http://blog.itbdw.com/
+append to failed list. https://blog.nraboy.com/
+append to skip list. https://blog.nraboy.com/
+append to failed list. http://blog.nosqlfan.com/
+append to skip list. http://blog.nosqlfan.com/
+append to failed list. http://blog.prolificinteractive.com/category/development/
+append to skip list. http://blog.prolificinteractive.com/category/development/
+append to failed list. https://blog.octo.com/en/
+append to skip list. https://blog.octo.com/en/
+append to failed list. http://blog.robertelder.org/
+append to skip list. http://blog.robertelder.org/
+Should check the url 'https://blog.rapidapi.com/'. 
+  Found different feed URLs: 
+    - https://blog.rapidapi.com/feed/
+    - https://blog.rapidapi.com/feed/rdf/
+    - https://blog.rapidapi.com/feed/atom/
+append to found list. https://blog.rapidapi.com/
+append to skip list. https://blog.rapidapi.com/
+Should check the url 'https://blog.siftscience.com/?category=Engineering'. 
+  Found different feed URLs: 
+    - https://blog.siftscience.com/?feed=rss
+    - https://blog.siftscience.com/?feed=rss2
+    - https://blog.siftscience.com/?feed=rdf
+    - https://blog.siftscience.com/?feed=atom
+    - https://blog.siftscience.com/feed/
+    - https://blog.siftscience.com/feed/rss/
+    - https://blog.siftscience.com/feed/rss2/
+    - https://blog.siftscience.com/feed/rdf/
+    - https://blog.siftscience.com/feed/atom/
+append to found list. https://blog.siftscience.com/?category=Engineering
+append to skip list. https://blog.siftscience.com/?category=Engineering
+Should check the url 'http://blog.rapidapi.com/'. 
+  Found different feed URLs: 
+    - http://blog.rapidapi.com/feed/
+    - http://blog.rapidapi.com/feed/rdf/
+    - http://blog.rapidapi.com/feed/atom/
+append to found list. http://blog.rapidapi.com/
+append to skip list. http://blog.rapidapi.com/
+append to failed list. http://blog.sctux.com/
+append to skip list. http://blog.sctux.com/
+append to failed list. http://blog.qiniu.com/
+append to skip list. http://blog.qiniu.com/
+append to failed list. https://blog.smemo.info/
+append to skip list. https://blog.smemo.info/
+append to failed list. http://blog.stormma.me/
+append to skip list. http://blog.stormma.me/
+append to failed list. https://blog.twitch.tv/tagged/engineering
+append to skip list. https://blog.twitch.tv/tagged/engineering
+append to failed list. https://blog.twitter.com/engineering
+append to skip list. https://blog.twitter.com/engineering
+Should check the url 'http://blog.sina.com.cn/mumuhouzi'. 
+  Found different feed URLs: 
+    - http://blog.sina.com.cn/rss/1241373614.xml
+    - http://blog.sina.com.cn/feed
+append to found list. http://blog.sina.com.cn/mumuhouzi
+append to skip list. http://blog.sina.com.cn/mumuhouzi
+append to failed list. http://blog.tsyinpin.com/
+append to skip list. http://blog.tsyinpin.com/
+Should check the url 'https://blog.soshace.com/en/'. 
+  Found different feed URLs: 
+    - https://blog.soshace.com/?feed=rss2
+    - https://blog.soshace.com/?feed=rdf
+    - https://blog.soshace.com/?feed=atom
+    - https://blog.soshace.com/feed/
+    - https://blog.soshace.com/feed/rss2/
+    - https://blog.soshace.com/feed/rdf/
+    - https://blog.soshace.com/feed/atom/
+append to found list. https://blog.soshace.com/en/
+append to skip list. https://blog.soshace.com/en/
+append to failed list. https://blog.yasking.org/
+append to skip list. https://blog.yasking.org/
+append to failed list. https://blog.yld.io/
+append to skip list. https://blog.yld.io/
+append to failed list. https://blog.webjeda.com/
+append to skip list. https://blog.webjeda.com/
+append to failed list. https://blog.nchyn.com/
+append to skip list. https://blog.nchyn.com/
+append to failed list. http://blogs.splunk.com/tag/python/
+append to skip list. http://blogs.splunk.com/tag/python/
+append to failed list. http://www.blogways.net/
+append to skip list. http://www.blogways.net/
+Should check the url 'https://blogs.msdn.microsoft.com/abhinaba/'. 
+  Found different feed URLs: 
+    - https://blogs.msdn.microsoft.com/abhinaba/feed/
+    - https://blogs.msdn.microsoft.com/?feed=rss
+    - https://blogs.msdn.microsoft.com/?feed=rss2
+    - https://blogs.msdn.microsoft.com/?feed=rdf
+    - https://blogs.msdn.microsoft.com/?feed=atom
+    - https://blogs.msdn.microsoft.com/feed/
+    - https://blogs.msdn.microsoft.com/feed/rss/
+    - https://blogs.msdn.microsoft.com/feed/rss2/
+    - https://blogs.msdn.microsoft.com/feed/rdf/
+    - https://blogs.msdn.microsoft.com/feed/atom/
+append to found list. https://blogs.msdn.microsoft.com/abhinaba/
+append to skip list. https://blogs.msdn.microsoft.com/abhinaba/
+append to failed list. http://boke.io/
+append to skip list. http://boke.io/
+Should check the url 'https://blogs.windows.com/msedgedev/'. 
+  Found different feed URLs: 
+    - https://blogs.windows.com/msedgedev/feed/
+    - https://blogs.windows.com/?feed=rss
+    - https://blogs.windows.com/?feed=rss2
+    - https://blogs.windows.com/?feed=rdf
+    - https://blogs.windows.com/?feed=atom
+    - https://blogs.windows.com/feed/
+    - https://blogs.windows.com/feed/rss/
+    - https://blogs.windows.com/feed/rss2/
+    - https://blogs.windows.com/feed/rdf/
+    - https://blogs.windows.com/feed/atom/
+    - https://blogs.windows.com/services/rss/
+append to found list. https://blogs.windows.com/msedgedev/
+append to skip list. https://blogs.windows.com/msedgedev/
+append to failed list. http://www.boxever.com/blog/
+append to skip list. http://www.boxever.com/blog/
+append to failed list. http://www.bootdo.com/
+append to skip list. http://www.bootdo.com/
+append to failed list. https://www.bricolage.io/
+append to skip list. https://www.bricolage.io/
+append to failed list. http://bthdonohue.com/
+append to skip list. http://bthdonohue.com/
+append to failed list. https://boyux.me/
+append to skip list. https://boyux.me/
+append to failed list. https://www.c0smx.com/
+append to skip list. https://www.c0smx.com/
+append to failed list. http://www.blogmars.com/
+append to skip list. http://www.blogmars.com/
+append to failed list. https://calap.co/blog
+append to skip list. https://calap.co/blog
+append to failed list. https://c1rew.github.io/
+append to skip list. https://c1rew.github.io/
+append to failed list. http://www.bungos.me/
+append to skip list. http://www.bungos.me/
+append to failed list. http://www.cccbeta.com/
+append to skip list. http://www.cccbeta.com/
+append to failed list. https://blog.wearewizards.io/
+append to skip list. https://blog.wearewizards.io/
+append to failed list. https://cdevroe.com/
+append to skip list. https://cdevroe.com/
+append to failed list. http://www.cgmasters.net/category/free-tutorials/python/
+append to skip list. http://www.cgmasters.net/category/free-tutorials/python/
+append to failed list. http://changkun.us/
+append to skip list. http://changkun.us/
+append to failed list. http://chrisarriola.me/
+append to skip list. http://chrisarriola.me/
+append to failed list. https://christianfei.com/
+append to skip list. https://christianfei.com/
+append to failed list. http://cizixs.com/
+append to skip list. http://cizixs.com/
+append to failed list. https://claytonsalem.com/
+append to skip list. https://claytonsalem.com/
+Should check the url 'http://cdc.tencent.com/'. 
+  Found different feed URLs: 
+    - https://cdc.tencent.com/feed/rss/
+    - http://cdc.tencent.com/?feed=rss
+    - http://cdc.tencent.com/?feed=rdf
+    - http://cdc.tencent.com/?feed=atom
+    - http://cdc.tencent.com/feed/
+    - http://cdc.tencent.com/feed/rss/
+    - http://cdc.tencent.com/feed/rss2/
+    - http://cdc.tencent.com/feed/rdf/
+    - http://cdc.tencent.com/feed/atom/
+    - http://cdc.tencent.com/services/rss/
+append to found list. http://cdc.tencent.com/
+append to skip list. http://cdc.tencent.com/
+append to failed list. https://www.cloudbees.com/blog
+append to skip list. https://www.cloudbees.com/blog
+append to failed list. http://www.cloudcomputingintelligence.com/
+append to skip list. http://www.cloudcomputingintelligence.com/
+append to failed list. http://cloudengineering.autodesk.com/blog/
+append to skip list. http://cloudengineering.autodesk.com/blog/
+append to failed list. https://borngeekblog.com/
+append to skip list. https://borngeekblog.com/
+append to failed list. https://cloudplatform.googleblog.com/
+append to skip list. https://cloudplatform.googleblog.com/
+Should check the url 'https://www.cloudcomputing-news.net/'. 
+  Found different feed URLs: 
+    - https://www.cloudcomputing-news.net/feed/
+append to found list. https://www.cloudcomputing-news.net/
+append to skip list. https://www.cloudcomputing-news.net/
+append to failed list. http://www.cnfeat.com/
+append to skip list. http://www.cnfeat.com/
+Should check the url 'https://www.cockroachlabs.com/blog/'. 
+  Found different feed URLs: 
+    - https://www.cockroachlabs.com/blog/index.xml
+    - https://www.cockroachlabs.com/feed/
+    - https://cockroachlabs.com/feed/
+append to found list. https://www.cockroachlabs.com/blog/
+append to skip list. https://www.cockroachlabs.com/blog/
+Should check the url 'https://www.cocoanetics.com/blog/'. 
+  Found different feed URLs: 
+    - https://www.cocoanetics.com/feed/
+    - https://www.cocoanetics.com/?feed=rss
+    - https://www.cocoanetics.com/?feed=rss2
+    - https://www.cocoanetics.com/?feed=rdf
+    - https://www.cocoanetics.com/?feed=atom
+    - https://www.cocoanetics.com/feed/rss/
+    - https://www.cocoanetics.com/feed/rss2/
+    - https://www.cocoanetics.com/feed/rdf/
+    - https://www.cocoanetics.com/feed/atom/
+    - https://cocoanetics.com/?feed=rss
+    - https://cocoanetics.com/?feed=rss2
+    - https://cocoanetics.com/?feed=rdf
+    - https://cocoanetics.com/?feed=atom
+    - https://cocoanetics.com/feed/
+    - https://cocoanetics.com/feed/rss/
+    - https://cocoanetics.com/feed/rss2/
+    - https://cocoanetics.com/feed/rdf/
+    - https://cocoanetics.com/feed/atom/
+append to found list. https://www.cocoanetics.com/blog/
+append to skip list. https://www.cocoanetics.com/blog/
+Should check the url 'https://code.blender.org/'. 
+  Found different feed URLs: 
+    - https://devtalk.blender.org/c/blender/meeting-notes.rss
+    - https://code.blender.org/?feed=rss
+    - https://code.blender.org/?feed=rss2
+    - https://code.blender.org/?feed=rdf
+    - https://code.blender.org/?feed=atom
+    - https://code.blender.org/feed/
+    - https://code.blender.org/feed/rss/
+    - https://code.blender.org/feed/rss2/
+    - https://code.blender.org/feed/rdf/
+    - https://code.blender.org/feed/atom/
+    - https://code.blender.org/services/rss/
+    - https://www.code.blender.org/?feed=rss
+    - https://www.code.blender.org/?feed=rss2
+    - https://www.code.blender.org/?feed=rdf
+    - https://www.code.blender.org/?feed=atom
+    - https://www.code.blender.org/feed/
+    - https://www.code.blender.org/feed/rss/
+    - https://www.code.blender.org/feed/rss2/
+    - https://www.code.blender.org/feed/rdf/
+    - https://www.code.blender.org/feed/atom/
+    - https://www.code.blender.org/services/rss/
+append to found list. https://code.blender.org/
+append to skip list. https://code.blender.org/
+append to failed list. http://cloudnewsdaily.com/
+append to skip list. http://cloudnewsdaily.com/
+Should check the url 'http://cmsblogs.com/'. 
+  Found different feed URLs: 
+    - http://cmsblogs.com/sitemap_baidu.xml
+    - http://cmsblogs.com/?feed=rss2
+    - http://cmsblogs.com/?feed=rdf
+    - http://cmsblogs.com/?feed=atom
+    - http://www.cmsblogs.com/?feed=rss2
+    - http://www.cmsblogs.com/?feed=atom
+append to found list. http://cmsblogs.com/
+append to skip list. http://cmsblogs.com/
+append to failed list. https://www.chen101.cn/
+append to skip list. https://www.chen101.cn/
+append to failed list. https://codeconvey.com/category/css-tutorial/
+append to skip list. https://codeconvey.com/category/css-tutorial/
+append to failed list. https://codedam.com/blog/
+append to skip list. https://codedam.com/blog/
+append to failed list. https://www.codelitt.com/blog/
+append to skip list. https://www.codelitt.com/blog/
+Should check the url 'https://www.codementor.io/android/tutorial'. 
+  Found different feed URLs: 
+    - https://www.codementor.io/feed
+    - https://codementor.io/feed
+append to found list. https://www.codementor.io/android/tutorial
+append to skip list. https://www.codementor.io/android/tutorial
+Should check the url 'https://www.codementor.io/tutorial'. 
+  Found different feed URLs: 
+    - https://www.codementor.io/feed
+    - https://codementor.io/feed
+append to found list. https://www.codementor.io/tutorial
+append to skip list. https://www.codementor.io/tutorial
+append to failed list. http://codebetter.com/
+append to skip list. http://codebetter.com/
+append to failed list. https://codetheweb.blog/
+append to skip list. https://codetheweb.blog/
+append to failed list. http://codingxiaxw.cn/
+append to skip list. http://codingxiaxw.cn/
+append to failed list. https://www.codesheep.cn/
+append to skip list. https://www.codesheep.cn/
+append to failed list. https://coderwall.com/
+append to skip list. https://coderwall.com/
+append to failed list. http://colah.github.io/
+append to skip list. http://colah.github.io/
+Should check the url 'https://collegeinfogeek.com/'. 
+  Found different feed URLs: 
+    - https://collegeinfogeek.com/?feed=rss
+    - https://collegeinfogeek.com/?feed=rss2
+    - https://collegeinfogeek.com/?feed=rdf
+    - https://collegeinfogeek.com/?feed=atom
+    - https://collegeinfogeek.com/feed/
+    - https://collegeinfogeek.com/feed/rss/
+    - https://collegeinfogeek.com/feed/rss2/
+    - https://collegeinfogeek.com/feed/rdf/
+    - https://collegeinfogeek.com/feed/atom/
+    - https://www.collegeinfogeek.com/?feed=rss
+    - https://www.collegeinfogeek.com/?feed=rss2
+    - https://www.collegeinfogeek.com/?feed=rdf
+    - https://www.collegeinfogeek.com/?feed=atom
+    - https://www.collegeinfogeek.com/feed/
+    - https://www.collegeinfogeek.com/feed/rss/
+    - https://www.collegeinfogeek.com/feed/rss2/
+    - https://www.collegeinfogeek.com/feed/rdf/
+    - https://www.collegeinfogeek.com/feed/atom/
+append to found list. https://collegeinfogeek.com/
+append to skip list. https://collegeinfogeek.com/
+append to failed list. https://coding.net/?from=rss
+append to skip list. https://coding.net/?from=rss
+append to failed list. https://clusterhq.com/blog/
+append to skip list. https://clusterhq.com/blog/
+append to failed list. https://convox.com/blog
+append to skip list. https://convox.com/blog
+append to failed list. https://cognitive.io/
+append to skip list. https://cognitive.io/
+append to failed list. https://coursetro.com/
+append to skip list. https://coursetro.com/
+append to failed list. http://www.crimx.com/
+append to skip list. http://www.crimx.com/
+append to failed list. http://cpython-devguide.readthedocs.io/en/github/index.html
+append to skip list. http://cpython-devguide.readthedocs.io/en/github/index.html
+append to failed list. https://www.continuum.io/blog/developer-blog
+append to skip list. https://www.continuum.io/blog/developer-blog
+append to failed list. https://www.colabug.com/
+append to skip list. https://www.colabug.com/
+append to failed list. http://www.cssmagic.net/
+append to skip list. http://www.cssmagic.net/
+append to failed list. https://cutting.io/
+append to skip list. https://cutting.io/
+append to failed list. http://www.dabeaz.com/
+append to skip list. http://www.dabeaz.com/
+append to failed list. http://www.dabeaz.com/blog.html
+append to skip list. http://www.dabeaz.com/blog.html
+append to failed list. http://dailycode.daoapp.io/
+append to skip list. http://dailycode.daoapp.io/
+append to failed list. http://danthorpe.me/
+append to skip list. http://danthorpe.me/
+append to failed list. http://www.code123.cc/
+append to skip list. http://www.code123.cc/
+append to failed list. https://cyc2018.github.io/page.html
+append to skip list. https://cyc2018.github.io/page.html
+append to failed list. http://www.daqianduan.com/
+append to skip list. http://www.daqianduan.com/
+Should check the url 'https://databricks.com/blog'. 
+  Found different feed URLs: 
+    - https://databricks.com/feed
+    - https://databricks.com/?feed=rss
+    - https://databricks.com/?feed=rss2
+    - https://databricks.com/?feed=rdf
+    - https://databricks.com/?feed=atom
+    - https://databricks.com/feed/
+    - https://databricks.com/feed/rss/
+    - https://databricks.com/feed/rss2/
+    - https://databricks.com/feed/rdf/
+    - https://databricks.com/feed/atom/
+    - https://www.databricks.com/?feed=rss
+    - https://www.databricks.com/?feed=rss2
+    - https://www.databricks.com/?feed=rdf
+    - https://www.databricks.com/?feed=atom
+    - https://www.databricks.com/feed/
+    - https://www.databricks.com/feed/rss/
+    - https://www.databricks.com/feed/rss2/
+    - https://www.databricks.com/feed/rdf/
+    - https://www.databricks.com/feed/atom/
+append to found list. https://databricks.com/blog
+append to skip list. https://databricks.com/blog
+append to failed list. https://cuiqingcai.com/
+append to skip list. https://cuiqingcai.com/
+append to failed list. https://www.datapipe.com/blog/category/cloud-computing/
+append to skip list. https://www.datapipe.com/blog/category/cloud-computing/
+append to failed list. http://www.davenkin.me/
+append to skip list. http://www.davenkin.me/
+append to failed list. http://www.davidsanchezplaza.com/
+append to skip list. http://www.davidsanchezplaza.com/
+append to failed list. https://deanacus.com/
+append to skip list. https://deanacus.com/
+append to failed list. http://decodegirl.com/
+append to skip list. http://decodegirl.com/
+append to failed list. https://deferpanic.com/blog/
+append to skip list. https://deferpanic.com/blog/
+append to failed list. http://www.dbpoo.com/
+append to skip list. http://www.dbpoo.com/
+append to failed list. http://dchq.co/blog.html
+append to skip list. http://dchq.co/blog.html
+append to failed list. http://dailyjs.com/
+append to skip list. http://dailyjs.com/

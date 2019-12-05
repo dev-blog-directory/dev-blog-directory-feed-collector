@@ -42,3 +42,71 @@
   alias: blog.lerner.co.il
   url: http://blog.lerner.co.il/
   feedUrl: http://blog.lerner.co.il/?feed=rss
+-
+  alias: blog.rapidapi.com
+  url: https://blog.rapidapi.com/
+  feedUrl: https://blog.rapidapi.com/feed/
+-
+  alias: blog.siftscience.com
+  url: https://blog.siftscience.com/?category=Engineering
+  feedUrl: https://blog.siftscience.com/?feed=rss
+-
+  alias: blog.rapidapi.com
+  url: http://blog.rapidapi.com/
+  feedUrl: http://blog.rapidapi.com/feed/
+-
+  alias: blog.sina.com.cn/mumuhouzi
+  url: http://blog.sina.com.cn/mumuhouzi
+  feedUrl: http://blog.sina.com.cn/rss/1241373614.xml
+-
+  alias: blog.soshace.com/en
+  url: https://blog.soshace.com/en/
+  feedUrl: https://blog.soshace.com/?feed=rss2
+-
+  alias: blogs.msdn.microsoft.com/abhinaba
+  url: https://blogs.msdn.microsoft.com/abhinaba/
+  feedUrl: https://blogs.msdn.microsoft.com/abhinaba/feed/
+-
+  alias: blogs.windows.com/msedgedev
+  url: https://blogs.windows.com/msedgedev/
+  feedUrl: https://blogs.windows.com/msedgedev/feed/
+-
+  alias: cdc.tencent.com
+  url: http://cdc.tencent.com/
+  feedUrl: https://cdc.tencent.com/feed/rss/
+-
+  alias: cloudcomputing-news.net
+  url: https://www.cloudcomputing-news.net/
+  feedUrl: https://www.cloudcomputing-news.net/feed/
+-
+  alias: cockroachlabs.com/blog
+  url: https://www.cockroachlabs.com/blog/
+  feedUrl: https://www.cockroachlabs.com/blog/index.xml
+-
+  alias: cocoanetics.com/blog
+  url: https://www.cocoanetics.com/blog/
+  feedUrl: https://www.cocoanetics.com/feed/
+-
+  alias: code.blender.org
+  url: https://code.blender.org/
+  feedUrl: https://devtalk.blender.org/c/blender/meeting-notes.rss
+-
+  alias: cmsblogs.com
+  url: http://cmsblogs.com/
+  feedUrl: http://cmsblogs.com/sitemap_baidu.xml
+-
+  alias: codementor.io/android/tutorial
+  url: https://www.codementor.io/android/tutorial
+  feedUrl: https://www.codementor.io/feed
+-
+  alias: codementor.io/tutorial
+  url: https://www.codementor.io/tutorial
+  feedUrl: https://www.codementor.io/feed
+-
+  alias: collegeinfogeek.com
+  url: https://collegeinfogeek.com/
+  feedUrl: https://collegeinfogeek.com/?feed=rss
+-
+  alias: databricks.com/blog
+  url: https://databricks.com/blog
+  feedUrl: https://databricks.com/feed
