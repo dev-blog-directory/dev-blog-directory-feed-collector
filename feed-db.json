@@ -13339,7 +13339,7 @@
   {
     "alias": "qiqiboy.com",
     "url": "http://www.qiqiboy.com/",
-    "feedUrl": "http://www.qiqiboy.com/opensearch.xml"
+    "feedUrl": "http://www.qiqiboy.com/login?return_to=%2Fqiqiboy%3Ffeed%3Drss"
   },
   {
     "alias": "qnoid.com",
@@ -13361,7 +13361,7 @@
   {
     "alias": "qualitycoding.org",
     "url": "https://qualitycoding.org/",
-    "feedUrl": "https://qualitycoding.org/jrwp/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://qualitycoding.org/?feed=rss",
     "title": "Quality Coding",
     "type": "rss"
   },
@@ -14385,7 +14385,7 @@
   {
     "alias": "sharethis.com/category/engineering",
     "url": "https://www.sharethis.com/category/engineering/",
-    "feedUrl": "https://s18955.pcdn.co/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://sharethis.com/intelligence/sharethis-data-feed/",
     "title": "Sharethis",
     "type": "rss"
   },
@@ -14508,6 +14508,11 @@
     "feedUrl": "http://simurai.com/rss/"
   },
   {
+    "alias": "singlex.net",
+    "url": "http://www.singlex.net/",
+    "feedUrl": "http://www.singlex.net/feed"
+  },
+  {
     "alias": "sintraworks.github.io",
     "url": "https://sintraworks.github.io/",
     "feedUrl": "https://sintraworks.github.io/feed.xml",
@@ -14527,7 +14532,7 @@
   {
     "alias": "sitepen.com/blog/category/angular",
     "url": "https://www.sitepen.com/blog/category/angular/",
-    "feedUrl": "https://www.sitepen.com/blog/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://www.sitepen.com/blog/feed/"
   },
   {
     "alias": "sitepoint.com",
@@ -15175,7 +15180,7 @@
   {
     "alias": "talkerscode.com",
     "url": "http://talkerscode.com/",
-    "feedUrl": "http://talkerscode.com/sitemap.xml"
+    "feedUrl": "http://talkerscode.com/rss.xml"
   },
   {
     "alias": "talkingkotlin.com",
@@ -15455,7 +15460,7 @@
   {
     "alias": "tech.wimdu.com",
     "url": "http://tech.wimdu.com/",
-    "feedUrl": "http://tech.wimdu.com/wp-includes/wlwmanifest.xml",
+    "feedUrl": "http://tech.wimdu.com/?feed=rss",
     "title": "Wimdu",
     "type": "rss"
   },
@@ -15670,7 +15675,7 @@
   {
     "alias": "the5fire.com",
     "url": "http://www.the5fire.com/",
-    "feedUrl": "http://www.the5fire.com/sitemap.xml"
+    "feedUrl": "http://www.the5fire.com/feed/"
   },
   {
     "alias": "theandroid-mania.com",
@@ -15788,6 +15793,11 @@
     "type": "rss"
   },
   {
+    "alias": "thejavaprogrammer.com",
+    "url": "https://www.thejavaprogrammer.com/",
+    "feedUrl": "https://www.thejavaprogrammer.com/feed/"
+  },
+  {
     "alias": "thelazylog.com",
     "url": "http://thelazylog.com/",
     "feedUrl": "http://thelazylog.com/rss/",
@@ -15803,6 +15813,11 @@
     "alias": "thelovelygeek.com/blog",
     "url": "https://thelovelygeek.com/blog/",
     "feedUrl": "https://thelovelygeek.com/?feed=rss"
+  },
+  {
+    "alias": "themaninblue.com",
+    "url": "https://themaninblue.com/",
+    "feedUrl": "http://themaninblue.com/?feed=rss2"
   },
   {
     "alias": "themodernlife.github.io",
@@ -15839,7 +15854,7 @@
   {
     "alias": "therightbraingeek.com/blog",
     "url": "https://www.therightbraingeek.com/blog/",
-    "feedUrl": "https://www.therightbraingeek.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://www.therightbraingeek.com/?feed=rss"
   },
   {
     "alias": "therightgeek.blogspot.com",
