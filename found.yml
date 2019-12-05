@@ -270,3 +270,67 @@
   alias: pluralsight.com/guides
   url: https://www.pluralsight.com/guides
   feedUrl: https://www.pluralsight.com/feed/rss/
+-
+  alias: qiqiboy.com
+  url: http://www.qiqiboy.com/
+  feedUrl: http://www.qiqiboy.com/login?return_to=%2Fqiqiboy%3Ffeed%3Drss
+-
+  alias: qualitycoding.org
+  url: https://qualitycoding.org/
+  feedUrl: https://qualitycoding.org/?feed=rss
+-
+  alias: qcoke.com
+  url: http://www.qcoke.com/
+  feedUrl: https://www.qcoke.com/feed
+-
+  alias: sharethis.com/category/engineering
+  url: https://www.sharethis.com/category/engineering/
+  feedUrl: https://sharethis.com/intelligence/sharethis-data-feed/
+-
+  alias: sitepen.com/blog/category/angular
+  url: https://www.sitepen.com/blog/category/angular/
+  feedUrl: https://www.sitepen.com/blog/feed/
+-
+  alias: singlex.net
+  url: http://www.singlex.net/
+  feedUrl: http://www.singlex.net/feed
+-
+  alias: stratechery.com
+  url: https://stratechery.com/
+  feedUrl: http://stratechery.com/feed/
+-
+  alias: talkerscode.com
+  url: http://talkerscode.com/
+  feedUrl: http://talkerscode.com/rss.xml
+-
+  alias: syntaxdefinition.com
+  url: http://www.syntaxdefinition.com/
+  feedUrl: https://www.syntaxdefinition.com/feed/
+-
+  alias: tech.wimdu.com
+  url: http://tech.wimdu.com/
+  feedUrl: http://tech.wimdu.com/?feed=rss
+-
+  alias: the5fire.com
+  url: http://www.the5fire.com/
+  feedUrl: http://www.the5fire.com/feed/
+-
+  alias: thecloudblog.in
+  url: https://thecloudblog.in/
+  feedUrl: https://thecloudblog.in/feed/
+-
+  alias: thejavaprogrammer.com
+  url: https://www.thejavaprogrammer.com/
+  feedUrl: https://www.thejavaprogrammer.com/feed/
+-
+  alias: therightbraingeek.com/blog
+  url: https://www.therightbraingeek.com/blog/
+  feedUrl: https://www.therightbraingeek.com/?feed=rss
+-
+  alias: themaninblue.com
+  url: https://themaninblue.com/
+  feedUrl: http://themaninblue.com/?feed=rss2
+-
+  alias: thedroidsonroids.com/category/blog/ios
+  url: https://www.thedroidsonroids.com/category/blog/ios
+  feedUrl: https://www.thedroidsonroids.com/feed/atom

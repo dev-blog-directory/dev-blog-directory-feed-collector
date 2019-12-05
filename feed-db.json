@@ -13322,6 +13322,11 @@
     "feedUrl": "https://pythontips.com/feed/"
   },
   {
+    "alias": "qcoke.com",
+    "url": "http://www.qcoke.com/",
+    "feedUrl": "https://www.qcoke.com/feed"
+  },
+  {
     "alias": "qianduan.net",
     "url": "http://www.qianduan.net/",
     "feedUrl": "https://www.qianduan.net/rss/"
@@ -15161,6 +15166,11 @@
     "feedUrl": "https://sylvanassun.github.io/atom.xml"
   },
   {
+    "alias": "syntaxdefinition.com",
+    "url": "http://www.syntaxdefinition.com/",
+    "feedUrl": "https://www.syntaxdefinition.com/feed/"
+  },
+  {
     "alias": "syscloudpro.com/category/cloud",
     "url": "https://syscloudpro.com/category/cloud/",
     "feedUrl": "https://techwizard.cloud/feed/"
@@ -15703,6 +15713,11 @@
     "feedUrl": "http://thebaldgeek.net/index.php/feed/"
   },
   {
+    "alias": "thecloudblog.in",
+    "url": "https://thecloudblog.in/",
+    "feedUrl": "https://thecloudblog.in/feed/"
+  },
+  {
     "alias": "thecloudcast.net",
     "url": "https://www.thecloudcast.net/",
     "feedUrl": "https://www.thecloudcast.net/feeds/posts/default"
@@ -15756,7 +15771,7 @@
   {
     "alias": "thedroidsonroids.com/category/blog/ios",
     "url": "https://www.thedroidsonroids.com/category/blog/ios",
-    "feedUrl": "https://www.thedroidsonroids.com/category/blog/ios/feed",
+    "feedUrl": "https://www.thedroidsonroids.com/feed/atom",
     "title": "Droids On Roids Blog iOS Development",
     "type": "rss"
   },

@@ -2131,3 +2131,341 @@ append to failed list. http://purecpp.org/
 append to skip list. http://purecpp.org/
 append to failed list. http://outofmemory.cn/
 append to skip list. http://outofmemory.cn/
+append to failed list. http://python-notes.curiousefficiency.org/en/latest/index.html
+append to skip list. http://python-notes.curiousefficiency.org/en/latest/index.html
+append to failed list. http://python3.codes/
+append to skip list. http://python3.codes/
+append to failed list. http://www.python-course.eu/
+append to skip list. http://www.python-course.eu/
+append to failed list. http://www.pythonweekly.com/
+append to skip list. http://www.pythonweekly.com/
+append to failed list. http://www.qiangblog.com/feed
+append to skip list. http://www.qiangblog.com/feed
+append to failed list. http://qianxiaoyang.com/
+append to skip list. http://qianxiaoyang.com/
+append to failed list. https://pythonspot.com/
+append to skip list. https://pythonspot.com/
+append to failed list. http://www.qingliangcn.com/
+append to skip list. http://www.qingliangcn.com/
+Should check the url 'http://www.qiqiboy.com/'. 
+  Found different feed URLs: 
+    - http://www.qiqiboy.com/login?return_to=%2Fqiqiboy%3Ffeed%3Drss
+    - http://www.qiqiboy.com/login?return_to=https%3A%2F%2Fgithub.com%2Fqiqiboy%3Ffeed%3Drss
+    - http://www.qiqiboy.com/login?return_to=%2Fqiqiboy%3Ffeed%3Datom
+    - http://www.qiqiboy.com/login?return_to=https%3A%2F%2Fgithub.com%2Fqiqiboy%3Ffeed%3Datom
+append to found list. http://www.qiqiboy.com/
+append to skip list. http://www.qiqiboy.com/
+append to failed list. https://pythonpedia.com/
+append to skip list. https://pythonpedia.com/
+append to failed list. http://qiuchengjia.cn/
+append to skip list. http://qiuchengjia.cn/
+Should check the url 'https://qualitycoding.org/'. 
+  Found different feed URLs: 
+    - https://qualitycoding.org/?feed=rss
+    - https://qualitycoding.org/?feed=rss2
+    - https://qualitycoding.org/feed/atom/
+    - https://qualitycoding.org/learning-kotlin-live/feed/atom/
+    - https://qualitycoding.org/kotlin-tips/feed/atom/
+    - https://qualitycoding.org/advanced-tdd-workshop/feed/atom/
+    - https://qualitycoding.org/localize-mobile-app/feed/atom/
+    - https://qualitycoding.org/dont-give-up-tdd/feed/atom/
+    - https://qualitycoding.org/refactoring-small-steps-continued/feed/atom/
+    - https://qualitycoding.org/refactor-small-steps/feed/atom/
+    - https://qualitycoding.org/random-test-order/feed/atom/
+    - https://qualitycoding.org/xcode-10-test-improvements/feed/atom/
+    - https://qualitycoding.org/dont-refactor-without-tests/feed/atom/
+    - https://qualitycoding.org/feed/
+    - https://qualitycoding.org/feed/rss/
+    - https://qualitycoding.org/feed/rss2/
+    - https://qualitycoding.org/services/rss/
+    - https://www.qualitycoding.org/?feed=rss
+    - https://www.qualitycoding.org/?feed=rss2
+    - https://www.qualitycoding.org/feed/
+    - https://www.qualitycoding.org/feed/rss/
+    - https://www.qualitycoding.org/feed/rss2/
+    - https://www.qualitycoding.org/services/rss/
+append to found list. https://qualitycoding.org/
+append to skip list. https://qualitycoding.org/
+append to failed list. https://www.quirksmode.org/
+append to skip list. https://www.quirksmode.org/
+Should check the url 'http://www.qcoke.com/'. 
+  Found different feed URLs: 
+    - https://www.qcoke.com/feed
+    - https://www.qcoke.com/comments/feed
+append to found list. http://www.qcoke.com/
+append to skip list. http://www.qcoke.com/
+append to failed list. https://www.raizlabs.com/dev
+append to skip list. https://www.raizlabs.com/dev
+append to failed list. https://www.raizlabs.com/dev/
+append to skip list. https://www.raizlabs.com/dev/
+append to failed list. https://www.raizlabs.com/dev/category/android/
+append to skip list. https://www.raizlabs.com/dev/category/android/
+append to failed list. https://reddyprasad.co.in/
+append to skip list. https://reddyprasad.co.in/
+append to failed list. http://raytaylorlin.com/
+append to skip list. http://raytaylorlin.com/
+append to failed list. http://rhodesmill.org/brandon/
+append to skip list. http://rhodesmill.org/brandon/
+append to failed list. http://rmingwang.com/
+append to skip list. http://rmingwang.com/
+append to failed list. http://research.baidu.com/Blog
+append to skip list. http://research.baidu.com/Blog
+append to failed list. https://rocko.xyz/
+append to skip list. https://rocko.xyz/
+append to failed list. http://rokia.org/
+append to skip list. http://rokia.org/
+append to failed list. http://roosephu.github.io/
+append to skip list. http://roosephu.github.io/
+append to failed list. https://rshackleton.co.uk/
+append to skip list. https://rshackleton.co.uk/
+append to failed list. https://sarahdrasnerdesign.com/
+append to skip list. https://sarahdrasnerdesign.com/
+append to failed list. https://roadfiresoftware.com/blog/
+append to skip list. https://roadfiresoftware.com/blog/
+append to failed list. http://saulmm.github.io/
+append to skip list. http://saulmm.github.io/
+append to failed list. http://qinghe.me/
+append to skip list. http://qinghe.me/
+append to failed list. http://sartorialscience.myntrablogs.com/
+append to skip list. http://sartorialscience.myntrablogs.com/
+append to failed list. http://sentsin.com/old.html
+append to skip list. http://sentsin.com/old.html
+append to failed list. https://savvyapps.com/blog
+append to skip list. https://savvyapps.com/blog
+append to failed list. http://shandian.biz/
+append to skip list. http://shandian.biz/
+Should check the url 'https://www.sharethis.com/category/engineering/'. 
+  Found different feed URLs: 
+    - https://sharethis.com/intelligence/sharethis-data-feed/
+append to found list. https://www.sharethis.com/category/engineering/
+append to skip list. https://www.sharethis.com/category/engineering/
+append to failed list. https://www.shennongmin.org/
+append to skip list. https://www.shennongmin.org/
+append to failed list. http://ratwu.com/
+append to skip list. http://ratwu.com/
+append to failed list. https://www.shodipoayomide.com/
+append to skip list. https://www.shodipoayomide.com/
+append to failed list. https://www.sataware.com/blogs/
+append to skip list. https://www.sataware.com/blogs/
+append to failed list. https://shortdiv.com/
+append to skip list. https://shortdiv.com/
+append to failed list. https://sid.studio/blog
+append to skip list. https://sid.studio/blog
+append to failed list. https://www.singlehop.com/blog/
+append to skip list. https://www.singlehop.com/blog/
+append to failed list. https://www.simple.com/engineering
+append to skip list. https://www.simple.com/engineering
+Should check the url 'https://www.sitepen.com/blog/category/angular/'. 
+  Found different feed URLs: 
+    - https://www.sitepen.com/blog/feed/
+    - https://sitepen.com/blog/feed/
+    - https://www.sitepen.com/?feed=rss
+    - https://www.sitepen.com/?feed=rss2
+    - https://www.sitepen.com/?feed=atom
+append to found list. https://www.sitepen.com/blog/category/angular/
+append to skip list. https://www.sitepen.com/blog/category/angular/
+append to failed list. http://www.sishixy.net/
+append to skip list. http://www.sishixy.net/
+append to failed list. http://www.snowdream.tech/
+append to skip list. http://www.snowdream.tech/
+append to failed list. http://snowlotus.github.io/
+append to skip list. http://snowlotus.github.io/
+append to failed list. https://stackshare.io/feed
+append to skip list. https://stackshare.io/feed
+append to failed list. https://sidebar.io/
+append to skip list. https://sidebar.io/
+append to failed list. https://snyk.io/blog
+append to skip list. https://snyk.io/blog
+append to found list. http://www.singlex.net/
+append to skip list. http://www.singlex.net/
+append to failed list. http://www.statsblogs.com/tag/python/
+append to skip list. http://www.statsblogs.com/tag/python/
+append to failed list. http://shashikantjagtap.net/
+append to skip list. http://shashikantjagtap.net/
+append to failed list. http://shiyanjun.cn/
+append to skip list. http://shiyanjun.cn/
+Should check the url 'https://stratechery.com/'. 
+  Found different feed URLs: 
+    - http://stratechery.com/feed/
+    - https://stratechery.com/?feed=rss
+    - https://stratechery.com/?feed=rss2
+    - https://stratechery.com/?feed=rdf
+    - https://stratechery.com/?feed=atom
+    - https://stratechery.com/feed/
+    - https://stratechery.com/feed/rss/
+    - https://stratechery.com/feed/rss2/
+    - https://stratechery.com/feed/rdf/
+    - https://stratechery.com/feed/atom/
+    - https://www.stratechery.com/?feed=rss
+    - https://www.stratechery.com/?feed=rss2
+    - https://www.stratechery.com/?feed=rdf
+    - https://www.stratechery.com/?feed=atom
+    - https://www.stratechery.com/feed/
+    - https://www.stratechery.com/feed/rss/
+    - https://www.stratechery.com/feed/rss2/
+    - https://www.stratechery.com/feed/rdf/
+    - https://www.stratechery.com/feed/atom/
+append to found list. https://stratechery.com/
+append to skip list. https://stratechery.com/
+append to failed list. http://stackvoid.com/
+append to skip list. http://stackvoid.com/
+append to failed list. https://steveedson.co.uk/
+append to skip list. https://steveedson.co.uk/
+append to failed list. https://stormpath.com/blog/
+append to skip list. https://stormpath.com/blog/
+append to failed list. http://www.stormzhang.com/
+append to skip list. http://www.stormzhang.com/
+append to failed list. https://www.sushiandrobots.com/
+append to skip list. https://www.sushiandrobots.com/
+append to failed list. http://www.succw.com/
+append to skip list. http://www.succw.com/
+append to failed list. https://swiftjournal.wordpress.com/
+append to skip list. https://swiftjournal.wordpress.com/
+append to failed list. https://swiftweekly.com/
+append to skip list. https://swiftweekly.com/
+append to failed list. https://susielu.com/
+append to skip list. https://susielu.com/
+append to failed list. http://sxywu.com/
+append to skip list. http://sxywu.com/
+append to failed list. http://www.syntaxsuccess.com/
+append to skip list. http://www.syntaxsuccess.com/
+Should check the url 'http://talkerscode.com/'. 
+  Found different feed URLs: 
+    - http://talkerscode.com/rss.xml
+append to found list. http://talkerscode.com/
+append to skip list. http://talkerscode.com/
+append to failed list. http://talkincloud.com/
+append to skip list. http://talkincloud.com/
+Should check the url 'http://www.syntaxdefinition.com/'. 
+  Found different feed URLs: 
+    - https://www.syntaxdefinition.com/feed/
+    - https://www.syntaxdefinition.com/comments/feed/
+append to found list. http://www.syntaxdefinition.com/
+append to skip list. http://www.syntaxdefinition.com/
+append to failed list. http://tech.gilt.com/
+append to skip list. http://tech.gilt.com/
+append to failed list. https://tech.just-eat.com/
+append to skip list. https://tech.just-eat.com/
+Should check the url 'http://tech.wimdu.com/'. 
+  Found different feed URLs: 
+    - http://tech.wimdu.com/?feed=rss
+    - http://tech.wimdu.com/?feed=rss2
+    - http://tech.wimdu.com/?feed=rdf
+    - http://tech.wimdu.com/?feed=atom
+    - http://tech.wimdu.com/feed/
+    - http://tech.wimdu.com/feed/rss/
+    - http://tech.wimdu.com/feed/rss2/
+    - http://tech.wimdu.com/feed/rdf/
+    - http://tech.wimdu.com/feed/atom/
+    - http://tech.wimdu.com/services/rss/
+append to found list. http://tech.wimdu.com/
+append to skip list. http://tech.wimdu.com/
+append to failed list. http://talll.com/
+append to skip list. http://talll.com/
+append to failed list. https://tannerlinsley.com/
+append to skip list. https://tannerlinsley.com/
+append to failed list. https://tech.scrunch.com/blog/
+append to skip list. https://tech.scrunch.com/blog/
+append to failed list. https://tech.zalando.com/blog/
+append to skip list. https://tech.zalando.com/blog/
+append to failed list. http://tech.wonga.com/
+append to skip list. http://tech.wonga.com/
+append to failed list. https://techblog.expedia.com/
+append to skip list. https://techblog.expedia.com/
+append to failed list. https://techblog.badoo.com/
+append to skip list. https://techblog.badoo.com/
+append to failed list. http://techblog.toutiao.com/
+append to skip list. http://techblog.toutiao.com/
+append to failed list. https://www.techbeamers.com/
+append to skip list. https://www.techbeamers.com/
+append to failed list. http://stuartkhall.com/
+append to skip list. http://stuartkhall.com/
+append to failed list. http://techkeep.tk/
+append to skip list. http://techkeep.tk/
+append to failed list. https://techpursue.com/
+append to skip list. https://techpursue.com/
+append to failed list. http://swiftyjimmy.com/
+append to skip list. http://swiftyjimmy.com/
+append to failed list. https://www.tellapart.com/engineering-blog/
+append to skip list. https://www.tellapart.com/engineering-blog/
+append to failed list. https://terabit.ca/blog/
+append to skip list. https://terabit.ca/blog/
+append to failed list. https://tgideas.qq.com/
+append to skip list. https://tgideas.qq.com/
+append to failed list. https://theapicompany.com/
+append to skip list. https://theapicompany.com/
+Should check the url 'http://www.the5fire.com/'. 
+  Found different feed URLs: 
+    - http://www.the5fire.com/feed/
+    - http://www.the5fire.com/feed/rss/
+    - http://www.the5fire.com/feed/rss2/
+    - http://www.the5fire.com/feed/atom/
+    - http://www.the5fire.com/services/rss/
+    - http://the5fire.com/feed/
+    - http://the5fire.com/feed/rss/
+    - http://the5fire.com/feed/rss2/
+    - http://the5fire.com/feed/rdf/
+    - http://the5fire.com/feed/atom/
+    - http://the5fire.com/services/rss/
+append to found list. http://www.the5fire.com/
+append to skip list. http://www.the5fire.com/
+append to failed list. http://thecodist.com/
+append to skip list. http://thecodist.com/
+Should check the url 'https://thecloudblog.in/'. 
+  Found different feed URLs: 
+    - https://thecloudblog.in/feed/
+    - https://thecloudblog.in/comments/feed/
+append to found list. https://thecloudblog.in/
+append to skip list. https://thecloudblog.in/
+append to failed list. http://techblog.realestate.com.au/engineering/
+append to skip list. http://techblog.realestate.com.au/engineering/
+append to failed list. http://www.techpaliyal.com/
+append to skip list. http://www.techpaliyal.com/
+Should check the url 'https://www.thejavaprogrammer.com/'. 
+  Found different feed URLs: 
+    - https://www.thejavaprogrammer.com/feed/
+    - https://www.thejavaprogrammer.com/comments/feed/
+append to found list. https://www.thejavaprogrammer.com/
+append to skip list. https://www.thejavaprogrammer.com/
+append to failed list. http://techxposer.com/
+append to skip list. http://techxposer.com/
+Should check the url 'https://www.therightbraingeek.com/blog/'. 
+  Found different feed URLs: 
+    - https://www.therightbraingeek.com/?feed=rss
+    - https://www.therightbraingeek.com/?feed=rss2
+    - https://www.therightbraingeek.com/?feed=rdf
+    - https://www.therightbraingeek.com/?feed=atom
+    - https://www.therightbraingeek.com/feed/
+    - https://www.therightbraingeek.com/feed/rss/
+    - https://www.therightbraingeek.com/feed/rss2/
+    - https://www.therightbraingeek.com/feed/rdf/
+    - https://www.therightbraingeek.com/feed/atom/
+    - https://www.therightbraingeek.com/services/rss/
+    - https://therightbraingeek.com/?feed=rss
+    - https://therightbraingeek.com/?feed=rss2
+    - https://therightbraingeek.com/?feed=rdf
+    - https://therightbraingeek.com/?feed=atom
+    - https://therightbraingeek.com/feed/
+    - https://therightbraingeek.com/feed/rss/
+    - https://therightbraingeek.com/feed/rss2/
+    - https://therightbraingeek.com/feed/rdf/
+    - https://therightbraingeek.com/feed/atom/
+    - https://therightbraingeek.com/services/rss/
+append to found list. https://www.therightbraingeek.com/blog/
+append to skip list. https://www.therightbraingeek.com/blog/
+append to found list. https://themaninblue.com/
+append to skip list. https://themaninblue.com/
+Should check the url 'https://www.thedroidsonroids.com/category/blog/ios'. 
+  Found different feed URLs: 
+    - https://www.thedroidsonroids.com/feed/atom
+    - https://www.thedroidsonroids.com/blog/inhouse-vs-outsourcing-software-development/feed/atom
+    - https://www.thedroidsonroids.com/blog/benefits-outsourcing-software-development/feed/atom
+    - https://www.thedroidsonroids.com/blog/how-to-configure-bitrise-workflows-for-your-android-project/feed/atom
+    - https://www.thedroidsonroids.com/blog/how-to-build-minimum-viable-product-mvp-business-plan/feed/atom
+    - https://www.thedroidsonroids.com/blog/what-is-minimum-viable-product-mvp-business-meaning/feed/atom
+    - https://www.thedroidsonroids.com/blog/6-misconceptions-about-tdd-part-4-steps-size/feed/atom
+    - https://www.thedroidsonroids.com/blog/flutter-vs-react-native-what-to-choose-in-2020/feed/atom
+append to found list. https://www.thedroidsonroids.com/category/blog/ios
+append to skip list. https://www.thedroidsonroids.com/category/blog/ios
+append to failed list. http://thedailywtf.com/
+append to skip list. http://thedailywtf.com/
