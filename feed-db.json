@@ -7586,7 +7586,7 @@
   {
     "alias": "hackhp.com",
     "url": "http://www.hackhp.com/",
-    "feedUrl": "https://www.hackhp.com/sitemap.xml"
+    "feedUrl": "https://www.hackhp.com/?feed=rss"
   },
   {
     "alias": "hackingwithswift.com/articles",
@@ -8084,6 +8084,11 @@
     "feedUrl": "http://ice.gs/atom.xml"
   },
   {
+    "alias": "icefifi.com",
+    "url": "http://www.icefifi.com/",
+    "feedUrl": "http://www.icefifi.com/feed"
+  },
+  {
     "alias": "icicletech.com/blog",
     "url": "https://www.icicletech.com/blog",
     "feedUrl": "https://www.icicletech.com/blog/feed"
@@ -8098,7 +8103,7 @@
   {
     "alias": "ideawu.net/blog",
     "url": "http://www.ideawu.net/blog",
-    "feedUrl": "http://www.ideawu.net/blog/wp-includes/wlwmanifest.xml"
+    "feedUrl": "http://www.ideawu.net/blog/feed"
   },
   {
     "alias": "idevops.info",
@@ -8234,7 +8239,7 @@
   {
     "alias": "impressivewebs.com",
     "url": "https://www.impressivewebs.com/",
-    "feedUrl": "https://www.impressivewebs.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://www.impressivewebs.com/feed"
   },
   {
     "alias": "imququ.com",
@@ -8298,6 +8303,11 @@
     "feedUrl": "https://infinum.com/the-capsized-eight.rss",
     "title": "The Capsized Eight",
     "type": "rss"
+  },
+  {
+    "alias": "influxdata.com/blog",
+    "url": "https://influxdata.com/blog/",
+    "feedUrl": "https://www.influxdata.com/feed/"
   },
   {
     "alias": "info.9iphp.com",
