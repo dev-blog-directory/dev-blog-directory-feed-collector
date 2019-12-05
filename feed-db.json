@@ -16183,6 +16183,11 @@
     "feedUrl": "http://www.ttlsa.com/?feed=rss"
   },
   {
+    "alias": "ttt.tt",
+    "url": "https://ttt.tt/",
+    "feedUrl": "https://sb.sb/atom.xml"
+  },
+  {
     "alias": "tushargahora.blogspot.com",
     "url": "https://tushargahora.blogspot.com/?m=1",
     "feedUrl": "https://tushargahora.blogspot.com/feeds/posts/default"
@@ -16239,7 +16244,7 @@
   {
     "alias": "tympanus.net/codrops",
     "url": "https://tympanus.net/codrops/",
-    "feedUrl": "https://codropspz-tympanus.netdna-ssl.com/codrops/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://tympanus.net/?feed=rss",
     "title": "Codrops",
     "type": "rss"
   },
@@ -16252,6 +16257,11 @@
     "alias": "ucdchina.com",
     "url": "http://ucdchina.com/",
     "feedUrl": "http://ucdchina.com/rss/all"
+  },
+  {
+    "alias": "ueview.com",
+    "url": "http://www.ueview.com/",
+    "feedUrl": "https://www.ueview.com/?feed=rss2"
   },
   {
     "alias": "uie.com",
@@ -16370,6 +16380,16 @@
     "alias": "uxc.360.cn",
     "url": "http://uxc.360.cn/",
     "feedUrl": "http://uxc.360.cn/rss.html"
+  },
+  {
+    "alias": "uxc.baidu.com",
+    "url": "http://uxc.baidu.com/",
+    "feedUrl": "http://uxc.baidu.com/?feed=rss"
+  },
+  {
+    "alias": "uxcellence.com",
+    "url": "https://uxcellence.com/",
+    "feedUrl": "https://www.uxcellence.com/?feed=atom"
   },
   {
     "alias": "uxpin.com/studio/blog",
@@ -16523,7 +16543,7 @@
   {
     "alias": "vuejsfeed.com",
     "url": "https://vuejsfeed.com/",
-    "feedUrl": "https://vuejsfeed.com/vuejsfeed.com/https:/vuejobs.com/?ref=vuejsfeed"
+    "feedUrl": "https://vuejobs.com/?ref=vuejsfeed"
   },
   {
     "alias": "vuenews.fireside.fm",
@@ -17396,7 +17416,7 @@
   {
     "alias": "zhujun.me",
     "url": "http://www.zhujun.me/",
-    "feedUrl": "http://www.zhujun.me/sitemap.xml"
+    "feedUrl": "http://www.zhujun.me/?feed=rss"
   },
   {
     "alias": "zhukun.net",
@@ -17479,6 +17499,6 @@
   {
     "alias": "zynga.com/blogs/engineering",
     "url": "https://www.zynga.com/blogs/engineering",
-    "feedUrl": "https://www.zynga.com/lib/wlwmanifest.xml"
+    "feedUrl": "https://www.zynga.com/?feed=rss"
   }
 ]
