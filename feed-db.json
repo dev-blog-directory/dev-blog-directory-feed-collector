@@ -8561,6 +8561,11 @@
     "type": "rss"
   },
   {
+    "alias": "ituibar.com",
+    "url": "http://ituibar.com/",
+    "feedUrl": "http://ituibar.com/?feed=rss"
+  },
+  {
     "alias": "itworld.com/category/cloud-computing",
     "url": "https://www.itworld.com/category/cloud-computing/",
     "feedUrl": "http://www.itworld.com/category/cloud-computing/index.rss"
@@ -8976,6 +8981,11 @@
     "alias": "jmouse.cn",
     "url": "http://www.jmouse.cn/",
     "feedUrl": "https://jmouse.cn/feed/"
+  },
+  {
+    "alias": "jo2.org",
+    "url": "http://jo2.org/",
+    "feedUrl": "http://jo2.org/feed/"
   },
   {
     "alias": "jobandtalent.engineering",

@@ -1571,3 +1571,244 @@ append to found list. https://github.com/memleaks
 append to skip list. https://github.com/memleaks
 append to failed list. https://www.gloriacho.com/
 append to skip list. https://www.gloriacho.com/
+append to failed list. http://guojing.me/
+append to skip list. http://guojing.me/
+append to failed list. https://guuu.io/
+append to skip list. https://guuu.io/
+append to failed list. https://hackernoon.com/
+append to skip list. https://hackernoon.com/
+append to failed list. https://hendry.iki.fi/
+append to skip list. https://hendry.iki.fi/
+Should check the url 'http://www.hackhp.com/'. 
+  Found different feed URLs: 
+    - https://www.hackhp.com/?feed=rss
+    - https://www.hackhp.com/?feed=rss2
+    - https://www.hackhp.com/?feed=atom
+append to found list. http://www.hackhp.com/
+append to skip list. http://www.hackhp.com/
+append to failed list. http://www.hiadmin.org/
+append to skip list. http://www.hiadmin.org/
+append to failed list. http://hightman.cn/
+append to skip list. http://hightman.cn/
+append to failed list. http://higrid.net/
+append to skip list. http://higrid.net/
+append to failed list. http://www.hao.uisdc.com/
+append to skip list. http://www.hao.uisdc.com/
+append to failed list. https://hesh.am/
+append to skip list. https://hesh.am/
+append to failed list. http://www.h4ck.org.cn/
+append to skip list. http://www.h4ck.org.cn/
+append to failed list. http://www.hiheng.com/blog
+append to skip list. http://www.hiheng.com/blog
+append to failed list. http://www.hindata.com/
+append to skip list. http://www.hindata.com/
+append to failed list. https://www.hiteshi.com/blog/
+append to skip list. https://www.hiteshi.com/blog/
+append to failed list. http://www.hmouse.tk/
+append to skip list. http://www.hmouse.tk/
+append to failed list. http://holko.pl/
+append to skip list. http://holko.pl/
+append to failed list. http://www.hollischuang.com/
+append to skip list. http://www.hollischuang.com/
+append to failed list. https://holtwick.de/blog/
+append to skip list. https://holtwick.de/blog/
+append to failed list. http://hongjiang.info/
+append to skip list. http://hongjiang.info/
+append to failed list. http://honzadvorsky.com/
+append to skip list. http://honzadvorsky.com/
+append to failed list. http://how2android.com/
+append to skip list. http://how2android.com/
+append to failed list. https://howtodoinjava.com/
+append to skip list. https://howtodoinjava.com/
+append to failed list. http://www.html5dw.com/
+append to skip list. http://www.html5dw.com/
+append to failed list. https://hubblehq.com/blog
+append to skip list. https://hubblehq.com/blog
+append to failed list. http://www.html5tricks.com/
+append to skip list. http://www.html5tricks.com/
+append to failed list. https://www.icehousecorp.com/blog/
+append to skip list. https://www.icehousecorp.com/blog/
+Should check the url 'http://www.ideawu.net/blog'. 
+  Found different feed URLs: 
+    - http://www.ideawu.net/blog/feed
+    - http://www.ideawu.net/blog/comments/feed
+append to found list. http://www.ideawu.net/blog
+append to skip list. http://www.ideawu.net/blog
+append to failed list. http://idevblogaday.com/
+append to skip list. http://idevblogaday.com/
+append to failed list. http://www.ideawu.net/
+append to skip list. http://www.ideawu.net/
+append to failed list. http://idlelife.org/
+append to skip list. http://idlelife.org/
+Should check the url 'http://www.icefifi.com/'. 
+  Found different feed URLs: 
+    - http://www.icefifi.com/feed
+    - http://www.icefifi.com/comments/feed
+append to found list. http://www.icefifi.com/
+append to skip list. http://www.icefifi.com/
+append to failed list. https://www.iewb.net/
+append to skip list. https://www.iewb.net/
+append to failed list. http://www.ijser.cn/
+append to skip list. http://www.ijser.cn/
+append to failed list. http://importpython.com/newsletter/
+append to skip list. http://importpython.com/newsletter/
+Should check the url 'https://www.impressivewebs.com/'. 
+  Found different feed URLs: 
+    - https://www.impressivewebs.com/feed
+    - https://www.impressivewebs.com/?feed=rss
+    - https://www.impressivewebs.com/?feed=rss2
+    - https://www.impressivewebs.com/?feed=rdf
+    - https://www.impressivewebs.com/?feed=atom
+    - https://www.impressivewebs.com/feed/
+    - https://www.impressivewebs.com/feed/rss/
+    - https://www.impressivewebs.com/feed/rss2/
+    - https://www.impressivewebs.com/feed/rdf/
+    - https://www.impressivewebs.com/feed/atom/
+    - https://impressivewebs.com/?feed=rss
+    - https://impressivewebs.com/?feed=rss2
+    - https://impressivewebs.com/?feed=rdf
+    - https://impressivewebs.com/?feed=atom
+    - https://impressivewebs.com/feed/
+    - https://impressivewebs.com/feed/rss/
+    - https://impressivewebs.com/feed/rss2/
+    - https://impressivewebs.com/feed/rdf/
+    - https://impressivewebs.com/feed/atom/
+append to found list. https://www.impressivewebs.com/
+append to skip list. https://www.impressivewebs.com/
+append to failed list. https://icalvin.dev/
+append to skip list. https://icalvin.dev/
+append to failed list. http://intentmedia.com/blog/
+append to skip list. http://intentmedia.com/blog/
+append to failed list. http://intermediatepythonista.com/
+append to skip list. http://intermediatepythonista.com/
+append to failed list. https://www.improgrammer.net/
+append to skip list. https://www.improgrammer.net/
+append to found list. https://influxdata.com/blog/
+append to skip list. https://influxdata.com/blog/
+append to failed list. http://www.ioscoachfrank.com/
+append to skip list. http://www.ioscoachfrank.com/
+append to failed list. http://inventwithpython.com/blog/
+append to skip list. http://inventwithpython.com/blog/
+append to failed list. http://iosdevelopertips.com/
+append to skip list. http://iosdevelopertips.com/
+append to failed list. https://internetdevels.com/blog
+append to skip list. https://internetdevels.com/blog
+append to failed list. http://ironman.enlightenedperl.org/
+append to skip list. http://ironman.enlightenedperl.org/
+append to failed list. http://www.importnew.com/
+append to skip list. http://www.importnew.com/
+append to failed list. http://www.itbbu.com/
+append to skip list. http://www.itbbu.com/
+append to failed list. http://isux.tencent.com/
+append to skip list. http://isux.tencent.com/
+append to failed list. https://www.isharepc.com/
+append to skip list. https://www.isharepc.com/
+append to failed list. http://www.itcodai.com/
+append to skip list. http://www.itcodai.com/
+append to failed list. https://www.itfanr.cc/
+append to skip list. https://www.itfanr.cc/
+append to failed list. https://www.iwakoscott.com/
+append to skip list. https://www.iwakoscott.com/
+append to failed list. https://jakebaker.co.uk/
+append to skip list. https://jakebaker.co.uk/
+append to failed list. https://iosdeveloperblog.com/
+append to skip list. https://iosdeveloperblog.com/
+Should check the url 'http://ituibar.com/'. 
+  Found different feed URLs: 
+    - http://ituibar.com/?feed=rss
+    - http://ituibar.com/?feed=atom
+    - http://ituibar.com/feed/
+    - http://ituibar.com/feed/atom/
+    - http://ituibar.com/services/rss/
+append to found list. http://ituibar.com/
+append to skip list. http://ituibar.com/
+append to failed list. https://www.jasonzurita.com/blog/
+append to skip list. https://www.jasonzurita.com/blog/
+append to failed list. http://www.itzhai.com/
+append to skip list. http://www.itzhai.com/
+append to failed list. http://javaonfly.blogspot.com/
+append to skip list. http://javaonfly.blogspot.com/
+append to failed list. https://javascriptplayground.com/
+append to skip list. https://javascriptplayground.com/
+append to failed list. https://jackchan1999.github.io/
+append to skip list. https://jackchan1999.github.io/
+append to failed list. https://jamesdouble.github.io/blog/
+append to skip list. https://jamesdouble.github.io/blog/
+append to failed list. https://iosdevelopernews.com/
+append to skip list. https://iosdevelopernews.com/
+append to failed list. http://jessenoller.com/
+append to skip list. http://jessenoller.com/
+append to failed list. http://www.jiacheo.org/
+append to skip list. http://www.jiacheo.org/
+append to failed list. https://javahungry.blogspot.com/
+append to skip list. https://javahungry.blogspot.com/
+append to failed list. http://jimliu.net/
+append to skip list. http://jimliu.net/
+append to failed list. https://www.jianshu.com/u/oSuHPw
+append to skip list. https://www.jianshu.com/u/oSuHPw
+append to failed list. https://jimfilippou.space/
+append to skip list. https://jimfilippou.space/
+append to failed list. https://jin-yang.github.io/
+append to skip list. https://jin-yang.github.io/
+append to failed list. http://www.jellythink.com/
+append to skip list. http://www.jellythink.com/
+append to failed list. https://jordanm.co.uk/
+append to skip list. https://jordanm.co.uk/
+append to failed list. https://jsnews.io/react/
+append to skip list. https://jsnews.io/react/
+append to failed list. https://joearms.github.io/
+append to skip list. https://joearms.github.io/
+append to failed list. http://www.judymax.com/
+append to skip list. http://www.judymax.com/
+append to found list. http://jo2.org/
+append to skip list. http://jo2.org/
+append to failed list. https://www.johnstewart.io/
+append to skip list. https://www.johnstewart.io/
+append to failed list. https://junaidqadir.com/
+append to skip list. https://junaidqadir.com/
+append to failed list. https://jollygoodcode.github.io/
+append to skip list. https://jollygoodcode.github.io/
+append to failed list. http://www.jubushoushen.com/
+append to skip list. http://www.jubushoushen.com/
+append to failed list. http://www.keakon.net/
+append to skip list. http://www.keakon.net/
+append to failed list. http://keeganlee.me/
+append to skip list. http://keeganlee.me/
+append to failed list. http://kaverjody.com/
+append to skip list. http://kaverjody.com/
+append to failed list. https://www.krissiegel.com/
+append to skip list. https://www.krissiegel.com/
+append to failed list. http://kristofk.com/category/ios-development/
+append to skip list. http://kristofk.com/category/ios-development/
+append to failed list. http://kuailejim.com/
+append to skip list. http://kuailejim.com/
+append to failed list. https://kvlly.com/
+append to skip list. https://kvlly.com/
+append to failed list. https://kylehall.io/
+append to skip list. https://kylehall.io/
+append to failed list. http://www.kele5240.com/
+append to skip list. http://www.kele5240.com/
+append to failed list. http://labs.strava.com/
+append to skip list. http://labs.strava.com/
+append to failed list. http://kylegill.com/
+append to skip list. http://kylegill.com/
+append to failed list. http://leandrotk.github.io/tk
+append to skip list. http://leandrotk.github.io/tk
+append to failed list. http://kodango.com/
+append to skip list. http://kodango.com/
+append to failed list. http://learnpythonbreakpython.com/
+append to skip list. http://learnpythonbreakpython.com/
+append to failed list. https://lcrea.github.io/
+append to skip list. https://lcrea.github.io/
+append to failed list. https://lengstorf.com/blog
+append to skip list. https://lengstorf.com/blog
+append to failed list. https://learnxinyminutes.com/docs/python3/
+append to skip list. https://learnxinyminutes.com/docs/python3/
+append to failed list. http://legendmohe.net/
+append to skip list. http://legendmohe.net/
+append to failed list. https://leonax.net/
+append to skip list. https://leonax.net/
+append to failed list. http://jwcyber.com/
+append to skip list. http://jwcyber.com/
+append to failed list. http://landonf.org/
+append to skip list. http://landonf.org/

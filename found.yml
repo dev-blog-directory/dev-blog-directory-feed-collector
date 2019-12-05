@@ -194,3 +194,31 @@
   alias: github.com/memleaks
   url: https://github.com/memleaks
   feedUrl: https://github.com/login?return_to=%2Ffeed
+-
+  alias: hackhp.com
+  url: http://www.hackhp.com/
+  feedUrl: https://www.hackhp.com/?feed=rss
+-
+  alias: ideawu.net/blog
+  url: http://www.ideawu.net/blog
+  feedUrl: http://www.ideawu.net/blog/feed
+-
+  alias: icefifi.com
+  url: http://www.icefifi.com/
+  feedUrl: http://www.icefifi.com/feed
+-
+  alias: impressivewebs.com
+  url: https://www.impressivewebs.com/
+  feedUrl: https://www.impressivewebs.com/feed
+-
+  alias: influxdata.com/blog
+  url: https://influxdata.com/blog/
+  feedUrl: https://www.influxdata.com/feed/
+-
+  alias: ituibar.com
+  url: http://ituibar.com/
+  feedUrl: http://ituibar.com/?feed=rss
+-
+  alias: jo2.org
+  url: http://jo2.org/
+  feedUrl: http://jo2.org/feed/
