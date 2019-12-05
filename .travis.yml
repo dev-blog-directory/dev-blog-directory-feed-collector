@@ -10,7 +10,7 @@ branches:
     - master
 
 script:
-  - npm run start 100 >> log.txt
+  - npx collect-feeds 100 >> log.txt
   - npm run import && cat /dev/null > found.yml
 
 deploy:
