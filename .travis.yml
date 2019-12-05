@@ -11,7 +11,7 @@ branches:
 
 script:
   - npx collect-feeds 100 >> log.txt
-  - npm run import && cat /dev/null > found.yml
+  - npm run import
 
 deploy:
   - provider: pages
