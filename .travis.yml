@@ -10,8 +10,8 @@ branches:
     - master
 
 script:
-  - npm run start 100
-  - npm run import
+  - npm run start 100 >> log.txt
+  - npm run import && cat /dev/null > found.yml
 
 deploy:
   - provider: pages
