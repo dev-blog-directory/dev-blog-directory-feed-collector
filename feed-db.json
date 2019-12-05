@@ -10057,7 +10057,7 @@
   {
     "alias": "liuhaihua.cn",
     "url": "http://www.liuhaihua.cn/",
-    "feedUrl": "http://www.liuhaihua.cn/wp-includes/wlwmanifest.xml"
+    "feedUrl": "http://www.liuhaihua.cn/feed"
   },
   {
     "alias": "liujiacai.net",
@@ -10068,6 +10068,11 @@
     "alias": "liukaka.com",
     "url": "http://www.liukaka.com/",
     "feedUrl": "http://www.liukaka.com/feed/"
+  },
+  {
+    "alias": "liunian.info",
+    "url": "http://liunian.info/",
+    "feedUrl": "https://liunian.info/feed"
   },
   {
     "alias": "liurongxing.com",
@@ -10171,6 +10176,11 @@
     "alias": "lornajane.net",
     "url": "https://lornajane.net/",
     "feedUrl": "https://lornajane.net/feed"
+  },
+  {
+    "alias": "lostphp.com",
+    "url": "http://lostphp.com/",
+    "feedUrl": "http://lostphp.com/sitemap_baidu.xml"
   },
   {
     "alias": "louishan.com",
@@ -10655,7 +10665,7 @@
   {
     "alias": "mavenecommerce.com/blog",
     "url": "https://www.mavenecommerce.com/blog/",
-    "feedUrl": "https://www.mavenecommerce.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://www.mavenecommerce.com/?feed=rss"
   },
   {
     "alias": "mawenjian.net",
@@ -11604,6 +11614,11 @@
     "type": "rss"
   },
   {
+    "alias": "mikespook.com",
+    "url": "http://www.mikespook.com/",
+    "feedUrl": "https://mikespook.com/feed/"
+  },
+  {
     "alias": "mikestreety.co.uk/blog",
     "url": "https://www.mikestreety.co.uk/blog",
     "feedUrl": "https://www.mikestreety.co.uk/rss"
@@ -11692,6 +11707,11 @@
     "feedUrl": "https://mixpanel.com/?feed=rss"
   },
   {
+    "alias": "mjix.com",
+    "url": "http://www.mjix.com/",
+    "feedUrl": "https://www.mjix.com/feed"
+  },
+  {
     "alias": "mjtsai.com/blog",
     "url": "https://mjtsai.com/blog",
     "feedUrl": "https://mjtsai.com/blog/feed/",
@@ -11706,7 +11726,7 @@
   {
     "alias": "mmuaa.com",
     "url": "https://www.mmuaa.com/",
-    "feedUrl": "https://www.mmuaa.com/sitemap.xml"
+    "feedUrl": "https://www.mmuaa.com/?feed=rss"
   },
   {
     "alias": "mobidevtalk.com",
@@ -11723,7 +11743,7 @@
   {
     "alias": "mobiledevmemo.com",
     "url": "https://mobiledevmemo.com/",
-    "feedUrl": "https://mobiledevmemo.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://mobiledevmemo.com/feed/atom/"
   },
   {
     "alias": "mobileinvader.com",
@@ -11792,6 +11812,11 @@
     "alias": "morepypy.blogspot.co.id",
     "url": "https://morepypy.blogspot.co.id/",
     "feedUrl": "https://morepypy.blogspot.com/feeds/posts/default"
+  },
+  {
+    "alias": "morfans.cn",
+    "url": "http://morfans.cn/",
+    "feedUrl": "https://morfans.cn/?feed=rss2"
   },
   {
     "alias": "morningswiftui.com",
@@ -12058,7 +12083,7 @@
   {
     "alias": "natashatherobot.com",
     "url": "https://www.natashatherobot.com/",
-    "feedUrl": "https://www.natashatherobot.com/feed/",
+    "feedUrl": "https://www.natashatherobot.com/feed/rdf/",
     "title": "Natasha The Robot",
     "type": "rss"
   },
@@ -12329,7 +12354,7 @@
   {
     "alias": "notlaura.com",
     "url": "https://notlaura.com/",
-    "feedUrl": "https://notlaura.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://notlaura.com/?feed=rss"
   },
   {
     "alias": "novoda.com/blog",
@@ -12655,7 +12680,7 @@
   {
     "alias": "pagerduty.com/blog",
     "url": "https://www.pagerduty.com/blog/",
-    "feedUrl": "https://www.pagerduty.com/wp-includes/wlwmanifest.xml"
+    "feedUrl": "https://www.pagerduty.com/?feed=rss"
   },
   {
     "alias": "pagico.com/blog",
@@ -12990,7 +13015,7 @@
   {
     "alias": "pluralsight.com/guides",
     "url": "https://www.pluralsight.com/guides",
-    "feedUrl": "https://www.pluralsight.com/sitemap.xml"
+    "feedUrl": "https://www.pluralsight.com/feed/rss/"
   },
   {
     "alias": "pm28.com",
