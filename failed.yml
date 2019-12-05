@@ -6928,3 +6928,323 @@
   date: Thu Dec 05 2019 17:36:11 GMT+0000 (Coordinated Universal Time)
   url: http://thedailywtf.com/
   reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:15 GMT+0000 (Coordinated Universal Time)
+  url: https://www.tianmaying.com/user/david
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Thu Dec 05 2019 17:37:19 GMT+0000 (Coordinated Universal Time)
+  url: https://www.thinktreeit.com/blog/
+  reason: RequestError: connect ECONNREFUSED 204.11.56.48:443
+-
+  date: Thu Dec 05 2019 17:37:19 GMT+0000 (Coordinated Universal Time)
+  url: http://tikitoo.github.io/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:19 GMT+0000 (Coordinated Universal Time)
+  url: http://tmyam.github.io/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:20 GMT+0000 (Coordinated Universal Time)
+  url: https://theswiftpost.co/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:21 GMT+0000 (Coordinated Universal Time)
+  url: http://tomner.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:24 GMT+0000 (Coordinated Universal Time)
+  url: http://www.tony77.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:26 GMT+0000 (Coordinated Universal Time)
+  url: https://www.truepush.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:29 GMT+0000 (Coordinated Universal Time)
+  url: http://tony.ecy.ren/
+  reason: RequestError: getaddrinfo ENOTFOUND tony.ecy.ren
+-
+  date: Thu Dec 05 2019 17:37:30 GMT+0000 (Coordinated Universal Time)
+  url: http://tomxin.cn/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:30 GMT+0000 (Coordinated Universal Time)
+  url: https://www.twilio.com/docs/quickstart/python
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:30 GMT+0000 (Coordinated Universal Time)
+  url: https://www.twilio.com/engineering/
+  reason: HTTPError: Response code 404 (NOT FOUND)
+-
+  date: Thu Dec 05 2019 17:37:30 GMT+0000 (Coordinated Universal Time)
+  url: http://www.tutorialspoint.com/python/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:30 GMT+0000 (Coordinated Universal Time)
+  url: http://typeof.net/index.html
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:35 GMT+0000 (Coordinated Universal Time)
+  url: http://www.ui.cn/
+  reason: RequestError: getaddrinfo ENOTFOUND www.ui.cn
+-
+  date: Thu Dec 05 2019 17:37:40 GMT+0000 (Coordinated Universal Time)
+  url: http://ued.focus.cn/wordpress
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:42 GMT+0000 (Coordinated Universal Time)
+  url: https://urenko.github.io/Accesser/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:43 GMT+0000 (Coordinated Universal Time)
+  url: https://www.uxpin.com/studio/blog/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:45 GMT+0000 (Coordinated Universal Time)
+  url: http://www.vertabelo.com/blog
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:49 GMT+0000 (Coordinated Universal Time)
+  url: https://virusdefender.net/
+  reason: RequestError: connect ECONNREFUSED 140.143.224.171:443
+-
+  date: Thu Dec 05 2019 17:37:53 GMT+0000 (Coordinated Universal Time)
+  url: https://uxcellence.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:53 GMT+0000 (Coordinated Universal Time)
+  url: http://uicss.cn/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Thu Dec 05 2019 17:37:53 GMT+0000 (Coordinated Universal Time)
+  url: https://web-techno.net/
+  reason: RequestError: certificate has expired
+-
+  date: Thu Dec 05 2019 17:37:58 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wangxin.me/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:58 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wanghailin.cn/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:37:58 GMT+0000 (Coordinated Universal Time)
+  url: https://wecode.wepay.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:00 GMT+0000 (Coordinated Universal Time)
+  url: https://www.webdevelopmentpark.com/blog/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Thu Dec 05 2019 17:38:00 GMT+0000 (Coordinated Universal Time)
+  url: https://www.wefearchange.org/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:01 GMT+0000 (Coordinated Universal Time)
+  url: http://weizhifeng.net/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:01 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wheattime.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:02 GMT+0000 (Coordinated Universal Time)
+  url: http://weekly.manong.io/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:03 GMT+0000 (Coordinated Universal Time)
+  url: https://www.webdesignernews.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:03 GMT+0000 (Coordinated Universal Time)
+  url: http://www.weicorner.cc/
+  reason: RequestError: getaddrinfo ENOTFOUND www.weicorner.cc
+-
+  date: Thu Dec 05 2019 17:38:04 GMT+0000 (Coordinated Universal Time)
+  url: http://wiki.timwang.me/
+  reason: RequestError: getaddrinfo ENOTFOUND wiki.timwang.me
+-
+  date: Thu Dec 05 2019 17:38:05 GMT+0000 (Coordinated Universal Time)
+  url: http://www.webx32.com/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Thu Dec 05 2019 17:38:05 GMT+0000 (Coordinated Universal Time)
+  url: http://www.woniubi.cn/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Thu Dec 05 2019 17:38:11 GMT+0000 (Coordinated Universal Time)
+  url: http://www.withparadox2.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:12 GMT+0000 (Coordinated Universal Time)
+  url: http://wuzhiwei.net/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Thu Dec 05 2019 17:38:12 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wwwer.net/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Thu Dec 05 2019 17:38:13 GMT+0000 (Coordinated Universal Time)
+  url: http://wyattbaldwin.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:13 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wjdiankong.cn/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:38:40 GMT+0000 (Coordinated Universal Time)
+  url: https://wtipl.com/blog/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:38:47 GMT+0000 (Coordinated Universal Time)
+  url: http://www.xdemo.org/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:38:55 GMT+0000 (Coordinated Universal Time)
+  url: http://xianglong.me/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:38:56 GMT+0000 (Coordinated Universal Time)
+  url: https://www.xiaoweigod.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:39:04 GMT+0000 (Coordinated Universal Time)
+  url: http://www.xuanfengge.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:39:16 GMT+0000 (Coordinated Universal Time)
+  url: http://www.xwuxin.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:39:20 GMT+0000 (Coordinated Universal Time)
+  url: https://yaabed.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:39:28 GMT+0000 (Coordinated Universal Time)
+  url: http://yannisxu.farbox.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:39:36 GMT+0000 (Coordinated Universal Time)
+  url: http://yaojingguo.github.io/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:39:39 GMT+0000 (Coordinated Universal Time)
+  url: http://www.ydwe.net/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:39:51 GMT+0000 (Coordinated Universal Time)
+  url: http://yechengfu.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:39:56 GMT+0000 (Coordinated Universal Time)
+  url: https://www.yegor256.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:40:03 GMT+0000 (Coordinated Universal Time)
+  url: http://www.yegor256.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:40:12 GMT+0000 (Coordinated Universal Time)
+  url: http://yejinxin.github.io/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:40:20 GMT+0000 (Coordinated Universal Time)
+  url: http://yemengying.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:40:26 GMT+0000 (Coordinated Universal Time)
+  url: http://yetanothermathprogrammingconsultant.blogspot.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:40:31 GMT+0000 (Coordinated Universal Time)
+  url: http://www.yfworld.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:40:39 GMT+0000 (Coordinated Universal Time)
+  url: http://yi-programmer.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:40:46 GMT+0000 (Coordinated Universal Time)
+  url: http://yifan.lu/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:40:55 GMT+0000 (Coordinated Universal Time)
+  url: http://www.yihaomen.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:41:03 GMT+0000 (Coordinated Universal Time)
+  url: http://yimingzhi.net/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:41:08 GMT+0000 (Coordinated Universal Time)
+  url: http://yonsm.net/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:41:14 GMT+0000 (Coordinated Universal Time)
+  url: http://www.youc.net/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:41:22 GMT+0000 (Coordinated Universal Time)
+  url: http://www.youxiuboke.com/en/index.html
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:41:30 GMT+0000 (Coordinated Universal Time)
+  url: https://yq.aliyun.com/articles/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:41:37 GMT+0000 (Coordinated Universal Time)
+  url: http://ytliu.info/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Thu Dec 05 2019 17:41:41 GMT+0000 (Coordinated Universal Time)
+  url: http://www.ywjt.org/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:42 GMT+0000 (Coordinated Universal Time)
+  url: http://yunkus.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:42 GMT+0000 (Coordinated Universal Time)
+  url: https://zapier.com/engineering/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:42 GMT+0000 (Coordinated Universal Time)
+  url: http://www.yunweipai.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:42 GMT+0000 (Coordinated Universal Time)
+  url: http://zhangtielei.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:45 GMT+0000 (Coordinated Universal Time)
+  url: http://zheng-ji.github.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:46 GMT+0000 (Coordinated Universal Time)
+  url: http://zaodula.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:46 GMT+0000 (Coordinated Universal Time)
+  url: https://zhiku8.com/
+  reason: RequestError: Hostname/IP does not match certificate's altnames: Host: zhiku8.com. is not in the cert's altnames: DNS:izpan.com, DNS:www.izpan.com
+-
+  date: Thu Dec 05 2019 17:41:47 GMT+0000 (Coordinated Universal Time)
+  url: https://www.zhangxinxu.com/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:47 GMT+0000 (Coordinated Universal Time)
+  url: https://www.zhihu.com/org/thoughtworks-zhong-guo/activities
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:48 GMT+0000 (Coordinated Universal Time)
+  url: http://zengrong.net/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:49 GMT+0000 (Coordinated Universal Time)
+  url: https://www.zillow.com/engineering/
+  reason: Feed URL not found
+-
+  date: Thu Dec 05 2019 17:41:51 GMT+0000 (Coordinated Universal Time)
+  url: http://zhangsa.net/
+  reason: Feed URL not found

@@ -2469,3 +2469,254 @@ append to found list. https://www.thedroidsonroids.com/category/blog/ios
 append to skip list. https://www.thedroidsonroids.com/category/blog/ios
 append to failed list. http://thedailywtf.com/
 append to skip list. http://thedailywtf.com/
+append to failed list. https://www.tianmaying.com/user/david
+append to skip list. https://www.tianmaying.com/user/david
+append to failed list. https://www.thinktreeit.com/blog/
+append to skip list. https://www.thinktreeit.com/blog/
+append to failed list. http://tikitoo.github.io/
+append to skip list. http://tikitoo.github.io/
+append to failed list. http://tmyam.github.io/
+append to skip list. http://tmyam.github.io/
+append to failed list. https://theswiftpost.co/
+append to skip list. https://theswiftpost.co/
+append to failed list. http://tomner.com/
+append to skip list. http://tomner.com/
+append to found list. http://thinkstrategies.com/blog/#
+append to skip list. http://thinkstrategies.com/blog/#
+append to failed list. http://www.tony77.com/
+append to skip list. http://www.tony77.com/
+append to failed list. https://www.truepush.com/
+append to skip list. https://www.truepush.com/
+append to failed list. http://tony.ecy.ren/
+append to skip list. http://tony.ecy.ren/
+append to failed list. http://tomxin.cn/
+append to skip list. http://tomxin.cn/
+Should check the url 'http://timoliver.blog/'. 
+  Found different feed URLs: 
+    - http://timoliver.blog/feed/rss2/
+append to found list. http://timoliver.blog/
+append to skip list. http://timoliver.blog/
+append to failed list. https://www.twilio.com/docs/quickstart/python
+append to skip list. https://www.twilio.com/docs/quickstart/python
+append to failed list. https://www.twilio.com/engineering/
+append to skip list. https://www.twilio.com/engineering/
+append to failed list. http://www.tutorialspoint.com/python/
+append to skip list. http://www.tutorialspoint.com/python/
+append to failed list. http://typeof.net/index.html
+append to skip list. http://typeof.net/index.html
+Should check the url 'https://tympanus.net/codrops/'. 
+  Found different feed URLs: 
+    - https://tympanus.net/?feed=rss
+    - https://tympanus.net/?feed=rss2
+    - https://tympanus.net/?feed=rdf
+    - https://tympanus.net/?feed=atom
+    - https://www.tympanus.net/?feed=rss
+    - https://www.tympanus.net/?feed=rss2
+    - https://www.tympanus.net/?feed=rdf
+    - https://www.tympanus.net/?feed=atom
+append to found list. https://tympanus.net/codrops/
+append to skip list. https://tympanus.net/codrops/
+append to found list. https://ttt.tt/
+append to skip list. https://ttt.tt/
+append to failed list. http://www.ui.cn/
+append to skip list. http://www.ui.cn/
+append to failed list. http://ued.focus.cn/wordpress
+append to skip list. http://ued.focus.cn/wordpress
+Should check the url 'http://www.ueview.com/'. 
+  Found different feed URLs: 
+    - https://www.ueview.com/?feed=rss2
+    - https://www.ueview.com/?feed=comments-rss2
+append to found list. http://www.ueview.com/
+append to skip list. http://www.ueview.com/
+append to failed list. https://urenko.github.io/Accesser/
+append to skip list. https://urenko.github.io/Accesser/
+append to failed list. https://www.uxpin.com/studio/blog/
+append to skip list. https://www.uxpin.com/studio/blog/
+append to failed list. http://www.vertabelo.com/blog
+append to skip list. http://www.vertabelo.com/blog
+Should check the url 'https://vuejsfeed.com/'. 
+  Found different feed URLs: 
+    - https://vuejobs.com/?ref=vuejsfeed
+    - https://vuejsfeed.com/vuejsfeed.com/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://www.facebook.com/vuejsfeed
+    - https://twitter.com/vuejsfeed
+    - https://vuejsfeed.com/feed
+    - https://www.vuejsfeed.com/vuejsfeed.com/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://vuejsfeed.com/?feed=rss
+    - https://vuejsfeed.com/vuejsfeed.com/?feed=rss/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://vuejsfeed.com/?feed=rss2
+    - https://vuejsfeed.com/vuejsfeed.com/?feed=rss2/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://vuejsfeed.com/vuejsfeed.com/?feed=rdf/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://vuejsfeed.com/?feed=atom
+    - https://vuejsfeed.com/vuejsfeed.com/?feed=atom/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://vuejsfeed.com/feed/
+    - https://www.vuejsfeed.com/vuejsfeed.com/?feed=rss/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://www.vuejsfeed.com/vuejsfeed.com/?feed=rss2/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://www.vuejsfeed.com/vuejsfeed.com/?feed=rdf/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://www.vuejsfeed.com/vuejsfeed.com/?feed=atom/mailto:team@vuejsfeed.com?Subject=Sponsor%20Vue.js%20Feed
+    - https://www.vuejsfeed.com/feed/
+append to found list. https://vuejsfeed.com/
+append to skip list. https://vuejsfeed.com/
+Should check the url 'http://uxc.baidu.com/'. 
+  Found different feed URLs: 
+    - http://uxc.baidu.com/feed/rss/
+append to found list. http://uxc.baidu.com/
+append to skip list. http://uxc.baidu.com/
+append to failed list. https://virusdefender.net/
+append to skip list. https://virusdefender.net/
+append to failed list. https://uxcellence.com/
+append to skip list. https://uxcellence.com/
+append to failed list. http://uicss.cn/
+append to skip list. http://uicss.cn/
+append to failed list. https://web-techno.net/
+append to skip list. https://web-techno.net/
+append to failed list. http://www.wangxin.me/
+append to skip list. http://www.wangxin.me/
+append to failed list. http://www.wanghailin.cn/
+append to skip list. http://www.wanghailin.cn/
+append to failed list. https://wecode.wepay.com/
+append to skip list. https://wecode.wepay.com/
+append to failed list. https://www.webdevelopmentpark.com/blog/
+append to skip list. https://www.webdevelopmentpark.com/blog/
+append to failed list. https://www.wefearchange.org/
+append to skip list. https://www.wefearchange.org/
+append to failed list. http://weizhifeng.net/
+append to skip list. http://weizhifeng.net/
+append to failed list. http://www.wheattime.com/
+append to skip list. http://www.wheattime.com/
+append to failed list. http://weekly.manong.io/
+append to skip list. http://weekly.manong.io/
+append to failed list. https://www.webdesignernews.com/
+append to skip list. https://www.webdesignernews.com/
+append to failed list. http://www.weicorner.cc/
+append to skip list. http://www.weicorner.cc/
+append to failed list. http://wiki.timwang.me/
+append to skip list. http://wiki.timwang.me/
+append to failed list. http://www.webx32.com/
+append to skip list. http://www.webx32.com/
+append to failed list. http://www.woniubi.cn/
+append to skip list. http://www.woniubi.cn/
+append to failed list. http://www.withparadox2.com/
+append to skip list. http://www.withparadox2.com/
+append to failed list. http://wuzhiwei.net/
+append to skip list. http://wuzhiwei.net/
+append to failed list. http://www.wwwer.net/
+append to skip list. http://www.wwwer.net/
+append to failed list. http://wyattbaldwin.com/
+append to skip list. http://wyattbaldwin.com/
+append to failed list. http://www.wjdiankong.cn/
+append to skip list. http://www.wjdiankong.cn/
+append to failed list. https://wtipl.com/blog/
+append to skip list. https://wtipl.com/blog/
+append to failed list. http://www.xdemo.org/
+append to skip list. http://www.xdemo.org/
+append to failed list. http://xianglong.me/
+append to skip list. http://xianglong.me/
+append to failed list. https://www.xiaoweigod.com/
+append to skip list. https://www.xiaoweigod.com/
+append to failed list. http://www.xuanfengge.com/
+append to skip list. http://www.xuanfengge.com/
+append to failed list. http://www.xwuxin.com/
+append to skip list. http://www.xwuxin.com/
+append to failed list. https://yaabed.com/
+append to skip list. https://yaabed.com/
+append to failed list. http://yannisxu.farbox.com/
+append to skip list. http://yannisxu.farbox.com/
+append to failed list. http://yaojingguo.github.io/
+append to skip list. http://yaojingguo.github.io/
+append to failed list. http://www.ydwe.net/
+append to skip list. http://www.ydwe.net/
+append to failed list. http://yechengfu.com/
+append to skip list. http://yechengfu.com/
+append to failed list. https://www.yegor256.com/
+append to skip list. https://www.yegor256.com/
+append to failed list. http://www.yegor256.com/
+append to skip list. http://www.yegor256.com/
+append to failed list. http://yejinxin.github.io/
+append to skip list. http://yejinxin.github.io/
+append to failed list. http://yemengying.com/
+append to skip list. http://yemengying.com/
+append to failed list. http://yetanothermathprogrammingconsultant.blogspot.com/
+append to skip list. http://yetanothermathprogrammingconsultant.blogspot.com/
+append to failed list. http://www.yfworld.com/
+append to skip list. http://www.yfworld.com/
+append to failed list. http://yi-programmer.com/
+append to skip list. http://yi-programmer.com/
+append to failed list. http://yifan.lu/
+append to skip list. http://yifan.lu/
+append to failed list. http://www.yihaomen.com/
+append to skip list. http://www.yihaomen.com/
+append to failed list. http://yimingzhi.net/
+append to skip list. http://yimingzhi.net/
+append to failed list. http://yonsm.net/
+append to skip list. http://yonsm.net/
+append to failed list. http://www.youc.net/
+append to skip list. http://www.youc.net/
+append to failed list. http://www.youxiuboke.com/en/index.html
+append to skip list. http://www.youxiuboke.com/en/index.html
+append to failed list. https://yq.aliyun.com/articles/
+append to skip list. https://yq.aliyun.com/articles/
+append to failed list. http://ytliu.info/
+append to skip list. http://ytliu.info/
+append to failed list. http://www.ywjt.org/
+append to skip list. http://www.ywjt.org/
+append to failed list. http://yunkus.com/
+append to skip list. http://yunkus.com/
+append to failed list. https://zapier.com/engineering/
+append to skip list. https://zapier.com/engineering/
+append to failed list. http://www.yunweipai.com/
+append to skip list. http://www.yunweipai.com/
+append to failed list. http://zhangtielei.com/
+append to skip list. http://zhangtielei.com/
+append to failed list. http://zheng-ji.github.com/
+append to skip list. http://zheng-ji.github.com/
+append to failed list. http://zaodula.com/
+append to skip list. http://zaodula.com/
+append to failed list. https://zhiku8.com/
+append to skip list. https://zhiku8.com/
+append to failed list. https://www.zhangxinxu.com/
+append to skip list. https://www.zhangxinxu.com/
+append to failed list. https://www.zhihu.com/org/thoughtworks-zhong-guo/activities
+append to skip list. https://www.zhihu.com/org/thoughtworks-zhong-guo/activities
+Should check the url 'http://www.zhujun.me/'. 
+  Found different feed URLs: 
+    - http://www.zhujun.me/?feed=rss
+    - http://www.zhujun.me/?feed=rss2
+    - http://www.zhujun.me/?feed=atom
+    - http://www.zhujun.me/feed/
+    - http://www.zhujun.me/feed/rss/
+    - http://www.zhujun.me/feed/atom/
+    - http://www.zhujun.me/services/rss/
+    - http://zhujun.me/?feed=rss
+    - http://zhujun.me/?feed=rss2
+    - http://zhujun.me/?feed=atom
+    - http://zhujun.me/feed/
+    - http://zhujun.me/feed/rss/
+    - http://zhujun.me/feed/atom/
+    - http://zhujun.me/services/rss/
+append to found list. http://www.zhujun.me/
+append to skip list. http://www.zhujun.me/
+Should check the url 'https://www.zynga.com/blogs/engineering'. 
+  Found different feed URLs: 
+    - https://www.zynga.com/?feed=rss
+    - https://www.zynga.com/?feed=rss2
+    - https://www.zynga.com/?feed=rdf
+    - https://www.zynga.com/?feed=atom
+    - https://www.zynga.com/feed/
+    - https://www.zynga.com/feed/rss/
+    - https://www.zynga.com/feed/rss2/
+    - https://www.zynga.com/feed/rdf/
+    - https://www.zynga.com/feed/atom/
+    - https://zynga.com/feed/
+    - https://zynga.com/feed/rss/
+    - https://zynga.com/feed/rss2/
+    - https://zynga.com/feed/rdf/
+    - https://zynga.com/feed/atom/
+append to found list. https://www.zynga.com/blogs/engineering
+append to skip list. https://www.zynga.com/blogs/engineering
+append to failed list. http://zengrong.net/
+append to skip list. http://zengrong.net/
+append to failed list. https://www.zillow.com/engineering/
+append to skip list. https://www.zillow.com/engineering/
+append to failed list. http://zhangsa.net/
+append to skip list. http://zhangsa.net/

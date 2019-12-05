@@ -334,3 +334,39 @@
   alias: thedroidsonroids.com/category/blog/ios
   url: https://www.thedroidsonroids.com/category/blog/ios
   feedUrl: https://www.thedroidsonroids.com/feed/atom
+-
+  alias: thinkstrategies.com/blog/#
+  url: http://thinkstrategies.com/blog/#
+  feedUrl: http://thinkstrategies.com/feed/
+-
+  alias: timoliver.blog
+  url: http://timoliver.blog/
+  feedUrl: http://timoliver.blog/feed/rss2/
+-
+  alias: tympanus.net/codrops
+  url: https://tympanus.net/codrops/
+  feedUrl: https://tympanus.net/?feed=rss
+-
+  alias: ttt.tt
+  url: https://ttt.tt/
+  feedUrl: https://sb.sb/atom.xml
+-
+  alias: ueview.com
+  url: http://www.ueview.com/
+  feedUrl: https://www.ueview.com/?feed=rss2
+-
+  alias: vuejsfeed.com
+  url: https://vuejsfeed.com/
+  feedUrl: https://vuejobs.com/?ref=vuejsfeed
+-
+  alias: uxc.baidu.com
+  url: http://uxc.baidu.com/
+  feedUrl: http://uxc.baidu.com/feed/rss/
+-
+  alias: zhujun.me
+  url: http://www.zhujun.me/
+  feedUrl: http://www.zhujun.me/?feed=rss
+-
+  alias: zynga.com/blogs/engineering
+  url: https://www.zynga.com/blogs/engineering
+  feedUrl: https://www.zynga.com/?feed=rss

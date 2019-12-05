@@ -15945,6 +15945,11 @@
     "feedUrl": "http://www.thinkingincrowd.me/atom.xml"
   },
   {
+    "alias": "thinkstrategies.com/blog/#",
+    "url": "http://thinkstrategies.com/blog/#",
+    "feedUrl": "http://thinkstrategies.com/feed/"
+  },
+  {
     "alias": "third-bit.com",
     "url": "http://third-bit.com/",
     "feedUrl": "http://third-bit.com/feed.xml"
@@ -16409,7 +16414,7 @@
   {
     "alias": "uxc.baidu.com",
     "url": "http://uxc.baidu.com/",
-    "feedUrl": "http://uxc.baidu.com/?feed=rss"
+    "feedUrl": "http://uxc.baidu.com/feed/rss/"
   },
   {
     "alias": "uxcellence.com",
