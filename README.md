@@ -1,24 +1,19 @@
 # dev-blog-directory-feed-collector
 
-[![NPM Version][npm-version-image]][npm-url]
-[![LICENSE][license-image]][license-url]
-[![Build Status][travis-image]][travis-url]
-[![Coverage Status][coveralls-image]][coveralls-url]
-[![dependencies Status][dependencies-image]][dependencies-url]
-[![devDependencies Status][devDependencies-image]][devDependencies-url]
-
 Collect feed URLs for dev blogs.
 
-## Installation
-
-```sh
-npm install dev-blog-directory-feed-collector
-```
 
 ## Usages
-```js
-$ npx cli-name FILENAME
+
+```sh
+$ npm start
 ```
+
+## Related
+
+- [dev-blog-directory](https://github.com/dev-blog-directory/dev-blog-directory) - A Developer Blog Directory. Auto generated documents from [raw data](https://github.com/dev-blog-directory/dev-blog-directory-raw).
+- [dev-blog-directory-raw](https://github.com/dailyrandomphoto/dev-blog-directory-raw) - Raw data storage of [Developer Blog Directory](https://github.com/dailyrandomphoto/dev-blog-directory).
+- [dev-blog-directory-feed-db](https://github.com/dev-blog-directory/dev-blog-directory-feed-db) - Feed database of developer blogs.
 
 ## License
 Copyright (c) 2019 [dailyrandomphoto][my-url]. Licensed under the [MIT license][license-url].
