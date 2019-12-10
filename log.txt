@@ -9182,3 +9182,298 @@ Should check the url 'http://www.wjdiankong.cn/'.
     - http://wjdiankong.cn/services/feed
 append to found list. http://www.wjdiankong.cn/
 append to skip list. http://www.wjdiankong.cn/
+append to failed list. http://www.xdemo.org/
+append to skip list. http://www.xdemo.org/
+append to failed list. https://www.xiaoweigod.com/
+append to skip list. https://www.xiaoweigod.com/
+append to failed list. http://xianglong.me/
+append to skip list. http://xianglong.me/
+append to failed list. http://www.xuanfengge.com/
+append to skip list. http://www.xuanfengge.com/
+append to failed list. http://www.xwuxin.com/
+append to skip list. http://www.xwuxin.com/
+append to failed list. https://yaabed.com/
+append to skip list. https://yaabed.com/
+append to failed list. http://yannisxu.farbox.com/
+append to skip list. http://yannisxu.farbox.com/
+append to failed list. http://yaojingguo.github.io/
+append to skip list. http://yaojingguo.github.io/
+append to failed list. http://www.ydwe.net/
+append to skip list. http://www.ydwe.net/
+append to failed list. http://yechengfu.com/
+append to skip list. http://yechengfu.com/
+append to failed list. https://www.yegor256.com/
+append to skip list. https://www.yegor256.com/
+append to failed list. http://www.yegor256.com/
+append to skip list. http://www.yegor256.com/
+append to failed list. http://yejinxin.github.io/
+append to skip list. http://yejinxin.github.io/
+append to failed list. http://yemengying.com/
+append to skip list. http://yemengying.com/
+append to failed list. http://yetanothermathprogrammingconsultant.blogspot.com/
+append to skip list. http://yetanothermathprogrammingconsultant.blogspot.com/
+append to failed list. http://www.yfworld.com/
+append to skip list. http://www.yfworld.com/
+append to failed list. http://yi-programmer.com/
+append to skip list. http://yi-programmer.com/
+append to failed list. http://yifan.lu/
+append to skip list. http://yifan.lu/
+append to failed list. http://www.yihaomen.com/
+append to skip list. http://www.yihaomen.com/
+append to failed list. http://yimingzhi.net/
+append to skip list. http://yimingzhi.net/
+
+----
+[]
+{
+  site: {
+    title: '&#20013;&#22269;&#31119;&#21033;&#24425;&#31080;&#32593;&#95;&#23433;&#20840;&#36141;&#24425;',
+    favicon: null,
+    url: 'http://yonsm.net'
+  },
+  feedUrls: []
+}
+append to failed list. http://yonsm.net/
+append to skip list. http://yonsm.net/
+append to failed list. https://www.youtube.com/channel/UC-TSTzj5hADDACFwolGgSxA/videos
+append to skip list. https://www.youtube.com/channel/UC-TSTzj5hADDACFwolGgSxA/videos
+append to failed list. https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos
+append to skip list. https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos
+append to failed list. https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A/videos
+append to skip list. https://www.youtube.com/channel/UCa1zuotKU4Weuw_fLRnPv0A/videos
+append to failed list. https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw/videos
+append to skip list. https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw/videos
+append to failed list. https://www.youtube.com/channel/UCcSj41xzQJCT2V0GNwlob_w/videos
+append to skip list. https://www.youtube.com/channel/UCcSj41xzQJCT2V0GNwlob_w/videos
+append to failed list. https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA/videos
+append to skip list. https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA/videos
+append to failed list. https://www.youtube.com/user/99baddawg/videos
+append to skip list. https://www.youtube.com/user/99baddawg/videos
+append to failed list. https://www.youtube.com/user/ShadowcatSystems/videos
+append to skip list. https://www.youtube.com/user/ShadowcatSystems/videos
+append to failed list. https://www.youtube.com/user/gocoding/videos
+append to skip list. https://www.youtube.com/user/gocoding/videos
+append to failed list. https://www.youtube.com/user/jsconfeu/videos
+append to skip list. https://www.youtube.com/user/jsconfeu/videos
+append to failed list. https://www.youtube.com/user/shan1j/videos
+append to skip list. https://www.youtube.com/user/shan1j/videos
+append to failed list. http://www.youc.net/
+append to skip list. http://www.youc.net/
+append to failed list. https://www.youtube.com/user/vivekanandkhyade/videos
+append to skip list. https://www.youtube.com/user/vivekanandkhyade/videos
+
+----
+[]
+{
+  site: {
+    title: '国外优秀博客 | 优秀博客 - 国内外优秀博客推荐',
+    favicon: 'http://www.youxiuboke.com/favicon.ico',
+    url: 'http://www.youxiuboke.com/en/index.html'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.youxiuboke.com/en/index.html
+append to skip list. http://www.youxiuboke.com/en/index.html
+
+----
+[]
+{
+  site: {
+    title: 'ytliu.info&nbsp;-&nbspThis website is for sale!&nbsp;-&nbspytliu Resources and Information.',
+    favicon: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0MDk0OSwgMjAxMC8xMi8wNy0xMDo1NzowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNS4xIFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MzRFNEQ3NkJEMjRGMTFFMTk4RjA4NDhFNTEwRTcyMkIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MzRFNEQ3NkNEMjRGMTFFMTk4RjA4NDhFNTEwRTcyMkIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozNEU0RDc2OUQyNEYxMUUxOThGMDg0OEU1MTBFNzIyQiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozNEU0RDc2QUQyNEYxMUUxOThGMDg0OEU1MTBFNzIyQiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PukMAkAAAAEsUExURcbf8uXx+vb6/eXx+Q5FtN/t+Ofz+rbX7uTr9+Tq9y5fvlh+y7rY7+n0+lJ6yS1evt7l9Sxdvr/b8L3a8BRLtpev31mAy+v0+k13yLLD59Hm9PT5/c3Z8LXG6Oby+pXG5aG54vX3/Git2LvZ79bg8vr8/vP4/Mjh8+Pw+Ofy+sPd8cfj9G2P0cDc783k9Ex2x6DK5xlOuCBUumWJztDm9DZkwLTF6Ojt92yP0s7a8OPq9m6Y1d3l9cHP7OLp9kNvxNPo9Wes2DNhwJSv3uDt+Ovw+cDP6yNVuurv+Nbf8pjI5aDL56G44rTL6h1RuWaJz9bp9tDo9u31+oWi2TZlwMfg8E16yd7t99Hc8Vl+ysri897l9JCq3FB5yPL1++/2/MLQ7HGb1j9sw////2AvJ1QAAADsSURBVHjaRM9ZMwNREAXgnpvLZKOENsQSJrTlIjHEEhQZS2JJxljHmoT+//9B37w4j19Xna4DzKzGDbHKLN+MdZlB4GNJ8fV9AbH1W7ew7g6zn9ORt/uM8wJkBOs7eHai/P05Bnp0S8ynBQz2qk9v0jEbTyjpKWZRI0Z9hqlV29u9ynQmR6PAY7g0NYH+efvzYDHAQ4bExBY0Bi3E7BHDkGkI+MXN7+ncV1pKU1AhIiYbudgvx957c+t2YW2k1ugJUKmqdXs7DGdiN5+yW+hV4K4cVhI37wzGdX4u0skL9FYcRw2ANh74P38CDABMCjqJfzUcfQAAAABJRU5ErkJggg==',
+    url: 'http://ww1.ytliu.info'
+  },
+  feedUrls: []
+}
+append to failed list. http://ytliu.info/
+append to skip list. http://ytliu.info/
+
+----
+[
+  'https://m.aliyun.com/yunqi/articles/feed/',
+  'https://yq.aliyun.com/articles/feed/'
+]
+{
+  site: {
+    title: '优质博文集锦-云栖社区-阿里云 ',
+    favicon: 'https://yq.aliyun.com/favicon.ico',
+    url: 'https://yq.aliyun.com/articles'
+  },
+  feedUrls: []
+}
+Should check the url 'https://yq.aliyun.com/articles/'. 
+  Found different feed URLs: 
+    - https://m.aliyun.com/yunqi/articles/feed/
+    - https://yq.aliyun.com/articles/feed/
+append to found list. https://yq.aliyun.com/articles/
+append to skip list. https://yq.aliyun.com/articles/
+
+----
+[]
+{
+  site: {
+    title: 'The Zapier Engineering Blog | Zapier',
+    favicon: 'https://cdn.zapier.com/zapier/images/favicon.ico',
+    url: 'https://zapier.com/engineering'
+  },
+  feedUrls: []
+}
+append to failed list. https://zapier.com/engineering/
+append to skip list. https://zapier.com/engineering/
+
+----
+[]
+{
+  site: {
+    title: '运维军团-运维技术与开源架构交流',
+    favicon: 'http://www.ywjt.org/favicon.ico',
+    url: 'http://www.ywjt.org'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.ywjt.org/
+append to skip list. http://www.ywjt.org/
+
+----
+[]
+{
+  site: {
+    title: '快三_大发快三_大发快三计划网页版',
+    favicon: 'http://zhangsa.net/favicon.ico',
+    url: 'http://zhangsa.net/index.html'
+  },
+  feedUrls: []
+}
+append to failed list. http://zhangsa.net/
+append to skip list. http://zhangsa.net/
+
+----
+[]
+{
+  site: {
+    title: '曾嵘的主页',
+    favicon: 'https://zengrong.net/favicon.ico',
+    url: 'https://zengrong.net'
+  },
+  feedUrls: []
+}
+append to failed list. http://zengrong.net/
+append to skip list. http://zengrong.net/
+
+----
+[ 'http://zhangtielei.com/atom.xml' ]
+{
+  site: {
+    title: '\n      欢迎来到铁蕾的博客 - 铁蕾的个人博客\n    ',
+    favicon: 'http://zhangtielei.com/favicon.ico',
+    url: 'http://zhangtielei.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://zhangtielei.com/'. 
+  Found different feed URLs: 
+    - http://zhangtielei.com/atom.xml
+append to found list. http://zhangtielei.com/
+append to skip list. http://zhangtielei.com/
+
+----
+[]
+{
+  site: {
+    title: '张鑫旭的个人主页 &raquo; 张鑫旭-鑫空间-鑫生活',
+    favicon: 'https://www.zhangxinxu.com/favicon.ico',
+    url: 'https://www.zhangxinxu.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.zhangxinxu.com/
+append to skip list. https://www.zhangxinxu.com/
+
+----
+[]
+{
+  site: {
+    title: '织网',
+    favicon: 'https://zheng-ji.github.io/images/favicon.png?v=5.1.4',
+    url: 'https://zheng-ji.github.io'
+  },
+  feedUrls: []
+}
+append to failed list. http://zheng-ji.github.com/
+append to skip list. http://zheng-ji.github.com/
+
+----
+[]
+{
+  site: {
+    title: '用户标识',
+    favicon: 'https://static.zhihu.com/static/favicon.ico',
+    url: 'https://www.zhihu.com/org/thoughtworks-zhong-guo/activities'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.zhihu.com/org/thoughtworks-zhong-guo/activities
+append to skip list. https://www.zhihu.com/org/thoughtworks-zhong-guo/activities
+append to failed list. https://zhiku8.com/
+append to skip list. https://zhiku8.com/
+
+----
+[
+  'https://www.zillow.com/tech/feed/',
+  'https://www.zillow.com/tech/feed/rdf/',
+  'https://www.zillow.com/tech/feed/atom/'
+]
+{
+  site: {
+    title: 'Group Copy 9',
+    favicon: 'https://www.zillow.com/favicon.ico',
+    url: 'https://www.zillow.com/tech'
+  },
+  feedUrls: []
+}
+Should check the url 'https://www.zillow.com/engineering/'. 
+  Found different feed URLs: 
+    - https://www.zillow.com/tech/feed/
+    - https://www.zillow.com/tech/feed/rdf/
+    - https://www.zillow.com/tech/feed/atom/
+append to found list. https://www.zillow.com/engineering/
+append to skip list. https://www.zillow.com/engineering/
+
+----
+[]
+{
+  site: {
+    title: '朝夕熊的个人博客-前端百科',
+    favicon: 'http://yunkus.com/favicon.ico',
+    url: 'http://yunkus.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://yunkus.com/
+append to skip list. http://yunkus.com/
+
+----
+[
+  'http://www.yunweipai.com/feed',
+  'http://www.yunweipai.com/feed/rdf',
+  'http://www.yunweipai.com/feed/atom',
+  'http://www.yunweipai.com/services/feed'
+]
+{
+  site: {
+    title: '运维派 - IT运维技术社区_运维学习交流平台_DevOps_自动化运维',
+    favicon: 'http://www.yunweipai.com/wp-content/themes/zYwp/favicon.ico',
+    url: 'http://www.yunweipai.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://www.yunweipai.com/'. 
+  Found different feed URLs: 
+    - http://www.yunweipai.com/feed
+    - http://www.yunweipai.com/feed/rdf
+    - http://www.yunweipai.com/feed/atom
+    - http://www.yunweipai.com/services/feed
+append to found list. http://www.yunweipai.com/
+append to skip list. http://www.yunweipai.com/
+append to failed list. http://zaodula.com/
+append to skip list. http://zaodula.com/

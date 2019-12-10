@@ -514,3 +514,19 @@
   alias: wjdiankong.cn
   url: http://www.wjdiankong.cn/
   feedUrl: http://www.wjdiankong.cn/feed
+-
+  alias: yq.aliyun.com/articles
+  url: https://yq.aliyun.com/articles/
+  feedUrl: https://m.aliyun.com/yunqi/articles/feed/
+-
+  alias: zhangtielei.com
+  url: http://zhangtielei.com/
+  feedUrl: http://zhangtielei.com/atom.xml
+-
+  alias: zillow.com/engineering
+  url: https://www.zillow.com/engineering/
+  feedUrl: https://www.zillow.com/tech/feed/
+-
+  alias: yunweipai.com
+  url: http://www.yunweipai.com/
+  feedUrl: http://www.yunweipai.com/feed

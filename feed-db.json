@@ -17426,6 +17426,11 @@
     "feedUrl": "https://youtube-eng.googleblog.com/feeds/posts/default"
   },
   {
+    "alias": "yq.aliyun.com/articles",
+    "url": "https://yq.aliyun.com/articles/",
+    "feedUrl": "https://m.aliyun.com/yunqi/articles/feed/"
+  },
+  {
     "alias": "yrom.net",
     "url": "http://www.yrom.net/",
     "feedUrl": "http://www.yrom.net/atom.xml"
@@ -17459,6 +17464,11 @@
     "alias": "yulingtianxia.com",
     "url": "http://yulingtianxia.com/",
     "feedUrl": "http://yulingtianxia.com/atom.xml"
+  },
+  {
+    "alias": "yunweipai.com",
+    "url": "http://www.yunweipai.com/",
+    "feedUrl": "http://www.yunweipai.com/feed"
   },
   {
     "alias": "yurichev.com/blog",
@@ -17569,6 +17579,11 @@
     "feedUrl": "http://zhangshenjia.com/feed/"
   },
   {
+    "alias": "zhangtielei.com",
+    "url": "http://zhangtielei.com/",
+    "feedUrl": "http://zhangtielei.com/atom.xml"
+  },
+  {
     "alias": "zhangxc.com",
     "url": "http://zhangxc.com/",
     "feedUrl": "https://zhangxc.com/index.xml"
@@ -17656,7 +17671,7 @@
   {
     "alias": "zillow.com/engineering",
     "url": "https://www.zillow.com/engineering/",
-    "feedUrl": "https://www.zillow.com/engineering/rss",
+    "feedUrl": "https://www.zillow.com/tech/feed/",
     "title": "Zillow",
     "type": "rss"
   },
