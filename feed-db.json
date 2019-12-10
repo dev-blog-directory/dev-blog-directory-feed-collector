@@ -6105,6 +6105,11 @@
     "feedUrl": "https://blog.emberjs.com/feed.xml"
   },
   {
+    "alias": "encodedna.com",
+    "url": "https://www.encodedna.com/",
+    "feedUrl": "https://www.encodedna.com/rss.xml"
+  },
+  {
     "alias": "endlessparentheses.com",
     "url": "http://endlessparentheses.com/",
     "feedUrl": "http://endlessparentheses.com/atom.xml"
@@ -6192,7 +6197,7 @@
   {
     "alias": "engineering.brandwatch.com",
     "url": "http://engineering.brandwatch.com/",
-    "feedUrl": "https://engineering.brandwatch.com/rss/",
+    "feedUrl": "https://www.brandwatch.com/feed/",
     "title": "Brandwatch",
     "type": "rss"
   },
@@ -6328,7 +6333,7 @@
   {
     "alias": "engineering.hackerearth.com",
     "url": "http://engineering.hackerearth.com/",
-    "feedUrl": "http://engineering.hackerearth.com/rss",
+    "feedUrl": "http://engineering.hackerearth.com/atom.xml",
     "title": "HackerEarth",
     "type": "rss"
   },
@@ -6453,7 +6458,7 @@
   {
     "alias": "engineering.nodesagency.com/categories/ios",
     "url": "https://engineering.nodesagency.com/categories/ios/",
-    "feedUrl": "https://engineering.nodesagency.com/feed.xml",
+    "feedUrl": "https://engineering.nodesagency.com/feed",
     "title": "Nodes Engineering Blog",
     "type": "rss"
   },
@@ -6519,7 +6524,7 @@
   {
     "alias": "engineering.shapesecurity.com",
     "url": "http://engineering.shapesecurity.com/",
-    "feedUrl": "http://engineering.shapesecurity.com/rss",
+    "feedUrl": "https://engineering.shapesecurity.com/atom.xml",
     "title": "Shape Security",
     "type": "rss"
   },
@@ -6840,6 +6845,16 @@
     "feedUrl": "https://www.ezloo.com/atom.xml"
   },
   {
+    "alias": "f2eskills.com",
+    "url": "http://f2eskills.com/",
+    "feedUrl": "http://f2eskills.com/rss.xml"
+  },
+  {
+    "alias": "fabiensanglard.net",
+    "url": "http://fabiensanglard.net/",
+    "feedUrl": "http://fabiensanglard.net/rss.xml"
+  },
+  {
     "alias": "fabric.io/blog",
     "url": "https://fabric.io/blog",
     "feedUrl": "https://fabric.io/blog?format=RSS",
@@ -6940,6 +6955,11 @@
     "feedUrl": "https://fengxiangba.com/feed"
   },
   {
+    "alias": "fernandocejas.com",
+    "url": "https://fernandocejas.com/",
+    "feedUrl": "https://fernandocejas.com/feed"
+  },
+  {
     "alias": "fex.baidu.com",
     "url": "http://fex.baidu.com/",
     "feedUrl": "http://fex.baidu.com/feed.xml"
@@ -7032,6 +7052,11 @@
     "feedUrl": "https://www.iteye.com/rss"
   },
   {
+    "alias": "flykobe.com",
+    "url": "http://flykobe.com/",
+    "feedUrl": "http://www.flykobe.com/rss.xml"
+  },
+  {
     "alias": "flyne.org",
     "url": "http://www.flyne.org/",
     "feedUrl": "http://www.flyne.org/feed"
@@ -7081,7 +7106,7 @@
   {
     "alias": "freebuf.com",
     "url": "https://www.freebuf.com/",
-    "feedUrl": "https://www.freebuf.com/?feed=rss2"
+    "feedUrl": "https://www.freebuf.com/feed"
   },
   {
     "alias": "freeletics.engineering",
@@ -7121,6 +7146,11 @@
     "alias": "frompythonimportpodcast.com",
     "url": "http://www.frompythonimportpodcast.com/",
     "feedUrl": "http://www.frompythonimportpodcast.com/feed"
+  },
+  {
+    "alias": "fsharpforfunandprofit.com",
+    "url": "https://fsharpforfunandprofit.com/",
+    "feedUrl": "https://fsharpforfunandprofit.com/feed.xml"
   },
   {
     "alias": "ftium4.com",
@@ -7395,6 +7425,11 @@
     "feedUrl": "https://ghui.me/atom.xml"
   },
   {
+    "alias": "giftegwuenu.com",
+    "url": "https://www.giftegwuenu.com/",
+    "feedUrl": "https://www.giftegwuenu.com/feed.xml"
+  },
+  {
     "alias": "gingerbookgeek.wordpress.com",
     "url": "https://gingerbookgeek.wordpress.com/",
     "feedUrl": "https://gingerbookgeek.wordpress.com/feed/"
@@ -7478,6 +7513,11 @@
     "feedUrl": "http://goel.io/feed.xml"
   },
   {
+    "alias": "gofynd.io/blog",
+    "url": "http://gofynd.io/blog",
+    "feedUrl": "http://gofynd.io/feed"
+  },
+  {
     "alias": "goinggo.net",
     "url": "https://www.goinggo.net/",
     "feedUrl": "https://www.ardanlabs.com/blog/index.xml",
@@ -7508,6 +7548,11 @@
     "alias": "golangprograms.com/golang",
     "url": "https://www.golangprograms.com/golang",
     "feedUrl": "https://www.golangprograms.com/golang/rss/index/store_id/1/"
+  },
+  {
+    "alias": "gold.xitu.io",
+    "url": "http://gold.xitu.io/",
+    "feedUrl": "https://juejin.im/?feed=rss&amp;sort=popular"
   },
   {
     "alias": "gomakethings.com/articles",
@@ -7632,6 +7677,11 @@
     "alias": "hackerfactor.com/blog",
     "url": "https://hackerfactor.com/blog/",
     "feedUrl": "https://hackerfactor.com/blog/index.php?/feeds/index.rss2"
+  },
+  {
+    "alias": "hackernoon.com",
+    "url": "https://hackernoon.com/",
+    "feedUrl": "https://hackernoon.com/feed"
   },
   {
     "alias": "hackhp.com",
@@ -7833,7 +7883,7 @@
   {
     "alias": "hesh.am",
     "url": "https://hesh.am/",
-    "feedUrl": "https://hesh.am/feed.xml",
+    "feedUrl": "https://hesh.am/feed",
     "title": "Hesham Abd-Elmegid's Blog",
     "type": "rss"
   },
@@ -7907,6 +7957,21 @@
     "type": "rss"
   },
   {
+    "alias": "hiheng.com/blog",
+    "url": "http://www.hiheng.com/blog",
+    "feedUrl": "http://www.hiheng.com/blog/feed"
+  },
+  {
+    "alias": "hiteshi.com/blog",
+    "url": "https://www.hiteshi.com/blog/",
+    "feedUrl": "https://www.hiteshi.com/feed/"
+  },
+  {
+    "alias": "hmouse.tk",
+    "url": "http://www.hmouse.tk/",
+    "feedUrl": "https://www.hmouse.tk/?feed=rss2"
+  },
+  {
     "alias": "holko.pl",
     "url": "http://holko.pl/",
     "feedUrl": "http://feeds.feedburner.com/ArkadiuszHolko",
@@ -7914,11 +7979,21 @@
     "type": "rss"
   },
   {
+    "alias": "hollischuang.com",
+    "url": "http://www.hollischuang.com/",
+    "feedUrl": "http://www.hollischuang.com/feed"
+  },
+  {
     "alias": "holtwick.de/blog",
     "url": "https://holtwick.de/blog/",
     "feedUrl": "https://holtwick.de/atom.xml",
     "title": "Dirk Holtwick's Blog",
     "type": "rss"
+  },
+  {
+    "alias": "hongjiang.info",
+    "url": "http://hongjiang.info/",
+    "feedUrl": "http://hongjiang.info/feed/"
   },
   {
     "alias": "honzadvorsky.com",
@@ -7962,6 +8037,11 @@
     "feedUrl": "https://houssein.me/feed.xml"
   },
   {
+    "alias": "howtodoinjava.com",
+    "url": "https://howtodoinjava.com/",
+    "feedUrl": "https://howtodoinjava.com/feed/"
+  },
+  {
     "alias": "howtogeek.com",
     "url": "https://www.howtogeek.com/",
     "feedUrl": "https://feeds.howtogeek.com/HowToGeek"
@@ -7970,6 +8050,11 @@
     "alias": "hswolff.com",
     "url": "https://hswolff.com/",
     "feedUrl": "https://hswolff.com/rss.xml"
+  },
+  {
+    "alias": "html5dw.com",
+    "url": "http://www.html5dw.com/",
+    "feedUrl": "http://www.html5dw.com/feed"
   },
   {
     "alias": "huang-x-h.github.io",

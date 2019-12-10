@@ -4732,3 +4732,1254 @@ Should check the url 'http://www.eastdesign.net/'.
     - https://www.eastdesign.net/services/feed/
 append to found list. http://www.eastdesign.net/
 append to skip list. http://www.eastdesign.net/
+append to failed list. http://elegantcode.com/
+append to skip list. http://elegantcode.com/
+append to failed list. http://www.eharmony.com/engineering/
+append to skip list. http://www.eharmony.com/engineering/
+
+----
+[]
+{
+  site: {
+    title: 'End Your If',
+    favicon: 'https://www.endyourif.com/img/favicon.png',
+    url: 'https://www.endyourif.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.endyourif.com/
+append to skip list. https://www.endyourif.com/
+
+----
+[]
+{
+  site: {
+    title: 'DataFox Admin',
+    favicon: 'https://admin.datafox.co/favicon.ico',
+    url: 'https://admin.datafox.co/login'
+  },
+  feedUrls: []
+}
+append to failed list. http://eng.datafox.co/
+append to skip list. http://eng.datafox.co/
+
+----
+[ 'https://www.encodedna.com/rss.xml' ]
+{
+  site: {
+    title: '\r\n' +
+      '\tFree tutorials and articles on Asp.Net C#, Angular, jQuery, JavaScript, HTML5 Canvas, CSS, Ajax, Linq, SQL Server, Excel VBA, Web Design and Development, Bulk Image Resizer Tool\r\n',
+    favicon: 'https://www.encodedna.com/encodedna.ico',
+    url: 'https://www.encodedna.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://www.encodedna.com/'. 
+  Found different feed URLs: 
+    - https://www.encodedna.com/rss.xml
+append to found list. https://www.encodedna.com/
+append to skip list. https://www.encodedna.com/
+append to failed list. http://eng.joingrouper.com/
+append to skip list. http://eng.joingrouper.com/
+
+----
+[]
+{
+  site: {
+    title: 'Emma Wedekind',
+    favicon: 'https://emmawedekind.com/icons-99dc8eaada86eb405c43c7047b726069/favicon-32x32.png',
+    url: 'https://emmawedekind.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://emmawedekind.com/
+append to skip list. https://emmawedekind.com/
+append to failed list. https://engineering.9gag.com/
+append to skip list. https://engineering.9gag.com/
+
+----
+[]
+{
+  site: {
+    title: 'engineering.bloomreach.com ',
+    favicon: null,
+    url: 'http://engineering.bloomreach.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://engineering.bloomreach.com/
+append to skip list. http://engineering.bloomreach.com/
+
+----
+[
+  'http://engineering.hackerearth.com/atom.xml',
+  'http://engineering.hackerearth.com/rss.xml'
+]
+{
+  site: {
+    title: ' HackerEarth Engineering ',
+    favicon: 'http://engineering.hackerearth.com/favicon.ico',
+    url: 'http://engineering.hackerearth.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://engineering.hackerearth.com/'. 
+  Found different feed URLs: 
+    - http://engineering.hackerearth.com/atom.xml
+    - http://engineering.hackerearth.com/rss.xml
+append to found list. http://engineering.hackerearth.com/
+append to skip list. http://engineering.hackerearth.com/
+append to failed list. http://engineering.ifttt.com/
+append to skip list. http://engineering.ifttt.com/
+append to failed list. http://engineering.bittorrent.com/
+append to skip list. http://engineering.bittorrent.com/
+append to failed list. https://engineering.imvu.com/
+append to skip list. https://engineering.imvu.com/
+
+----
+[
+  'https://www.brandwatch.com/feed/',
+  'https://www.brandwatch.com/feed/rdf/',
+  'https://www.brandwatch.com/feed/atom/'
+]
+{
+  site: {
+    title: 'Analytics Logos X 5',
+    favicon: 'https://s14415.pcdn.co/wp-content/themes/brandwatch/src/__site-brandwatch.com/assets/img/favicon/favicon-2019.ico',
+    url: 'https://www.brandwatch.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://engineering.brandwatch.com/'. 
+  Found different feed URLs: 
+    - https://www.brandwatch.com/feed/
+    - https://www.brandwatch.com/feed/rdf/
+    - https://www.brandwatch.com/feed/atom/
+append to found list. http://engineering.brandwatch.com/
+append to skip list. http://engineering.brandwatch.com/
+append to failed list. https://engineering.gnip.com/
+append to skip list. https://engineering.gnip.com/
+append to failed list. http://engineering.laterooms.com/
+append to skip list. http://engineering.laterooms.com/
+
+----
+[]
+{
+  site: {
+    title: 'Medallia Engineering Blog',
+    favicon: 'https://engineering.medallia.com/blog/dist/images/favicon.png',
+    url: 'https://engineering.medallia.com/blog'
+  },
+  feedUrls: []
+}
+append to failed list. https://engineering.medallia.com/blog/
+append to skip list. https://engineering.medallia.com/blog/
+
+----
+[]
+{
+  site: {
+    title: 'Medallia Engineering Blog',
+    favicon: 'http://engineering.medallia.com/blog/dist/images/favicon.png',
+    url: 'http://engineering.medallia.com/blog'
+  },
+  feedUrls: []
+}
+append to failed list. http://engineering.medallia.com/blog/
+append to skip list. http://engineering.medallia.com/blog/
+
+----
+[
+  'https://engineering.nodesagency.com/feed',
+  'https://engineering.nodesagency.com/feed.xml'
+]
+{
+  site: {
+    title: 'iOS',
+    favicon: 'https://engineering.nodesagency.com/assets/favicon.ico',
+    url: 'https://engineering.nodesagency.com/categories/ios'
+  },
+  feedUrls: []
+}
+Should check the url 'https://engineering.nodesagency.com/categories/ios/'. 
+  Found different feed URLs: 
+    - https://engineering.nodesagency.com/feed
+    - https://engineering.nodesagency.com/feed.xml
+append to found list. https://engineering.nodesagency.com/categories/ios/
+append to skip list. https://engineering.nodesagency.com/categories/ios/
+
+----
+[
+  'https://engineering.shapesecurity.com/atom.xml',
+  'https://engineering.shapesecurity.com/rss.xml'
+]
+{
+  site: {
+    title: null,
+    favicon: null,
+    url: 'https://engineering.shapesecurity.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://engineering.shapesecurity.com/'. 
+  Found different feed URLs: 
+    - https://engineering.shapesecurity.com/atom.xml
+    - https://engineering.shapesecurity.com/rss.xml
+append to found list. http://engineering.shapesecurity.com/
+append to skip list. http://engineering.shapesecurity.com/
+
+----
+[]
+{
+  site: {
+    title: 'Engineering at Quora - Quora',
+    favicon: 'https://qsf.fs.quoracdn.net/-3-images.favicon.ico-26-ae77b637b1e7ed2c.ico',
+    url: 'https://www.quora.com/q/quoraengineering'
+  },
+  feedUrls: []
+}
+append to failed list. https://engineering.quora.com/
+append to skip list. https://engineering.quora.com/
+
+----
+[]
+{
+  site: {
+    title: 'slideshare Articles | LinkedIn Engineering',
+    favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico',
+    url: 'https://engineering.linkedin.com/blog/topic/slideshare'
+  },
+  feedUrls: []
+}
+append to failed list. http://engineering.slideshare.net/
+append to skip list. http://engineering.slideshare.net/
+append to failed list. http://engineering.snapdeal.com/
+append to skip list. http://engineering.snapdeal.com/
+
+----
+[]
+{
+  site: {
+    title: 'TripAdvisor Engineering and Product Blog | All the tech it takes to allow you to plan and book your perfect tripTripAdvisor Engineering and Product Blog',
+    favicon: 'https://www.tripadvisor.com/engineering/wp-content/themes/tripadvisor/favicon.png',
+    url: 'https://www.tripadvisor.com/engineering'
+  },
+  feedUrls: []
+}
+append to failed list. http://engineering.tripadvisor.com/
+append to skip list. http://engineering.tripadvisor.com/
+append to failed list. http://engineering.vine.co/
+append to skip list. http://engineering.vine.co/
+append to failed list. https://engineering.zenefits.com/posts/
+append to skip list. https://engineering.zenefits.com/posts/
+
+----
+[]
+{
+  site: {
+    title: " EpingWang's Blog ",
+    favicon: 'http://epingwang.me/favicon.ico?v=5.1.0',
+    url: 'http://epingwang.me'
+  },
+  feedUrls: []
+}
+append to failed list. http://epingwang.me/
+append to skip list. http://epingwang.me/
+
+----
+[]
+{
+  site: {
+    title: '金沙娱樂场|首页-官方登录',
+    favicon: 'https://www.epooll.com/favicon.ico',
+    url: 'https://www.epooll.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.epooll.com/
+append to skip list. http://www.epooll.com/
+
+----
+[]
+{
+  site: {
+    title: 'ETRD博客',
+    favicon: 'http://etrd.org/images/favicon-16x16-next.png?v=5.1.4',
+    url: 'http://etrd.org'
+  },
+  feedUrls: []
+}
+append to failed list. http://etrd.org/
+append to skip list. http://etrd.org/
+append to failed list. https://elvirainfotech.com/blog/
+append to skip list. https://elvirainfotech.com/blog/
+append to failed list. http://everet.org/
+append to skip list. http://everet.org/
+append to failed list. https://engineering.intercom.io/
+append to skip list. https://engineering.intercom.io/
+
+----
+[ 'http://f2eskills.com/rss.xml', 'http://www.f2eskills.com/rss.xml' ]
+{
+  site: {
+    title: '�ձ�ëƬ���������Ƶ_�ձ����벻���������',
+    favicon: null,
+    url: 'http://f2eskills.com/index.html'
+  },
+  feedUrls: []
+}
+Should check the url 'http://f2eskills.com/'. 
+  Found different feed URLs: 
+    - http://f2eskills.com/rss.xml
+    - http://www.f2eskills.com/rss.xml
+append to found list. http://f2eskills.com/
+append to skip list. http://f2eskills.com/
+
+----
+[
+  'http://fabiensanglard.net/rss.xml',
+  'http://www.fabiensanglard.net/rss.xml'
+]
+{
+  site: {
+    title: 'Deep magic explained',
+    favicon: 'http://fabiensanglard.net/favicon.ico',
+    url: 'http://fabiensanglard.net'
+  },
+  feedUrls: []
+}
+Should check the url 'http://fabiensanglard.net/'. 
+  Found different feed URLs: 
+    - http://fabiensanglard.net/rss.xml
+    - http://www.fabiensanglard.net/rss.xml
+append to found list. http://fabiensanglard.net/
+append to skip list. http://fabiensanglard.net/
+append to failed list. https://feather.ca/
+append to skip list. https://feather.ca/
+
+----
+[
+  'https://fernandocejas.com/feed',
+  'https://fernandocejas.com/feed.xml'
+]
+{
+  site: {
+    title: 'Home | Fernando Cejas',
+    favicon: 'https://fernandocejas.com/assets/images/logo.png',
+    url: 'https://fernandocejas.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://fernandocejas.com/'. 
+  Found different feed URLs: 
+    - https://fernandocejas.com/feed
+    - https://fernandocejas.com/feed.xml
+append to found list. https://fernandocejas.com/
+append to skip list. https://fernandocejas.com/
+append to failed list. http://fancywt.cn/
+append to skip list. http://fancywt.cn/
+
+----
+[]
+{
+  site: {
+    title: '月光中的污点',
+    favicon: 'https://www.extlight.com/portal/images/favicon.ico',
+    url: 'https://www.extlight.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.extlight.com/
+append to skip list. http://www.extlight.com/
+
+----
+[]
+{
+  site: {
+    title: '数感星球',
+    favicon: 'https://cdn.mathufo.com/static/official_website/img/public/favicon.ico',
+    url: 'https://mathufo.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.flickering.cn/
+append to skip list. http://www.flickering.cn/
+
+----
+[]
+{
+  site: { title: '访问来路错误', favicon: null, url: 'http://www.forestli.com' },
+  feedUrls: []
+}
+append to failed list. http://www.forestli.com/
+append to skip list. http://www.forestli.com/
+
+----
+[]
+{
+  site: { title: 'Loading...', favicon: null, url: 'http://freewind.me' },
+  feedUrls: []
+}
+append to failed list. http://freewind.me/
+append to skip list. http://freewind.me/
+
+----
+[ 'http://www.flykobe.com/rss.xml' ]
+{
+  site: {
+    title: '&#27426;&#x8FCE;&#35775;&#x95EE;&#49;0&#49;&#x5F69;&#31080;&#x5E73;&#21488;',
+    favicon: 'http://static.samsph.com/images/favicon.ico',
+    url: 'http://www.flykobe.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://flykobe.com/'. 
+  Found different feed URLs: 
+    - http://www.flykobe.com/rss.xml
+append to found list. http://flykobe.com/
+append to skip list. http://flykobe.com/
+
+----
+[ 'https://fsharpforfunandprofit.com/feed.xml' ]
+{
+  site: {
+    title: 'Home | F# for fun and profit',
+    favicon: 'https://fsharpforfunandprofit.com/assets/ico/favicon.ico',
+    url: 'https://fsharpforfunandprofit.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://fsharpforfunandprofit.com/'. 
+  Found different feed URLs: 
+    - https://fsharpforfunandprofit.com/feed.xml
+append to found list. https://fsharpforfunandprofit.com/
+append to skip list. https://fsharpforfunandprofit.com/
+
+----
+[]
+{
+  site: {
+    title: 'Search Company Engineering Blogs',
+    favicon: 'https://fulljoin.io/fulljoin/img/favicon.png',
+    url: 'https://fulljoin.io'
+  },
+  feedUrls: []
+}
+append to failed list. https://fulljoin.io/
+append to skip list. https://fulljoin.io/
+
+----
+[]
+{
+  site: {
+    title: 'Blog - Full Stack Python',
+    favicon: 'https://www.fullstackpython.com/img/fsp-fav.png',
+    url: 'https://www.fullstackpython.com/blog.html'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.fullstackpython.com/blog.html
+append to skip list. https://www.fullstackpython.com/blog.html
+
+----
+[]
+{
+  site: {
+    title: 'freezhongzi.info&nbsp;-&nbsp;freezhongzi Resources and Information.',
+    favicon: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0MDk0OSwgMjAxMC8xMi8wNy0xMDo1NzowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNS4xIFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MzRFNEQ3NkJEMjRGMTFFMTk4RjA4NDhFNTEwRTcyMkIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MzRFNEQ3NkNEMjRGMTFFMTk4RjA4NDhFNTEwRTcyMkIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozNEU0RDc2OUQyNEYxMUUxOThGMDg0OEU1MTBFNzIyQiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozNEU0RDc2QUQyNEYxMUUxOThGMDg0OEU1MTBFNzIyQiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PukMAkAAAAEsUExURcbf8uXx+vb6/eXx+Q5FtN/t+Ofz+rbX7uTr9+Tq9y5fvlh+y7rY7+n0+lJ6yS1evt7l9Sxdvr/b8L3a8BRLtpev31mAy+v0+k13yLLD59Hm9PT5/c3Z8LXG6Oby+pXG5aG54vX3/Git2LvZ79bg8vr8/vP4/Mjh8+Pw+Ofy+sPd8cfj9G2P0cDc783k9Ex2x6DK5xlOuCBUumWJztDm9DZkwLTF6Ojt92yP0s7a8OPq9m6Y1d3l9cHP7OLp9kNvxNPo9Wes2DNhwJSv3uDt+Ovw+cDP6yNVuurv+Nbf8pjI5aDL56G44rTL6h1RuWaJz9bp9tDo9u31+oWi2TZlwMfg8E16yd7t99Hc8Vl+ysri897l9JCq3FB5yPL1++/2/MLQ7HGb1j9sw////2AvJ1QAAADsSURBVHjaRM9ZMwNREAXgnpvLZKOENsQSJrTlIjHEEhQZS2JJxljHmoT+//9B37w4j19Xna4DzKzGDbHKLN+MdZlB4GNJ8fV9AbH1W7ew7g6zn9ORt/uM8wJkBOs7eHai/P05Bnp0S8ynBQz2qk9v0jEbTyjpKWZRI0Z9hqlV29u9ynQmR6PAY7g0NYH+efvzYDHAQ4bExBY0Bi3E7BHDkGkI+MXN7+ncV1pKU1AhIiYbudgvx957c+t2YW2k1ugJUKmqdXs7DGdiN5+yW+hV4K4cVhI37wzGdX4u0skL9FYcRw2ANh74P38CDABMCjqJfzUcfQAAAABJRU5ErkJggg==',
+    url: 'http://ww1.freezhongzi.info'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.freezhongzi.info/
+append to skip list. http://www.freezhongzi.info/
+append to failed list. https://everybodyshometowngeek.com/blog/
+append to skip list. https://everybodyshometowngeek.com/blog/
+
+----
+[
+  'http://fuzhijie.me/elegant_designer-cat-furniture/new_designer-cat-furniture-contemporary-for-urban-pet-lover-home-feed'
+]
+{
+  site: {
+    title: 'Innovative Design Ideasa - Creative Idea',
+    favicon: 'http://fuzhijie.me/themes/24km/f.png',
+    url: 'http://fuzhijie.me'
+  },
+  feedUrls: []
+}
+Should check the url 'http://www.fuzhijie.me/'. 
+  Found different feed URLs: 
+    - http://fuzhijie.me/elegant_designer-cat-furniture/new_designer-cat-furniture-contemporary-for-urban-pet-lover-home-feed
+append to found list. http://www.fuzhijie.me/
+append to skip list. http://www.fuzhijie.me/
+
+----
+[]
+{
+  site: {
+    title: 'gcgc黄金城——黄金城官方网站',
+    favicon: null,
+    url: 'http://www.funboxpower.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.funboxpower.com/
+append to skip list. http://www.funboxpower.com/
+append to failed list. https://www.future-processing.pl/technical-blog/
+append to skip list. https://www.future-processing.pl/technical-blog/
+
+----
+[]
+{
+  site: {
+    title: 'Gavin Henderson',
+    favicon: 'https://gavinhenderson.me/img/favicon.jpg',
+    url: 'https://gavinhenderson.me'
+  },
+  feedUrls: []
+}
+append to failed list. https://gavinhenderson.me/
+append to skip list. https://gavinhenderson.me/
+
+----
+[]
+{
+  site: {
+    title: 'Frontend Mastery Blog | Geddski',
+    favicon: 'https://gedd.ski/favicon.ico?v=2.3',
+    url: 'https://gedd.ski'
+  },
+  feedUrls: []
+}
+append to failed list. https://gedd.ski/
+append to skip list. https://gedd.ski/
+append to failed list. http://www.geekboots.tech/
+append to skip list. http://www.geekboots.tech/
+
+----
+[
+  'https://www.freebuf.com/feed',
+  'https://www.freebuf.com/feed/rdf',
+  'https://www.freebuf.com/feed/atom'
+]
+{
+  site: {
+    title: '\nFreeBuf互联网安全新媒体平台',
+    favicon: 'https://static.freebuf.com/images/favicon.ico',
+    url: 'https://www.freebuf.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://www.freebuf.com/'. 
+  Found different feed URLs: 
+    - https://www.freebuf.com/feed
+    - https://www.freebuf.com/feed/rdf
+    - https://www.freebuf.com/feed/atom
+append to found list. https://www.freebuf.com/
+append to skip list. https://www.freebuf.com/
+
+----
+[]
+{
+  site: {
+    title: 'Grzegorz Gajos Software Engineer',
+    favicon: null,
+    url: 'http://ggajos.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://ggajos.com/
+append to skip list. http://ggajos.com/
+
+----
+[]
+{
+  site: {
+    title: '博客-GeneDock',
+    favicon: 'https://cdn.genedock.com/favicon.ico',
+    url: 'https://www.genedock.com/blog'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.genedock.com/blog/
+append to skip list. https://www.genedock.com/blog/
+append to failed list. https://www.gblm.net/
+append to skip list. https://www.gblm.net/
+
+----
+[]
+{
+  site: {
+    title: 'Gideon Pyzer - Web Developer',
+    favicon: 'https://gideonpyzer.dev/img/favicon.ico',
+    url: 'https://gideonpyzer.dev'
+  },
+  feedUrls: []
+}
+append to failed list. https://gideonpyzer.com/
+append to skip list. https://gideonpyzer.com/
+
+----
+[]
+{
+  site: {
+    title: 'Blog Archive&nbsp;-&nbsp;Gideon Pyzer',
+    favicon: 'https://gideonpyzer.dev/img/favicon.ico',
+    url: 'https://gideonpyzer.dev/blog'
+  },
+  feedUrls: []
+}
+append to failed list. https://gideonpyzer.dev/blog/
+append to skip list. https://gideonpyzer.dev/blog/
+
+----
+[ 'https://www.giftegwuenu.com/feed.xml' ]
+{
+  site: {
+    title: 'Home - Gift Egwuenu',
+    favicon: 'https://www.giftegwuenu.com/assets/static/favicon.b9532cc.3c697e7.png',
+    url: 'https://www.giftegwuenu.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://www.giftegwuenu.com/'. 
+  Found different feed URLs: 
+    - https://www.giftegwuenu.com/feed.xml
+append to found list. https://www.giftegwuenu.com/
+append to skip list. https://www.giftegwuenu.com/
+
+----
+[ 'http://gofynd.io/feed', 'http://gofynd.io/feed.xml' ]
+{
+  site: {
+    title: 'Blog | Fynd Engineering',
+    favicon: 'http://gofynd.io/img/fabicon_32.png',
+    url: 'http://gofynd.io/blog'
+  },
+  feedUrls: []
+}
+Should check the url 'http://gofynd.io/blog'. 
+  Found different feed URLs: 
+    - http://gofynd.io/feed
+    - http://gofynd.io/feed.xml
+append to found list. http://gofynd.io/blog
+append to skip list. http://gofynd.io/blog
+
+----
+[]
+{
+  site: {
+    title: 'LNMP一键安装包 by Licess',
+    favicon: null,
+    url: 'http://www.grackertalk.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.grackertalk.com/
+append to skip list. http://www.grackertalk.com/
+
+----
+[
+  'https://juejin.im/?feed=rss&amp;sort=popular',
+  'https://juejin.im/?feed=rss&amp;sort=newest',
+  'https://juejin.im/?feed=rss&amp;sort=three_days_hottest',
+  'https://juejin.im/?feed=rss2&amp;sort=popular',
+  'https://juejin.im/?feed=rss2&amp;sort=newest',
+  'https://juejin.im/?feed=rss2&amp;sort=three_days_hottest',
+  'https://juejin.im/?feed=atom&amp;sort=popular',
+  'https://juejin.im/?feed=atom&amp;sort=newest',
+  'https://juejin.im/?feed=atom&amp;sort=three_days_hottest'
+]
+{
+  site: {
+    title: '掘金 - juejin.im - 一个帮助开发者成长的社区',
+    favicon: 'https://b-gold-cdn.xitu.io/favicons/v2/favicon.ico',
+    url: 'https://juejin.im'
+  },
+  feedUrls: []
+}
+Should check the url 'http://gold.xitu.io/'. 
+  Found different feed URLs: 
+    - https://juejin.im/?feed=rss&amp;sort=popular
+    - https://juejin.im/?feed=rss&amp;sort=newest
+    - https://juejin.im/?feed=rss&amp;sort=three_days_hottest
+    - https://juejin.im/?feed=rss2&amp;sort=popular
+    - https://juejin.im/?feed=rss2&amp;sort=newest
+    - https://juejin.im/?feed=rss2&amp;sort=three_days_hottest
+    - https://juejin.im/?feed=atom&amp;sort=popular
+    - https://juejin.im/?feed=atom&amp;sort=newest
+    - https://juejin.im/?feed=atom&amp;sort=three_days_hottest
+append to found list. http://gold.xitu.io/
+append to skip list. http://gold.xitu.io/
+
+----
+[]
+{
+  site: {
+    title: '08彩票-08彩票官网-08彩票app-08彩票下载',
+    favicon: 'http://www.greengnn.org/favicon.ico',
+    url: 'http://www.greengnn.org'
+  },
+  feedUrls: []
+}
+append to failed list. http://greengnn.org/
+append to skip list. http://greengnn.org/
+
+----
+[]
+{
+  site: {
+    title: 'Guo Jing',
+    favicon: 'https://pro2-bar-s3-cdn-cf3.myportfolio.com/d009c54f-13ee-4787-876a-e7df9a3eed11/41d1c095-8c12-438a-aba7-49afec508d64_carw_1x1x32.png?h=e30022f548fed17abf8a45b94ba32c2e',
+    url: 'https://guojing.me'
+  },
+  feedUrls: []
+}
+append to failed list. http://guojing.me/
+append to skip list. http://guojing.me/
+
+----
+[
+  'https://www.geekfence.com/feed/',
+  'https://www.geekfence.com/comments/feed/',
+  'https://www.geekfence.com/home/feed/',
+  'https://www.geekfence.com/feed/rdf/',
+  'https://www.geekfence.com/feed/atom/',
+  'https://www.geekfence.com/services/feed/'
+]
+{
+  site: {
+    title: 'GeekFence - Tech Blog Dubai | Tech news and updates',
+    favicon: 'https://www.geekfence.com/favicon.ico',
+    url: 'https://www.geekfence.com'
+  },
+  feedUrls: [
+    {
+      title: 'GeekFence - Tech Blog Dubai &raquo; Feed',
+      url: 'https://www.geekfence.com/feed/'
+    },
+    {
+      title: 'GeekFence - Tech Blog Dubai &raquo; Comments Feed',
+      url: 'https://www.geekfence.com/comments/feed/'
+    },
+    {
+      title: 'GeekFence - Tech Blog Dubai &raquo; Home Comments Feed',
+      url: 'https://www.geekfence.com/home/feed/'
+    }
+  ]
+}
+append to found list. https://www.geekfence.com/
+append to skip list. https://www.geekfence.com/
+
+----
+[ 'https://hackernoon.com/feed', 'https://www.hackernoon.com/feed' ]
+{
+  site: {
+    title: 'Hacker Noon',
+    favicon: 'https://hackernoon.com/favicon.png',
+    url: 'https://hackernoon.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://hackernoon.com/'. 
+  Found different feed URLs: 
+    - https://hackernoon.com/feed
+    - https://www.hackernoon.com/feed
+append to found list. https://hackernoon.com/
+append to skip list. https://hackernoon.com/
+append to failed list. http://goz.hexacosa.net/
+append to skip list. http://goz.hexacosa.net/
+
+----
+[]
+{
+  site: {
+    title: '优设导航 - 学设计从这里开始！',
+    favicon: 'https://hao.uisdc.com/favicon.ico',
+    url: 'https://hao.uisdc.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.hao.uisdc.com/
+append to skip list. http://www.hao.uisdc.com/
+
+----
+[]
+{
+  site: {
+    title: 'Kai Hendry 🇩🇪🇫🇮🇿🇦🇬🇧🇲🇾🇲🇨',
+    favicon: 'https://hendry.iki.fi/kaihendry.svg',
+    url: 'https://hendry.iki.fi'
+  },
+  feedUrls: []
+}
+append to failed list. https://hendry.iki.fi/
+append to skip list. https://hendry.iki.fi/
+
+----
+[]
+{
+  site: {
+    title: 'Smart Testing',
+    favicon: 'http://hiadmin.org/favicon.ico?v=5.1.1',
+    url: 'http://hiadmin.org'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.hiadmin.org/
+append to skip list. http://www.hiadmin.org/
+
+----
+[]
+{
+  site: {
+    title: 'Darren Jennings',
+    favicon: 'https://guuu.io/favicon.ico',
+    url: 'https://guuu.io'
+  },
+  feedUrls: []
+}
+append to failed list. https://guuu.io/
+append to skip list. https://guuu.io/
+
+----
+[]
+{
+  site: { title: null, favicon: null, url: 'http://hightman.cn' },
+  feedUrls: []
+}
+append to failed list. http://hightman.cn/
+append to skip list. http://hightman.cn/
+
+----
+[]
+{
+  site: {
+    title: '在线电子表格_PHP建站资源分享_higrid.net',
+    favicon: 'http://higrid.net/favicon.ico',
+    url: 'http://higrid.net'
+  },
+  feedUrls: []
+}
+append to failed list. http://higrid.net/
+append to skip list. http://higrid.net/
+
+----
+[ 'https://hesh.am/feed', 'https://hesh.am/feed.xml' ]
+{
+  site: {
+    title: '\n    \n       &middot; Hesham Abd-Elmegid\n    \n  ',
+    favicon: 'https://hesh.am/assets/favicon-16x16.png',
+    url: 'https://hesh.am'
+  },
+  feedUrls: []
+}
+Should check the url 'https://hesh.am/'. 
+  Found different feed URLs: 
+    - https://hesh.am/feed
+    - https://hesh.am/feed.xml
+append to found list. https://hesh.am/
+append to skip list. https://hesh.am/
+
+----
+[]
+{
+  site: {
+    title: '信誉最好的网投app-网投信誉平台',
+    favicon: 'http://www.hindata.com/favicon.ico',
+    url: 'http://www.hindata.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.hindata.com/
+append to skip list. http://www.hindata.com/
+
+----
+[
+  'http://www.hiheng.com/blog/feed',
+  'http://www.hiheng.com/blog/comments/feed',
+  'http://www.hiheng.com/blog/feed/rdf',
+  'http://www.hiheng.com/blog/feed/atom',
+  'http://www.hiheng.com/blog/?feed=rss2'
+]
+{
+  site: {
+    title: 'Hiheng &#8211; 生活是件有趣的事情',
+    favicon: 'http://www.hiheng.com/favicon.ico',
+    url: 'http://www.hiheng.com/blog'
+  },
+  feedUrls: [
+    {
+      title: 'Hiheng &raquo; Feed',
+      url: 'http://www.hiheng.com/blog/feed'
+    },
+    {
+      title: 'Hiheng &raquo; 评论Feed',
+      url: 'http://www.hiheng.com/blog/comments/feed'
+    }
+  ]
+}
+append to found list. http://www.hiheng.com/blog
+append to skip list. http://www.hiheng.com/blog
+
+----
+[
+  'https://www.hiteshi.com/feed/',
+  'https://www.hiteshi.com/comments/feed/',
+  'https://www.hiteshi.com/blog/feed/',
+  'https://www.hiteshi.com/blog/feed/rdf/',
+  'https://www.hiteshi.com/blog/feed/atom/',
+  'https://www.hiteshi.com/blog/services/feed/',
+  'https://www.hiteshi.com/feed/rdf/',
+  'https://www.hiteshi.com/feed/atom/',
+  'https://www.hiteshi.com/services/feed/'
+]
+{
+  site: {
+    title: 'Blog- Latest Web Technology | Top Mobile App Development Companies | Hiteshi',
+    favicon: 'https://www.hiteshi.com/wp-content/uploads/54x54.png',
+    url: 'https://www.hiteshi.com/blog'
+  },
+  feedUrls: [
+    {
+      title: 'Hiteshi &raquo; Feed',
+      url: 'https://www.hiteshi.com/feed/'
+    },
+    {
+      title: 'Hiteshi &raquo; Comments Feed',
+      url: 'https://www.hiteshi.com/comments/feed/'
+    }
+  ]
+}
+append to found list. https://www.hiteshi.com/blog/
+append to skip list. https://www.hiteshi.com/blog/
+
+----
+[
+  'http://feeds.feedburner.com/ArkadiuszHolko',
+  'https://holko.pl/feed.xml'
+]
+{
+  site: {
+    title: 'Arek Holko',
+    favicon: 'https://holko.pl/public/images/favicon.png',
+    url: 'https://holko.pl'
+  },
+  feedUrls: [
+    { title: 'RSS', url: 'http://feeds.feedburner.com/ArkadiuszHolko' }
+  ]
+}
+append to found list. http://holko.pl/
+append to skip list. http://holko.pl/
+
+----
+[
+  'https://www.hmouse.tk/?feed=rss2',
+  'https://www.hmouse.tk/?feed=comments-rss2',
+  'https://www.hmouse.tk/?feed=rdf',
+  'https://www.hmouse.tk/?feed=atom'
+]
+{
+  site: {
+    title: '快乐老鼠 &#8211; 记录自己的点点滴滴',
+    favicon: null,
+    url: 'https://www.hmouse.tk'
+  },
+  feedUrls: [
+    {
+      title: '快乐老鼠 &raquo; Feed',
+      url: 'https://www.hmouse.tk/?feed=rss2'
+    },
+    {
+      title: '快乐老鼠 &raquo; 评论Feed',
+      url: 'https://www.hmouse.tk/?feed=comments-rss2'
+    }
+  ]
+}
+append to found list. http://www.hmouse.tk/
+append to skip list. http://www.hmouse.tk/
+append to failed list. http://www.h4ck.org.cn/
+append to skip list. http://www.h4ck.org.cn/
+
+----
+[
+  'https://holtwick.de/atom.xml',
+  'https://holtwick.de/blog/atom.xml',
+  'https://holtwick.de/blog/atom.xml?referrer=www.holtwick.de',
+  'https://holtwick.de/atom.xml?referrer=www.holtwick.de'
+]
+{
+  site: {
+    title: 'Dirk Holtwick - Dirk Holtwick',
+    favicon: 'https://holtwick.de/img/favicon-96.png',
+    url: 'https://holtwick.de/blog'
+  },
+  feedUrls: [
+    {
+      title: 'Blog of Dirk Holtwick',
+      url: 'https://holtwick.de/atom.xml'
+    }
+  ]
+}
+append to found list. https://holtwick.de/blog/
+append to skip list. https://holtwick.de/blog/
+
+----
+[
+  'https://honzadvorsky.com/feed.xml',
+  'https://honzadvorsky.com/feed'
+]
+{
+  site: {
+    title: 'blog - honza dvorsky\n    ',
+    favicon: null,
+    url: 'https://honzadvorsky.com'
+  },
+  feedUrls: [
+    {
+      title: 'honza dvorsky',
+      url: 'https://honzadvorsky.com/feed.xml'
+    }
+  ]
+}
+append to found list. http://honzadvorsky.com/
+append to skip list. http://honzadvorsky.com/
+
+----
+[]
+{
+  site: {
+    title: 'Gloria Cho - Front-End Web Developer',
+    favicon: null,
+    url: 'https://www.gloriacho.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.gloriacho.com/
+append to skip list. https://www.gloriacho.com/
+
+----
+[
+  'http://www.hollischuang.com/feed',
+  'http://www.hollischuang.com/feed/rdf',
+  'http://www.hollischuang.com/feed/atom',
+  'http://www.hollischuang.com/services/feed'
+]
+{
+  site: {
+    title: 'HollisChuang&#039;s Blog-Java干货集散地',
+    favicon: 'https://www.hollischuang.com/favicon.ico',
+    url: 'http://www.hollischuang.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://www.hollischuang.com/'. 
+  Found different feed URLs: 
+    - http://www.hollischuang.com/feed
+    - http://www.hollischuang.com/feed/rdf
+    - http://www.hollischuang.com/feed/atom
+    - http://www.hollischuang.com/services/feed
+append to found list. http://www.hollischuang.com/
+append to skip list. http://www.hollischuang.com/
+
+----
+[]
+{
+  site: {
+    title: null,
+    favicon: 'http://how2android.com/favicon.ico',
+    url: 'http://how2android.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://how2android.com/
+append to skip list. http://how2android.com/
+
+----
+[
+  'https://howtodoinjava.com/feed/',
+  'https://howtodoinjava.com/feed/rdf/',
+  'https://howtodoinjava.com/feed/atom/'
+]
+{
+  site: {
+    title: 'Java Tutorials - Java Learning Resources - HowToDoInJava',
+    favicon: 'https://howtodoinjava.com/wp-content/uploads/2015/05/howtodoinjava_logo-55696c1cv1_site_icon-256x256.png',
+    url: 'https://howtodoinjava.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://howtodoinjava.com/'. 
+  Found different feed URLs: 
+    - https://howtodoinjava.com/feed/
+    - https://howtodoinjava.com/feed/rdf/
+    - https://howtodoinjava.com/feed/atom/
+append to found list. https://howtodoinjava.com/
+append to skip list. https://howtodoinjava.com/
+append to failed list. http://www.html5tricks.com/
+append to skip list. http://www.html5tricks.com/
+
+----
+[]
+{
+  site: {
+    title: null,
+    favicon: 'https://hubblehq.com/favicon-16x16.png',
+    url: 'https://hubblehq.com/blog'
+  },
+  feedUrls: []
+}
+append to failed list. https://hubblehq.com/blog
+append to skip list. https://hubblehq.com/blog
+
+----
+[
+  'http://www.html5dw.com/feed',
+  'http://www.html5dw.com/feed/rdf',
+  'http://www.html5dw.com/feed/atom'
+]
+{
+  site: {
+    title: 'HTML5梦工场 &#8211; 助推 HTML5 在中国的发展',
+    favicon: 'http://www.html5dw.com/wp-content/themes/html5dw/assets/images/favicon.png',
+    url: 'http://www.html5dw.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://www.html5dw.com/'. 
+  Found different feed URLs: 
+    - http://www.html5dw.com/feed
+    - http://www.html5dw.com/feed/rdf
+    - http://www.html5dw.com/feed/atom
+append to found list. http://www.html5dw.com/
+append to skip list. http://www.html5dw.com/
+append to failed list. https://www.icehousecorp.com/blog/
+append to skip list. https://www.icehousecorp.com/blog/
+
+----
+[]
+{
+  site: {
+    title: "idea's web - 高性能分布式 Web 和网络应用开发, 架构设计, 移动应用开发",
+    favicon: 'http://www.ideawu.net/favicon.ico',
+    url: 'http://www.ideawu.net'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.ideawu.net/
+append to skip list. http://www.ideawu.net/
+
+----
+[]
+{
+  site: { title: null, favicon: null, url: 'http://idevblogaday.com' },
+  feedUrls: []
+}
+append to failed list. http://idevblogaday.com/
+append to skip list. http://idevblogaday.com/
+
+----
+[
+  'http://www.icefifi.com/feed',
+  'http://www.icefifi.com/comments/feed',
+  'http://www.icefifi.com/feed/rdf',
+  'http://www.icefifi.com/feed/atom'
+]
+{
+  site: {
+    title: 'FiFi Design &#8211; 视觉改变生活 细节成就体验',
+    favicon: 'http://www.icefifi.com/favicon.ico',
+    url: 'http://www.icefifi.com'
+  },
+  feedUrls: [
+    {
+      title: 'FiFi Design &raquo; Feed',
+      url: 'http://www.icefifi.com/feed'
+    },
+    {
+      title: 'FiFi Design &raquo; 评论Feed',
+      url: 'http://www.icefifi.com/comments/feed'
+    }
+  ]
+}
+append to found list. http://www.icefifi.com/
+append to skip list. http://www.icefifi.com/
+
+----
+[]
+{
+  site: {
+    title: '�������� - �ÿ���С˵�Ƽ�_���С˵�����Ķ�',
+    favicon: 'http://www.idlelife.org/favicon.ico',
+    url: 'http://www.idlelife.org'
+  },
+  feedUrls: []
+}
+append to failed list. http://idlelife.org/
+append to skip list. http://idlelife.org/
+append to failed list. https://www.iewb.net/
+append to skip list. https://www.iewb.net/
+
+----
+[
+  'http://www.ideawu.net/blog/feed',
+  'http://www.ideawu.net/blog/comments/feed',
+  'http://www.ideawu.net/blog/feed/rdf',
+  'http://www.ideawu.net/blog/feed/atom'
+]
+{
+  site: {
+    title: 'idea&#039;s blog - 高性能分布式 Web 和网络应用开发, 架构设计, 移动应用开发',
+    favicon: 'http://www.ideawu.net/favicon.ico',
+    url: 'http://www.ideawu.net/blog'
+  },
+  feedUrls: []
+}
+Should check the url 'http://www.ideawu.net/blog'. 
+  Found different feed URLs: 
+    - http://www.ideawu.net/blog/feed
+    - http://www.ideawu.net/blog/comments/feed
+    - http://www.ideawu.net/blog/feed/rdf
+    - http://www.ideawu.net/blog/feed/atom
+append to found list. http://www.ideawu.net/blog
+append to skip list. http://www.ideawu.net/blog
+
+----
+[]
+{
+  site: {
+    title: '&lt;ijse blog /&gt;',
+    favicon: 'https://ijser.cn/favicon-16x16.png',
+    url: 'https://ijser.cn'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.ijser.cn/
+append to skip list. http://www.ijser.cn/
+
+----
+[ 'http://hongjiang.info/feed/rdf/' ]
+{
+  site: {
+    title: '写点什么 | 有关jvm,scala与后端架构',
+    favicon: 'http://hongjiang.info/favicon.ico',
+    url: 'http://hongjiang.info'
+  },
+  feedUrls: [
+    { title: '写点什么 &raquo; Feed', url: 'http://hongjiang.info/feed/' },
+    {
+      title: '写点什么 &raquo; 评论Feed',
+      url: 'http://hongjiang.info/comments/feed/'
+    }
+  ]
+}
+Should check the url 'http://hongjiang.info/'. 
+  Found different feed URLs: 
+    - http://hongjiang.info/feed/
+    - http://hongjiang.info/comments/feed/
+    - http://hongjiang.info/feed/rdf/
+append to found list. http://hongjiang.info/
+append to skip list. http://hongjiang.info/
+append to failed list. https://icalvin.dev/
+append to skip list. https://icalvin.dev/

@@ -162,3 +162,123 @@
   alias: eastdesign.net
   url: http://www.eastdesign.net/
   feedUrl: https://www.eastdesign.net/feed/
+-
+  alias: encodedna.com
+  url: https://www.encodedna.com/
+  feedUrl: https://www.encodedna.com/rss.xml
+-
+  alias: engineering.hackerearth.com
+  url: http://engineering.hackerearth.com/
+  feedUrl: http://engineering.hackerearth.com/atom.xml
+-
+  alias: engineering.brandwatch.com
+  url: http://engineering.brandwatch.com/
+  feedUrl: https://www.brandwatch.com/feed/
+-
+  alias: engineering.nodesagency.com/categories/ios
+  url: https://engineering.nodesagency.com/categories/ios/
+  feedUrl: https://engineering.nodesagency.com/feed
+-
+  alias: engineering.shapesecurity.com
+  url: http://engineering.shapesecurity.com/
+  feedUrl: https://engineering.shapesecurity.com/atom.xml
+-
+  alias: f2eskills.com
+  url: http://f2eskills.com/
+  feedUrl: http://f2eskills.com/rss.xml
+-
+  alias: fabiensanglard.net
+  url: http://fabiensanglard.net/
+  feedUrl: http://fabiensanglard.net/rss.xml
+-
+  alias: fernandocejas.com
+  url: https://fernandocejas.com/
+  feedUrl: https://fernandocejas.com/feed
+-
+  alias: flykobe.com
+  url: http://flykobe.com/
+  feedUrl: http://www.flykobe.com/rss.xml
+-
+  alias: fsharpforfunandprofit.com
+  url: https://fsharpforfunandprofit.com/
+  feedUrl: https://fsharpforfunandprofit.com/feed.xml
+-
+  alias: fuzhijie.me
+  url: http://www.fuzhijie.me/
+  feedUrl: http://fuzhijie.me/elegant_designer-cat-furniture/new_designer-cat-furniture-contemporary-for-urban-pet-lover-home-feed
+-
+  alias: freebuf.com
+  url: https://www.freebuf.com/
+  feedUrl: https://www.freebuf.com/feed
+-
+  alias: giftegwuenu.com
+  url: https://www.giftegwuenu.com/
+  feedUrl: https://www.giftegwuenu.com/feed.xml
+-
+  alias: gofynd.io/blog
+  url: http://gofynd.io/blog
+  feedUrl: http://gofynd.io/feed
+-
+  alias: gold.xitu.io
+  url: http://gold.xitu.io/
+  feedUrl: https://juejin.im/?feed=rss&amp;sort=popular
+-
+  alias: geekfence.com
+  url: https://www.geekfence.com/
+  feedUrl: https://www.geekfence.com/feed/
+-
+  alias: hackernoon.com
+  url: https://hackernoon.com/
+  feedUrl: https://hackernoon.com/feed
+-
+  alias: hesh.am
+  url: https://hesh.am/
+  feedUrl: https://hesh.am/feed
+-
+  alias: hiheng.com/blog
+  url: http://www.hiheng.com/blog
+  feedUrl: http://www.hiheng.com/blog/feed
+-
+  alias: hiteshi.com/blog
+  url: https://www.hiteshi.com/blog/
+  feedUrl: https://www.hiteshi.com/feed/
+-
+  alias: holko.pl
+  url: http://holko.pl/
+  feedUrl: http://feeds.feedburner.com/ArkadiuszHolko
+-
+  alias: hmouse.tk
+  url: http://www.hmouse.tk/
+  feedUrl: https://www.hmouse.tk/?feed=rss2
+-
+  alias: holtwick.de/blog
+  url: https://holtwick.de/blog/
+  feedUrl: https://holtwick.de/atom.xml
+-
+  alias: honzadvorsky.com
+  url: http://honzadvorsky.com/
+  feedUrl: https://honzadvorsky.com/feed.xml
+-
+  alias: hollischuang.com
+  url: http://www.hollischuang.com/
+  feedUrl: http://www.hollischuang.com/feed
+-
+  alias: howtodoinjava.com
+  url: https://howtodoinjava.com/
+  feedUrl: https://howtodoinjava.com/feed/
+-
+  alias: html5dw.com
+  url: http://www.html5dw.com/
+  feedUrl: http://www.html5dw.com/feed
+-
+  alias: icefifi.com
+  url: http://www.icefifi.com/
+  feedUrl: http://www.icefifi.com/feed
+-
+  alias: ideawu.net/blog
+  url: http://www.ideawu.net/blog
+  feedUrl: http://www.ideawu.net/blog/feed
+-
+  alias: hongjiang.info
+  url: http://hongjiang.info/
+  feedUrl: http://hongjiang.info/feed/
