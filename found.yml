@@ -282,3 +282,79 @@
   alias: hongjiang.info
   url: http://hongjiang.info/
   feedUrl: http://hongjiang.info/feed/
+-
+  alias: improgrammer.net
+  url: https://www.improgrammer.net/
+  feedUrl: https://www.improgrammer.net/feed/
+-
+  alias: internetdevels.com/blog
+  url: https://internetdevels.com/blog
+  feedUrl: https://internetdevels.com/rss.xml
+-
+  alias: influxdata.com/blog
+  url: https://influxdata.com/blog/
+  feedUrl: https://www.influxdata.com/feed/
+-
+  alias: ituibar.com
+  url: http://ituibar.com/
+  feedUrl: http://ituibar.com/feed/
+-
+  alias: javaonfly.blogspot.com
+  url: http://javaonfly.blogspot.com/
+  feedUrl: http://javaonfly.blogspot.com/atom.xml
+-
+  alias: jamesdouble.github.io/blog
+  url: https://jamesdouble.github.io/blog/
+  feedUrl: https://jamesdouble.github.io/blog/atom.xml
+-
+  alias: javascriptsearch.com
+  url: https://www.javascriptsearch.com/
+  feedUrl: https://www.javascriptsearch.com/rss_xmls/3_rss.xml
+-
+  alias: javahungry.blogspot.com
+  url: https://javahungry.blogspot.com/
+  feedUrl: https://javahungry.blogspot.com/atom.xml
+-
+  alias: javascriptplayground.com
+  url: https://javascriptplayground.com/
+  feedUrl: https://javascriptplayground.com/feed.xml
+-
+  alias: jsmanifest.com
+  url: https://jsmanifest.com/
+  feedUrl: https://jsmanifest.com/rss.xml
+-
+  alias: jellythink.com
+  url: http://www.jellythink.com/
+  feedUrl: https://www.jellythink.com/feed
+-
+  alias: jollygoodcode.github.io
+  url: https://jollygoodcode.github.io/
+  feedUrl: https://jollygoodcode.github.io/atom.xml
+-
+  alias: kaverjody.com
+  url: http://kaverjody.com/
+  feedUrl: http://kaverjody.com/feed/
+-
+  alias: liuhaihua.cn
+  url: http://www.liuhaihua.cn/
+  feedUrl: http://www.liuhaihua.cn/feed
+-
+  alias: liunian.info
+  url: http://liunian.info/
+  feedUrl: https://liunian.info/feed
+-
+  alias: lostphp.com
+  url: http://lostphp.com/
+  feedUrl: http://lostphp.com/feed
+-
+  alias: lynnandtonic.com
+  url: https://lynnandtonic.com/
+  feedUrl: https://lynnandtonic.com/feed.xml
+-
+  alias: maxdeviant.com
+  url: https://maxdeviant.com/
+  feedUrl: https://maxdeviant.com/rss.xml
+-
+  alias: lzw.me
+  url: http://lzw.me/
+  feedUrl: http://lzw.me/feed

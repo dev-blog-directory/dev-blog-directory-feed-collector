@@ -8372,6 +8372,11 @@
     "feedUrl": "https://www.impressivewebs.com/feed"
   },
   {
+    "alias": "improgrammer.net",
+    "url": "https://www.improgrammer.net/",
+    "feedUrl": "https://www.improgrammer.net/feed/"
+  },
+  {
     "alias": "imququ.com",
     "url": "https://imququ.com/",
     "feedUrl": "https://imququ.com/rss.html"
@@ -8517,6 +8522,11 @@
     "alias": "interjc.net",
     "url": "http://interjc.net/",
     "feedUrl": "https://interjc.net/feed"
+  },
+  {
+    "alias": "internetdevels.com/blog",
+    "url": "https://internetdevels.com/blog",
+    "feedUrl": "https://internetdevels.com/rss.xml"
   },
   {
     "alias": "interoptechnology.com/blogs",
@@ -8693,7 +8703,7 @@
   {
     "alias": "ituibar.com",
     "url": "http://ituibar.com/",
-    "feedUrl": "http://ituibar.com/?feed=rss"
+    "feedUrl": "http://ituibar.com/feed/"
   },
   {
     "alias": "itworld.com/category/cloud-computing",
@@ -8898,6 +8908,16 @@
     "feedUrl": "http://www.javacui.com/rss.php"
   },
   {
+    "alias": "javahungry.blogspot.com",
+    "url": "https://javahungry.blogspot.com/",
+    "feedUrl": "https://javahungry.blogspot.com/atom.xml"
+  },
+  {
+    "alias": "javaonfly.blogspot.com",
+    "url": "http://javaonfly.blogspot.com/",
+    "feedUrl": "http://javaonfly.blogspot.com/atom.xml"
+  },
+  {
     "alias": "javapapers.com",
     "url": "http://javapapers.com/",
     "feedUrl": "https://javapapers.com/feed/"
@@ -8911,6 +8931,11 @@
     "alias": "javarevisited.blogspot.in",
     "url": "http://javarevisited.blogspot.in/",
     "feedUrl": "https://javarevisited.blogspot.com/feeds/posts/default"
+  },
+  {
+    "alias": "javascriptplayground.com",
+    "url": "https://javascriptplayground.com/",
+    "feedUrl": "https://javascriptplayground.com/feed.xml"
   },
   {
     "alias": "javascriptsearch.com",
@@ -8978,6 +9003,11 @@
     "alias": "jeffknupp.com/blog",
     "url": "https://www.jeffknupp.com/blog/",
     "feedUrl": "http://feeds.feedblitz.com/hackersgonnahack"
+  },
+  {
+    "alias": "jellythink.com",
+    "url": "http://www.jellythink.com/",
+    "feedUrl": "https://www.jellythink.com/feed"
   },
   {
     "alias": "jelv.is/blog",
@@ -9426,6 +9456,11 @@
     "alias": "kasicass.blog.163.com",
     "url": "http://kasicass.blog.163.com/",
     "feedUrl": "http://kasicass.blog.163.com/rss/"
+  },
+  {
+    "alias": "kaverjody.com",
+    "url": "http://kaverjody.com/",
+    "feedUrl": "http://kaverjody.com/feed/"
   },
   {
     "alias": "kayathomas.info",
@@ -10303,6 +10338,11 @@
     "feedUrl": "https://lornajane.net/feed"
   },
   {
+    "alias": "lostphp.com",
+    "url": "http://lostphp.com/",
+    "feedUrl": "http://lostphp.com/feed"
+  },
+  {
     "alias": "louishan.com",
     "url": "http://louishan.com/",
     "feedUrl": "http://louishan.com/feed"
@@ -10412,9 +10452,19 @@
     "feedUrl": "https://lvwenhan.com/rss.php"
   },
   {
+    "alias": "lynnandtonic.com",
+    "url": "https://lynnandtonic.com/",
+    "feedUrl": "https://lynnandtonic.com/feed.xml"
+  },
+  {
     "alias": "lyric.im",
     "url": "http://lyric.im/",
     "feedUrl": "https://lyric.im/feed/rss2.xml"
+  },
+  {
+    "alias": "lzw.me",
+    "url": "http://lzw.me/",
+    "feedUrl": "http://lzw.me/feed"
   },
   {
     "alias": "m4513.blogspot.com",
@@ -10791,6 +10841,11 @@
     "alias": "mawenjian.net",
     "url": "http://mawenjian.net/",
     "feedUrl": "https://mawenjian.net/feed"
+  },
+  {
+    "alias": "maxdeviant.com",
+    "url": "https://maxdeviant.com/",
+    "feedUrl": "https://maxdeviant.com/rss.xml"
   },
   {
     "alias": "maximeremenko.com",
