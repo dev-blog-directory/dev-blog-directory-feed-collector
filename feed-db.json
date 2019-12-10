@@ -41,7 +41,7 @@
   {
     "alias": "152percent.com/blog",
     "url": "https://152percent.com/blog",
-    "feedUrl": "https://www.152percent.com/blog?format=rss",
+    "feedUrl": "https://152percent.com/blog?format=RSS",
     "title": "One Fifty Two",
     "type": "rss"
   },
@@ -61,11 +61,6 @@
     "alias": "2bab.me",
     "url": "http://2bab.me/",
     "feedUrl": "https://2bab.me/index.xml"
-  },
-  {
-    "alias": "2heng.xin",
-    "url": "https://2heng.xin/",
-    "feedUrl": "https://2heng.xin/sitemap_index.xml"
   },
   {
     "alias": "361way.com",
@@ -213,14 +208,14 @@
   {
     "alias": "academie.ryfacto.fr",
     "url": "https://academie.ryfacto.fr/",
-    "feedUrl": "https://academie.ryfacto.fr/",
+    "feedUrl": "https://academie.ryfacto.fr/advanced-ios-craft/feed.xml",
     "title": "Académie Ryfacto | Advanced iOS Craft",
     "type": "rss"
   },
   {
     "alias": "academy.realm.io",
     "url": "https://academy.realm.io/",
-    "feedUrl": "https://academy.realm.io/blog/feed.xml",
+    "feedUrl": "https://academy.realm.io/feed.xml",
     "title": "Realm Academy Videos",
     "type": "rss"
   },
@@ -306,11 +301,6 @@
     "alias": "adnjavainterview.blogspot.com",
     "url": "https://adnjavainterview.blogspot.com/",
     "feedUrl": "https://adnjavainterview.blogspot.com/feeds/posts/default"
-  },
-  {
-    "alias": "adrop.me",
-    "url": "http://www.adrop.me/",
-    "feedUrl": "http://www.adrop.me/opensearch.xml"
   },
   {
     "alias": "advancedweb.hu",
@@ -408,7 +398,7 @@
   {
     "alias": "akpdev.com",
     "url": "http://akpdev.com/",
-    "feedUrl": "http://akpdev.com/feed.xml",
+    "feedUrl": "http://www.akpdev.com/feed.xml",
     "title": "Arseniy Kuznetsov's Blog",
     "type": "rss"
   },
@@ -470,11 +460,6 @@
     "feedUrl": "https://morozov.ca/feeds/all.atom.xml"
   },
   {
-    "alias": "alexpate.uk",
-    "url": "https://alexpate.uk/",
-    "feedUrl": "https://alexpate.uk/sitemap.xml"
-  },
-  {
     "alias": "alexruperez.com/entries",
     "url": "http://www.alexruperez.com/entries",
     "feedUrl": "http://feeds.alexruperez.com/alexruperez",
@@ -525,7 +510,7 @@
   {
     "alias": "alloc-init.com",
     "url": "https://www.alloc-init.com/",
-    "feedUrl": "https://alloc-init.com/feed",
+    "feedUrl": "https://www.alloc-init.com/feed",
     "title": "Alloc-Init",
     "type": "rss"
   },
@@ -552,7 +537,7 @@
   {
     "alias": "alwaysrightinstitute.com",
     "url": "https://www.alwaysrightinstitute.com/",
-    "feedUrl": "https://www.alwaysrightinstitute.com/feed.xml",
+    "feedUrl": "https://www.alwaysrightinstitute.com/feed",
     "title": "The Always Right Institute",
     "type": "rss"
   },
@@ -750,7 +735,7 @@
   {
     "alias": "aplus.rs/categories/iosdev",
     "url": "http://aplus.rs/categories/iosdev/",
-    "feedUrl": "http://localhost:1313/categories/iosdev/index.xml",
+    "feedUrl": "http://aplus.rs/index.xml",
     "title": "Aleksandar Vacić's blog",
     "type": "rss"
   },
@@ -808,14 +793,14 @@
   {
     "alias": "appmakers.dev/category/ios",
     "url": "https://appmakers.dev/category/ios/",
-    "feedUrl": "https://appmakers.dev/feed/",
+    "feedUrl": "https://appmakers.dev/category/ios/feed/",
     "title": "AppMakers.Dev",
     "type": "rss"
   },
   {
     "alias": "appracatappra.com/category/blog",
     "url": "https://appracatappra.com/category/blog/",
-    "feedUrl": "https://appracatappra.com/feed/",
+    "feedUrl": "https://appracatappra.com/feed/rss2/",
     "title": "Appracatappra Blog",
     "type": "rss"
   },
@@ -957,7 +942,7 @@
   {
     "alias": "ashfurrow.com",
     "url": "https://ashfurrow.com/",
-    "feedUrl": "https://ashfurrow.com/feed.xml",
+    "feedUrl": "https://feed.ashfurrow.com/feed.xml",
     "title": "Ash Furrow's Blog",
     "type": "rss"
   },
@@ -1015,7 +1000,7 @@
   {
     "alias": "augmentedcode.io/blog",
     "url": "https://augmentedcode.io/blog/",
-    "feedUrl": "https://augmentedcode.io/feed/",
+    "feedUrl": "https://augmentedcode.io/blog/feed/",
     "title": "Augmented Code Blog",
     "type": "rss"
   },
@@ -1131,7 +1116,7 @@
   {
     "alias": "badootech.badoo.com/tagged/ios",
     "url": "https://badootech.badoo.com/tagged/ios",
-    "feedUrl": "https://medium.com/feed/badoo-developers/tagged/ios",
+    "feedUrl": "https://badootech.badoo.com/feed/tagged/ios",
     "title": "Badoo iOS",
     "type": "rss"
   },
@@ -1340,21 +1325,21 @@
   {
     "alias": "bignerdranch.com/blog/category/ios",
     "url": "https://www.bignerdranch.com/blog/category/ios/",
-    "feedUrl": "https://www.bignerdranch.com/feed/",
+    "feedUrl": "https://www.bignerdranch.com/blog/category/ios/feed/",
     "title": "Big Nerd Ranch",
     "type": "rss"
   },
   {
     "alias": "billthelizard.com",
     "url": "http://www.billthelizard.com/",
-    "feedUrl": "http://billthelizard.com/feed/",
+    "feedUrl": "http://www.billthelizard.com/feeds/posts/default",
     "title": "Bill the Lizard",
     "type": "rss"
   },
   {
     "alias": "binary-studio.com/blog",
     "url": "https://binary-studio.com/blog/",
-    "feedUrl": "https://binary-studio.com/feed/rdf/",
+    "feedUrl": "https://binary-studio.com/blog/rss",
     "title": "Binary Studio",
     "type": "rss"
   },
@@ -1465,7 +1450,7 @@
   {
     "alias": "blog.algolia.com",
     "url": "https://blog.algolia.com/",
-    "feedUrl": "https://blog.algolia.com/sitemap.xml",
+    "feedUrl": "https://blog.algolia.com/feed/",
     "title": "Algolia",
     "type": "rss"
   },
@@ -1651,7 +1636,7 @@
   {
     "alias": "blog.chef.io",
     "url": "https://blog.chef.io/",
-    "feedUrl": "https://blog.chef.io/feed/",
+    "feedUrl": "https://blog.chef.io/rss",
     "title": "Chef",
     "type": "rss"
   },
@@ -1687,7 +1672,7 @@
   {
     "alias": "blog.cloudera.com",
     "url": "https://blog.cloudera.com/",
-    "feedUrl": "https://blog.cloudera.com/?feed=rss",
+    "feedUrl": "https://blog.cloudera.com/feed/",
     "title": "Cloudera",
     "type": "rss"
   },
@@ -1942,7 +1927,7 @@
   {
     "alias": "blog.docker.com",
     "url": "https://blog.docker.com/",
-    "feedUrl": "https://www.docker.com/blog/feed/",
+    "feedUrl": "https://blog.docker.com/feed/",
     "title": "Docker",
     "type": "rss"
   },
@@ -1959,7 +1944,7 @@
   {
     "alias": "blog.doordash.com/tagged/engineering",
     "url": "https://blog.doordash.com/tagged/engineering",
-    "feedUrl": "https://medium.com/feed/doordash/tagged/engineering",
+    "feedUrl": "https://medium.com/feed/doordash-blog/tagged/engineering",
     "title": "DoorDash",
     "type": "rss"
   },
@@ -2133,7 +2118,7 @@
   {
     "alias": "blog.hasura.io",
     "url": "https://blog.hasura.io/",
-    "feedUrl": "https://blog.hasura.io/rss/",
+    "feedUrl": "https://blog.hasura.io/feed",
     "title": "Hasura",
     "type": "rss"
   },
@@ -2147,14 +2132,14 @@
   {
     "alias": "blog.heroku.com/engineering",
     "url": "https://blog.heroku.com/engineering",
-    "feedUrl": "https://blog.heroku.com/feed",
+    "feedUrl": "https://blog.heroku.com/engineering",
     "title": "Heroku",
     "type": "rss"
   },
   {
     "alias": "blog.hobbyistsoftware.com/category/coding/apple",
     "url": "https://blog.hobbyistsoftware.com/category/coding/apple",
-    "feedUrl": "https://blog.hobbyistsoftware.com/feed/",
+    "feedUrl": "https://blog.hobbyistsoftware.com/category/coding/apple/feed",
     "title": "Hobbyist Software",
     "type": "rss"
   },
@@ -2427,7 +2412,7 @@
   {
     "alias": "blog.lerner.co.il",
     "url": "http://blog.lerner.co.il/",
-    "feedUrl": "https://lerner.co.il/wp-includes/wlwmanifest.xml",
+    "feedUrl": "http://blog.lerner.co.il/feed/",
     "title": "Lerner Consulting Blog",
     "type": "rss"
   },
@@ -2439,7 +2424,7 @@
   {
     "alias": "blog.lickability.com",
     "url": "https://blog.lickability.com/",
-    "feedUrl": "https://lickability.com/blog/feed/index.xml",
+    "feedUrl": "https://blog.lickability.com/feed",
     "title": "Lickability Blog",
     "type": "rss"
   },
@@ -2538,7 +2523,7 @@
   {
     "alias": "blog.moove-it.com",
     "url": "https://blog.moove-it.com/",
-    "feedUrl": "https://blog.moove-it.com/services/rss/",
+    "feedUrl": "https://blog.moove-it.com/rss",
     "title": "Moove-it",
     "type": "rss"
   },
@@ -2821,14 +2806,14 @@
   {
     "alias": "blog.shazam.com",
     "url": "https://blog.shazam.com/",
-    "feedUrl": "https://blog.shazam.com/osd.xml",
+    "feedUrl": "https://blog.shazam.com/feed",
     "title": "Shazam",
     "type": "rss"
   },
   {
     "alias": "blog.siftscience.com",
     "url": "https://blog.siftscience.com/?category=Engineering",
-    "feedUrl": "https://blog.siftscience.com/?feed=rss",
+    "feedUrl": "https://blog.siftscience.com/feed/",
     "title": "Sift Science",
     "type": "rss"
   },
@@ -3046,7 +3031,7 @@
   {
     "alias": "blog.soshace.com/en",
     "url": "https://blog.soshace.com/en/",
-    "feedUrl": "https://blog.soshace.com/?feed=rss2",
+    "feedUrl": "https://blog.soshace.com/en/feed/",
     "title": "Soshace",
     "type": "rss"
   },
@@ -3070,7 +3055,7 @@
   {
     "alias": "blog.sqreen.io",
     "url": "https://blog.sqreen.io/",
-    "feedUrl": "https://blog.sqreen.com/feed/",
+    "feedUrl": "https://blog.sqreen.io/feed/",
     "title": "Sqreen",
     "type": "rss"
   },
@@ -3135,7 +3120,7 @@
   {
     "alias": "blog.takipi.com",
     "url": "http://blog.takipi.com/",
-    "feedUrl": "https://blog.overops.com/feed/",
+    "feedUrl": "https://blog.takipi.com/feed/",
     "title": "Takipi",
     "type": "rss"
   },
@@ -3161,7 +3146,7 @@
   {
     "alias": "blog.timescale.com",
     "url": "https://blog.timescale.com/",
-    "feedUrl": "https://blog.timescale.com/feed/",
+    "feedUrl": "https://blog.timescale.com/feed",
     "title": "Timescale",
     "type": "rss"
   },
@@ -3207,7 +3192,7 @@
   {
     "alias": "blog.venmo.com",
     "url": "http://blog.venmo.com/?category=Engineering",
-    "feedUrl": "http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry?format=rss",
+    "feedUrl": "http://blog.venmo.com/hf2t3h4x98p5e13z82pl8j66ngcmry?format=RSS",
     "title": "Venmo",
     "type": "rss"
   },
@@ -3228,7 +3213,7 @@
   {
     "alias": "blog.vngrs.com",
     "url": "http://blog.vngrs.com/",
-    "feedUrl": "http://blog.vngrs.com/feed/",
+    "feedUrl": "http://blog.vngrs.com/rss.xml",
     "title": "VNGRS",
     "type": "rss"
   },
@@ -3269,11 +3254,6 @@
     "feedUrl": "https://blog.webf.zone/feed"
   },
   {
-    "alias": "blog.webjeda.com",
-    "url": "https://blog.webjeda.com/",
-    "feedUrl": "https://blog.webjeda.com/sitemap.xml"
-  },
-  {
     "alias": "blog.wencan.org",
     "url": "http://blog.wencan.org/",
     "feedUrl": "https://blog.wencan.org/feed/"
@@ -3293,7 +3273,7 @@
   {
     "alias": "blog.wittchen.biz.pl",
     "url": "http://blog.wittchen.biz.pl/",
-    "feedUrl": "http://wittchen.io/atom.xml",
+    "feedUrl": "http://blog.wittchen.biz.pl/feed.xml",
     "title": "Piotr Wittchen",
     "type": "rss"
   },
@@ -3337,7 +3317,7 @@
   {
     "alias": "blog.yld.io",
     "url": "https://blog.yld.io/",
-    "feedUrl": "https://blog.yld.io/sitemap.xml",
+    "feedUrl": "https://medium.com/feed/yld-engineering-blog",
     "title": "YLD!",
     "type": "rss"
   },
@@ -3413,14 +3393,14 @@
   {
     "alias": "blogs.janestreet.com/category/ocaml",
     "url": "https://blogs.janestreet.com/category/ocaml/",
-    "feedUrl": "https://blog.janestreet.com/feed.xml",
+    "feedUrl": "https://blogs.janestreet.com/feed.xml",
     "title": "Jane Street",
     "type": "rss"
   },
   {
     "alias": "blogs.msdn.com/b/abhinaba",
     "url": "https://blogs.msdn.com/b/abhinaba/",
-    "feedUrl": "https://blogs.msdn.com/?feed=rss",
+    "feedUrl": "https://blogs.msdn.microsoft.com/abhinaba/feed/",
     "title": "Abhinaba Basu",
     "type": "rss"
   },
@@ -3437,14 +3417,14 @@
   {
     "alias": "blogs.msdn.microsoft.com/dotnet",
     "url": "https://blogs.msdn.microsoft.com/dotnet/",
-    "feedUrl": "https://devblogs.microsoft.com/dotnet/feed/",
+    "feedUrl": "https://blogs.msdn.microsoft.com/dotnet/feed/",
     "title": ".NET",
     "type": "rss"
   },
   {
     "alias": "blogs.msdn.microsoft.com/oldnewthing",
     "url": "https://blogs.msdn.microsoft.com/oldnewthing/",
-    "feedUrl": "https://devblogs.microsoft.com/oldnewthing/feed",
+    "feedUrl": "https://blogs.msdn.microsoft.com/oldnewthing/feed",
     "title": "Raymond Chen",
     "type": "rss"
   },
@@ -3480,7 +3460,7 @@
   {
     "alias": "blogs.windows.com/msedgedev",
     "url": "https://blogs.windows.com/msedgedev/",
-    "feedUrl": "https://blogs.windows.com/msedgedev/feed/",
+    "feedUrl": "https://blogs.windows.com/msedgedev/rss",
     "title": "Microsoft Edge",
     "type": "rss"
   },
@@ -3550,7 +3530,7 @@
   {
     "alias": "boxever.com/blog",
     "url": "http://www.boxever.com/blog/",
-    "feedUrl": "https://www.boxever.com/page-sitemap.xml",
+    "feedUrl": "https://www.boxever.com/feed/",
     "title": "Boxever",
     "type": "rss"
   },
@@ -3586,7 +3566,7 @@
   {
     "alias": "brightdigit.com/blog",
     "url": "https://brightdigit.com/blog/",
-    "feedUrl": "https://brightdigit.com/feed/",
+    "feedUrl": "https://brightdigit.com/blog/feed/",
     "title": "BrightDigit",
     "type": "rss"
   },
@@ -3622,7 +3602,7 @@
   {
     "alias": "bugfender.com/blog",
     "url": "https://bugfender.com/blog/",
-    "feedUrl": "https://bugfender.com/feed/",
+    "feedUrl": "https://bugfender.com/blog/feed/",
     "title": "Bugfender Blog",
     "type": "rss"
   },
@@ -3660,7 +3640,7 @@
   {
     "alias": "bytes.babbel.com/en",
     "url": "https://bytes.babbel.com/en/",
-    "feedUrl": "https://cms.babbel.news/feed/?post_type=english_edition",
+    "feedUrl": "https://blog.babbel.com/en/feed/",
     "title": "Babbel",
     "type": "rss"
   },
@@ -3692,7 +3672,7 @@
   {
     "alias": "calayer.com",
     "url": "https://calayer.com/",
-    "feedUrl": "https://calayer.com/feed.xml",
+    "feedUrl": "https://www.calayer.com/feed.xml",
     "title": "CALayer",
     "type": "rss"
   },
@@ -3952,7 +3932,7 @@
   {
     "alias": "chris.eidhof.nl",
     "url": "http://chris.eidhof.nl/",
-    "feedUrl": "http://chris.eidhof.nl//index.xml",
+    "feedUrl": "http://chris.eidhof.nl/index.xml",
     "title": "Chris Eidhof's Blog",
     "type": "rss"
   },
@@ -4136,11 +4116,6 @@
     "feedUrl": "https://clz.me/feed/"
   },
   {
-    "alias": "cmsblogs.com",
-    "url": "http://cmsblogs.com/",
-    "feedUrl": "http://cmsblogs.com/sitemap_baidu.xml"
-  },
-  {
     "alias": "cmsky.com",
     "url": "http://www.cmsky.com/",
     "feedUrl": "https://www.cmsky.com/feed/"
@@ -4247,14 +4222,14 @@
   {
     "alias": "cocoacasts.com/blog",
     "url": "https://cocoacasts.com/blog",
-    "feedUrl": "https://cocoacasts.com/feed/",
+    "feedUrl": "https://cocoacasts.com/feed",
     "title": "Cocoacasts",
     "type": "rss"
   },
   {
     "alias": "cocoacontrols.com",
     "url": "http://www.cocoacontrols.com/",
-    "feedUrl": "https://feeds.feedburner.com/cocoacontrols",
+    "feedUrl": "https://www.cocoacontrols.com/index.xml",
     "title": "Cocoa Controls",
     "type": "rss"
   },
@@ -4294,7 +4269,7 @@
   {
     "alias": "code.blender.org",
     "url": "https://code.blender.org/",
-    "feedUrl": "https://devtalk.blender.org/c/blender/meeting-notes.rss",
+    "feedUrl": "https://code.blender.org/rss",
     "title": "Blender",
     "type": "rss"
   },
@@ -4308,7 +4283,7 @@
   {
     "alias": "code.facebook.com/posts",
     "url": "https://code.facebook.com/posts/",
-    "feedUrl": "https://engineering.fb.com/feed/",
+    "feedUrl": "https://code.fb.com/feed/",
     "title": "Facebook",
     "type": "rss"
   },
@@ -4415,7 +4390,7 @@
   {
     "alias": "codecookread.com",
     "url": "https://codecookread.com/",
-    "feedUrl": "https://codecookread.com/feed/",
+    "feedUrl": "https://codecookread.com/feed/rss",
     "title": "CODE. COOK. READ.",
     "type": "rss"
   },
@@ -4461,7 +4436,7 @@
   {
     "alias": "codementor.io/tutorial",
     "url": "https://www.codementor.io/tutorial",
-    "feedUrl": "https://www.codementor.io/feed",
+    "feedUrl": "https://www.codementor.io/tutorial/feed",
     "title": "Codementor",
     "type": "rss"
   },
@@ -4537,7 +4512,7 @@
   {
     "alias": "codewithstyle.info",
     "url": "https://codewithstyle.info/",
-    "feedUrl": "https://codewithstyle.info/atom.xml",
+    "feedUrl": "https://codewithstyle.info/feed/",
     "title": "Code with style!",
     "type": "rss"
   },
@@ -4688,14 +4663,14 @@
   {
     "alias": "confluent.io/blog",
     "url": "https://www.confluent.io/blog",
-    "feedUrl": "https://www.confluent.io/rss.xml",
+    "feedUrl": "https://www.confluent.io/feed/",
     "title": "Confluent",
     "type": "rss"
   },
   {
     "alias": "conradstoll.com",
     "url": "http://conradstoll.com/",
-    "feedUrl": "http://conradstoll.com/blog?format=rss",
+    "feedUrl": "http://conradstoll.com/blog?format=RSS",
     "title": "Conrad Stoll's Blog",
     "type": "rss"
   },
@@ -4707,7 +4682,7 @@
   {
     "alias": "contagious.dev/blog/category/ios",
     "url": "https://contagious.dev/blog/category/ios/",
-    "feedUrl": "https://contagious.dev/feed/",
+    "feedUrl": "https://contagious.dev/blog/category/ios/feed/",
     "title": "Contageous Dev",
     "type": "rss"
   },
@@ -4766,7 +4741,7 @@
   {
     "alias": "corner.squareup.com",
     "url": "https://corner.squareup.com/",
-    "feedUrl": "https://developer.squareup.com/blog/rss.xml",
+    "feedUrl": "https://medium.com/feed/square-corner-blog",
     "title": "Square",
     "type": "rss"
   },
@@ -5088,14 +5063,14 @@
   {
     "alias": "dasdom.github.io",
     "url": "https://dasdom.github.io/",
-    "feedUrl": "https://dasdom.github.io//feed.xml",
+    "feedUrl": "https://dasdom.github.io/feed.xml",
     "title": "Dasdom Dev Blog",
     "type": "rss"
   },
   {
     "alias": "data-artisans.com/blog",
     "url": "https://data-artisans.com/blog/",
-    "feedUrl": "https://www.ververica.com/blog/rss.xml",
+    "feedUrl": "https://data-artisans.com/feed",
     "title": "Data Artisans",
     "type": "rss"
   },
@@ -5210,7 +5185,7 @@
   {
     "alias": "dazeend.org",
     "url": "https://dazeend.org/",
-    "feedUrl": "https://dazeend.org/feed/",
+    "feedUrl": "https://dazeend.org/feed/?cat=-12",
     "title": "DazeEnd",
     "type": "rss"
   },
@@ -5227,7 +5202,7 @@
   {
     "alias": "dcordero.me",
     "url": "https://www.dcordero.me/",
-    "feedUrl": "https://dcordero.me/feed.xml",
+    "feedUrl": "https://www.dcordero.me/feed.xml",
     "title": "David Cordero's Blog",
     "type": "rss"
   },
@@ -5311,7 +5286,7 @@
   {
     "alias": "denispoifol.github.io",
     "url": "https://denispoifol.github.io/",
-    "feedUrl": "https://denispoifol.github.io//feed.xml",
+    "feedUrl": "https://denispoifol.github.io/feed.xml",
     "title": "Denis Poifol's Blog",
     "type": "rss"
   },
@@ -5412,7 +5387,7 @@
   {
     "alias": "devblog.kogan.com",
     "url": "https://devblog.kogan.com/",
-    "feedUrl": "https://devblog.kogan.com/blog?format=rss",
+    "feedUrl": "https://devblog.kogan.com/blog?format=RSS",
     "title": "Kogan.com",
     "type": "rss"
   },
@@ -5455,7 +5430,7 @@
   {
     "alias": "developer.atlassian.com/blog",
     "url": "https://developer.atlassian.com/blog/",
-    "feedUrl": "https://blog.developer.atlassian.com/feed/",
+    "feedUrl": "https://developer.atlassian.com/blog/feed.xml",
     "title": "Atlassian",
     "type": "rss"
   },
@@ -5490,7 +5465,7 @@
   {
     "alias": "developer.soundcloud.com/blog",
     "url": "https://developer.soundcloud.com/blog/",
-    "feedUrl": "https://developers.soundcloud.com/blog.rss",
+    "feedUrl": "https://developer.soundcloud.com/blog.rss",
     "title": "Soundcloud Backstage Blog",
     "type": "rss"
   },
@@ -5514,11 +5489,6 @@
     "type": "rss"
   },
   {
-    "alias": "developers.google.com/edu/python",
-    "url": "https://developers.google.com/edu/python/",
-    "feedUrl": "https://developers.google.com/s/opensearch.xml"
-  },
-  {
     "alias": "developers.googleblog.com",
     "url": "https://developers.googleblog.com/",
     "feedUrl": "https://developers.googleblog.com/feeds/posts/default"
@@ -5526,21 +5496,21 @@
   {
     "alias": "developers.livechatinc.com/blog",
     "url": "https://developers.livechatinc.com/blog/",
-    "feedUrl": "https://developers.livechatinc.com/rss.xml",
+    "feedUrl": "https://developers.livechatinc.com/blog/rss",
     "title": "LiveChat",
     "type": "rss"
   },
   {
     "alias": "developers.pagesjaunes.fr/tag/ios",
     "url": "https://developers.pagesjaunes.fr/tag/ios/",
-    "feedUrl": "https://developers.pagesjaunes.fr/rss/",
+    "feedUrl": "https://developers.pagesjaunes.fr/tag/ios/rss/",
     "title": "Blog de l'équipe iOS de PagesJaunes",
     "type": "rss"
   },
   {
     "alias": "developers.redhat.com/blog",
     "url": "https://developers.redhat.com/blog/",
-    "feedUrl": "https://developers.redhat.com/blog/feed/rss/",
+    "feedUrl": "https://developers.redhat.com/blog/feed/atom/",
     "title": "Red Hat",
     "type": "rss"
   },
@@ -5557,7 +5527,7 @@
   {
     "alias": "developers.soundcloud.com/blog",
     "url": "https://developers.soundcloud.com/blog/",
-    "feedUrl": "https://developers.soundcloud.com/blog/blog.rss",
+    "feedUrl": "https://developers.soundcloud.com/blog.rss",
     "title": "Soundcloud",
     "type": "rss"
   },
@@ -5715,7 +5685,7 @@
   {
     "alias": "dmtopolog.com",
     "url": "https://dmtopolog.com/",
-    "feedUrl": "https://dmtopolog.com/feed.xml",
+    "feedUrl": "https://dmtopolog.com/feed/",
     "title": "Topolog's tech blog",
     "type": "rss"
   },
@@ -5829,14 +5799,14 @@
   {
     "alias": "drivenbycode.com",
     "url": "https://www.drivenbycode.com/",
-    "feedUrl": "https://medium.com/feed/driven-by-code",
+    "feedUrl": "https://www.drivenbycode.com/feed/",
     "title": "TrueCar",
     "type": "rss"
   },
   {
     "alias": "drivy.engineering",
     "url": "https://drivy.engineering/",
-    "feedUrl": "https://getaround.tech/feed.xml",
+    "feedUrl": "https://drivy.engineering/feed.xml",
     "title": "Drivy",
     "type": "rss"
   },
@@ -5923,7 +5893,7 @@
   {
     "alias": "eaf4.com",
     "url": "https://eaf4.com/",
-    "feedUrl": "https://eaf4.com/rss/",
+    "feedUrl": "https://eaf4.com/rss",
     "title": "Edward Faulkner",
     "type": "rss"
   },
@@ -5940,7 +5910,7 @@
   {
     "alias": "ebayinc.com/stories/blogs/tech",
     "url": "https://www.ebayinc.com/stories/blogs/tech/",
-    "feedUrl": "https://www.ebayinc.com/stories/news/rss/",
+    "feedUrl": "https://www.ebayinc.com/stories/blogs/tech/rss/",
     "title": "Ebay",
     "type": "rss"
   },
@@ -6117,7 +6087,7 @@
   {
     "alias": "engineering.brandwatch.com",
     "url": "http://engineering.brandwatch.com/",
-    "feedUrl": "https://s14415.pcdn.co/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://engineering.brandwatch.com/rss/",
     "title": "Brandwatch",
     "type": "rss"
   },
@@ -6150,14 +6120,14 @@
   {
     "alias": "engineering.clever.com",
     "url": "https://engineering.clever.com/",
-    "feedUrl": "https://engineering.clever.com/?feed=rss",
+    "feedUrl": "https://engineering.clever.com/rss",
     "title": "Clever",
     "type": "rss"
   },
   {
     "alias": "engineering.coinbase.com",
     "url": "https://engineering.coinbase.com/",
-    "feedUrl": "https://engineering.coinbase.com/osd.xml",
+    "feedUrl": "https://engineering.coinbase.com/feed",
     "title": "Coinbase",
     "type": "rss"
   },
@@ -6190,7 +6160,7 @@
   {
     "alias": "engineering.doximity.com",
     "url": "https://engineering.doximity.com/",
-    "feedUrl": "https://engineering.doximity.com/?feed=rss&amp;page=2",
+    "feedUrl": "https://engineering.doximity.com/feed",
     "title": "Doximity",
     "type": "rss"
   },
@@ -6204,7 +6174,7 @@
   {
     "alias": "engineering.foursquare.com",
     "url": "https://engineering.foursquare.com/",
-    "feedUrl": "https://medium.com/feed/foursquare-direct/tagged/engineering",
+    "feedUrl": "https://engineering.foursquare.com/feed",
     "title": "Foursquare",
     "type": "rss"
   },
@@ -6218,7 +6188,7 @@
   {
     "alias": "engineering.giphy.com",
     "url": "https://engineering.giphy.com/",
-    "feedUrl": "https://engineering.giphy.com/?feed=rss",
+    "feedUrl": "https://engineering.giphy.com/rss",
     "title": "GIPHY",
     "type": "rss"
   },
@@ -6239,7 +6209,7 @@
   {
     "alias": "engineering.groupon.com",
     "url": "https://engineering.groupon.com/",
-    "feedUrl": "https://medium.com/feed/groupon-eng",
+    "feedUrl": "https://engineering.groupon.com/feed/",
     "title": "Groupon",
     "type": "rss"
   },
@@ -6347,7 +6317,7 @@
   {
     "alias": "engineering.linecorp.com/en/blog",
     "url": "https://engineering.linecorp.com/en/blog",
-    "feedUrl": "https://engineering.linecorp.com/en/feed/",
+    "feedUrl": "https://engineering.linecorp.com/en/blog/rss2",
     "title": "LINE",
     "type": "rss"
   },
@@ -6364,7 +6334,7 @@
   {
     "alias": "engineering.mongodb.com",
     "url": "https://engineering.mongodb.com/",
-    "feedUrl": "https://engineering.mongodb.com/post?format=rss",
+    "feedUrl": "https://engineering.mongodb.com/post?format=RSS",
     "title": "MongoDB",
     "type": "rss"
   },
@@ -6399,7 +6369,7 @@
   {
     "alias": "engineering.panoramaed.com",
     "url": "http://engineering.panoramaed.com/",
-    "feedUrl": "https://medium.com/feed/building-panorama-education",
+    "feedUrl": "https://engineering.panoramaed.com/feed/",
     "title": "Panorama Education",
     "type": "rss"
   },
@@ -6421,11 +6391,6 @@
     "feedUrl": "https://engineering.prezi.com/feed"
   },
   {
-    "alias": "engineering.quora.com",
-    "url": "https://engineering.quora.com/",
-    "feedUrl": "https://engineering.quora.com/opensearch/description.xml"
-  },
-  {
     "alias": "engineering.remind.com",
     "url": "http://engineering.remind.com/",
     "feedUrl": "http://engineering.remind.com/feed.xml",
@@ -6435,14 +6400,14 @@
   {
     "alias": "engineering.riotgames.com",
     "url": "https://engineering.riotgames.com/",
-    "feedUrl": "https://technology.riotgames.com/rss.xml",
+    "feedUrl": "https://engineering.riotgames.com/rss.xml",
     "title": "Riot Games",
     "type": "rss"
   },
   {
     "alias": "engineering.semantics3.com",
     "url": "https://engineering.semantics3.com/",
-    "feedUrl": "https://www.semantics3.com/blog/rss/",
+    "feedUrl": "https://engineering.semantics3.com/feed",
     "title": "Semantics3",
     "type": "rss"
   },
@@ -6463,7 +6428,7 @@
   {
     "alias": "engineering.skybettingandgaming.com",
     "url": "http://engineering.skybettingandgaming.com/",
-    "feedUrl": "https://sbg.technology/feed.xml",
+    "feedUrl": "https://technology.skybettingandgaming.com/feed.xml",
     "title": "Sky Betting & Gaming",
     "type": "rss"
   },
@@ -6482,7 +6447,7 @@
   {
     "alias": "engineering.squarespace.com",
     "url": "https://engineering.squarespace.com/",
-    "feedUrl": "https://engineering.squarespace.com/blog?format=rss",
+    "feedUrl": "https://engineering.squarespace.com/blog?format=RSS",
     "title": "Squarespace",
     "type": "rss"
   },
@@ -6496,7 +6461,7 @@
   {
     "alias": "engineering.tripadvisor.com",
     "url": "http://engineering.tripadvisor.com/",
-    "feedUrl": "https://www.tripadvisor.com/engineering/wp-includes/wlwmanifest.xml",
+    "feedUrl": "http://engineering.tripadvisor.com/rss",
     "title": "TripAdvisor",
     "type": "rss"
   },
@@ -6559,7 +6524,7 @@
   {
     "alias": "engineering.webengage.com",
     "url": "https://engineering.webengage.com/",
-    "feedUrl": "https://webengage.com/blog/feed/",
+    "feedUrl": "https://engineering.webengage.com/feed/",
     "title": "WebEngage",
     "type": "rss"
   },
@@ -6585,7 +6550,7 @@
   {
     "alias": "engineering.zomato.com",
     "url": "https://engineering.zomato.com/",
-    "feedUrl": "https://engineering.zomato.com/blog/feed",
+    "feedUrl": "https://engineering.zomato.com/rss",
     "title": "Zomato",
     "type": "rss"
   },
@@ -6627,14 +6592,14 @@
   {
     "alias": "ennioma.com",
     "url": "http://ennioma.com/",
-    "feedUrl": "http://ennioma.com/feed/",
+    "feedUrl": "http://ennioma.com/rss",
     "title": "ennioma",
     "type": "rss"
   },
   {
     "alias": "enoent.fr",
     "url": "https://enoent.fr/",
-    "feedUrl": "https://enoent.fr/index.xml",
+    "feedUrl": "https://enoent.fr/atom.xml",
     "title": "Marc Plano-Lesay",
     "type": "rss"
   },
@@ -6786,7 +6751,7 @@
   {
     "alias": "facebook.github.io/react/blog",
     "url": "https://facebook.github.io/react/blog/",
-    "feedUrl": "https://reactjs.org/feed.xml",
+    "feedUrl": "https://facebook.github.io/feed.xml",
     "title": "React",
     "type": "rss"
   },
@@ -6887,14 +6852,14 @@
   {
     "alias": "figure.ink",
     "url": "http://www.figure.ink/",
-    "feedUrl": "http://www.figure.ink/blog?format=rss",
+    "feedUrl": "http://www.figure.ink/blog?format=RSS",
     "title": "Figure Ink",
     "type": "rss"
   },
   {
     "alias": "finestructure.co",
     "url": "https://finestructure.co/",
-    "feedUrl": "https://finestructure.co/blog?format=rss",
+    "feedUrl": "https://finestructure.co/blog?format=RSS",
     "title": "finestructure",
     "type": "rss"
   },
@@ -6928,7 +6893,7 @@
   {
     "alias": "fivestars.blog",
     "url": "https://www.fivestars.blog/",
-    "feedUrl": "https://fivestars.blog/feed.xml",
+    "feedUrl": "https://www.fivestars.blog/feed.xml",
     "title": "Five Stars",
     "type": "rss"
   },
@@ -7115,7 +7080,7 @@
   {
     "alias": "futuretap.com/blog",
     "url": "https://www.futuretap.com/blog?tag=developer",
-    "feedUrl": "https://www.futuretap.com/feed",
+    "feedUrl": "https://www.futuretap.com/category/blog/feed?tag=developer",
     "title": "The FutureBlog – For Developers",
     "type": "rss"
   },
@@ -7127,7 +7092,7 @@
   {
     "alias": "fuzzyblog.io/blog",
     "url": "http://www.fuzzyblog.io/blog/",
-    "feedUrl": "http://fuzzyblog.io/blog/feed.xml",
+    "feedUrl": "http://fuzzyblog.io//blog/feed.xml",
     "title": "Scott Johnson",
     "type": "rss"
   },
@@ -7342,7 +7307,7 @@
   {
     "alias": "github.com/blog/category/engineering",
     "url": "https://github.com/blog/category/engineering",
-    "feedUrl": "https://github.blog/feed/",
+    "feedUrl": "https://blog.github.com/feed.xml",
     "title": "GitHub Old",
     "type": "rss"
   },
@@ -7352,24 +7317,9 @@
     "feedUrl": "https://github.com/crispgm/awesome-engineering-blogs/commits/master.atom"
   },
   {
-    "alias": "github.com/memleaks",
-    "url": "https://github.com/memleaks",
-    "feedUrl": "https://github.com/login?return_to=%2Ffeed"
-  },
-  {
-    "alias": "github.com/thzt",
-    "url": "https://github.com/thzt/",
-    "feedUrl": "https://github.com/login?return_to=%2Ffeed"
-  },
-  {
-    "alias": "github.com/wangxiaojing",
-    "url": "https://github.com/wangxiaojing",
-    "feedUrl": "https://github.com/login?return_to=%2Ffeed"
-  },
-  {
     "alias": "githubengineering.com",
     "url": "https://githubengineering.com/",
-    "feedUrl": "https://github.blog/engineering.atom",
+    "feedUrl": "https://githubengineering.com/atom.xml",
     "title": "GitHub",
     "type": "rss"
   },
@@ -7413,7 +7363,7 @@
   {
     "alias": "gocardless.com/blog/tagged/engineering",
     "url": "https://gocardless.com/blog/tagged/engineering/",
-    "feedUrl": "https://gocardless.com/content-platform/rss/resources.xml",
+    "feedUrl": "https://gocardless.com/blog/atom.xml",
     "title": "GoCardless",
     "type": "rss"
   },
@@ -7453,11 +7403,6 @@
     "alias": "golangprograms.com/golang",
     "url": "https://www.golangprograms.com/golang",
     "feedUrl": "https://www.golangprograms.com/golang/rss/index/store_id/1/"
-  },
-  {
-    "alias": "gold.xitu.io",
-    "url": "http://gold.xitu.io/",
-    "feedUrl": "https://b-gold-cdn.xitu.io/conf/search.xml"
   },
   {
     "alias": "gomakethings.com/articles",
@@ -7502,7 +7447,7 @@
   {
     "alias": "grafana.com/blog",
     "url": "https://grafana.com/blog/",
-    "feedUrl": "https://grafana.com/blog/index.xml",
+    "feedUrl": "https://grafana.com/blog/blog/index.xml",
     "title": "Grafana",
     "type": "rss"
   },
@@ -7705,7 +7650,7 @@
   {
     "alias": "haydenjames.io",
     "url": "https://haydenjames.io/",
-    "feedUrl": "https://haydenjames.io/?feed=rss",
+    "feedUrl": "https://haydenjames.io/rss",
     "title": "Hayden James",
     "type": "rss"
   },
@@ -7717,7 +7662,7 @@
   {
     "alias": "hboon.com",
     "url": "http://hboon.com/",
-    "feedUrl": "http://hboon.com/feed",
+    "feedUrl": "http://hboon.com/feed/",
     "title": "Hwee-Boon Yar's Blog",
     "type": "rss"
   },
@@ -7729,7 +7674,7 @@
   {
     "alias": "heap.engineering",
     "url": "https://heap.engineering/",
-    "feedUrl": "https://heap.io/feed",
+    "feedUrl": "https://heapanalytics.com/blog/category/engineering/feed",
     "title": "Heap",
     "type": "rss"
   },
@@ -7833,11 +7778,6 @@
     "feedUrl": "http://hi.ktsee.com/feed/"
   },
   {
-    "alias": "hiadmin.org",
-    "url": "http://www.hiadmin.org/",
-    "feedUrl": "http://www.hiadmin.org/sitemap.xml"
-  },
-  {
     "alias": "hiddedevries.nl",
     "url": "https://hiddedevries.nl/",
     "feedUrl": "https://hiddedevries.nl/rss/full/"
@@ -7850,7 +7790,7 @@
   {
     "alias": "highcaffeinecontent.com",
     "url": "https://www.highcaffeinecontent.com/",
-    "feedUrl": "https://www.highcaffeinecontent.com/blog/rss.xml",
+    "feedUrl": "https://www.highcaffeinecontent.com/rss.xml",
     "title": "High Caffeine Content",
     "type": "rss"
   },
@@ -8028,7 +7968,7 @@
   {
     "alias": "iam.fahrni.me/category/ios",
     "url": "https://iam.fahrni.me/category/ios/",
-    "feedUrl": "https://iam.fahrni.me/feed/",
+    "feedUrl": "https://iam.fahrni.me/category/ios/feed",
     "title": "Rob Fahrni",
     "type": "rss"
   },
@@ -8300,7 +8240,7 @@
   {
     "alias": "infinum.co/the-capsized-eight",
     "url": "https://infinum.co/the-capsized-eight",
-    "feedUrl": "https://infinum.com/the-capsized-eight.rss",
+    "feedUrl": "https://infinum.co/the-capsized-eight.rss",
     "title": "The Capsized Eight",
     "type": "rss"
   },
@@ -8440,21 +8380,21 @@
   {
     "alias": "ioscreator.com",
     "url": "https://www.ioscreator.com/",
-    "feedUrl": "https://www.ioscreator.com/tutorials?format=rss",
+    "feedUrl": "https://www.ioscreator.com/tutorials?format=RSS",
     "title": "iOS Creator",
     "type": "rss"
   },
   {
     "alias": "iosdev.recipes",
     "url": "https://iosdev.recipes/",
-    "feedUrl": "https://www.iosdev.recipes/rss.xml",
+    "feedUrl": "https://iosdev.recipes/rss.xml",
     "title": "iOS Dev Recipes",
     "type": "rss"
   },
   {
     "alias": "iosdev.tools",
     "url": "https://iosdev.tools/",
-    "feedUrl": "https://iosdev.tools/feed/",
+    "feedUrl": "https://iosdev.tools/rss.php",
     "title": "iOS Dev Tools",
     "type": "rss"
   },
@@ -8485,7 +8425,7 @@
   {
     "alias": "ipfs.io/blog",
     "url": "https://ipfs.io/blog/",
-    "feedUrl": "https://blog.ipfs.io/index.xml",
+    "feedUrl": "https://ipfs.io/blog/index.xml",
     "title": "IPFS",
     "type": "rss"
   },
@@ -8556,7 +8496,7 @@
   {
     "alias": "ittybittyapps.com/blog",
     "url": "https://www.ittybittyapps.com/blog/",
-    "feedUrl": "https://www.ittybittyapps.com/index.xml",
+    "feedUrl": "https://www.ittybittyapps.com/blog/index.xml",
     "title": "Itty Bitty Apps Blog",
     "type": "rss"
   },
@@ -8848,11 +8788,6 @@
     "alias": "jeffknupp.com/blog",
     "url": "https://www.jeffknupp.com/blog/",
     "feedUrl": "http://feeds.feedblitz.com/hackersgonnahack"
-  },
-  {
-    "alias": "jellythink.com",
-    "url": "http://www.jellythink.com/",
-    "feedUrl": "https://www.jellythink.com/sitemap.xml"
   },
   {
     "alias": "jelv.is/blog",
@@ -9185,7 +9120,7 @@
   {
     "alias": "jtreminio.com",
     "url": "https://jtreminio.com/",
-    "feedUrl": "https://jtreminio.com/index.xml",
+    "feedUrl": "https://jtreminio.com/atom.xml",
     "title": "Juan Treminio",
     "type": "rss"
   },
@@ -9361,7 +9296,7 @@
   {
     "alias": "kev.inburke.com",
     "url": "https://kev.inburke.com/",
-    "feedUrl": "https://kevin.burke.dev/feed/",
+    "feedUrl": "https://kev.inburke.com/feed/",
     "title": "Kevin Burke",
     "type": "rss"
   },
@@ -9398,7 +9333,7 @@
   {
     "alias": "khanlou.com",
     "url": "http://khanlou.com/",
-    "feedUrl": "http://khanlou.com/feed",
+    "feedUrl": "http://khanlou.com/feed/",
     "title": "Soroush Khanlou's Blog",
     "type": "rss"
   },
@@ -9510,7 +9445,7 @@
   {
     "alias": "koromiko1104.wordpress.com",
     "url": "https://koromiko1104.wordpress.com/",
-    "feedUrl": "https://koromiko1104.wordpress.com/feed/",
+    "feedUrl": "https://koromiko1104.wordpress.com/comments/feed/",
     "title": "鍵盤藍綠藻Neo",
     "type": "rss"
   },
@@ -9522,7 +9457,7 @@
   {
     "alias": "krakendev.io",
     "url": "https://krakendev.io/",
-    "feedUrl": "https://krakendev.io/blog?format=rss",
+    "feedUrl": "https://krakendev.io/?format=rss",
     "title": "KrakenDev",
     "type": "rss"
   },
@@ -9568,11 +9503,6 @@
     "alias": "kubicode.me",
     "url": "http://kubicode.me/",
     "feedUrl": "http://kubicode.me/atom.xml"
-  },
-  {
-    "alias": "kvlly.com",
-    "url": "https://kvlly.com/",
-    "feedUrl": "https://kvlly.com/sitemap.xml"
   },
   {
     "alias": "kxtry.com",
@@ -9753,7 +9683,7 @@
   {
     "alias": "learnappmaking.com",
     "url": "https://learnappmaking.com/",
-    "feedUrl": "https://learnappmaking.com/learnappmaking-com-play-with-code/feed/",
+    "feedUrl": "https://learnappmaking.com/feed",
     "title": "LearnAppMaking",
     "type": "rss"
   },
@@ -9798,11 +9728,6 @@
     "alias": "leeyee.github.io",
     "url": "http://leeyee.github.io/",
     "feedUrl": "http://iyiguo.net/feed.xml"
-  },
-  {
-    "alias": "lengstorf.com/blog",
-    "url": "https://lengstorf.com/blog",
-    "feedUrl": "https://lengstorf.com/sitemap.xml"
   },
   {
     "alias": "lengxx.com",
@@ -10112,7 +10037,7 @@
   {
     "alias": "liveramp.com/engineering",
     "url": "https://liveramp.com/engineering/",
-    "feedUrl": "https://liveramp.com/feed/",
+    "feedUrl": "https://liveramp.com/engineering/feed/",
     "title": "LiveRamp",
     "type": "rss"
   },
@@ -10173,7 +10098,7 @@
   {
     "alias": "lordcodes.com/ios",
     "url": "https://www.lordcodes.com/ios/",
-    "feedUrl": "https://www.lordcodes.com/feeds/main.xml",
+    "feedUrl": "https://www.lordcodes.com/feeds/ios.xml",
     "title": "Lord Codes",
     "type": "rss"
   },
@@ -10186,11 +10111,6 @@
     "alias": "lornajane.net",
     "url": "https://lornajane.net/",
     "feedUrl": "https://lornajane.net/feed"
-  },
-  {
-    "alias": "lostphp.com",
-    "url": "http://lostphp.com/",
-    "feedUrl": "http://lostphp.com/sitemap_baidu.xml"
   },
   {
     "alias": "louishan.com",
@@ -10457,7 +10377,7 @@
   {
     "alias": "mar.codes",
     "url": "https://mar.codes/",
-    "feedUrl": "https://mar.codes/feed.xml",
+    "feedUrl": "https://mar.codes/feed",
     "title": "Marcos Griselli's Blog",
     "type": "rss"
   },
@@ -10471,7 +10391,7 @@
   {
     "alias": "marcosantadev.com/tag/ios",
     "url": "https://marcosantadev.com/tag/ios/",
-    "feedUrl": "https://marcosantadev.com/feed/",
+    "feedUrl": "https://marcosantadev.com/rss",
     "title": "Marco Santa Dev",
     "type": "rss"
   },
@@ -10483,7 +10403,7 @@
   {
     "alias": "marcpalmer.net/category/ios",
     "url": "https://marcpalmer.net/category/ios/",
-    "feedUrl": "https://marcpalmer.net/feed/",
+    "feedUrl": "https://marcpalmer.net/category/ios/feed/",
     "title": "Marc Palmer's Blog",
     "type": "rss"
   },
@@ -10596,7 +10516,7 @@
   {
     "alias": "matt.aimonetti.net",
     "url": "https://matt.aimonetti.net/",
-    "feedUrl": "https://matt.aimonetti.net/index.xml",
+    "feedUrl": "https://matt.aimonetti.net/atom.xml",
     "title": "Matt Aimonetti",
     "type": "rss"
   },
@@ -10727,7 +10647,7 @@
   {
     "alias": "mecid.github.io",
     "url": "https://mecid.github.io/",
-    "feedUrl": "https://swiftwithmajid.com/feed.xml",
+    "feedUrl": "https://mecid.github.io/feed.xml",
     "title": "Majid's Blog about Swift development",
     "type": "rss"
   },
@@ -11076,7 +10996,7 @@
   {
     "alias": "medium.com/@rdovhaliuk",
     "url": "https://medium.com/@rdovhaliuk/",
-    "feedUrl": "https://medium.com/feed/@rdovhaliuk",
+    "feedUrl": "https://medium.com/feed/@rdovhaliuk/",
     "title": "Rostyslav Dovhaliuk on Medium",
     "type": "rss"
   },
@@ -11097,7 +11017,7 @@
   {
     "alias": "medium.com/@s1ddok",
     "url": "https://medium.com/@s1ddok/",
-    "feedUrl": "https://medium.com/feed/@s1ddok",
+    "feedUrl": "https://medium.com/feed/@s1ddok/",
     "title": "Andrey Volodin on Medium",
     "type": "rss"
   },
@@ -11153,7 +11073,7 @@
   {
     "alias": "medium.com/@vixentael",
     "url": "https://medium.com/@vixentael/",
-    "feedUrl": "https://medium.com/feed/@vixentael",
+    "feedUrl": "https://medium.com/feed/@vixentael/",
     "title": "Anastasiia Vixentael on Medium",
     "type": "rss"
   },
@@ -11516,7 +11436,7 @@
   {
     "alias": "mesosphere.com/blog",
     "url": "https://mesosphere.com/blog/",
-    "feedUrl": "https://d2iq.com/feed",
+    "feedUrl": "https://mesosphere.com/feed/",
     "title": "Mesosphere",
     "type": "rss"
   },
@@ -11831,7 +11751,7 @@
   {
     "alias": "morningswiftui.com",
     "url": "https://www.morningswiftui.com/",
-    "feedUrl": "https://www.morningswiftui.com/blog?format=rss",
+    "feedUrl": "https://www.morningswiftui.com/blog?format=RSS",
     "title": "Morning SwiftUI",
     "type": "rss"
   },
@@ -11899,7 +11819,7 @@
   {
     "alias": "murze.be",
     "url": "https://murze.be/",
-    "feedUrl": "https://freek.dev/feed",
+    "feedUrl": "https://murze.be/feed",
     "title": "Freek Van der Herten",
     "type": "rss"
   },
@@ -12081,7 +12001,7 @@
   {
     "alias": "nachbaur.com/tag/apple",
     "url": "http://nachbaur.com/tag/apple",
-    "feedUrl": "https://nachbaur.com/feed/",
+    "feedUrl": "https://nachbaur.com/tag/apple/feed/",
     "title": "Mobile Development with Aloha",
     "type": "rss"
   },
@@ -12093,14 +12013,9 @@
   {
     "alias": "natashatherobot.com",
     "url": "https://www.natashatherobot.com/",
-    "feedUrl": "https://natashatherobot.com/feed/",
+    "feedUrl": "https://www.natashatherobot.com/feed/",
     "title": "Natasha The Robot",
     "type": "rss"
-  },
-  {
-    "alias": "nateamack.com",
-    "url": "https://nateamack.com/",
-    "feedUrl": "https://nateamack.com/sitemap.xml"
   },
   {
     "alias": "nateberkopec.com",
@@ -12112,7 +12027,7 @@
   {
     "alias": "natethompson.io/blog",
     "url": "https://www.natethompson.io/blog/",
-    "feedUrl": "https://www.natethompson.io///feed.xml",
+    "feedUrl": "https://www.natethompson.io/feed.xml",
     "title": "Nate Thompson's Blog",
     "type": "rss"
   },
@@ -12207,7 +12122,7 @@
   {
     "alias": "netguru.co/codestories/topic/ios",
     "url": "https://www.netguru.co/codestories/topic/ios",
-    "feedUrl": "https://www.netguru.com/codestories/rss.xml",
+    "feedUrl": "https://www.netguru.co/codestories/topic/ios/rss.xml",
     "title": "Netguru iOS Codestories",
     "type": "rss"
   },
@@ -12441,7 +12356,7 @@
   },
   {
     "alias": "objc.io/blog",
-    "url": "https://www.objc.io/blog/",
+    "url": "https://www.objc.io/blog",
     "feedUrl": "https://www.objc.io/feed.xml",
     "title": "objc.io",
     "type": "rss"
@@ -12463,7 +12378,7 @@
   {
     "alias": "objectivetidbits.com",
     "url": "https://objectivetidbits.com/",
-    "feedUrl": "https://objectivetidbits.com/feed",
+    "feedUrl": "https://objectivetidbits.com/feed/",
     "title": "Objective Tidbits",
     "type": "rss"
   },
@@ -12566,7 +12481,7 @@
   {
     "alias": "onevcat.com",
     "url": "https://onevcat.com/",
-    "feedUrl": "https://onevcat.com/feed.xml",
+    "feedUrl": "https://onevcat.com/feed",
     "title": "OneV's Den",
     "type": "rss"
   },
@@ -12578,7 +12493,7 @@
   {
     "alias": "onswiftwings.com",
     "url": "https://onswiftwings.com/",
-    "feedUrl": "https://www.onswiftwings.com/index.xml",
+    "feedUrl": "https://onswiftwings.com/index.xml",
     "title": "On Swift Wings",
     "type": "rss"
   },
@@ -12649,7 +12564,7 @@
   {
     "alias": "os.phil-opp.com",
     "url": "https://os.phil-opp.com/",
-    "feedUrl": "https://os.phil-opp.com/rss.xml",
+    "feedUrl": "https://os.phil-opp.com/atom.xml",
     "title": "Philipp Oppermann",
     "type": "rss"
   },
@@ -12750,11 +12665,6 @@
     "type": "rss"
   },
   {
-    "alias": "paulmcbride.net",
-    "url": "https://paulmcbride.net/",
-    "feedUrl": "https://paulmcbride.net/sitemap.xml"
-  },
-  {
     "alias": "paulox.net",
     "url": "https://www.paulox.net/",
     "feedUrl": "https://www.paulox.net/feed.xml"
@@ -12767,7 +12677,7 @@
   {
     "alias": "paypal-engineering.com",
     "url": "https://www.paypal-engineering.com/",
-    "feedUrl": "https://medium.com/feed/paypal-engineering",
+    "feedUrl": "https://www.paypal-engineering.com/feed/",
     "title": "Paypal",
     "type": "rss"
   },
@@ -13028,11 +12938,6 @@
     "feedUrl": "https://www.pluralsight.com/feed/rss/"
   },
   {
-    "alias": "pm28.com",
-    "url": "http://www.pm28.com/",
-    "feedUrl": "http://www.pm28.com/wp-includes/wlwmanifest.xml"
-  },
-  {
     "alias": "pocoproject.org/blog",
     "url": "http://pocoproject.org/blog",
     "feedUrl": "https://pocoproject.org/blog/?feed=rss2"
@@ -13040,7 +12945,7 @@
   {
     "alias": "pointfree.co/blog",
     "url": "https://www.pointfree.co/blog",
-    "feedUrl": "https://www.pointfree.co/feed/episodes.xml",
+    "feedUrl": "https://www.pointfree.co/blog/feed/atom.xml",
     "title": "Point-Free Pointers",
     "type": "rss"
   },
@@ -13543,7 +13448,7 @@
   {
     "alias": "raywenderlich.com",
     "url": "https://www.raywenderlich.com/",
-    "feedUrl": "https://www.raywenderlich.com/feed",
+    "feedUrl": "https://www.raywenderlich.com/ios/feed.rss",
     "title": "Ray Wenderlich",
     "type": "rss"
   },
@@ -13637,7 +13542,7 @@
   {
     "alias": "recoursive.com/tag/ios",
     "url": "https://recoursive.com/tag/ios/",
-    "feedUrl": "https://recoursive.com/feed.xml",
+    "feedUrl": "https://recoursive.com/tag/ios/index.xml",
     "title": "Recoursive",
     "type": "rss"
   },
@@ -13793,7 +13698,7 @@
   {
     "alias": "revealapp.com",
     "url": "https://revealapp.com/",
-    "feedUrl": "https://revealapp.com/index.xml",
+    "feedUrl": "https://revealapp.com/news/index.xml",
     "title": "Reveal Blog",
     "type": "rss"
   },
@@ -13819,7 +13724,7 @@
   {
     "alias": "rhonabwy.com",
     "url": "https://rhonabwy.com/",
-    "feedUrl": "https://rhonabwy.com/feed/",
+    "feedUrl": "https://rhonabwy.com/tag/ios/feed/",
     "title": "Rhonabwy",
     "type": "rss"
   },
@@ -13841,7 +13746,7 @@
   {
     "alias": "rightpoint.com/rplabs/category/development/ios-mac",
     "url": "https://www.rightpoint.com/rplabs/category/development/ios-mac/",
-    "feedUrl": "https://www.rightpoint.com/rplabs/feed/",
+    "feedUrl": "https://www.rightpoint.com/rplabs/category/development/ios-mac/feed/",
     "title": "Rightpoint Labs Blog",
     "type": "rss"
   },
@@ -13913,21 +13818,21 @@
   {
     "alias": "robots.thoughtbot.com/tags/ios",
     "url": "https://robots.thoughtbot.com/tags/ios",
-    "feedUrl": "https://thoughtbot.com/blog/ios/feed",
+    "feedUrl": "https://robots.thoughtbot.com/ios/feed",
     "title": "thoughtbot: iOS posts",
     "type": "rss"
   },
   {
     "alias": "robots.thoughtbot.com/tags/swift",
     "url": "https://robots.thoughtbot.com/tags/swift",
-    "feedUrl": "https://thoughtbot.com/blog/swift/feed",
+    "feedUrl": "https://robots.thoughtbot.com/swift/feed",
     "title": "thoughtbot: Swift posts",
     "type": "rss"
   },
   {
     "alias": "rockhoppertech.com/blog",
     "url": "https://rockhoppertech.com/blog",
-    "feedUrl": "https://www.rockhoppertech.com/blog/feed/",
+    "feedUrl": "https://rockhoppertech.com/blog/feed",
     "title": "Gene De Lisa's Blog",
     "type": "rss"
   },
@@ -13953,7 +13858,7 @@
   {
     "alias": "rolandleth.com",
     "url": "https://rolandleth.com/",
-    "feedUrl": "https://rolandleth.com/life/feed",
+    "feedUrl": "https://rolandleth.com/feed",
     "title": "Roland Leth's Blog",
     "type": "rss"
   },
@@ -13982,14 +13887,9 @@
   {
     "alias": "roundwallsoftware.com",
     "url": "https://roundwallsoftware.com/",
-    "feedUrl": "https://roundwallsoftware.com/rss/",
+    "feedUrl": "https://roundwallsoftware.com/rss",
     "title": "Roundwall Software",
     "type": "rss"
-  },
-  {
-    "alias": "rshackleton.co.uk",
-    "url": "https://rshackleton.co.uk/",
-    "feedUrl": "https://rshackleton.co.uk/sitemap.xml"
   },
   {
     "alias": "rtl-css.net",
@@ -14030,7 +13930,7 @@
   {
     "alias": "runtastic.com/blog/en/tag/ios",
     "url": "https://www.runtastic.com/blog/en/tag/ios/",
-    "feedUrl": "https://www.runtastic.com/blog/en/feed/",
+    "feedUrl": "https://www.runtastic.com/blog/en/tag/ios/feed/",
     "title": "Runtastic Tech Blog",
     "type": "rss"
   },
@@ -14168,7 +14068,7 @@
   {
     "alias": "schibsted.pl/blog",
     "url": "http://www.schibsted.pl/blog/",
-    "feedUrl": "http://www.schibsted.pl/?feed=rss",
+    "feedUrl": "http://www.schibsted.pl/blog/feed/",
     "title": "Schibsted Tech Polska",
     "type": "rss"
   },
@@ -14202,7 +14102,7 @@
   {
     "alias": "scottberrevoets.com",
     "url": "https://scottberrevoets.com/",
-    "feedUrl": "https://scottberrevoets.com/feeds/all.atom.xml",
+    "feedUrl": "https://scottberrevoets.com/feeds/all.rss.xml",
     "title": "Scott Berrevoets' Blog",
     "type": "rss"
   },
@@ -14297,7 +14197,7 @@
   {
     "alias": "semaphoreci.com/community",
     "url": "https://semaphoreci.com/community",
-    "feedUrl": "https://semaphoreci.com/feed",
+    "feedUrl": "https://semaphoreci.com/community/tutorials.atom",
     "title": "Semaphore CI Community",
     "type": "rss"
   },
@@ -14400,7 +14300,7 @@
   {
     "alias": "sharethis.com/category/engineering",
     "url": "https://www.sharethis.com/category/engineering/",
-    "feedUrl": "https://sharethis.com/intelligence/sharethis-data-feed/",
+    "feedUrl": "https://www.sharethis.com/feed/",
     "title": "Sharethis",
     "type": "rss"
   },
@@ -14530,7 +14430,7 @@
   {
     "alias": "sintraworks.github.io",
     "url": "https://sintraworks.github.io/",
-    "feedUrl": "https://sintraworks.github.io/feed.xml",
+    "feedUrl": "https://sintraworks.github.io/feed",
     "title": "SintraWorks Blog",
     "type": "rss"
   },
@@ -14551,7 +14451,7 @@
   },
   {
     "alias": "sitepoint.com",
-    "url": "https://www.sitepoint.com/",
+    "url": "https://sitepoint.com/",
     "feedUrl": "https://www.sitepoint.com/feed/",
     "title": "SitePoint",
     "type": "rss"
@@ -14672,14 +14572,14 @@
   {
     "alias": "soffes.blog",
     "url": "https://soffes.blog/",
-    "feedUrl": "https://soffes.blog/rss.xml",
+    "feedUrl": "https://soffes.blog/rss/",
     "title": "Hi, I'm Sam",
     "type": "rss"
   },
   {
     "alias": "software.intel.com/en-us/blogs",
     "url": "https://software.intel.com/en-us/blogs/",
-    "feedUrl": "https://software.intel.com/en-us/user/login?destination=node/698526%3Ffeed%3Drss",
+    "feedUrl": "https://software.intel.com/en-us/blogs/feed",
     "title": "Intel",
     "type": "rss"
   },
@@ -14861,7 +14761,7 @@
   {
     "alias": "stevemoser.org/category/apple-dev",
     "url": "https://www.stevemoser.org/category/apple-dev/index.html",
-    "feedUrl": "https://stevemoser.org/feed.xml",
+    "feedUrl": "https://www.stevemoser.org/feed.apple-dev.xml",
     "title": "Steve Moser's Blog",
     "type": "rss"
   },
@@ -14881,11 +14781,6 @@
     "feedUrl": "https://stormpath.com/feed",
     "title": "Stormpath",
     "type": "rss"
-  },
-  {
-    "alias": "stratechery.com",
-    "url": "https://stratechery.com/",
-    "feedUrl": "https://stratechery.com/wp-includes/wlwmanifest.xml"
   },
   {
     "alias": "stripe.com/blog",
@@ -15035,7 +14930,7 @@
   {
     "alias": "swiftbysundell.com",
     "url": "https://www.swiftbysundell.com/",
-    "feedUrl": "https://www.swiftbysundell.com/rss",
+    "feedUrl": "https://www.swiftbysundell.com/posts?format=RSS",
     "title": "Swift by Sundell",
     "type": "rss"
   },
@@ -15047,7 +14942,7 @@
   {
     "alias": "swiftdevjournal.com",
     "url": "https://swiftdevjournal.com/",
-    "feedUrl": "https://www.swiftdevjournal.com/feed/",
+    "feedUrl": "https://swiftdevjournal.com/feed",
     "title": "Swift Dev Journal",
     "type": "rss"
   },
@@ -15059,7 +14954,7 @@
   {
     "alias": "swiftier.co",
     "url": "https://swiftier.co/",
-    "feedUrl": "https://swiftier.co/feed.xml",
+    "feedUrl": "https://swiftier.co/feed",
     "title": "Swiftier - A tale of Swift Performance",
     "type": "rss"
   },
@@ -15080,7 +14975,7 @@
   {
     "alias": "swiftjectivec.com",
     "url": "https://swiftjectivec.com/",
-    "feedUrl": "https://swiftjectivec.com/feed.xml",
+    "feedUrl": "https://www.swiftjectivec.com/feed.xml",
     "title": "Swiftjective-C",
     "type": "rss"
   },
@@ -15099,7 +14994,7 @@
   {
     "alias": "swiftteacher.org",
     "url": "https://www.swiftteacher.org/",
-    "feedUrl": "https://www.swiftteacher.org/swift-teacher?format=rss",
+    "feedUrl": "https://www.swiftteacher.org/swift-teacher/?format=rss",
     "title": "The Swift Teacher",
     "type": "rss"
   },
@@ -15256,7 +15151,7 @@
   {
     "alias": "tech.adroll.com/blog",
     "url": "http://tech.adroll.com/blog/",
-    "feedUrl": "http://tech.nextroll.com/feed.xml",
+    "feedUrl": "http://tech.adroll.com/feed.xml",
     "title": "AdRoll",
     "type": "rss"
   },
@@ -15294,7 +15189,7 @@
   {
     "alias": "tech.geoblink.com",
     "url": "https://tech.geoblink.com/",
-    "feedUrl": "https://medium.com/feed/geoblinktech",
+    "feedUrl": "https://tech.geoblink.com/feed/",
     "title": "Geoblink",
     "type": "rss"
   },
@@ -15313,7 +15208,7 @@
   {
     "alias": "tech.gotinder.com",
     "url": "https://tech.gotinder.com/",
-    "feedUrl": "https://medium.com/feed/tinder-engineering",
+    "feedUrl": "https://tech.gotinder.com/rss/",
     "title": "Tinder",
     "type": "rss"
   },
@@ -15428,7 +15323,7 @@
   {
     "alias": "tech.small-improvements.com",
     "url": "https://tech.small-improvements.com/",
-    "feedUrl": "https://tech.small-improvements.com/?feed=rss",
+    "feedUrl": "https://tech.small-improvements.com/rss",
     "title": "Small Improvements",
     "type": "rss"
   },
@@ -15480,7 +15375,7 @@
   {
     "alias": "tech.wimdu.com",
     "url": "http://tech.wimdu.com/",
-    "feedUrl": "http://tech.wimdu.com/?feed=rss",
+    "feedUrl": "http://tech.wimdu.com/rss",
     "title": "Wimdu",
     "type": "rss"
   },
@@ -15546,7 +15441,7 @@
   {
     "alias": "techblog.king.com",
     "url": "https://techblog.king.com/",
-    "feedUrl": "https://medium.com/feed/@TechKing",
+    "feedUrl": "https://techblog.king.com/feed/",
     "title": "King",
     "type": "rss"
   },
@@ -15664,11 +15559,6 @@
     "feedUrl": "http://tengj.top/atom.xml"
   },
   {
-    "alias": "terabit.ca/blog",
-    "url": "https://terabit.ca/blog/",
-    "feedUrl": "https://terabit.ca/blog/wp-includes/wlwmanifest.xml"
-  },
-  {
     "alias": "terinstock.com",
     "url": "https://terinstock.com/",
     "feedUrl": "https://terinstock.com/index.xml"
@@ -15764,14 +15654,14 @@
   {
     "alias": "thedistance.co.uk/category/ios",
     "url": "https://thedistance.co.uk/category/ios/",
-    "feedUrl": "https://thedistance.co.uk/?feed=rss",
+    "feedUrl": "https://thedistance.co.uk/category/ios/feed/",
     "title": "The Distance – iOS Posts",
     "type": "rss"
   },
   {
     "alias": "thedroidsonroids.com/category/blog/ios",
     "url": "https://www.thedroidsonroids.com/category/blog/ios",
-    "feedUrl": "https://www.thedroidsonroids.com/feed/atom",
+    "feedUrl": "https://www.thedroidsonroids.com/category/blog/ios/feed",
     "title": "Droids On Roids Blog iOS Development",
     "type": "rss"
   },
@@ -16001,14 +15891,14 @@
   {
     "alias": "thoughtworks.com/insights",
     "url": "https://www.thoughtworks.com/insights",
-    "feedUrl": "https://www.thoughtworks.com/es/?feed=rss",
+    "feedUrl": "https://www.thoughtworks.com/rss/insights.xml",
     "title": "ThoughtWorks",
     "type": "rss"
   },
   {
     "alias": "thumbtack.com/engineering",
     "url": "https://www.thumbtack.com/engineering/",
-    "feedUrl": "https://engineering.thumbtack.com/feed/",
+    "feedUrl": "https://www.thumbtack.com/engineering/feed/",
     "title": "Thumbtack",
     "type": "rss"
   },
@@ -16086,7 +15976,7 @@
   {
     "alias": "toddmotto.com",
     "url": "https://toddmotto.com/",
-    "feedUrl": "https://ultimatecourses.com/feed",
+    "feedUrl": "https://toddmotto.com/feed.xml",
     "title": "Todd Motto",
     "type": "rss"
   },
@@ -16105,7 +15995,7 @@
   {
     "alias": "tommikivimaki.com/notes",
     "url": "https://tommikivimaki.com/notes/",
-    "feedUrl": "https://tommikivimaki.com/notes/feed.xlm",
+    "feedUrl": "https://tommikivimaki.com/feed.xml",
     "title": "Swift Journal by Tommi Kivimäki",
     "type": "rss"
   },
@@ -16274,7 +16164,7 @@
   {
     "alias": "tympanus.net/codrops",
     "url": "https://tympanus.net/codrops/",
-    "feedUrl": "https://tympanus.net/?feed=rss",
+    "feedUrl": "https://tympanus.net/codrops/rss",
     "title": "Codrops",
     "type": "rss"
   },
@@ -16420,11 +16310,6 @@
     "alias": "uxcellence.com",
     "url": "https://uxcellence.com/",
     "feedUrl": "https://www.uxcellence.com/?feed=atom"
-  },
-  {
-    "alias": "uxpin.com/studio/blog",
-    "url": "https://www.uxpin.com/studio/blog/",
-    "feedUrl": "https://www.uxpincdn.com/studio/wp-includes/wlwmanifest.xml"
   },
   {
     "alias": "vadimbulavin.com",
@@ -16935,7 +16820,7 @@
   {
     "alias": "wyeworks.com/blog",
     "url": "https://wyeworks.com/blog/",
-    "feedUrl": "https://www.wyeworks.com/rss.xml",
+    "feedUrl": "https://wyeworks.com/blog/atom.xml",
     "title": "WyeWorks",
     "type": "rss"
   },
@@ -17364,11 +17249,6 @@
     "feedUrl": "https://www.zhangjun.me/feed/"
   },
   {
-    "alias": "zhangsa.net",
-    "url": "http://zhangsa.net/",
-    "feedUrl": "http://zhangsa.net/sitemap.xml"
-  },
-  {
     "alias": "zhangshenjia.com",
     "url": "http://zhangshenjia.com/",
     "feedUrl": "http://zhangshenjia.com/feed/"
@@ -17419,11 +17299,6 @@
     "feedUrl": "http://www.zhidaow.com/feed"
   },
   {
-    "alias": "zhihu.com/org/thoughtworks-zhong-guo/activities",
-    "url": "https://www.zhihu.com/org/thoughtworks-zhong-guo/activities",
-    "feedUrl": "https://static.zhihu.com/static/search.xml"
-  },
-  {
     "alias": "zhoujin.com/index.php",
     "url": "http://zhoujin.com/index.php",
     "feedUrl": "http://zhoujin.com/feed.php"
@@ -17466,7 +17341,7 @@
   {
     "alias": "zillow.com/engineering",
     "url": "https://www.zillow.com/engineering/",
-    "feedUrl": "https://www.zillow.com/tech/zgwp/wp-includes/wlwmanifest.xml",
+    "feedUrl": "https://www.zillow.com/engineering/rss",
     "title": "Zillow",
     "type": "rss"
   },
