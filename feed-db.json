@@ -14825,7 +14825,7 @@
   {
     "alias": "snyk.io/blog",
     "url": "https://snyk.io/blog",
-    "feedUrl": "https://snyk.io/blog/feed.xml",
+    "feedUrl": "https://snyk.io/blog/feed/",
     "title": "Snyk",
     "type": "rss"
   },
@@ -15024,6 +15024,11 @@
     "feedUrl": "https://steve-yegge.blogspot.com/feeds/posts/default"
   },
   {
+    "alias": "steveedson.co.uk",
+    "url": "https://steveedson.co.uk/",
+    "feedUrl": "https://steveedson.co.uk/feed.xml"
+  },
+  {
     "alias": "stevemoser.org/category/apple-dev",
     "url": "https://www.stevemoser.org/category/apple-dev/index.html",
     "feedUrl": "https://www.stevemoser.org/feed.apple-dev.xml",
@@ -15046,6 +15051,11 @@
     "feedUrl": "https://stormpath.com/feed",
     "title": "Stormpath",
     "type": "rss"
+  },
+  {
+    "alias": "stratechery.com",
+    "url": "https://stratechery.com/",
+    "feedUrl": "http://stratechery.com/feed/"
   },
   {
     "alias": "stripe.com/blog",
@@ -15461,7 +15471,7 @@
   {
     "alias": "tech.gilt.com",
     "url": "http://tech.gilt.com/",
-    "feedUrl": "http://tech.gilt.com/rss",
+    "feedUrl": "http://tech.gilt.com/atom.xml",
     "title": "Gilt",
     "type": "rss"
   },
@@ -15676,6 +15686,11 @@
     "feedUrl": "https://www.techatbloomberg.com/blog/feed/"
   },
   {
+    "alias": "techbeamers.com",
+    "url": "https://www.techbeamers.com/",
+    "feedUrl": "https://www.techbeamers.com/feed/"
+  },
+  {
     "alias": "techblog.appnexus.com",
     "url": "https://techblog.appnexus.com/",
     "feedUrl": "https://techblog.appnexus.com/feed",
@@ -15685,7 +15700,7 @@
   {
     "alias": "techblog.badoo.com",
     "url": "https://techblog.badoo.com/",
-    "feedUrl": "https://techblog.badoo.com/feed.xml",
+    "feedUrl": "https://badoo.com/techblog/feed.xml",
     "title": "Badoo",
     "type": "rss"
   },
@@ -15824,6 +15839,11 @@
     "feedUrl": "http://tengj.top/atom.xml"
   },
   {
+    "alias": "terabit.ca/blog",
+    "url": "https://terabit.ca/blog/",
+    "feedUrl": "https://terabit.ca/blog/feed/"
+  },
+  {
     "alias": "terinstock.com",
     "url": "https://terinstock.com/",
     "feedUrl": "https://terinstock.com/index.xml"
@@ -15907,7 +15927,7 @@
   {
     "alias": "thedailywtf.com",
     "url": "http://thedailywtf.com/",
-    "feedUrl": "http://thedailywtf.com/rss",
+    "feedUrl": "https://thedailywtf.com/?feed=rss",
     "title": "The Daily WTF",
     "type": "rss"
   },
@@ -16063,7 +16083,7 @@
   {
     "alias": "theswiftpost.co",
     "url": "https://theswiftpost.co/",
-    "feedUrl": "https://theswiftpost.co/feed/",
+    "feedUrl": "https://theswiftpost.co/feed",
     "title": "Swift Post",
     "type": "rss"
   },
@@ -16239,6 +16259,11 @@
     "feedUrl": "https://timyang.net/feed/atom/"
   },
   {
+    "alias": "tmyam.github.io",
+    "url": "http://tmyam.github.io/",
+    "feedUrl": "http://tmyam.github.io/atom.xml"
+  },
+  {
     "alias": "toddmotto.com",
     "url": "https://toddmotto.com/",
     "feedUrl": "https://toddmotto.com/feed.xml",
@@ -16383,6 +16408,11 @@
     "feedUrl": "https://www.tutorialandexample.com/feed/"
   },
   {
+    "alias": "tutorialspoint.com/python",
+    "url": "http://www.tutorialspoint.com/python/",
+    "feedUrl": "http://www.tutorialspoint.com/rss.xml"
+  },
+  {
     "alias": "tutorialzine.com",
     "url": "https://tutorialzine.com/",
     "feedUrl": "https://tutorialzine.com/feed"
@@ -16437,6 +16467,11 @@
     "alias": "type.so",
     "url": "http://type.so/",
     "feedUrl": "https://type.so/feed/"
+  },
+  {
+    "alias": "typeof.net",
+    "url": "http://typeof.net/index.html",
+    "feedUrl": "https://typeof.net/atom.xml"
   },
   {
     "alias": "ucdchina.com",
@@ -16569,12 +16604,17 @@
   {
     "alias": "uxc.baidu.com",
     "url": "http://uxc.baidu.com/",
-    "feedUrl": "http://uxc.baidu.com/feed/rss/"
+    "feedUrl": "http://uxc.baidu.com/feed"
   },
   {
     "alias": "uxcellence.com",
     "url": "https://uxcellence.com/",
-    "feedUrl": "https://www.uxcellence.com/?feed=atom"
+    "feedUrl": "https://uxcellence.com/?feed=rss"
+  },
+  {
+    "alias": "uxpin.com/studio/blog",
+    "url": "https://www.uxpin.com/studio/blog/",
+    "feedUrl": "https://www.uxpin.com/studio/blog/feed/"
   },
   {
     "alias": "vadimbulavin.com",
@@ -16982,6 +17022,11 @@
     "feedUrl": "https://www.wix.engineering/?feed=rss&amp;lightbox=dataItem-jh64zmi31"
   },
   {
+    "alias": "wjdiankong.cn",
+    "url": "http://www.wjdiankong.cn/",
+    "feedUrl": "http://www.wjdiankong.cn/feed"
+  },
+  {
     "alias": "wjp2013.github.io",
     "url": "http://wjp2013.github.io/",
     "feedUrl": "http://wjp2013.github.io/feed.xml"
@@ -17081,6 +17126,11 @@
     "alias": "wuzhuti.cn",
     "url": "http://wuzhuti.cn/",
     "feedUrl": "https://wuzhuti.cn/feed"
+  },
+  {
+    "alias": "wyattbaldwin.com",
+    "url": "http://wyattbaldwin.com/",
+    "feedUrl": "https://wyattbaldwin.com/index.xml"
   },
   {
     "alias": "wyeworks.com/blog",

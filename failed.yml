@@ -8846,3 +8846,295 @@
   date: Tue Dec 10 2019 18:04:14 GMT+0000 (Coordinated Universal Time)
   url: http://shiyanjun.cn/
   reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Tue Dec 10 2019 18:05:33 GMT+0000 (Coordinated Universal Time)
+  url: https://sidebar.io/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:33 GMT+0000 (Coordinated Universal Time)
+  url: https://www.singlehop.com/blog/
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Tue Dec 10 2019 18:05:33 GMT+0000 (Coordinated Universal Time)
+  url: https://www.simple.com/engineering
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:35 GMT+0000 (Coordinated Universal Time)
+  url: https://sid.studio/blog
+  reason: RequestError: getaddrinfo ENOTFOUND sid.studio
+-
+  date: Tue Dec 10 2019 18:05:36 GMT+0000 (Coordinated Universal Time)
+  url: http://snowlotus.github.io/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:36 GMT+0000 (Coordinated Universal Time)
+  url: http://www.snowdream.tech/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:36 GMT+0000 (Coordinated Universal Time)
+  url: https://stackshare.io/feed
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Tue Dec 10 2019 18:05:36 GMT+0000 (Coordinated Universal Time)
+  url: http://www.sishixy.net/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:48 GMT+0000 (Coordinated Universal Time)
+  url: http://www.statsblogs.com/tag/python/
+  reason: RequestError: getaddrinfo ENOTFOUND www.statsblogs.com
+-
+  date: Tue Dec 10 2019 18:05:50 GMT+0000 (Coordinated Universal Time)
+  url: https://stormpath.com/blog/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Tue Dec 10 2019 18:05:51 GMT+0000 (Coordinated Universal Time)
+  url: http://www.stormzhang.com/
+  reason: RequestError: connect ECONNREFUSED 103.72.146.182:80
+-
+  date: Tue Dec 10 2019 18:05:52 GMT+0000 (Coordinated Universal Time)
+  url: http://www.succw.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:52 GMT+0000 (Coordinated Universal Time)
+  url: http://stackvoid.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:53 GMT+0000 (Coordinated Universal Time)
+  url: https://www.sushiandrobots.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:54 GMT+0000 (Coordinated Universal Time)
+  url: https://swiftjournal.wordpress.com/
+  reason: HTTPError: Response code 410 (Gone)
+-
+  date: Tue Dec 10 2019 18:05:54 GMT+0000 (Coordinated Universal Time)
+  url: https://susielu.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:55 GMT+0000 (Coordinated Universal Time)
+  url: https://swiftweekly.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:05:55 GMT+0000 (Coordinated Universal Time)
+  url: http://sxywu.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:06:00 GMT+0000 (Coordinated Universal Time)
+  url: http://www.syntaxsuccess.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:06:04 GMT+0000 (Coordinated Universal Time)
+  url: http://talkincloud.com/
+  reason: RequestError: getaddrinfo ENOTFOUND talkincloud.com
+-
+  date: Tue Dec 10 2019 18:06:05 GMT+0000 (Coordinated Universal Time)
+  url: http://talll.com/
+  reason: RequestError: getaddrinfo ENOTFOUND talll.com
+-
+  date: Tue Dec 10 2019 18:06:06 GMT+0000 (Coordinated Universal Time)
+  url: https://tannerlinsley.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:06:09 GMT+0000 (Coordinated Universal Time)
+  url: https://tech.scrunch.com/blog/
+  reason: RequestError: getaddrinfo ENOTFOUND tech.scrunch.com
+-
+  date: Tue Dec 10 2019 18:06:12 GMT+0000 (Coordinated Universal Time)
+  url: http://tech.wonga.com/
+  reason: RequestError: getaddrinfo ENOTFOUND tech.wonga.com
+-
+  date: Tue Dec 10 2019 18:06:14 GMT+0000 (Coordinated Universal Time)
+  url: https://tech.zalando.com/blog/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:06:21 GMT+0000 (Coordinated Universal Time)
+  url: https://tech.just-eat.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:06:22 GMT+0000 (Coordinated Universal Time)
+  url: http://stuartkhall.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Tue Dec 10 2019 18:06:25 GMT+0000 (Coordinated Universal Time)
+  url: https://techblog.expedia.com/
+  reason: RequestError: getaddrinfo ENOTFOUND techblog.expedia.com
+-
+  date: Tue Dec 10 2019 18:06:27 GMT+0000 (Coordinated Universal Time)
+  url: http://techblog.toutiao.com/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Tue Dec 10 2019 18:06:28 GMT+0000 (Coordinated Universal Time)
+  url: http://swiftyjimmy.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Tue Dec 10 2019 18:06:30 GMT+0000 (Coordinated Universal Time)
+  url: http://techkeep.tk/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:06:33 GMT+0000 (Coordinated Universal Time)
+  url: https://techpursue.com/
+  reason: RequestError: getaddrinfo ENOTFOUND techpursue.com
+-
+  date: Tue Dec 10 2019 18:06:47 GMT+0000 (Coordinated Universal Time)
+  url: http://www.techpaliyal.com/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Tue Dec 10 2019 18:06:48 GMT+0000 (Coordinated Universal Time)
+  url: https://www.tellapart.com/engineering-blog/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:06:55 GMT+0000 (Coordinated Universal Time)
+  url: https://tgideas.qq.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:06:56 GMT+0000 (Coordinated Universal Time)
+  url: https://theapicompany.com/
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Tue Dec 10 2019 18:06:58 GMT+0000 (Coordinated Universal Time)
+  url: http://techblog.realestate.com.au/engineering/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Tue Dec 10 2019 18:06:59 GMT+0000 (Coordinated Universal Time)
+  url: http://thecodist.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:07:08 GMT+0000 (Coordinated Universal Time)
+  url: http://techxposer.com/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Tue Dec 10 2019 18:07:26 GMT+0000 (Coordinated Universal Time)
+  url: https://www.thinktreeit.com/blog/
+  reason: RequestError: connect ECONNREFUSED 204.11.56.48:443
+-
+  date: Tue Dec 10 2019 18:07:26 GMT+0000 (Coordinated Universal Time)
+  url: https://www.tianmaying.com/user/david
+  reason: RequestError: unable to verify the first certificate
+-
+  date: Tue Dec 10 2019 18:07:27 GMT+0000 (Coordinated Universal Time)
+  url: http://tikitoo.github.io/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:07:31 GMT+0000 (Coordinated Universal Time)
+  url: http://tomner.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:07:33 GMT+0000 (Coordinated Universal Time)
+  url: http://tomxin.cn/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:07:36 GMT+0000 (Coordinated Universal Time)
+  url: http://www.tony77.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:07:36 GMT+0000 (Coordinated Universal Time)
+  url: http://tony.ecy.ren/
+  reason: RequestError: getaddrinfo ENOTFOUND tony.ecy.ren
+-
+  date: Tue Dec 10 2019 18:07:38 GMT+0000 (Coordinated Universal Time)
+  url: https://www.truepush.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:07:40 GMT+0000 (Coordinated Universal Time)
+  url: https://www.thedroidsonroids.com/category/blog/ios
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Tue Dec 10 2019 18:07:41 GMT+0000 (Coordinated Universal Time)
+  url: https://www.twilio.com/docs/quickstart/python
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:07:41 GMT+0000 (Coordinated Universal Time)
+  url: https://www.twilio.com/engineering/
+  reason: HTTPError: Response code 404 (NOT FOUND)
+-
+  date: Tue Dec 10 2019 18:07:52 GMT+0000 (Coordinated Universal Time)
+  url: http://www.ui.cn/
+  reason: RequestError: getaddrinfo ENOTFOUND www.ui.cn
+-
+  date: Tue Dec 10 2019 18:07:59 GMT+0000 (Coordinated Universal Time)
+  url: https://urenko.github.io/Accesser/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:10 GMT+0000 (Coordinated Universal Time)
+  url: http://ued.focus.cn/wordpress
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:12 GMT+0000 (Coordinated Universal Time)
+  url: http://www.vertabelo.com/blog
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:17 GMT+0000 (Coordinated Universal Time)
+  url: https://virusdefender.net/
+  reason: RequestError: connect ECONNREFUSED 140.143.224.171:443
+-
+  date: Tue Dec 10 2019 18:08:25 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wanghailin.cn/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:25 GMT+0000 (Coordinated Universal Time)
+  url: https://web-techno.net/
+  reason: RequestError: certificate has expired
+-
+  date: Tue Dec 10 2019 18:08:25 GMT+0000 (Coordinated Universal Time)
+  url: http://uicss.cn/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms
+-
+  date: Tue Dec 10 2019 18:08:37 GMT+0000 (Coordinated Universal Time)
+  url: https://www.webdevelopmentpark.com/blog/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Tue Dec 10 2019 18:08:38 GMT+0000 (Coordinated Universal Time)
+  url: https://www.webdesignernews.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:40 GMT+0000 (Coordinated Universal Time)
+  url: https://www.wefearchange.org/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:42 GMT+0000 (Coordinated Universal Time)
+  url: http://weizhifeng.net/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:43 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wheattime.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:43 GMT+0000 (Coordinated Universal Time)
+  url: http://weekly.manong.io/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:43 GMT+0000 (Coordinated Universal Time)
+  url: http://www.weicorner.cc/
+  reason: RequestError: getaddrinfo ENOTFOUND www.weicorner.cc
+-
+  date: Tue Dec 10 2019 18:08:44 GMT+0000 (Coordinated Universal Time)
+  url: http://www.webx32.com/
+  reason: HTTPError: Response code 500 (Internal Server Error)
+-
+  date: Tue Dec 10 2019 18:08:46 GMT+0000 (Coordinated Universal Time)
+  url: http://wiki.timwang.me/
+  reason: RequestError: getaddrinfo ENOTFOUND wiki.timwang.me
+-
+  date: Tue Dec 10 2019 18:08:50 GMT+0000 (Coordinated Universal Time)
+  url: http://www.woniubi.cn/
+  reason: HTTPError: Response code 404 (Not Found)
+-
+  date: Tue Dec 10 2019 18:08:57 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wangxin.me/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:58 GMT+0000 (Coordinated Universal Time)
+  url: http://wuzhiwei.net/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Tue Dec 10 2019 18:08:59 GMT+0000 (Coordinated Universal Time)
+  url: http://www.withparadox2.com/
+  reason: Feed URL not found
+-
+  date: Tue Dec 10 2019 18:08:59 GMT+0000 (Coordinated Universal Time)
+  url: http://www.wwwer.net/
+  reason: HTTPError: Response code 508 (Loop Detected)
+-
+  date: Tue Dec 10 2019 18:09:26 GMT+0000 (Coordinated Universal Time)
+  url: https://wtipl.com/blog/
+  reason: TimeoutError: Timeout awaiting 'request' for 10000ms

@@ -406,3 +406,111 @@
   alias: savvyapps.com/blog
   url: https://savvyapps.com/blog
   feedUrl: https://savvyapps.com/blog/feed.rss
+-
+  alias: snyk.io/blog
+  url: https://snyk.io/blog
+  feedUrl: https://snyk.io/blog/feed/
+-
+  alias: singlex.net
+  url: http://www.singlex.net/
+  feedUrl: http://www.singlex.net/feed
+-
+  alias: steveedson.co.uk
+  url: https://steveedson.co.uk/
+  feedUrl: https://steveedson.co.uk/feed.xml
+-
+  alias: stratechery.com
+  url: https://stratechery.com/
+  feedUrl: http://stratechery.com/feed/
+-
+  alias: syntaxdefinition.com
+  url: http://www.syntaxdefinition.com/
+  feedUrl: https://www.syntaxdefinition.com/feed/
+-
+  alias: tech.gilt.com
+  url: http://tech.gilt.com/
+  feedUrl: http://tech.gilt.com/atom.xml
+-
+  alias: techbeamers.com
+  url: https://www.techbeamers.com/
+  feedUrl: https://www.techbeamers.com/feed/
+-
+  alias: techblog.badoo.com
+  url: https://techblog.badoo.com/
+  feedUrl: https://badoo.com/techblog/feed.xml
+-
+  alias: terabit.ca/blog
+  url: https://terabit.ca/blog/
+  feedUrl: https://terabit.ca/blog/feed/
+-
+  alias: thedailywtf.com
+  url: http://thedailywtf.com/
+  feedUrl: https://thedailywtf.com/?feed=rss
+-
+  alias: thecloudblog.in
+  url: https://thecloudblog.in/
+  feedUrl: https://thecloudblog.in/feed/
+-
+  alias: thejavaprogrammer.com
+  url: https://www.thejavaprogrammer.com/
+  feedUrl: https://www.thejavaprogrammer.com/feed/
+-
+  alias: themaninblue.com
+  url: https://themaninblue.com/
+  feedUrl: http://themaninblue.com/?feed=rss2
+-
+  alias: theswiftpost.co
+  url: https://theswiftpost.co/
+  feedUrl: https://theswiftpost.co/feed
+-
+  alias: tmyam.github.io
+  url: http://tmyam.github.io/
+  feedUrl: http://tmyam.github.io/atom.xml
+-
+  alias: timoliver.blog
+  url: http://timoliver.blog/
+  feedUrl: https://timoliver.blog/feed/
+-
+  alias: tutorialspoint.com/python
+  url: http://www.tutorialspoint.com/python/
+  feedUrl: http://www.tutorialspoint.com/rss.xml
+-
+  alias: ttt.tt
+  url: https://ttt.tt/
+  feedUrl: https://sb.sb/atom.xml
+-
+  alias: typeof.net
+  url: http://typeof.net/index.html
+  feedUrl: https://typeof.net/atom.xml
+-
+  alias: thinkstrategies.com/blog/#
+  url: http://thinkstrategies.com/blog/#
+  feedUrl: http://thinkstrategies.com/feed/
+-
+  alias: uxc.baidu.com
+  url: http://uxc.baidu.com/
+  feedUrl: http://uxc.baidu.com/feed
+-
+  alias: uxcellence.com
+  url: https://uxcellence.com/
+  feedUrl: https://uxcellence.com/?feed=rss
+-
+  alias: uxpin.com/studio/blog
+  url: https://www.uxpin.com/studio/blog/
+  feedUrl: https://www.uxpin.com/studio/blog/feed/
+-
+  alias: wecode.wepay.com
+  url: https://wecode.wepay.com/
+  feedUrl: https://wecode.wepay.com/feed.xml
+-
+  alias: ueview.com
+  url: http://www.ueview.com/
+  feedUrl: https://www.ueview.com/?feed=rss2
+-
+  alias: wyattbaldwin.com
+  url: http://wyattbaldwin.com/
+  feedUrl: https://wyattbaldwin.com/index.xml
+-
+  alias: wjdiankong.cn
+  url: http://www.wjdiankong.cn/
+  feedUrl: http://www.wjdiankong.cn/feed
