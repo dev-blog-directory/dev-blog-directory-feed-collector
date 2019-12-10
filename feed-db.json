@@ -3304,6 +3304,11 @@
     "feedUrl": "https://blog.webf.zone/feed"
   },
   {
+    "alias": "blog.webjeda.com",
+    "url": "https://blog.webjeda.com/",
+    "feedUrl": "https://blog.webjeda.com/feed.xml"
+  },
+  {
     "alias": "blog.wencan.org",
     "url": "http://blog.wencan.org/",
     "feedUrl": "https://blog.wencan.org/feed/"
@@ -3520,6 +3525,11 @@
     "feedUrl": "https://www.blogsgeek.com/feed/"
   },
   {
+    "alias": "blogways.net",
+    "url": "http://www.blogways.net/",
+    "feedUrl": "http://www.blogways.net/atom.xml"
+  },
+  {
     "alias": "bluewhale.cc",
     "url": "http://bluewhale.cc/",
     "feedUrl": "http://bluewhale.cc/feed"
@@ -3645,7 +3655,7 @@
   {
     "alias": "bthdonohue.com",
     "url": "http://bthdonohue.com/",
-    "feedUrl": "http://bthdonohue.com/feed.xml",
+    "feedUrl": "http://bthdonohue.com/feed",
     "title": "Makin’ that Instapaper",
     "type": "rss"
   },
@@ -3997,6 +4007,11 @@
     "feedUrl": "https://chrisruppel.com/travel.xml"
   },
   {
+    "alias": "christianfei.com",
+    "url": "https://christianfei.com/",
+    "feedUrl": "https://christianfei.com/rss.xml"
+  },
+  {
     "alias": "christianheilmann.com",
     "url": "https://christianheilmann.com/",
     "feedUrl": "https://christianheilmann.com/feed/"
@@ -4046,6 +4061,11 @@
     "alias": "ciodive.com/topic/cloud-computing",
     "url": "http://www.ciodive.com/topic/cloud-computing/",
     "feedUrl": "https://www.ciodive.com/feeds/news/"
+  },
+  {
+    "alias": "cizixs.com",
+    "url": "http://cizixs.com/",
+    "feedUrl": "https://cizixs.com/feed"
   },
   {
     "alias": "clanfei.com",
@@ -4166,6 +4186,11 @@
     "feedUrl": "https://clz.me/feed/"
   },
   {
+    "alias": "cmsblogs.com",
+    "url": "http://cmsblogs.com/",
+    "feedUrl": "http://cmsblogs.com/?feed=rss2"
+  },
+  {
     "alias": "cmsky.com",
     "url": "http://www.cmsky.com/",
     "feedUrl": "https://www.cmsky.com/feed/"
@@ -4239,6 +4264,11 @@
     "alias": "cnborn.net/blog",
     "url": "http://cnborn.net/blog/",
     "feedUrl": "http://cnborn.net/blog/"
+  },
+  {
+    "alias": "cnfeat.com",
+    "url": "http://www.cnfeat.com/",
+    "feedUrl": "https://www.cnfeat.com/feed"
   },
   {
     "alias": "cnitblog.com/shbwf",
@@ -4626,6 +4656,11 @@
     "feedUrl": "http://colachan.com/feed"
   },
   {
+    "alias": "colah.github.io",
+    "url": "http://colah.github.io/",
+    "feedUrl": "http://colah.github.io/rss.xml"
+  },
+  {
     "alias": "coletiv.com/blog",
     "url": "https://coletiv.com/blog/",
     "feedUrl": "https://coletiv.com/rss.xml",
@@ -4963,6 +4998,11 @@
     "feedUrl": "http://cuikai-wh.com/feed.asp"
   },
   {
+    "alias": "cuiqingcai.com",
+    "url": "https://cuiqingcai.com/",
+    "feedUrl": "https://cuiqingcai.com/?feed=rss2"
+  },
+  {
     "alias": "cuitianyi.com",
     "url": "http://cuitianyi.com/",
     "feedUrl": "http://cuitianyi.com/feed/"
@@ -4977,7 +5017,7 @@
   {
     "alias": "cutting.io",
     "url": "https://cutting.io/",
-    "feedUrl": "http://feed.cutting.io",
+    "feedUrl": "https://cutting.io/feed.xml",
     "title": "cutting.io",
     "type": "rss"
   },
@@ -5267,6 +5307,11 @@
     "feedUrl": "https://www.deadcoderising.com/rss/"
   },
   {
+    "alias": "deanacus.com",
+    "url": "https://deanacus.com/",
+    "feedUrl": "https://deanacus.com/feed.xml"
+  },
+  {
     "alias": "deanhume.com",
     "url": "http://deanhume.com/",
     "feedUrl": "https://deanhume.com/rss/",
@@ -5341,6 +5386,11 @@
     "type": "rss"
   },
   {
+    "alias": "denofgeek.com",
+    "url": "https://www.denofgeek.com/",
+    "feedUrl": "https://www.denofgeek.com/rss.xml"
+  },
+  {
     "alias": "denzelrodriguez.com/blog",
     "url": "https://denzelrodriguez.com/blog",
     "feedUrl": "https://denzelrodriguez.com/blog?format=rss"
@@ -5398,7 +5448,7 @@
   {
     "alias": "dev.firmafon.dk/blog",
     "url": "https://dev.firmafon.dk/blog/",
-    "feedUrl": "https://dev.firmafon.dk/blog/feed.xml",
+    "feedUrl": "https://dev.relatel.dk/blog/feed.xml",
     "title": "Firmafon",
     "type": "rss"
   },
@@ -5560,7 +5610,7 @@
   {
     "alias": "developers.redhat.com/blog",
     "url": "https://developers.redhat.com/blog/",
-    "feedUrl": "https://developers.redhat.com/blog/feed/atom/",
+    "feedUrl": "https://developers.redhat.com/blog/feed/rss/",
     "title": "Red Hat",
     "type": "rss"
   },
@@ -5946,6 +5996,11 @@
     "feedUrl": "https://eaf4.com/rss",
     "title": "Edward Faulkner",
     "type": "rss"
+  },
+  {
+    "alias": "eastdesign.net",
+    "url": "http://www.eastdesign.net/",
+    "feedUrl": "https://www.eastdesign.net/feed/"
   },
   {
     "alias": "easwy.com/blog",

@@ -78,3 +78,87 @@
   alias: blog.lerner.co.il
   url: http://blog.lerner.co.il/
   feedUrl: https://lerner.co.il/feed/
+-
+  alias: blog.webjeda.com
+  url: https://blog.webjeda.com/
+  feedUrl: https://blog.webjeda.com/feed.xml
+-
+  alias: blogways.net
+  url: http://www.blogways.net/
+  feedUrl: http://www.blogways.net/atom.xml
+-
+  alias: bthdonohue.com
+  url: http://bthdonohue.com/
+  feedUrl: http://bthdonohue.com/feed
+-
+  alias: christianfei.com
+  url: https://christianfei.com/
+  feedUrl: https://christianfei.com/rss.xml
+-
+  alias: cizixs.com
+  url: http://cizixs.com/
+  feedUrl: https://cizixs.com/feed
+-
+  alias: cloudcomputing-news.net
+  url: https://www.cloudcomputing-news.net/
+  feedUrl: https://www.cloudcomputing-news.net/feed/
+-
+  alias: cnfeat.com
+  url: http://www.cnfeat.com/
+  feedUrl: https://www.cnfeat.com/feed
+-
+  alias: cmsblogs.com
+  url: http://cmsblogs.com/
+  feedUrl: http://cmsblogs.com/?feed=rss2
+-
+  alias: colah.github.io
+  url: http://colah.github.io/
+  feedUrl: http://colah.github.io/rss.xml
+-
+  alias: cutting.io
+  url: https://cutting.io/
+  feedUrl: https://cutting.io/feed.xml
+-
+  alias: deanacus.com
+  url: https://deanacus.com/
+  feedUrl: https://deanacus.com/feed.xml
+-
+  alias: denofgeek.com
+  url: https://www.denofgeek.com/
+  feedUrl: https://www.denofgeek.com/rss.xml
+-
+  alias: desappstre.com
+  url: http://desappstre.com/
+  feedUrl: http://desappstre.com/feed/
+-
+  alias: dev.firmafon.dk/blog
+  url: https://dev.firmafon.dk/blog/
+  feedUrl: https://dev.relatel.dk/blog/feed.xml
+-
+  alias: developers.redhat.com/blog
+  url: https://developers.redhat.com/blog/
+  feedUrl: https://developers.redhat.com/blog/feed/rss/
+-
+  alias: cuiqingcai.com
+  url: https://cuiqingcai.com/
+  feedUrl: https://cuiqingcai.com/?feed=rss2
+-
+  alias: developers.redhat.com/blog/tag/python
+  url: https://developers.redhat.com/blog/tag/python/
+  feedUrl: https://developers.redhat.com/blog/tag/python/feed/
+-
+  alias: developers.redhat.com/blog/tag/java
+  url: https://developers.redhat.com/blog/tag/java/
+  feedUrl: https://developers.redhat.com/blog/tag/java/feed/
+-
+  alias: drobinin.com
+  url: https://drobinin.com/
+  feedUrl: https://drobinin.com/feed.xml
+-
+  alias: easyui.info
+  url: http://www.easyui.info/
+  feedUrl: http://www.easyui.info/feed
+-
+  alias: eastdesign.net
+  url: http://www.eastdesign.net/
+  feedUrl: https://www.eastdesign.net/feed/
