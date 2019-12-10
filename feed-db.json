@@ -11950,7 +11950,7 @@
   {
     "alias": "mohsen.dev",
     "url": "https://mohsen.dev/",
-    "feedUrl": "https://mohsen.dev/feed.xml",
+    "feedUrl": "https://mohsen.dev/feed",
     "title": "Mohsen's Blog",
     "type": "rss"
   },
@@ -12257,7 +12257,7 @@
   },
   {
     "alias": "natashatherobot.com",
-    "url": "https://www.natashatherobot.com/",
+    "url": "https://natashatherobot.com/",
     "feedUrl": "https://www.natashatherobot.com/feed/",
     "title": "Natasha The Robot",
     "type": "rss"
@@ -12464,6 +12464,11 @@
     "type": "rss"
   },
   {
+    "alias": "ningg.github.com",
+    "url": "http://ningg.github.com/",
+    "feedUrl": "http://ningg.top/atom.xml"
+  },
+  {
     "alias": "no-title.victordomingos.com",
     "url": "https://no-title.victordomingos.com/",
     "feedUrl": "https://no-title.victordomingos.com/feeds/all.atom.xml"
@@ -12638,6 +12643,11 @@
     "alias": "octopresszhangyu.herokuapp.com",
     "url": "http://octopresszhangyu.herokuapp.com/",
     "feedUrl": "http://octopresszhangyu.herokuapp.com/atom.xml"
+  },
+  {
+    "alias": "ofcss.com",
+    "url": "http://ofcss.com/",
+    "feedUrl": "https://www.ofcss.com/feed"
   },
   {
     "alias": "ohhelloana.blog",
@@ -12932,6 +12942,11 @@
     "feedUrl": "https://pbpython.com/feeds/all.atom.xml"
   },
   {
+    "alias": "pcmaffey.com",
+    "url": "https://www.pcmaffey.com/",
+    "feedUrl": "https://www.pcmaffey.com/rss.xml"
+  },
+  {
     "alias": "pedrommcarrasco.github.io",
     "url": "https://pedrommcarrasco.github.io/",
     "feedUrl": "https://pedrommcarrasco.github.io/atom.xml",
@@ -13107,7 +13122,7 @@
   {
     "alias": "pilgwon.github.io/blog",
     "url": "https://pilgwon.github.io/blog/",
-    "feedUrl": "https://pilgwon.github.io/blog/feed.xml",
+    "feedUrl": "https://pilgwon.github.io/blog/feed",
     "title": "pilgwon's blog",
     "type": "rss"
   },
@@ -13183,6 +13198,11 @@
     "feedUrl": "https://www.pluralsight.com/feed/rss/"
   },
   {
+    "alias": "pm28.com",
+    "url": "http://www.pm28.com/",
+    "feedUrl": "http://www.pm28.com/feed"
+  },
+  {
     "alias": "pocoproject.org/blog",
     "url": "http://pocoproject.org/blog",
     "feedUrl": "https://pocoproject.org/blog/?feed=rss2"
@@ -13219,7 +13239,7 @@
   {
     "alias": "possiblemobile.com/tag/ios",
     "url": "https://possiblemobile.com/tag/ios/",
-    "feedUrl": "https://possiblemobile.com/tag/ios/feed/",
+    "feedUrl": "https://wundermanthompsonmobile.com/feed/",
     "title": "POSSIBLE Mobile Blog",
     "type": "rss"
   },
@@ -13962,7 +13982,7 @@
   {
     "alias": "rhodesmill.org/brandon",
     "url": "http://rhodesmill.org/brandon/",
-    "feedUrl": "http://rhodesmill.org/brandon/feed",
+    "feedUrl": "https://rhodesmill.org/brandon/feed/",
     "title": "Brandon Rhodes",
     "type": "rss"
   },

@@ -358,3 +358,51 @@
   alias: lzw.me
   url: http://lzw.me/
   feedUrl: http://lzw.me/feed
+-
+  alias: mohsen.dev
+  url: https://mohsen.dev/
+  feedUrl: https://mohsen.dev/feed
+-
+  alias: mjix.com
+  url: http://www.mjix.com/
+  feedUrl: https://www.mjix.com/feed
+-
+  alias: morfans.cn
+  url: http://morfans.cn/
+  feedUrl: https://morfans.cn/?feed=rss2
+-
+  alias: ningg.github.com
+  url: http://ningg.github.com/
+  feedUrl: http://ningg.top/atom.xml
+-
+  alias: ofcss.com
+  url: http://ofcss.com/
+  feedUrl: https://www.ofcss.com/feed
+-
+  alias: natashatherobot.com
+  url: https://natashatherobot.com/
+  feedUrl: https://www.natashatherobot.com/feed/
+-
+  alias: pcmaffey.com
+  url: https://www.pcmaffey.com/
+  feedUrl: https://www.pcmaffey.com/rss.xml
+-
+  alias: pilgwon.github.io/blog
+  url: https://pilgwon.github.io/blog/
+  feedUrl: https://pilgwon.github.io/blog/feed
+-
+  alias: possiblemobile.com/tag/ios
+  url: https://possiblemobile.com/tag/ios/
+  feedUrl: https://wundermanthompsonmobile.com/feed/
+-
+  alias: pm28.com
+  url: http://www.pm28.com/
+  feedUrl: http://www.pm28.com/feed
+-
+  alias: rhodesmill.org/brandon
+  url: http://rhodesmill.org/brandon/
+  feedUrl: https://rhodesmill.org/brandon/feed/
+-
+  alias: savvyapps.com/blog
+  url: https://savvyapps.com/blog
+  feedUrl: https://savvyapps.com/blog/feed.rss

@@ -7048,3 +7048,1002 @@ Should check the url 'http://lzw.me/'.
     - http://lzw.me/feed/atom
 append to found list. http://lzw.me/
 append to skip list. http://lzw.me/
+append to failed list. https://mixmax.com/blog/tag/engineering
+append to skip list. https://mixmax.com/blog/tag/engineering
+append to failed list. https://mixmax.com/eng/
+append to skip list. https://mixmax.com/eng/
+append to failed list. http://mnstory.net/
+append to skip list. http://mnstory.net/
+
+----
+[]
+{
+  site: {
+    title: 'HugeDomains.com - MoonshineClouds.com is for sale (Moonshine Clouds)',
+    favicon: 'https://www.hugedomains.com/favicon.ico',
+    url: 'https://www.hugedomains.com/domain_profile.cfm?d=moonshineclouds&e=com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.moonshineclouds.com/category/cloud-computing/
+append to skip list. http://www.moonshineclouds.com/category/cloud-computing/
+
+----
+[]
+{
+  site: {
+    title: 'Mobike FE Team',
+    favicon: 'https://mobikefe.github.io/',
+    url: 'https://mobikefe.github.io'
+  },
+  feedUrls: []
+}
+append to failed list. https://mobikefe.github.io/
+append to skip list. https://mobikefe.github.io/
+
+----
+[ 'https://mohsen.dev/feed', 'https://mohsen.dev/feed.xml' ]
+{
+  site: { title: 'mohsen', favicon: null, url: 'https://mohsen.dev' },
+  feedUrls: []
+}
+Should check the url 'https://mohsen.dev/'. 
+  Found different feed URLs: 
+    - https://mohsen.dev/feed
+    - https://mohsen.dev/feed.xml
+append to found list. https://mohsen.dev/
+append to skip list. https://mohsen.dev/
+
+----
+[
+  'https://www.mjix.com/feed',
+  'https://www.mjix.com/feed/rdf',
+  'https://www.mjix.com/feed/atom',
+  'https://www.mjix.com/services/feed'
+]
+{
+  site: {
+    title: '铃不铃不铃 | 又一个WordPress站点',
+    favicon: null,
+    url: 'https://www.mjix.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://www.mjix.com/'. 
+  Found different feed URLs: 
+    - https://www.mjix.com/feed
+    - https://www.mjix.com/feed/rdf
+    - https://www.mjix.com/feed/atom
+    - https://www.mjix.com/services/feed
+append to found list. http://www.mjix.com/
+append to skip list. http://www.mjix.com/
+
+----
+[]
+{
+  site: {
+    title: 'Code Kitchen - Manchester based web developer Ben Tappin',
+    favicon: null,
+    url: 'https://codekitchen.io'
+  },
+  feedUrls: []
+}
+append to failed list. http://mrben.co.uk/category/python/
+append to skip list. http://mrben.co.uk/category/python/
+
+----
+[
+  'https://morfans.cn/?feed=rss2',
+  'http://www.morfans.cn/feed',
+  'http://www.morfans.cn/feed/rdf',
+  'http://www.morfans.cn/feed/atom'
+]
+{
+  site: {
+    title: '魔帆博客|-免费资源和福利分享—各类图文教程',
+    favicon: 'http://www.morfans.cn/favicon.ico',
+    url: 'http://www.morfans.cn'
+  },
+  feedUrls: []
+}
+Should check the url 'http://morfans.cn/'. 
+  Found different feed URLs: 
+    - https://morfans.cn/?feed=rss2
+    - http://www.morfans.cn/feed
+    - http://www.morfans.cn/feed/rdf
+    - http://www.morfans.cn/feed/atom
+append to found list. http://morfans.cn/
+append to skip list. http://morfans.cn/
+append to failed list. http://mtoou.info/index.html
+append to skip list. http://mtoou.info/index.html
+append to failed list. https://www.mocakemagic.com/
+append to skip list. https://www.mocakemagic.com/
+
+----
+[]
+{
+  site: {
+    title: 'Max Stoiber (@mxstbr) - JavaScript Engineer',
+    favicon: 'https://mxstbr.com/static/images/favicon_new.png',
+    url: 'https://mxstbr.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://mxstbr.com/
+append to skip list. https://mxstbr.com/
+
+----
+[]
+{
+  site: {
+    title: 'Blog',
+    favicon: 'https://mxstbr.com/static/images/favicon_new.png',
+    url: 'https://mxstbr.com/thoughts'
+  },
+  feedUrls: []
+}
+append to failed list. https://mxstbr.com/thoughts/
+append to skip list. https://mxstbr.com/thoughts/
+append to failed list. http://myst729.github.io/articles/
+append to skip list. http://myst729.github.io/articles/
+append to failed list. https://www.mousereeve.com/
+append to skip list. https://www.mousereeve.com/
+
+----
+[]
+{
+  site: {
+    title: ' [ Tim&#39;s blog ]python学习博客',
+    favicon: 'https://mypython.me/logo.png',
+    url: 'https://mypython.me'
+  },
+  feedUrls: []
+}
+append to failed list. https://mypython.me/
+append to skip list. https://mypython.me/
+
+----
+[]
+{
+  site: {
+    title: 'Nate Amack: Documented Learning in Public',
+    favicon: 'https://nateamack.com/icons/icon-48x48.png',
+    url: 'https://nateamack.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://nateamack.com/
+append to skip list. https://nateamack.com/
+append to failed list. https://neverfriday.com/blog/
+append to skip list. https://neverfriday.com/blog/
+
+----
+[]
+{
+  site: {
+    title: 'Google News - Search',
+    favicon: 'https://ssl.gstatic.com/gnews/logo/google_news_40.png',
+    url: 'https://news.google.com/search?q=androiddeveloper&tbm=nws&*&hl=en-US&gl=US&ceid=US:en'
+  },
+  feedUrls: []
+}
+append to failed list. https://news.google.com/news/section?q=androiddeveloper&tbm=nws&*
+append to skip list. https://news.google.com/news/section?q=androiddeveloper&tbm=nws&*
+
+----
+[]
+{
+  site: {
+    title: 'Google News - Search',
+    favicon: 'https://ssl.gstatic.com/gnews/logo/google_news_40.png',
+    url: 'https://news.google.com/search?q=javascript&tbm=nws*&hl=en-US&gl=US&ceid=US:en'
+  },
+  feedUrls: []
+}
+append to failed list. https://news.google.com/news/section?q=javascript&tbm=nws*
+append to skip list. https://news.google.com/news/section?q=javascript&tbm=nws*
+
+----
+[ 'http://ningg.top/atom.xml' ]
+{
+  site: {
+    title: 'ningg.top | NingG 个人博客',
+    favicon: 'http://ningg.top/favicon.ico',
+    url: 'http://ningg.top'
+  },
+  feedUrls: []
+}
+Should check the url 'http://ningg.github.com/'. 
+  Found different feed URLs: 
+    - http://ningg.top/atom.xml
+append to found list. http://ningg.github.com/
+append to skip list. http://ningg.github.com/
+
+----
+[]
+{
+  site: {
+    title: 'Coding Notes',
+    favicon: 'https://nkcoder.github.io/images/favicon-16x16-next.png?v=7.0.1',
+    url: 'https://nkcoder.github.io'
+  },
+  feedUrls: []
+}
+append to failed list. http://nkcoder.github.io/
+append to skip list. http://nkcoder.github.io/
+append to failed list. https://www.natashatherobot.com/
+append to skip list. https://www.natashatherobot.com/
+
+----
+[]
+{
+  site: {
+    title: '凯发真人娱乐_凯发真人vip注册_凯发真人在线娱乐手机',
+    favicon: 'https://www.nmtree.net/favicon.ico',
+    url: 'https://www.nmtree.net'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.nmtree.net/
+append to skip list. http://www.nmtree.net/
+
+----
+[]
+{
+  site: { title: 'Loading...', favicon: null, url: 'http://noalgo.info' },
+  feedUrls: []
+}
+append to failed list. http://noalgo.info/
+append to skip list. http://noalgo.info/
+append to failed list. http://www.nikantvohra.com/
+append to skip list. http://www.nikantvohra.com/
+append to failed list. https://nodexperts.com/blog/
+append to skip list. https://nodexperts.com/blog/
+append to failed list. https://nscolak.com/
+append to skip list. https://nscolak.com/
+
+----
+[]
+{
+  site: {
+    title: 'ObjC 中国 ',
+    favicon: 'https://objccn.io/images/favicon.png',
+    url: 'https://objccn.io'
+  },
+  feedUrls: []
+}
+append to failed list. http://objccn.io/
+append to skip list. http://objccn.io/
+append to failed list. https://www.objective-see.com/blog.html
+append to skip list. https://www.objective-see.com/blog.html
+
+----
+[]
+{
+  site: {
+    title: 'Blog &middot; Offering Solutions Software by Fabian Gosebrink',
+    favicon: 'https://offering.solutions/favicon.ico',
+    url: 'https://offering.solutions/blog'
+  },
+  feedUrls: []
+}
+append to failed list. https://offering.solutions/blog/
+append to skip list. https://offering.solutions/blog/
+
+----
+[]
+{
+  site: {
+    title: 'foocoder.com',
+    favicon: 'http://ww12.foocoder.com/favicon.ico',
+    url: 'http://ww12.foocoder.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://notice501.github.com/
+append to skip list. http://notice501.github.com/
+
+----
+[]
+{
+  site: {
+    title: 'Ohcoder · Phoenix Framework',
+    favicon: 'https://ohcoder.com/favicon.ico',
+    url: 'https://ohcoder.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://ohcoder.com/
+append to skip list. http://ohcoder.com/
+
+----
+[]
+{
+  site: {
+    title: 'OmniTI ~ Stop, Collaborate, and Listen/Notify',
+    favicon: 'https://omniti.com/favicon.ico',
+    url: 'https://omniti.com/seeds/stop-collaborate-and-listen-notify.html'
+  },
+  feedUrls: []
+}
+append to failed list. https://omniti.com/seeds/stop-collaborate-and-listen-notify
+append to skip list. https://omniti.com/seeds/stop-collaborate-and-listen-notify
+
+----
+[
+  'https://www.ofcss.com/feed',
+  'https://www.ofcss.com/feed/rdf',
+  'https://www.ofcss.com/feed/atom',
+  'https://www.ofcss.com/services/feed'
+]
+{
+  site: {
+    title: null,
+    favicon: 'https://cdn.ofcdn.com/attachments/2016/12/daodao_256.png',
+    url: 'https://www.ofcss.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://ofcss.com/'. 
+  Found different feed URLs: 
+    - https://www.ofcss.com/feed
+    - https://www.ofcss.com/feed/rdf
+    - https://www.ofcss.com/feed/atom
+    - https://www.ofcss.com/services/feed
+append to found list. http://ofcss.com/
+append to skip list. http://ofcss.com/
+
+----
+[]
+{
+  site: {
+    title: '开源项目,开源代码,开源文档,开源新闻,开源社区_深度开源',
+    favicon: 'https://static.open-open.com/favicon.ico',
+    url: 'https://www.open-open.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.open-open.com/
+append to skip list. http://www.open-open.com/
+
+----
+[]
+{
+  site: {
+    title: '开源基础设施峰会 | 开源基础设施峰会 Shanghai 2019',
+    favicon: null,
+    url: 'https://www.openstack.cn'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.openstack.cn/
+append to skip list. http://www.openstack.cn/
+
+----
+[]
+{
+  site: {
+    title: 'Michael Okoh | Trojan',
+    favicon: 'https://okoh.co.uk/favicon.ico',
+    url: 'https://okoh.co.uk'
+  },
+  feedUrls: []
+}
+append to failed list. https://okoh.co.uk/
+append to skip list. https://okoh.co.uk/
+
+----
+[]
+{
+  site: {
+    title: 'Oliver Russell White',
+    favicon: null,
+    url: 'https://oliverrussellwhite.github.io'
+  },
+  feedUrls: []
+}
+append to failed list. https://oliverrussellwhite.github.io/
+append to skip list. https://oliverrussellwhite.github.io/
+
+----
+[
+  'https://www.natashatherobot.com/feed/',
+  'https://www.natashatherobot.com/feed/rdf/',
+  'https://www.natashatherobot.com/feed/atom/',
+  'https://www.natashatherobot.com/services/feed/'
+]
+{
+  site: {
+    title: '\tNatasha The Robot\t',
+    favicon: 'https://www.natashatherobot.com/favicon.ico',
+    url: 'https://www.natashatherobot.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://natashatherobot.com/'. 
+  Found different feed URLs: 
+    - https://www.natashatherobot.com/feed/
+    - https://www.natashatherobot.com/feed/rdf/
+    - https://www.natashatherobot.com/feed/atom/
+    - https://www.natashatherobot.com/services/feed/
+append to found list. https://natashatherobot.com/
+append to skip list. https://natashatherobot.com/
+
+----
+[]
+{
+  site: {
+    title: '大官人_唐艺昕坐轮椅现身_光大资讯网',
+    favicon: 'http://opjasee.com/favicon.ico',
+    url: 'http://opjasee.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://opjasee.com/
+append to skip list. http://opjasee.com/
+
+----
+[]
+{
+  site: {
+    title: 'The domain name oraclema.com is for sale | DAN.COM',
+    favicon: 'https://cdn1.dan.com/assets/icons/favicon-ed801dd88c062243f5e43cb5f8fced0a080ad854030ada505303e144c104f04b.ico',
+    url: 'https://oraclema.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.oraclema.com/
+append to skip list. http://www.oraclema.com/
+
+----
+[]
+{
+  site: {
+    title: 'ei-sc-instagram',
+    favicon: 'https://paulmcbride.net/icons/icon-48x48.png?v=5708c4bf8046e9109276221a888cc734',
+    url: 'https://paulmcbride.net'
+  },
+  feedUrls: []
+}
+append to failed list. https://paulmcbride.net/
+append to skip list. https://paulmcbride.net/
+
+----
+[]
+{
+  site: {
+    title: 'Tech Archives - Paperless Post Team Blog : Paperless Post Team Blog',
+    favicon: 'https://www.paperlesspost.com/blog/teams/wp-content/themes/paperless-tech/img/icons/favicon.ico',
+    url: 'https://www.paperlesspost.com/blog/teams/tech'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.paperlesspost.com/blog/teams/tech/
+append to skip list. https://www.paperlesspost.com/blog/teams/tech/
+
+----
+[ 'https://www.pcmaffey.com/rss.xml' ]
+{
+  site: {
+    title: 'PC Maffey',
+    favicon: 'https://www.pcmaffey.com/favicon.ico',
+    url: 'https://www.pcmaffey.com'
+  },
+  feedUrls: []
+}
+Should check the url 'https://www.pcmaffey.com/'. 
+  Found different feed URLs: 
+    - https://www.pcmaffey.com/rss.xml
+append to found list. https://www.pcmaffey.com/
+append to skip list. https://www.pcmaffey.com/
+append to failed list. https://peripheryapp.com/blog/
+append to skip list. https://peripheryapp.com/blog/
+append to failed list. https://pdf-lib.org/
+append to skip list. https://pdf-lib.org/
+
+----
+[]
+{
+  site: {
+    title: "Paul Finn's Blog",
+    favicon: null,
+    url: 'http://www.pfinn.net'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.pfinn.net/
+append to skip list. http://www.pfinn.net/
+
+----
+[]
+{
+  site: {
+    title: 'Periscope Data | Blog',
+    favicon: 'https://assets.website-files.com/589e47d231ee752554896ef9/59f9ddb7c9a5280001e51b21_favico-2017.png',
+    url: 'https://www.periscopedata.com/blog'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.periscopedata.com/blog
+append to skip list. https://www.periscopedata.com/blog
+append to failed list. http://www.phppan.com/
+append to skip list. http://www.phppan.com/
+
+----
+[]
+{
+  site: {
+    title: 'Development, Design and Data Visualisation Studio | Phyramid',
+    favicon: 'https://www.phyramid.com/favicon/6a5acd',
+    url: 'https://www.phyramid.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.phyramid.com/blog/
+append to skip list. https://www.phyramid.com/blog/
+
+----
+[]
+{
+  site: {
+    title: 'pchou.info',
+    favicon: 'http://ww12.pchou.info/favicon.ico',
+    url: 'http://ww12.pchou.info'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.pchou.info/
+append to skip list. http://www.pchou.info/
+
+----
+[]
+{
+  site: {
+    title: '云顶国际官网-云顶集团登录-云顶娱乐游戏平台',
+    favicon: 'http://www.pipul.org/favicon.ico',
+    url: 'http://www.pipul.org'
+  },
+  feedUrls: []
+}
+append to failed list. http://pipul.org/
+append to skip list. http://pipul.org/
+
+----
+[
+  'https://pilgwon.github.io/blog/feed',
+  'https://pilgwon.github.io/blog/feed.xml',
+  'https://pilgwon.github.io/feed',
+  'https://pilgwon.github.io/feed.xml'
+]
+{
+  site: {
+    title: 'PilGwonKim | I love making INSANELY great service. iOS Developer',
+    favicon: null,
+    url: 'https://pilgwon.github.io/blog'
+  },
+  feedUrls: []
+}
+Should check the url 'https://pilgwon.github.io/blog/'. 
+  Found different feed URLs: 
+    - https://pilgwon.github.io/blog/feed
+    - https://pilgwon.github.io/blog/feed.xml
+    - https://pilgwon.github.io/feed
+    - https://pilgwon.github.io/feed.xml
+append to found list. https://pilgwon.github.io/blog/
+append to skip list. https://pilgwon.github.io/blog/
+
+----
+[]
+{
+  site: {
+    title: 'www.pmtoo.com Forbidden',
+    favicon: 'http://www.pmtoo.com/favicon.ico',
+    url: 'http://www.pmtoo.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.pmtoo.com/
+append to skip list. http://www.pmtoo.com/
+
+----
+[
+  'https://wundermanthompsonmobile.com/feed/',
+  'https://wundermanthompsonmobile.com/tag/ios/feed/',
+  'https://wundermanthompsonmobile.com/tag/ios/feed/rdf/',
+  'https://wundermanthompsonmobile.com/tag/ios/feed/atom/'
+]
+{
+  site: {
+    title: 'iOS Archives - Wunderman Thompson Mobile',
+    favicon: 'https://wundermanthompsonmobile.com/wp-content/uploads/2019/09/cropped-fav_wtm-192x192.png',
+    url: 'https://wundermanthompsonmobile.com/tag/ios'
+  },
+  feedUrls: [
+    {
+      title: 'Wunderman Thompson Mobile Feed',
+      url: 'https://wundermanthompsonmobile.com/feed/'
+    }
+  ]
+}
+append to found list. https://possiblemobile.com/tag/ios/
+append to skip list. https://possiblemobile.com/tag/ios/
+
+----
+[]
+{
+  site: {
+    title: 'HugeDomains.com - PusTone.com is for sale (Pus Tone)',
+    favicon: 'https://www.hugedomains.com/favicon.ico',
+    url: 'https://www.hugedomains.com/domain_profile.cfm?d=pustone&e=com'
+  },
+  feedUrls: []
+}
+append to failed list. http://pustone.com/
+append to skip list. http://pustone.com/
+
+----
+[]
+{
+  site: {
+    title: 'purecpp - a cool open source modern c++ community',
+    favicon: 'http://purecpp.org/purecpp/images/favicon.ico',
+    url: 'http://purecpp.org'
+  },
+  feedUrls: []
+}
+append to failed list. http://purecpp.org/
+append to skip list. http://purecpp.org/
+append to failed list. https://www.pydanny.com/category/python.html
+append to skip list. https://www.pydanny.com/category/python.html
+
+----
+[]
+{
+  site: {
+    title: 'Tutorials, Python Courses: Online and On Site',
+    favicon: 'https://www.python-course.eu/favicon.ico',
+    url: 'https://www.python-course.eu'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.python-course.eu/
+append to skip list. http://www.python-course.eu/
+
+----
+[]
+{
+  site: {
+    title: 'Nick Coghlan’s Python Notes &mdash; Nick Coghlan&#39;s Python Notes 1.0 documentation',
+    favicon: 'http://python-notes.curiousefficiency.org/favicon.ico',
+    url: 'http://python-notes.curiousefficiency.org/en/latest/index.html'
+  },
+  feedUrls: []
+}
+append to failed list. http://python-notes.curiousefficiency.org/en/latest/index.html
+append to skip list. http://python-notes.curiousefficiency.org/en/latest/index.html
+
+----
+[]
+{
+  site: {
+    title: 'python3.codes',
+    favicon: 'http://python3.codes/favicon.ico',
+    url: 'http://python3.codes'
+  },
+  feedUrls: []
+}
+append to failed list. http://python3.codes/
+append to skip list. http://python3.codes/
+
+----
+[]
+{
+  site: {
+    title: 'Python Weekly: A Free, Weekly Python E-mail Newsletter',
+    favicon: 'https://www.pythonweekly.com/favicon.ico',
+    url: 'https://www.pythonweekly.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.pythonweekly.com/
+append to skip list. http://www.pythonweekly.com/
+
+----
+[]
+{
+  site: {
+    title: 'index',
+    favicon: 'https://pythonpedia.com/images/favicon.ico',
+    url: 'https://pythonpedia.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://pythonpedia.com/
+append to skip list. https://pythonpedia.com/
+
+----
+[]
+{
+  site: {
+    title: 'Python Tutorials - Python Tutorial',
+    favicon: 'https://pythonspot.com/img/favicon.ico',
+    url: 'https://pythonspot.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://pythonspot.com/
+append to skip list. https://pythonspot.com/
+append to failed list. http://www.qcoke.com/
+append to skip list. http://www.qcoke.com/
+
+----
+[]
+{
+  site: {
+    title: '&#x9999;&#x6E2F;&#x8D5B;&#x9A6C;065&#x671F;&#x89C6;&#x9891;,94887&#x91D1;&#x591A;&#x5B9D;&#x5FC3;&#x6C34;&#x8BBA;&#x575B;,&#x4E8C;&#x56DB;&#x516D;&#x5929;&#x5929;&#x597D;&#x8D44;&#x6599;&#x514D;&#x8D39;&#x5927;&#x5168;&#x7384;&#x673A;&#x56FE;,彰化县得智电焊部-首页',
+    favicon: 'https://www.qiangblog.com/favicon.ico',
+    url: 'https://www.qiangblog.com/feed'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.qiangblog.com/feed
+append to skip list. http://www.qiangblog.com/feed
+
+----
+[]
+{
+  site: {
+    title: 'HugeDomains.com - Qianxiaoyang.com is for sale (Qianxiaoyang)',
+    favicon: 'https://www.hugedomains.com/favicon.ico',
+    url: 'https://www.hugedomains.com/domain_profile.cfm?d=qianxiaoyang&e=com'
+  },
+  feedUrls: []
+}
+append to failed list. http://qianxiaoyang.com/
+append to skip list. http://qianxiaoyang.com/
+append to failed list. http://outofmemory.cn/
+append to skip list. http://outofmemory.cn/
+
+----
+[]
+{
+  site: {
+    title: 'HugeDomains.com - QingLiangCn.COM is for sale (Qing Liang Cn)',
+    favicon: 'https://www.hugedomains.com/favicon.ico',
+    url: 'https://www.hugedomains.com/domain_profile.cfm?d=qingliangcn&e=com'
+  },
+  feedUrls: []
+}
+append to failed list. http://www.qingliangcn.com/
+append to skip list. http://www.qingliangcn.com/
+
+----
+[]
+{
+  site: {
+    title: '502 Bad Gateway',
+    favicon: 'http://www.qiuchengjia.cn/favicon.ico',
+    url: 'http://www.qiuchengjia.cn'
+  },
+  feedUrls: []
+}
+append to failed list. http://qiuchengjia.cn/
+append to skip list. http://qiuchengjia.cn/
+
+----
+[]
+{
+  site: {
+    title: 'QuirksMode - for all your browser quirks',
+    favicon: 'https://www.quirksmode.org/favicon.ico',
+    url: 'https://www.quirksmode.org'
+  },
+  feedUrls: []
+}
+append to failed list. https://www.quirksmode.org/
+append to skip list. https://www.quirksmode.org/
+append to failed list. https://www.raizlabs.com/dev
+append to skip list. https://www.raizlabs.com/dev
+append to failed list. https://www.raizlabs.com/dev/
+append to skip list. https://www.raizlabs.com/dev/
+append to failed list. https://www.raizlabs.com/dev/category/android/
+append to skip list. https://www.raizlabs.com/dev/category/android/
+
+----
+[
+  'http://www.pm28.com/feed',
+  'http://www.pm28.com/feed/rdf',
+  'http://www.pm28.com/feed/atom',
+  'http://www.pm28.com/services/feed'
+]
+{
+  site: {
+    title: 'PM28 | 互联网产品经理',
+    favicon: 'http://www.pm28.com/favicon.ico',
+    url: 'http://www.pm28.com'
+  },
+  feedUrls: []
+}
+Should check the url 'http://www.pm28.com/'. 
+  Found different feed URLs: 
+    - http://www.pm28.com/feed
+    - http://www.pm28.com/feed/rdf
+    - http://www.pm28.com/feed/atom
+    - http://www.pm28.com/services/feed
+append to found list. http://www.pm28.com/
+append to skip list. http://www.pm28.com/
+
+----
+[]
+{
+  site: {
+    title: 'Reddy Prasad Papireddy',
+    favicon: 'https://reddyprasad.co.in/favicon.ico',
+    url: 'https://reddyprasad.co.in'
+  },
+  feedUrls: []
+}
+append to failed list. https://reddyprasad.co.in/
+append to skip list. https://reddyprasad.co.in/
+
+----
+[]
+{
+  site: {
+    title: '澳门赌博娱乐网站_真人博彩娱乐网站_网上十大正规赌博网站 ',
+    favicon: 'http://www.raytaylorlin.com/favicon.ico',
+    url: 'http://www.raytaylorlin.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://raytaylorlin.com/
+append to skip list. http://raytaylorlin.com/
+
+----
+[]
+{
+  site: {
+    title: 'Baidu Research',
+    favicon: 'http://research.baidu.com/Web/images/favicon.png',
+    url: 'http://research.baidu.com/Blog'
+  },
+  feedUrls: []
+}
+append to failed list. http://research.baidu.com/Blog
+append to skip list. http://research.baidu.com/Blog
+
+----
+[
+  'https://rhodesmill.org/brandon/feed/',
+  'https://rhodesmill.org/brandon/feed/atom/'
+]
+{
+  site: {
+    title: 'Brandon Rhodes',
+    favicon: 'https://rhodesmill.org/favicon.ico',
+    url: 'https://rhodesmill.org/brandon'
+  },
+  feedUrls: []
+}
+Should check the url 'http://rhodesmill.org/brandon/'. 
+  Found different feed URLs: 
+    - https://rhodesmill.org/brandon/feed/
+    - https://rhodesmill.org/brandon/feed/atom/
+append to found list. http://rhodesmill.org/brandon/
+append to skip list. http://rhodesmill.org/brandon/
+
+----
+[]
+{
+  site: {
+    title: '\n  Rming\n',
+    favicon: 'https://rmingwang.com/favicon.ico?v=1.2',
+    url: 'https://rmingwang.com'
+  },
+  feedUrls: []
+}
+append to failed list. http://rmingwang.com/
+append to skip list. http://rmingwang.com/
+append to failed list. https://roadfiresoftware.com/blog/
+append to skip list. https://roadfiresoftware.com/blog/
+append to failed list. http://qinghe.me/
+append to skip list. http://qinghe.me/
+append to failed list. https://rocko.xyz/
+append to skip list. https://rocko.xyz/
+
+----
+[]
+{
+  site: {
+    title: 'AFAIK',
+    favicon: 'http://roosephu.github.io/favicon.ico?v=5.1.3',
+    url: 'http://roosephu.github.io'
+  },
+  feedUrls: []
+}
+append to failed list. http://roosephu.github.io/
+append to skip list. http://roosephu.github.io/
+
+----
+[]
+{
+  site: {
+    title: 'Home | rshackleton.co.uk',
+    favicon: 'https://rshackleton.co.uk/icons/icon-48x48.png?v=180e2850a0d2c586a29bf0d43b5b3135',
+    url: 'https://rshackleton.co.uk'
+  },
+  feedUrls: []
+}
+append to failed list. https://rshackleton.co.uk/
+append to skip list. https://rshackleton.co.uk/
+
+----
+[]
+{
+  site: {
+    title: 'codepen',
+    favicon: 'https://sarahdrasnerdesign.com/favicon.ico',
+    url: 'https://sarahdrasnerdesign.com'
+  },
+  feedUrls: []
+}
+append to failed list. https://sarahdrasnerdesign.com/
+append to skip list. https://sarahdrasnerdesign.com/
+
+----
+[]
+{
+  site: {
+    title: 'Default Parallels Plesk Panel Page',
+    favicon: 'http://rokia.org/favicon.ico',
+    url: 'http://rokia.org'
+  },
+  feedUrls: []
+}
+append to failed list. http://rokia.org/
+append to skip list. http://rokia.org/
+append to failed list. http://saulmm.github.io/
+append to skip list. http://saulmm.github.io/
+append to failed list. http://sartorialscience.myntrablogs.com/
+append to skip list. http://sartorialscience.myntrablogs.com/
+append to failed list. http://sentsin.com/old.html
+append to skip list. http://sentsin.com/old.html
+
+----
+[ 'https://savvyapps.com/blog/feed.rss' ]
+{
+  site: {
+    title: 'Mobile App Development News &amp; Insights | iOS &amp; Android | Savvy Apps',
+    favicon: 'https://savvyapps.com/favicon.ico',
+    url: 'https://savvyapps.com/blog'
+  },
+  feedUrls: []
+}
+Should check the url 'https://savvyapps.com/blog'. 
+  Found different feed URLs: 
+    - https://savvyapps.com/blog/feed.rss
+append to found list. https://savvyapps.com/blog
+append to skip list. https://savvyapps.com/blog
+
+----
+[]
+{
+  site: { title: '闪电站博客，神谋鬼计', favicon: null, url: 'http://shandian.biz' },
+  feedUrls: []
+}
+append to failed list. http://shandian.biz/
+append to skip list. http://shandian.biz/
+append to failed list. http://ratwu.com/
+append to skip list. http://ratwu.com/
+append to failed list. https://www.shennongmin.org/
+append to skip list. https://www.shennongmin.org/
+append to failed list. https://www.sataware.com/blogs/
+append to skip list. https://www.sataware.com/blogs/
+append to failed list. https://www.shodipoayomide.com/
+append to skip list. https://www.shodipoayomide.com/
+append to failed list. https://shortdiv.com/
+append to skip list. https://shortdiv.com/
+append to failed list. http://shashikantjagtap.net/
+append to skip list. http://shashikantjagtap.net/
+append to failed list. http://shiyanjun.cn/
+append to skip list. http://shiyanjun.cn/
