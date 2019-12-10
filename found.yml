@@ -1,0 +1,80 @@
+-
+  alias: 47deg.com/blog
+  url: https://www.47deg.com/blog/
+  feedUrl: https://www.47deg.com/feed.xml
+-
+  alias: 2heng.xin
+  url: https://2heng.xin/
+  feedUrl: https://2heng.xin/feed
+-
+  alias: abloz.com
+  url: http://abloz.com/
+  feedUrl: http://abloz.com/feed
+-
+  alias: akkartik.name
+  url: http://akkartik.name/
+  feedUrl: http://feeds.akkartik.name/kartiks-scrapbook
+-
+  alias: alanbi.com/blog
+  url: https://alanbi.com/blog/
+  feedUrl: https://www.alanbi.com/feed
+-
+  alias: alexcarpenter.me
+  url: https://alexcarpenter.me/
+  feedUrl: https://alexcarpenter.me/feed.xml
+-
+  alias: andyhuzhill.github.com
+  url: http://andyhuzhill.github.com/
+  feedUrl: https://www.huzhenyu.me/atom.xml
+-
+  alias: benmccormick.org
+  url: https://benmccormick.org/
+  feedUrl: https://benmccormick.org/atom.xml
+-
+  alias: bignerdranch.com/blog/category/ios
+  url: https://www.bignerdranch.com/blog/category/ios/
+  feedUrl: https://www.bignerdranch.com/feed/
+-
+  alias: blog.algolia.com
+  url: https://blog.algolia.com/
+  feedUrl: https://blog.algolia.com/rss.xml
+-
+  alias: blackbytes.info
+  url: http://www.blackbytes.info/
+  feedUrl: https://www.rubyguides.com/feed/
+-
+  alias: blog.cofface.com
+  url: http://blog.cofface.com/
+  feedUrl: https://blog.cofface.com/feed
+-
+  alias: blog.engineyard.com
+  url: https://blog.engineyard.com/
+  feedUrl: https://blog.engineyard.com/feed.xml
+-
+  alias: binary-studio.com/blog
+  url: https://binary-studio.com/blog/
+  feedUrl: https://binary-studio.com/blog/feed/
+-
+  alias: blog.evernote.com/tech
+  url: https://blog.evernote.com/tech/
+  feedUrl: https://evernote.com/blog/feed/
+-
+  alias: blog.erezsh.com
+  url: http://blog.erezsh.com/
+  feedUrl: http://blog.erezsh.com/feed/
+-
+  alias: blog.faraday.io
+  url: http://blog.faraday.io/
+  feedUrl: https://blog.faraday.io/rss/
+-
+  alias: blog.jamespan.me
+  url: http://blog.jamespan.me/
+  feedUrl: https://blog.jamespan.me/feed
+-
+  alias: blog.jeremyshaw.co.nz
+  url: https://blog.jeremyshaw.co.nz/
+  feedUrl: https://blog.jeremyshaw.co.nz/atom.xml
+-
+  alias: blog.lerner.co.il
+  url: http://blog.lerner.co.il/
+  feedUrl: https://lerner.co.il/feed/

@@ -63,6 +63,11 @@
     "feedUrl": "https://2bab.me/index.xml"
   },
   {
+    "alias": "2heng.xin",
+    "url": "https://2heng.xin/",
+    "feedUrl": "https://2heng.xin/feed"
+  },
+  {
     "alias": "361way.com",
     "url": "http://www.361way.com/",
     "feedUrl": "http://www.361way.com/feed"
@@ -192,6 +197,11 @@
     "alias": "aayushsingh.in",
     "url": "https://www.aayushsingh.in/",
     "feedUrl": "https://www.aayushsingh.in/feeds/posts/default"
+  },
+  {
+    "alias": "abloz.com",
+    "url": "http://abloz.com/",
+    "feedUrl": "http://abloz.com/feed"
   },
   {
     "alias": "about.zoosk.com/en/engineering-blog",
@@ -391,6 +401,11 @@
     "type": "rss"
   },
   {
+    "alias": "akkartik.name",
+    "url": "http://akkartik.name/",
+    "feedUrl": "http://feeds.akkartik.name/kartiks-scrapbook"
+  },
+  {
     "alias": "akorotkov.github.io",
     "url": "http://akorotkov.github.io/",
     "feedUrl": "http://akorotkov.github.io/atom.xml"
@@ -408,6 +423,11 @@
     "feedUrl": "https://akrabat.com/feed/",
     "title": "Rob Allen",
     "type": "rss"
+  },
+  {
+    "alias": "alanbi.com/blog",
+    "url": "https://alanbi.com/blog/",
+    "feedUrl": "https://www.alanbi.com/feed"
   },
   {
     "alias": "alanhogan.com/blog",
@@ -446,6 +466,11 @@
     "alias": "alexanderzeitler.com",
     "url": "https://alexanderzeitler.com/",
     "feedUrl": "https://alexanderzeitler.com/feed.xml"
+  },
+  {
+    "alias": "alexcarpenter.me",
+    "url": "https://alexcarpenter.me/",
+    "feedUrl": "https://alexcarpenter.me/feed.xml"
   },
   {
     "alias": "alexcurylo.com/blog",
@@ -660,6 +685,11 @@
     "feedUrl": "https://andybargh.com/feed/",
     "title": "Swift Developments",
     "type": "rss"
+  },
+  {
+    "alias": "andyhuzhill.github.com",
+    "url": "http://andyhuzhill.github.com/",
+    "feedUrl": "https://www.huzhenyu.me/atom.xml"
   },
   {
     "alias": "andyibanez.com/tags/apple",
@@ -1258,7 +1288,7 @@
   {
     "alias": "benmccormick.org",
     "url": "https://benmccormick.org/",
-    "feedUrl": "https://benmccormick.org/feed.json",
+    "feedUrl": "https://benmccormick.org/atom.xml",
     "title": "Ben McCormick",
     "type": "rss"
   },
@@ -1325,7 +1355,7 @@
   {
     "alias": "bignerdranch.com/blog/category/ios",
     "url": "https://www.bignerdranch.com/blog/category/ios/",
-    "feedUrl": "https://www.bignerdranch.com/blog/category/ios/feed/",
+    "feedUrl": "https://www.bignerdranch.com/feed/",
     "title": "Big Nerd Ranch",
     "type": "rss"
   },
@@ -1339,7 +1369,7 @@
   {
     "alias": "binary-studio.com/blog",
     "url": "https://binary-studio.com/blog/",
-    "feedUrl": "https://binary-studio.com/blog/rss",
+    "feedUrl": "https://binary-studio.com/blog/feed/",
     "title": "Binary Studio",
     "type": "rss"
   },
@@ -1407,7 +1437,7 @@
   {
     "alias": "blackbytes.info",
     "url": "http://www.blackbytes.info/",
-    "feedUrl": "http://www.blackbytes.info/rss",
+    "feedUrl": "https://www.rubyguides.com/feed/",
     "title": "Jesus Castello",
     "type": "rss"
   },
@@ -1450,7 +1480,7 @@
   {
     "alias": "blog.algolia.com",
     "url": "https://blog.algolia.com/",
-    "feedUrl": "https://blog.algolia.com/feed/",
+    "feedUrl": "https://blog.algolia.com/rss.xml",
     "title": "Algolia",
     "type": "rss"
   },
@@ -1772,6 +1802,11 @@
     "feedUrl": "https://blog.codingnow.com/atom.xml"
   },
   {
+    "alias": "blog.cofface.com",
+    "url": "http://blog.cofface.com/",
+    "feedUrl": "https://blog.cofface.com/feed"
+  },
+  {
     "alias": "blog.coursera.org",
     "url": "https://blog.coursera.org/",
     "feedUrl": "https://blog.coursera.org/feed/"
@@ -1986,6 +2021,11 @@
     "feedUrl": "https://blog.engineyard.com/feed.xml",
     "title": "Engine Yard",
     "type": "rss"
+  },
+  {
+    "alias": "blog.erezsh.com",
+    "url": "http://blog.erezsh.com/",
+    "feedUrl": "http://blog.erezsh.com/feed/"
   },
   {
     "alias": "blog.eternalstorms.at",
@@ -2221,6 +2261,11 @@
     "feedUrl": "https://blog.it580.com/index.xml"
   },
   {
+    "alias": "blog.jamespan.me",
+    "url": "http://blog.jamespan.me/",
+    "feedUrl": "https://blog.jamespan.me/feed"
+  },
+  {
     "alias": "blog.jaredsinclair.com",
     "url": "http://blog.jaredsinclair.com/",
     "feedUrl": "https://jaredsinclair.com/rss?1",
@@ -2243,6 +2288,11 @@
     "alias": "blog.jelastic.com",
     "url": "https://blog.jelastic.com/",
     "feedUrl": "https://jelastic.com/blog/feed/"
+  },
+  {
+    "alias": "blog.jeremyshaw.co.nz",
+    "url": "https://blog.jeremyshaw.co.nz/",
+    "feedUrl": "https://blog.jeremyshaw.co.nz/atom.xml"
   },
   {
     "alias": "blog.jessfraz.com",
@@ -2412,7 +2462,7 @@
   {
     "alias": "blog.lerner.co.il",
     "url": "http://blog.lerner.co.il/",
-    "feedUrl": "http://blog.lerner.co.il/feed/",
+    "feedUrl": "https://lerner.co.il/feed/",
     "title": "Lerner Consulting Blog",
     "type": "rss"
   },
